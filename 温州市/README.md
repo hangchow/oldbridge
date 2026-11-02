@@ -93,7 +93,7 @@
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
 | <nobr>瓯海区</nobr> | <nobr>潘桥街道</nobr> | 陈庄金锁桥 | — | — | 宋 | 浙江省文物保护单位（8-29） |
-| <nobr>瑞安市</nobr> | <nobr>—</nobr> | 东安硐桥 [?](http://www.china-qiao.com/ql15/wzql/wzql063.htm) | 石拱桥（单孔） | — | — | 浙江省文物保护单位（6-112） |
+| <nobr>瑞安市</nobr> | <nobr>—</nobr> | 东安硐桥 [?](http://www.china-qiao.com/ql15/wzql/wzql063.htm) | 石拱桥（单孔） | — | 清乾隆五年（1740）建 | 浙江省文物保护单位（6-112） |
 | <nobr>乐清市</nobr> | <nobr>天成街道</nobr> | 万桥 [?](http://www.china-qiao.com/ql15/wzql/wzql077.htm) | 石拱桥（五孔） | 2.42米 | 明宣德八年（1433）重建 | 浙江省文物保护单位（6-111） |
 | <nobr>永嘉县</nobr> | <nobr>岩头镇</nobr> | 含丽水桥 | — | — | 明 | 浙江省文物保护单位（“花亭（”组成部分，4-83） |
 | <nobr>永嘉县</nobr> | <nobr>枫林镇</nobr> | 枫林黄桥 | — | — | 明 | 浙江省文物保护单位（8-39） |
