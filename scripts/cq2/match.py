@@ -43,7 +43,7 @@ for r in R:
     m = re.search(r'(单孔|双孔|[一二三四五六七八九十]孔|[二三四五六七八]墩[一二三四五六七八九十]孔)?[^，。；\s]{0,3}?(石拱桥|石梁桥|拱桥|梁桥|廊桥)', text)
     if m and k not in ST:
         ST[k] = ('石' if m.group(2) in ('拱桥', '梁桥') else '') + m.group(2) + (f'（{m.group(1)}）' if m.group(1) else '')
-    ml = re.search(r'(?:全长|桥长|总长|桥身长)\s*(?:为|约|达)?\s*约?\s*([0-9]+(?:\.[0-9]+)?)\s*米', text) or re.search(r'(?<![湖塘河江溪街路村东西南北])长(?:度?为)?\s*约?\s*([0-9]+(?:\.[0-9]+)?)\s*米', text)
+    ml = re.search(r'(?:全长|桥长|总长|桥身长)\s*(?:为|约|达)?\s*约?\s*([0-9]+(?:\.[0-9]+)?)\s*米', text) or re.search(r'(?<![湖塘河江溪街路村东西南北中跨宽高径引])长(?:度?为)?\s*约?\s*([0-9]+(?:\.[0-9]+)?)\s*米', text)
     if ml and k not in LN: LN[k] = ml.group(1) + '米'
     folder = os.path.join(ROOT, r['dist']); dst = os.path.join(folder, imgbase(r) + '1.jpg')
     pics = re.findall(r'src="([^"]*pic[^"]*\.jpg)"', s, re.I)

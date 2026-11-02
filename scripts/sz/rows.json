@@ -61,7 +61,7 @@
 "doc": "2006-5-25公布",
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
 "note": "国保“太仓石拱桥”（州桥、皋桥、周泾桥三座元代石拱桥）的组成部分，这里按单桥列出；具体年代据老百晓集桥（名录原写“元”）",
-"struct": "石拱桥（单孔）",
+"struct": "石拱桥（三孔）",
 "len": "16.2米"
 },
 {
@@ -87,7 +87,7 @@
 "doc": "2006-5-25公布",
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
 "note": "国保“太仓石拱桥”（州桥、皋桥、周泾桥三座元代石拱桥）的组成部分，这里按单桥列出；具体年代据老百晓集桥（名录原写“元”）",
-"struct": "石拱桥（单孔）",
+"struct": "石拱桥（三孔）",
 "len": "17.26米"
 },
 {
@@ -205,7 +205,7 @@
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
 "note": "具体年代据老百晓集桥（名录原写“明”）",
 "struct": "石拱桥（单孔）",
-"len": "13.31米"
+"len": "13.3米"
 },
 {
 "dist": "吴江区",
@@ -308,7 +308,7 @@
 "doc": "2019-3-20公布",
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
 "note": "省保“天福三桥”（聚福桥、永清桥、万寿桥）的组成部分，这里按单桥列出；组成桥名和年代、长度据老百晓集桥（万寿桥页面）",
-"struct": "石拱桥（单孔并联式）",
+"struct": "石拱桥（单孔）",
 "len": "19米"
 },
 {

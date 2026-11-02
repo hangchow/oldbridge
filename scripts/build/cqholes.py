@@ -11,7 +11,9 @@ def norm(h):
     return h if re.fullmatch(r'单|双|[三四五六七八九]|十[一二三四五六七八九]?|[二三四五六七八九]十[一二三四五六七八九]?', h) else None
 def ty(t, ctx):
     if re.search(r'钢|混凝土|水泥', ctx): return None
-    if '廊' in t: return '廊桥'
+    if '廊' in t:
+        if re.search(r'石[墩礅]', ctx) and re.search(r'木梁|木平', ctx): return '石墩木梁廊桥'
+        return '木拱廊桥' if '木拱' in ctx else '廊桥'
     return '石拱桥' if '拱' in t else '石梁桥'
 def need(st): return st in ('—', '', None) or re.fullmatch(r'石?(拱|梁)桥|石板桥|平桥|廊桥', st)
 def text(u):
