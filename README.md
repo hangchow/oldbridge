@@ -114,18 +114,18 @@
 
 | <nobr>名次</nobr> | <nobr>市</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>台州市</nobr> | <nobr>仙居县</nobr> | <nobr>福应街道</nobr> | 东门石桥 [?](http://www.china-qiao.com/ql15/tzql/tzql318.htm) | — | 220米 | 民国 | <nobr>市级文物保护点</nobr> |
-| <nobr>2</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥 | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>金华市</nobr> | <nobr>永康市</nobr> | <nobr>江南街道</nobr> | 西津桥 [?](http://www.china-qiao.com/ql15/jhql/jhql092.htm) | 石墩廊桥 | 166米 | 清康熙五十七年（1718）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>胡陈乡</nobr> | 戊己桥 [?](http://www.china-qiao.com/ql15/nbql/nbql361.htm) | — | 150米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>大唐镇</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | — | 145米 | 民国六年（1917）建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>金华市</nobr> | <nobr>武义县</nobr> | <nobr>壶山街道</nobr> | 熟溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql103.htm) | 石墩廊桥（九孔） | 140米 | 南宋始建，清重修 | <nobr>省级文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>台州市</nobr> | <nobr>黄岩区</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>9</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>杭州市</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥 | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>金华市</nobr> | <nobr>永康市</nobr> | <nobr>江南街道</nobr> | 西津桥 [?](http://www.china-qiao.com/ql15/jhql/jhql092.htm) | 石墩廊桥 | 166米 | 清康熙五十七年（1718）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>胡陈乡</nobr> | 戊己桥 [?](http://www.china-qiao.com/ql15/nbql/nbql361.htm) | — | 150米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>大唐镇</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | — | 145米 | 民国六年（1917）建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>金华市</nobr> | <nobr>武义县</nobr> | <nobr>壶山街道</nobr> | 熟溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql103.htm) | 石墩廊桥（九孔） | 140米 | 南宋始建，清重修 | <nobr>省级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>台州市</nobr> | <nobr>黄岩区</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>杭州市</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>宁波市</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | <nobr>市级文物保护单位</nobr> |
 
-只比石桥（主体为石构的廊桥也参加）：结构写明钢桁梁、混凝土、木（含木拱廊桥）的不参加（如钱塘江大桥）；结构标“—”的按古代石桥计入。只在已查到长度的 534 座中排序，大部分桥还没有长度数据。
+只比石桥（主体为石构的廊桥也参加）：结构写明钢桁梁、混凝土、木（含木拱廊桥）的不参加（如钱塘江大桥）；结构标“—”的按古代石桥计入。只在已查到长度的 533 座中排序，大部分桥还没有长度数据。
 
 ## 本项目收录范围内桥身刻字最早的前 10 名
 
