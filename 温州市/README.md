@@ -1,14 +1,14 @@
 # 温州市古桥
 
-共收录 231 座桥。
+共收录 235 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>17</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>11</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>20</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>12</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>23</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>91</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>92</nobr> |
 
@@ -16,13 +16,13 @@
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
+| <nobr>[泰顺县](泰顺县/泰顺县古桥.md)</nobr> | <nobr>48</nobr> |
 | <nobr>[苍南县](苍南县/苍南县古桥.md)</nobr> | <nobr>48</nobr> |
-| <nobr>[泰顺县](泰顺县/泰顺县古桥.md)</nobr> | <nobr>47</nobr> |
 | <nobr>[平阳县](平阳县/平阳县古桥.md)</nobr> | <nobr>25</nobr> |
+| <nobr>[瑞安市](瑞安市/瑞安市古桥.md)</nobr> | <nobr>20</nobr> |
 | <nobr>[乐清市](乐清市/乐清市古桥.md)</nobr> | <nobr>20</nobr> |
 | <nobr>[永嘉县](永嘉县/永嘉县古桥.md)</nobr> | <nobr>19</nobr> |
 | <nobr>[龙湾区](龙湾区/龙湾区古桥.md)</nobr> | <nobr>18</nobr> |
-| <nobr>[瑞安市](瑞安市/瑞安市古桥.md)</nobr> | <nobr>17</nobr> |
 | <nobr>[文成县](文成县/文成县古桥.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[龙港市](龙港市/龙港市古桥.md)</nobr> | <nobr>9</nobr> |
 | <nobr>[瓯海区](瓯海区/瓯海区古桥.md)</nobr> | <nobr>8</nobr> |
@@ -91,10 +91,11 @@
 | <nobr>泰顺县</nobr> | <nobr>龟湖镇</nobr> | 城水桥 [?](http://www.china-qiao.com/ql15/wzql/wzql177.htm) | 木拱廊桥 | 15.02米 | 清 | 全国重点文物保护单位（“泰顺廊桥”组成部分） |
 | <nobr>泰顺县</nobr> | <nobr>泗溪镇</nobr> | 池源桥 [?](http://www.china-qiao.com/ql15/wzql/wzql169.htm) | 木拱廊桥 | 21.03米 | 清咸丰七年（1857）重建 | 全国重点文物保护单位（“泰顺廊桥”组成部分） |
 
-### 省级文物保护单位（11 座）
+### 省级文物保护单位（12 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>泰顺县</nobr> | <nobr>司前镇</nobr> | 回澜桥 | — | — | 清 | 浙江省文物保护单位 |
 | <nobr>瓯海区</nobr> | <nobr>潘桥街道</nobr> | 陈庄金锁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql047.htm) | — | 10米 | 北宋崇宁三年（1104）建 | 浙江省文物保护单位（8-29） |
 | <nobr>瑞安市</nobr> | <nobr>玉海街道</nobr> | 东安硐桥 [?](http://www.china-qiao.com/ql15/wzql/wzql063.htm) | 石拱桥（单孔） | — | 清乾隆五年（1740）建 | 浙江省文物保护单位（6-112） |
 | <nobr>乐清市</nobr> | <nobr>天成街道</nobr> | 万桥 [?](http://www.china-qiao.com/ql15/wzql/wzql077.htm) | 石拱桥（五孔） | 2.42米 | 明宣德八年（1433）重建 | 浙江省文物保护单位（6-111） |
@@ -107,10 +108,13 @@
 | <nobr>乐清市</nobr> | <nobr>—</nobr> | 乐清古桥群 | — | — | — | 浙江省文物保护单位（7-32） |
 | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 迴澜桥 | — | — | — | 浙江省文物保护单位（7-111） |
 
-### 县（区）级文物保护单位（20 座）
+### 县（区）级文物保护单位（23 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>瑞安市</nobr> | <nobr>南滨街道</nobr> | 大桥 | — | — | 北宋 | 瑞安市文物保护单位 |
+| <nobr>瑞安市</nobr> | <nobr>飞云街道</nobr> | 栏杆桥 | — | — | 南宋 | 瑞安市文物保护单位 |
+| <nobr>瑞安市</nobr> | <nobr>马屿镇</nobr> | 永乐桥 | — | — | 民国 | 瑞安市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>白石街道</nobr> | 合湖桥 | — | — | 宋代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>北白象镇</nobr> | 赵镇桥 | — | — | 宋代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>淡溪镇</nobr> | 孝义桥 | — | — | 清代 | 乐清市文物保护单位 |
