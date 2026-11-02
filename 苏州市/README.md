@@ -42,16 +42,18 @@
 
 只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 40 座中排序。
 
-## 苏州市最早的桥前 10 名（桥身刻有具体年份）
+## 苏州市最早的桥前 10 名（按桥身刻的年代）
 
-| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年份 | 题刻 | 时代 | <nobr>级别</nobr> |
+| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 州桥 [?](http://www.china-qiao.com/ql16/szql/szql546.htm) | 石拱桥（单孔） | 1329 | [拱石刻“大元天历二年”](http://www.china-qiao.com/ql16/szql/szql546.htm) | 元天历二年（1329）建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>苏州工业园区</nobr> | <nobr>斜塘街道</nobr> | 斜塘土地庙及永安桥 [?](http://www.china-qiao.com/ql16/szql/szql599.htm) | 石梁桥（三孔） | 1443 | [北侧桥柱刻“大明癸亥正统八年季春重建”](http://www.china-qiao.com/ql16/szql/szql599.htm) | 宋 | <nobr>省级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 朴泽桥 [?](http://www.china-qiao.com/ql16/szql/szql367.htm) | 石拱桥（单孔） | 1555 | [券石刻“明嘉靖乙卯五月”](http://www.china-qiao.com/ql16/szql/szql367.htm) | 明嘉靖三十四年（1555）始建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 富观桥 [?](http://www.china-qiao.com/ql16/szql/szql369.htm) | 石拱桥（单孔） | 1813 | [桥石镌“大清嘉庆十有八年岁次癸酉里人募捐修建”](http://www.china-qiao.com/ql16/szql/szql369.htm) | 元至正十三年（1353）始建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥 | 绍定年间（1228—1233） | [中跨梁石侧面刻“绍定”二字](http://www.china-qiao.com/ql16/szql/szql418.htm) | 南宋绍定年间建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 州桥 [?](http://www.china-qiao.com/ql16/szql/szql546.htm) | 石拱桥（单孔） | 1329 | [拱石刻“大元天历二年”](http://www.china-qiao.com/ql16/szql/szql546.htm) | 元天历二年（1329）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>苏州工业园区</nobr> | <nobr>斜塘街道</nobr> | 斜塘土地庙及永安桥 [?](http://www.china-qiao.com/ql16/szql/szql599.htm) | 石梁桥（三孔） | 1443 | [北侧桥柱刻“大明癸亥正统八年季春重建”](http://www.china-qiao.com/ql16/szql/szql599.htm) | 宋 | <nobr>省级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 朴泽桥 [?](http://www.china-qiao.com/ql16/szql/szql367.htm) | 石拱桥（单孔） | 1555 | [券石刻“明嘉靖乙卯五月”](http://www.china-qiao.com/ql16/szql/szql367.htm) | 明嘉靖三十四年（1555）始建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 富观桥 [?](http://www.china-qiao.com/ql16/szql/szql369.htm) | 石拱桥（单孔） | 1813 | [桥石镌“大清嘉庆十有八年岁次癸酉里人募捐修建”](http://www.china-qiao.com/ql16/szql/szql369.htm) | 元至正十三年（1353）始建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | 1885 | [桥身南北两侧镌文记光绪十一年重建](http://www.china-qiao.com/ql16/szql/szql719.htm) | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | <nobr>市级文物保护单位</nobr> |
 
-只收桥身上刻有具体年份的桥（桥柱、栏板、拱券等处的题刻写明了年号和年数，或年号加干支，能对应到确定的公元年），方志等文献记载的始建年份、只刻朝代或只刻年号的都不算；题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻纪年的共 4 座。
+只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 6 座。
 
 ## 按级别列出
 
