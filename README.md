@@ -130,7 +130,7 @@
 | <nobr>14</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>昌化镇</nobr> | [联盟久安桥](文保名录/杭州市/云端档案/365_联盟久安桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql353.htm) | 石拱桥（三孔） | 88.4米 | 清光绪二十八年（1902） | <nobr>市级文物保护单位</nobr> |
 | <nobr>15</nobr> | <nobr>金华市</nobr> | <nobr>兰溪市</nobr> | <nobr>梅江镇</nobr> | 通洲桥 [?](http://www.china-qiao.com/ql15/jhql/jhql037.htm) | 廊桥（六墩五孔） | 84.8米 | 清道光三年（1823）重修 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>16</nobr> | <nobr>绍兴市</nobr> | <nobr>嵊州市</nobr> | <nobr>金庭镇</nobr> | 金兰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql578.htm) | 石拱桥（五孔） | 84.00米 | 民国十五年（1926）建 | <nobr>市级文物保护点</nobr> |
-| <nobr>17</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>茶院乡</nobr> | 镇宁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql363.htm) | — | 81米 | 清同治六年（1867）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>17</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>茶院乡</nobr> | 镇宁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql363.htm) | 石梁桥（二十五孔） | 81米 | 清同治六年（1867）始建 | <nobr>市级文物保护点</nobr> |
 | <nobr>18</nobr> | <nobr>宁波市</nobr> | <nobr>海曙区</nobr> | <nobr>洞桥镇</nobr> | 百梁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql146.htm) | 石梁桥 | 77米 | 清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>19</nobr> | <nobr>金华市</nobr> | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 萧家小龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql191.htm) | — | 75.3米 | — | <nobr>省级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>台州市</nobr> | <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | — | <nobr>省级文物保护单位</nobr> |
