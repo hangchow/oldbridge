@@ -48,7 +48,7 @@
 | <nobr>19</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 通津桥 [?](http://www.china-qiao.com/ql15/hzql/hzql066.htm) | 石拱桥（单孔） | 28米 | 清嘉庆三年（1798） | <nobr>省级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 洪济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql067.htm) | 石拱桥（单孔） | 28米 | 清嘉庆十年（1805） | <nobr>省级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 68 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 69 座中排序。
 
 ## 湖州市桥身刻字最早的前 20 名
 
@@ -185,7 +185,7 @@
 | <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 鼎嘉桥 | — | — | 清 | 长兴县文物保护单位（1983年公布） |
 | <nobr>长兴县</nobr> | <nobr>图影管委会</nobr> | 锁界桥 [?](http://www.china-qiao.com/ql15/hzql/hzql290.htm) | 石拱桥（单孔） | 20米 | 清 | 长兴县文物保护单位（第三批，2003年） |
 | <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 蒋埠桥 [?](http://www.china-qiao.com/ql15/hzql/hzql318.htm) | 石梁桥（二墩三孔） | 13.48米 | 民国 | 长兴县文物保护单位（第三批，2003年） |
-| <nobr>长兴县</nobr> | <nobr>煤山镇</nobr> | 大路桥 [?](http://www.china-qiao.com/ql15/hzql/hzql340.htm) | 钢筋混凝土拱桥（单孔） | — | 民国 | 长兴县文物保护单位（第三批，2003年） |
+| <nobr>长兴县</nobr> | <nobr>煤山镇</nobr> | 大路桥 [?](http://www.china-qiao.com/ql15/hzql/hzql340.htm) | 石拱桥（单孔） | — | 民国 | 长兴县文物保护单位（第三批，2003年） |
 | <nobr>长兴县</nobr> | <nobr>和平镇</nobr> | 中和桥 [?](http://www.china-qiao.com/ql15/hzql/hzql334.htm) | — | — | 不详 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>林城镇</nobr> | 包福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql320.htm) | — | — | 不详 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>虹星桥镇</nobr> | 圣堂桥 [?](http://www.china-qiao.com/ql15/hzql/hzql327.htm) | 石梁桥（三孔） | 9米 | 不详 | 长兴县文物保护单位（第四批，2010年） |

@@ -38,9 +38,10 @@
 | <nobr>7</nobr> | <nobr>义乌市</nobr> | <nobr>赤岸镇</nobr> | 古月桥 [?](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 石拱桥（单孔） | 31.20米 | 南宋嘉定六年（1213） | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>8</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql031.htm) | — | 30米 | 清道光年间建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql121.htm) | 石拱桥（单孔） | 23米 | 清乾隆四十五年（1780）始建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>武义县</nobr> | <nobr>大溪口乡</nobr> | 金溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql147.htm) | — | 8.19米 | 民国三十六年（1947）建，民国三十七年（1948）重修 | <nobr>市级文物保护点</nobr> |
+| <nobr>10</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>武义县</nobr> | <nobr>大溪口乡</nobr> | 金溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql147.htm) | — | 8.19米 | 民国三十六年（1947）建，民国三十七年（1948）重修 | <nobr>市级文物保护点</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 10 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 11 座中排序。
 
 ## 金华市桥身刻字最早的前 20 名
 
@@ -69,7 +70,7 @@
 | <nobr>婺城区</nobr> | <nobr>长山乡</nobr> | 东村桥 [?](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 石梁桥（三孔） | — | 北宋元祐八年（1093）建，民国二十二年（1933）重建 | 浙江省文物保护单位（第五批，5-37） |
 | <nobr>婺城区</nobr> | <nobr>—</nobr> | 金华通济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql001.htm) | 石拱桥（十三孔） | — | — | 浙江省文物保护单位（第六批，6-186） |
 | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 萧家小龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql191.htm) | — | 75.3米 | — | 浙江省文物保护单位（第七批，7-135） |
-| <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | 钢筋混凝土桥 | 22.40米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
+| <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/jhql/jhql032.htm) | 石拱桥（单孔） | 36.90米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql031.htm) | — | 30米 | 清道光年间建 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
 | <nobr>永康市</nobr> | <nobr>江南街道</nobr> | 西津桥 [?](http://www.china-qiao.com/ql15/jhql/jhql092.htm) | 石墩木梁廊桥（十三孔） | 166米 | 清康熙五十七年（1718）建 | 浙江省文物保护单位（第四批，4-79） |

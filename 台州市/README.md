@@ -35,10 +35,9 @@
 | <nobr>4</nobr> | <nobr>黄岩区</nobr> | <nobr>西城街道</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql010.htm) | 石拱桥（五孔） | 60米 | 清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>温岭市</nobr> | <nobr>温峤镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql056.htm) | 石拱桥（三孔） | 34.43米 | 民国 | <nobr>市级文物保护点</nobr> |
 | <nobr>6</nobr> | <nobr>仙居县</nobr> | <nobr>—</nobr> | 下各东桥 [?](http://www.china-qiao.com/ql15/tzql/tzql138.htm) | 石拱桥（单孔） | 26.55米 | 明万历年间建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>温岭市</nobr> | <nobr>—</nobr> | 李婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql047.htm) | 石拱桥 | 14米 | — | <nobr>省级文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>椒江区</nobr> | <nobr>章安街道</nobr> | 蟠龙桥 [?](http://www.china-qiao.com/ql15/tzql/tzql349.htm) | — | 9.54米 | 清嘉庆十八年（1813） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>椒江区</nobr> | <nobr>章安街道</nobr> | 蟠龙桥 [?](http://www.china-qiao.com/ql15/tzql/tzql349.htm) | — | 9.54米 | 清嘉庆十八年（1813） | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 8 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 7 座中排序。
 
 ## 台州市桥身刻字最早的前 20 名
 
@@ -65,7 +64,7 @@
 | <nobr>天台县</nobr> | <nobr>—</nobr> | 九遮山牮桥群 | — | — | — | 浙江省文物保护单位（6-244） |
 | <nobr>天台县</nobr> | <nobr>坦头镇</nobr> | 欢溪高桥 | — | — | 清 | 浙江省文物保护单位（8-70） |
 | <nobr>仙居县</nobr> | <nobr>—</nobr> | 下各东桥 [?](http://www.china-qiao.com/ql15/tzql/tzql138.htm) | 石拱桥（单孔） | 26.55米 | 明万历年间建 | 浙江省文物保护单位（7-63） |
-| <nobr>温岭市</nobr> | <nobr>—</nobr> | 李婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql047.htm) | 石拱桥 | 14米 | — | 浙江省文物保护单位（8-117） |
+| <nobr>温岭市</nobr> | <nobr>—</nobr> | 李婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql047.htm) | 钢筋混凝土拱桥（单孔） | 14米 | — | 浙江省文物保护单位（8-117） |
 
 ### 县（区）级文物保护单位（3 座）
 

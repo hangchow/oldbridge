@@ -94,7 +94,7 @@
 | <nobr>东湖街道</nobr> | 孤林村安乐桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>东湖街道</nobr> | 坝子桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 张家坝桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql301.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
-| <nobr>塘栖镇</nobr> | 长板木桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql300.htm) | 钢筋混凝土桥 | — | 中华民国 | 一般不可移动文物（三普登录） |
+| <nobr>塘栖镇</nobr> | 长板木桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql300.htm) | — | — | 中华民国 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 塘栖村万安桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql399.htm) | 石梁桥（三孔） | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 小丁山桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 增福桥 | — | — | 清 | 一般不可移动文物（三普登录） |
