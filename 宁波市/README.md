@@ -53,7 +53,7 @@
 | <nobr>19</nobr> | <nobr>余姚市</nobr> | <nobr>凤山街道</nobr> | 余姚通济桥 [?](http://www.china-qiao.com/ql15/nbql/nbql165.htm) | 石拱桥（三孔） | 43.4米 | 清 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>宁海县</nobr> | <nobr>深甽镇</nobr> | 甲子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql349.htm) | 石拱桥（三孔） | 42.5米 | 清同治三年（1864）建 | <nobr>文物保护点</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 144 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 145 座中排序。
 
 ## 宁波市桥身刻字最早的前 20 名
 
@@ -130,7 +130,7 @@
 | <nobr>余姚市</nobr> | <nobr>鹿亭乡</nobr> | 大方桥 [?](http://www.china-qiao.com/ql15/nbql/nbql207.htm) | 石拱桥（单孔） | — | 清乾隆五十五年（1790）始建 | 余姚市文物保护单位 |
 | <nobr>余姚市</nobr> | <nobr>余姚城区凤山街道</nobr> | 季卫桥 [?](http://www.china-qiao.com/ql15/nbql/nbql174.htm) | 石拱桥（三孔） | 51米 | 清道光十五年（1835）重建 | 余姚市文物保护单位 |
 | <nobr>余姚市</nobr> | <nobr>大岚镇</nobr> | 赤水桥 [?](http://www.china-qiao.com/ql15/nbql/nbql204.htm) | 石拱桥（单孔） | — | 民国 | 余姚市文物保护单位 |
-| <nobr>余姚市</nobr> | <nobr>大隐镇</nobr> | 白岩桥 | — | — | 民国 | 余姚市文物保护单位 |
+| <nobr>余姚市</nobr> | <nobr>大隐镇</nobr> | 白岩桥 [?](http://www.china-qiao.com/ql15/nbql/nbql201.htm) | — | 25米 | 民国 | 余姚市文物保护单位 |
 | <nobr>余姚市</nobr> | <nobr>梨洲街道</nobr> | 金岙万安桥 [?](http://www.china-qiao.com/ql15/nbql/nbql170.htm) | 石梁桥（单孔） | — | 清 | 余姚市文物保护单位 |
 | <nobr>余姚市</nobr> | <nobr>四明山镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/nbql/nbql205.htm) | 廊桥（单孔） | 10米 | 清 | 余姚市文物保护单位 |
 | <nobr>余姚市</nobr> | <nobr>四明山镇</nobr> | 积善桥 [?](http://www.china-qiao.com/ql15/nbql/nbql206.htm) | 石拱桥（单孔） | 12.6米 | 清 | 余姚市文物保护单位 |
