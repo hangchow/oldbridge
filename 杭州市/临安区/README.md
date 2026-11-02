@@ -60,7 +60,7 @@
 | <nobr>锦城街道</nobr> | 金头桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>湍口镇</nobr> | 乌狮桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql355.htm) | — | — | 清 | 杭州市文物保护点 |
 | <nobr>於潜镇</nobr> | 双坑桥 | — | — | 清 | 杭州市文物保护点 |
-| <nobr>玲珑街道</nobr> | 永乐桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql575.htm) | 廊桥 | 11米 | 清 | 杭州市文物保护点 |
+| <nobr>玲珑街道</nobr> | 永乐桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql575.htm) | 廊桥 | 11米 | 清道光二年（1822）重修 | 杭州市文物保护点 |
 | <nobr>天目山镇</nobr> | 永乐桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>太湖源镇</nobr> | 观莲桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql595.htm) | — | — | 清 | 杭州市文物保护点 |
 | <nobr>岛石镇</nobr> | 卫阳桥 | — | — | 清 | 杭州市文物保护点 |
@@ -72,7 +72,7 @@
 | <nobr>太湖源镇</nobr> | 苕tiáo sháo源桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>天目山镇</nobr> | 目源桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>太阳镇</nobr> | 安乐桥 | — | — | 清 | 杭州市文物保护点 |
-| <nobr>太阳镇</nobr> | 横山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql392.htm) | — | 14.3米 | 明 | 杭州市文物保护点 |
+| <nobr>太阳镇</nobr> | 横山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql392.htm) | — | 14.3米 | 明洪武十七年（1384）建 | 杭州市文物保护点 |
 | <nobr>龙岗镇</nobr> | 仙人桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>龙岗镇</nobr> | 三渡桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>龙岗镇</nobr> | 狮溪桥 | — | — | 清 | 杭州市文物保护点 |
