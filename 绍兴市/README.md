@@ -90,7 +90,7 @@
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
 | <nobr>越城区</nobr> | <nobr>鉴湖街道</nobr> | 三接桥 | — | — | 清 | 绍兴市文物保护单位 |
-| <nobr>越城区</nobr> | <nobr>东湖街道</nobr> | 后堡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql102.htm) | 石梁桥（单孔） | 12米 | 近代 | 绍兴市文物保护单位 |
+| <nobr>越城区</nobr> | <nobr>东湖街道</nobr> | 后堡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql102.htm) | 石梁桥（单孔） | 15.05米 | 近代 | 绍兴市文物保护单位 |
 | <nobr>越城区</nobr> | <nobr>东湖街道</nobr> | 跨龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql027.htm) | — | 13.00米 | 清道光二十九年（1849）重修 | 绍兴市文物保护单位 |
 | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 宝珠桥 [?](http://www.china-qiao.com/ql15/sxql/sxql069.htm) | 石拱桥（单孔） | 30米 | 清 | 绍兴市文物保护单位 |
 | <nobr>越城区</nobr> | <nobr>蕺山街道</nobr> | 东双桥 [?](http://www.china-qiao.com/ql15/sxql/sxql059.htm) | 石拱桥（单孔） | 20米 | 民国 | 绍兴市文物保护单位 |

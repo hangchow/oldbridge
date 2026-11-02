@@ -56,7 +56,7 @@
 | <nobr>青山湖街道</nobr> | 会仙桥 | — | — | 南宋 | 杭州市文物保护点 |
 | <nobr>岛石镇</nobr> | 仁里桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>岛石镇</nobr> | 岩镇桥 | — | — | 清 | 杭州市文物保护点 |
-| <nobr>岛石镇</nobr> | 黄川廊桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql583.htm) | 廊桥 | 10.7米 | 清 | 杭州市文物保护点 |
+| <nobr>岛石镇</nobr> | 黄川廊桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql583.htm) | 石拱廊桥（单孔） | 10.7米 | 清 | 杭州市文物保护点 |
 | <nobr>锦城街道</nobr> | 金头桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>湍口镇</nobr> | 乌狮桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql355.htm) | — | — | 清 | 杭州市文物保护点 |
 | <nobr>於潜镇</nobr> | 双坑桥 | — | — | 清 | 杭州市文物保护点 |
