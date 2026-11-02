@@ -32,14 +32,14 @@
 | <nobr>2</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 黄水长桥 [?](http://www.china-qiao.com/ql15/lsql/lsql121.htm) | 石拱桥（单孔） | 54.90米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 慕义桥 [?](http://www.china-qiao.com/ql15/lsql/lsql059.htm) | 石拱桥（三孔） | 53米 | 清道光十二年（1832）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 咏归桥 [?](http://www.china-qiao.com/ql15/lsql/lsql086.htm) | 石拱桥 | 38.76米 | 明崇祯十五年（1642）建，民国十三年（1924）重建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>松阳县</nobr> | <nobr>—</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/lsql/lsql251.htm) | — | 26.5米 | 明正德年间建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 后坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql101.htm) | 石拱桥（单孔） | 23.55米 | 明至民国；民国十一年（1922）建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>庆元县</nobr> | <nobr>龙溪乡</nobr> | 垅  桥 [?](http://www.china-qiao.com/ql15/lsql/lsql159.htm) | — | 22.00米 | 清乾隆四年（1739）建 | <nobr>市级文物保护点</nobr> |
-| <nobr>9</nobr> | <nobr>庆元县</nobr> | <nobr>左溪镇</nobr> | 梅树桥 [?](http://www.china-qiao.com/ql15/lsql/lsql110.htm) | — | 21.80米 | 1912年 | <nobr>市级文物保护点</nobr> |
-| <nobr>10</nobr> | <nobr>青田县</nobr> | <nobr>温溪镇</nobr> | 洲头大桥 [?](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | — | 19米 | 北宋元祐五年（1090）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>5</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 步蟾桥 [?](http://www.china-qiao.com/ql15/lsql/lsql153.htm) | 廊桥（单孔） | 51.60米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 兰溪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql134.htm) | 廊桥 | 48.12米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 咏归桥 [?](http://www.china-qiao.com/ql15/lsql/lsql086.htm) | 石拱桥 | 38.76米 | 明崇祯十五年（1642）建，民国十三年（1924）重建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 来凤桥 [?](http://www.china-qiao.com/ql15/lsql/lsql151.htm) | 廊桥（单孔） | 30.00米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 半路亭桥 [?](http://www.china-qiao.com/ql15/lsql/lsql095.htm) | 廊桥 | 28.65米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 袅桥 [?](http://www.china-qiao.com/ql15/lsql/lsql087.htm) | 廊桥 | 28.63米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
 
-只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 20 座中排序。
+只比石桥（主体为石构的廊桥也参加；钢桁梁、木桥、木拱廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 27 座中排序。
 
 ## 丽水市桥身刻字最早的前 10 名
 
