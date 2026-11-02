@@ -39,7 +39,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](../文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥 | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](../文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>临平区</nobr> | <nobr>塘栖镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql295.htm) | 石拱桥（七孔） | 89.71米 | 明 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>临安区</nobr> | <nobr>昌化镇</nobr> | [联盟久安桥](../文保名录/杭州市/云端档案/365_联盟久安桥.html) | 石拱桥（三孔） | 88.4米 | 清光绪二十八年（1902） | <nobr>市级文物保护单位</nobr> |
@@ -132,7 +132,7 @@
 | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | [大堰桥](../文保名录/杭州市/云端档案/213_大堰桥.html) | 石拱桥 | 8米 | 清 | 杭州市文物保护单位（第四批） |
 | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | [陶村桥](../文保名录/杭州市/云端档案/318_陶村桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql309.htm) | — | 29.8米 | 民国十四年（1925） | 杭州市文物保护单位（第五批） |
 | <nobr>余杭区</nobr> | <nobr>余杭街道</nobr> | [通济桥](../文保名录/杭州市/云端档案/236_通济桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql294.htm) | 石拱桥（三孔） | 50米 | 明 | 杭州市文物保护单位（第四批） |
-| <nobr>余杭区</nobr> | <nobr>余杭街道</nobr> | [苎山桥](../文保名录/杭州市/云端档案/214_苎山桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql414.htm) | 石拱桥 | 16.7米 | 清 | 杭州市文物保护单位（第四批） |
+| <nobr>余杭区</nobr> | <nobr>余杭街道</nobr> | [苎山桥](../文保名录/杭州市/云端档案/214_苎山桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql414.htm) | 石拱桥（单孔） | 16.7米 | 清 | 杭州市文物保护单位（第四批） |
 | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | [折桂桥](../文保名录/杭州市/云端档案/220_折桂桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql289.htm) | 石拱桥（三孔） | 24.5米 | 明 | 杭州市文物保护单位（第四批） |
 | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | [众善桥](../文保名录/杭州市/云端档案/221_众善桥.html) | — | 25米 | 始建不详，民国重修 | 杭州市文物保护单位（第四批） |
 | <nobr>余杭区</nobr> | <nobr>鸬鸟镇</nobr> | [万庆桥](../文保名录/杭州市/云端档案/297_万庆桥.html) | 石拱桥 | 12.7米 | 清 | 杭州市文物保护单位（第五批） |
@@ -145,9 +145,9 @@
 | <nobr>富阳区</nobr> | <nobr>鹿山街道</nobr> | 汤家埠万龄桥 | — | — | 清 | 杭州市文物保护单位（第五批增补） |
 | <nobr>富阳区</nobr> | <nobr>万市镇</nobr> | [方里方坑桥](../文保名录/杭州市/云端档案/457_方里方坑桥.html) | 石拱桥 | 31.47米 | 清 | 杭州市文物保护单位（第五批增补） |
 | <nobr>富阳区</nobr> | <nobr>洞桥镇</nobr> | [洞桥](../文保名录/杭州市/云端档案/461_洞桥.html) | — | 14.3米 | 明 | 杭州市文物保护单位（第五批增补） |
-| <nobr>富阳区</nobr> | <nobr>永昌镇</nobr> | [日新桥](../文保名录/杭州市/云端档案/431_日新桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql321.htm) | 石拱桥 | 29.4米 | 清 | 杭州市文物保护单位（第五批增补） |
+| <nobr>富阳区</nobr> | <nobr>永昌镇</nobr> | [日新桥](../文保名录/杭州市/云端档案/431_日新桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql321.htm) | 石拱桥（三孔） | 29.4米 | 清 | 杭州市文物保护单位（第五批增补） |
 | <nobr>临安区</nobr> | <nobr>青山湖街道</nobr> | 元同桥（玄同桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 石拱桥（单孔） | 6.55米 | 南宋淳熙十一年（1184） | 杭州市文物保护单位（“洞霄宫遗迹”组成部分） |
-| <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](../文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥 | 110.3米 | 清 | 杭州市文物保护单位（第五批增补） |
+| <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](../文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | 杭州市文物保护单位（第五批增补） |
 | <nobr>临安区</nobr> | <nobr>天目山镇</nobr> | [天目山桂芳桥](../文保名录/杭州市/云端档案/364_天目山桂芳桥.html) | — | 17.05米 | 清 | 杭州市文物保护单位（第五批增补） |
 | <nobr>临安区</nobr> | <nobr>昌化镇</nobr> | [联盟久安桥](../文保名录/杭州市/云端档案/365_联盟久安桥.html) | 石拱桥（三孔） | 88.4米 | 清光绪二十八年（1902） | 杭州市文物保护单位（第五批增补） |
 | <nobr>临安区</nobr> | <nobr>昌化镇</nobr> | [白牛桥](../文保名录/杭州市/云端档案/366_白牛桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql406.htm) | 石拱桥（单孔） | 19.9米 | 民国 | 杭州市文物保护单位（第五批增补） |
