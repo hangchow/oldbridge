@@ -73,6 +73,23 @@
 
 只比石桥：结构写明钢桁梁、木、廊桥的不参加（如钱塘江大桥）；结构标“—”的按古代石桥计入。只在已查到长度的 314 座中排序，大部分桥还没有长度数据。
 
+## 江浙沪最早的桥前 10 名
+
+| <nobr>名次</nobr> | <nobr>市</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
+|---|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>青山湖街道</nobr> | 元同桥（玄同桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 石拱桥（单孔） | 6.55米 | 南宋淳熙十一年（1184） | <nobr>市级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>金华市</nobr> | <nobr>义乌市</nobr> | <nobr>赤岸镇</nobr> | 古月桥 [?](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 石拱桥（单孔） | 31.20米 | 南宋嘉定六年（1213） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>上海市</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>杭州市</nobr> | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | [东磵桥](文保名录/杭州市/云端档案/671_东磵桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql311.htm) | 石拱桥（单孔） | 6.9米 | 元（至元二十六年，1289） | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>苏州市</nobr> | <nobr>昆山市</nobr> | <nobr>花桥镇</nobr> | 聚福桥 [?](http://www.china-qiao.com/ql16/szql/szql502.htm) | 石拱桥（单孔并联式） | 19米 | 元至正八年（1348）始建，清道光二十五年重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>杭州市</nobr> | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | 永兴桥（俗称杜城桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql408.htm) | 石梁桥（三孔） | 23.1米 | 元至正十一年（1351） | <nobr>市级文物保护点</nobr> |
+| <nobr>7</nobr> | <nobr>湖州市</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 虹桥、望月桥 | — | — | 明洪武十六年（1383） | <nobr>市级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>嘉兴市</nobr> | <nobr>海宁市</nobr> | <nobr>斜桥镇</nobr> | 德义桥 [?](http://www.china-qiao.com/ql15/jxql/jxql075.htm) | 石梁桥（三孔） | — | 明永乐十二年（1414） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>杭州市</nobr> | <nobr>建德市</nobr> | <nobr>寿昌镇</nobr> | [南浦桥](文保名录/杭州市/云端档案/92_南浦桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql570.htm) | — | 27.51米 | 明景泰四年（1453） | <nobr>省级文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>上海市</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 迎祥桥 [?](http://www.china-qiao.com/ql02/shql292.htm) | 石梁桥（五孔） | 34米 | 明天顺六年（1462） | <nobr>市级文物保护单位</nobr> |
+
+按始建年份排序，只比时代一列写了确切年份的 137 座。另有 162 座只写到朝代（明 102 座、宋 31 座、南宋 14 座、元 14 座、唐 1 座），可能更早，但无法与上表比较早晚，没有参加排名。
+
 各市的分级名单见各市目录下的 README。
 <!-- SUMMARY END -->
 

@@ -42,6 +42,21 @@
 
 只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 40 座中排序。
 
+## 苏州市最早的桥前 10 名
+
+| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
+|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>昆山市</nobr> | <nobr>花桥镇</nobr> | 聚福桥 [?](http://www.china-qiao.com/ql16/szql/szql502.htm) | 石拱桥（单孔并联式） | 19米 | 元至正八年（1348）始建，清道光二十五年重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>昆山市</nobr> | <nobr>花桥镇</nobr> | 永清桥 [?](http://www.china-qiao.com/ql16/szql/szql895.htm) | — | — | 清乾隆二年（1737） | <nobr>省级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>昆山市</nobr> | <nobr>花桥镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql16/szql/szql894.htm) | 石梁桥（单孔） | 16.7米 | 清乾隆三十二年（1767）始建，民国二十四年（1935）修复 | <nobr>省级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>吴江区</nobr> | <nobr>桃源镇</nobr> | 福事桥 [?](http://www.china-qiao.com/ql16/szql/szql706.htm) | 石梁桥（五孔） | 31.4米 | 1924年 | <nobr>市级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>姑苏区</nobr> | <nobr>横塘街道</nobr> | 彩云桥 | — | — | 1928年重建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>吴江区</nobr> | <nobr>桃源镇</nobr> | 大通塘桥 | — | — | 1930年 | <nobr>市级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>相城区</nobr> | <nobr>渭塘镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/szql/szql677.htm) | 石梁桥（三孔） | 25米 | 1934年 | <nobr>市级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>吴江区</nobr> | <nobr>震泽镇</nobr> | 虹桥 [?](http://www.china-qiao.com/ql16/szql/szql430.htm) | 石拱桥（单孔） | 24米 | 1936年 | <nobr>市级文物保护单位</nobr> |
+
+按始建年份排序，只比时代一列写了确切年份的 8 座。另有 134 座只写到朝代（清 93 座、明 21 座、宋 11 座、元 7 座、民国 2 座），可能更早，但无法与上表比较早晚，没有参加排名。
+
 ## 按级别列出
 
 ### 全国重点文物保护单位（7 座）

@@ -40,6 +40,23 @@
 
 只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 69 座中排序。
 
+## 湖州市最早的桥前 10 名
+
+| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
+|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 虹桥、望月桥 | — | — | 明洪武十六年（1383） | <nobr>市级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 万魁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql090.htm) | 石拱桥（三孔） | 51米 | 清乾隆五十五年（1790） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 化成桥 [?](http://www.china-qiao.com/ql15/hzql/hzql091.htm) | 石拱桥（三孔） | 46米 | 清乾隆五十八年（1793） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 通津桥 [?](http://www.china-qiao.com/ql15/hzql/hzql066.htm) | 石拱桥（单孔） | 28米 | 清嘉庆三年（1798） | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 洪济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql067.htm) | 石拱桥（单孔） | 28米 | 清嘉庆十年（1805） | <nobr>省级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 广惠桥 [?](http://www.china-qiao.com/ql15/hzql/hzql068.htm) | 石拱桥（单孔） | 18米 | 清嘉庆末年（1820） | <nobr>市级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 万元桥 [?](http://www.china-qiao.com/ql15/hzql/hzql092.htm) | 石拱桥（三孔） | 51米 | 清道光十四年（1834） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>德清县</nobr> | <nobr>新市镇</nobr> | 圣济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql253.htm) | 石拱桥（单孔） | — | 清咸丰三年（1853）重建，始建年代无考 | <nobr>省级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>长兴县</nobr> | <nobr>太湖街道</nobr> | 识荆桥 | — | — | 1912年 | <nobr>县级文物保护点</nobr> |
+| <nobr>10</nobr> | <nobr>南浔区</nobr> | <nobr>和孚镇</nobr> | 锡马桥 [?](http://www.china-qiao.com/ql15/hzql/hzql176.htm) | — | — | 1913年 | <nobr>市级文物保护点</nobr> |
+
+按始建年份排序，只比时代一列写了确切年份的 52 座。另有 421 座只写到朝代（清 323 座、民国 49 座、明 25 座、宋 18 座、南宋 3 座、元 3 座），可能更早，但无法与上表比较早晚，没有参加排名。
+
 ## 按级别列出
 
 ### 全国重点文物保护单位（12 座）

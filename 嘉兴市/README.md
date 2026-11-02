@@ -42,6 +42,23 @@
 
 只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 54 座中排序。
 
+## 嘉兴市最早的桥前 10 名
+
+| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
+|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>海宁市</nobr> | <nobr>斜桥镇</nobr> | 德义桥 [?](http://www.china-qiao.com/ql15/jxql/jxql075.htm) | 石梁桥（三孔） | — | 明永乐十二年（1414） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>平湖市</nobr> | <nobr>曹桥街道</nobr> | 丁店桥 | — | — | 明隆庆二年（1568） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 重建望龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | — | — | 明万历二十三年（1595） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 钟南仁寿桥 | — | — | 清乾隆元年（1736） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 利生桥 | — | — | 清嘉庆四年（1799） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 重建任祠堂桥 | — | — | 清嘉庆四年（1799） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>海宁市</nobr> | <nobr>斜桥镇</nobr> | 德风桥 [?](http://www.china-qiao.com/ql15/jxql/jxql076.htm) | 石梁桥 | 13.4米 | 清道光二年（1822） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 荐馨桥 | — | — | 清同治三年（1864） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>海宁市</nobr> | <nobr>海昌街道</nobr> | 天神桥 [?](http://www.china-qiao.com/ql15/jxql/jxql438.htm) | 石梁桥 | 19米 | 清光绪十七年（1891） | <nobr>县（区）级文物保护单位</nobr> |
+
+按始建年份排序，只比时代一列写了确切年份的 38 座。另有 250 座只写到朝代（清 240 座、明 8 座、元 2 座），可能更早，但无法与上表比较早晚，没有参加排名。
+
 ## 按级别列出
 
 ### 全国重点文物保护单位（1 座）
