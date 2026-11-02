@@ -23,10 +23,11 @@ CITIES = ['杭州市', '湖州市', '嘉兴市', '上海市', '苏州市', '金�
 def cat(lv):
     if lv.startswith('全国重点'): return CATS[0]
     if lv.startswith('浙江省') or lv.startswith('江苏省'): return CATS[1]
+    if '文物控制单位' in lv: return CATS[4]
     m = re.match(r'(.{2,3}市)文物保护(单位|点)', lv)
     if m and m.group(1) in CITIES: return CATS[2] if m.group(2) == '单位' else CATS[4]
     if re.match(r'.+(区|县|市)文物保护单位', lv) or lv.startswith('区级文物保护单位'): return CATS[3]
-    if '文物保护点' in lv: return CATS[4]   # 统计表不分市级、县级公布，合为一类
+    if '文物保护点' in lv or '文物控制单位' in lv: return CATS[4]   # 统计表不分市级、县级公布，合为一类
     if '历史建筑' in lv: return CATS[6]
     if lv.startswith('一般不可移动') or lv.startswith('登记不可移动'): return CATS[7]
     if lv.startswith('未定级'): return CATS[8]

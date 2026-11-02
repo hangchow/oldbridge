@@ -27,20 +27,27 @@ def town_of(*ss):
     return '—'
 LV = {'gb': 0, 'sb': 1, 'shi': 2, 'xian': 3, 'wbd': 4, 'dj': 5}
 R = []
-def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote=''):
+def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote='', lvtxt=''):
     if dist not in DISTS or not name: return
     era = era or '—'
     if re.match(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return   # 只看建造年代开头，括号里的重修年份不算
+    tw = town or town_of(addr)
     for r in R:
         if r['dist'] == dist and core(r['name']) == core(name):
-            if LV[lv] < LV[r['lvk']]:
-                r.update(lvk=lv, num=num or r['num'], group=group or r['group'], batch=batch or r['batch'], src=src)
+            if r.get('lvtxt') and lvtxt and tw != '—' and r['town'] != '—' and tw != r['town']: continue   # 原件里同名不同乡镇的两座桥
+            if LV[lv] < LV[r['lvk']] and (lvtxt or not r.get('lvtxt')):
+                r.update(lvk=lv, num=num or r['num'], group=group or r['group'], batch=batch or r['batch'], src=src, lvtxt=lvtxt or r.get('lvtxt', ''), doc=doc if lvtxt else r['doc'])
             if r['era'] in ('—', '') or (re.search('至', r['era']) and r['group']): r['era'] = era if era != '—' else r['era']
             if r['loc'] in ('—', ''): r['loc'] = addr or '—'
             if r['town'] == '—': r['town'] = town or town_of(addr)
             return
     R.append(dict(dist=dist, name=name, era=era, loc=addr or '—', lvk=lv, num=num, group=group, batch=batch, src=src,
-                  town=town or town_of(addr), doc=doc, unote=unote))
+                  town=tw, doc=doc, unote=unote, lvtxt=lvtxt))
+# 0) 政府原件（文保名录/ 里的名单，build/official.py 提取）：等级、批次以原件为准
+OFF = json.load(open(S + '/build/official.json')).get(CITY, []) if os.path.exists(S + '/build/official.json') else []
+for o in OFF:
+    u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]
+    add(o['dist'], o['name'], o['era'], o['loc'], o['lv'], src=u, town=o['town'] if o['town'] != '—' else None, doc=o['doc'], lvtxt=o['lvtxt'])
 # 1) 各区县列表
 for d in DISTS:
     f = f'{S}/{K}/{d}各级文物保护单位列表.txt'
@@ -101,6 +108,7 @@ for r in R:
     elif r['lvk'] == 'xian': r['level'] = f"{r['dist']}文物保护单位"
     elif r['lvk'] == 'dj': r['level'] = '尚未定级（待核实，老百晓集桥收录，不在文保名录中）'
     else: r['level'] = f'{CITY}文物保护点' if ZJ else f"一般不可移动文物（{r['dist']}不可移动文物名录）"
+    if r.get('lvtxt'): r['level'] = r['lvtxt']
     k = f"{r['dist']}|{r['town']}|{r['name']}"
     r['struct'] = ST.get(k, '—'); r['len'] = LN.get(k, '—'); r['note'] = r['unote'] or ('不在文保名录中，据老百晓集桥页面收录，年代按页面开头的记载，待核实' if r['lvk'] == 'dj' else '')
     ck = f"{CITY}|{k}"
@@ -111,10 +119,10 @@ for r in R:
         r['era'] = f['era'] if all(d in f['era'] for d in ds) else old + '；' + f['era']
         r['note'] = (r['note'] + '；' if r['note'] else '') + f"具体年代据{'老百晓集桥' if f['src'] == 'cq' else '云端档案'}（名录原写“{old}”）"
 for r in R:
-    for kk in ('lvk', 'num', 'group', 'batch', 'unote'): r.pop(kk, None)
+    for kk in ('lvk', 'num', 'group', 'batch', 'unote', 'lvtxt'): r.pop(kk, None)
 json.dump(R, open(f'{S}/{K}/rows.json', 'w'), ensure_ascii=False, indent=0)
 # 生成区县 md
-ORD = lambda lv: 0 if lv.startswith('全国') else 1 if lv.startswith(PROV) else 5 if lv.startswith('尚未') else 4 if '保护点' in lv or '不可移动' in lv else 2 if lv.startswith(CITY) else 3
+ORD = lambda lv: 0 if lv.startswith('全国') else 1 if lv.startswith(PROV) else 5 if lv.startswith('尚未') else 4 if '保护点' in lv or '不可移动' in lv or '控制单位' in lv else 2 if lv.startswith(CITY) else 3
 for d in DISTS:
     folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
     rs = sorted([r for r in R if r['dist'] == d], key=lambda r: ORD(r['level']))

@@ -1,0 +1,119 @@
+# -*- coding: utf-8 -*-
+# 从 文保名录/ 里新增的政府原件（常州、宜兴、丽水、武义）提取桥梁，写 build/official.json
+# 每条：dist, town, name, era, loc, lv(gb/sb/shi/xian/wbd), lvtxt(等级文字), doc(公布文件), src(原件相对路径)
+import json, os, re, html, sys
+S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+W = os.path.join(os.path.dirname(S), '文保名录')
+sys.path.insert(0, S + '/zj')
+from wikilist import isbridge
+CF = json.load(open(S + '/zj/cities.json'))
+
+def tables(f):
+    """按顺序返回 (表前文字, 行列表)"""
+    t = open(os.path.join(W, f), 'rb').read().decode('utf8', 'ignore')
+    t = re.sub(r'<script.*?</script>|<style.*?</style>', '', t, flags=re.S | re.I)
+    pre = ''
+    for p in re.split(r'(<table.*?</table>)', t, flags=re.S | re.I):
+        if p.lower().startswith('<table'):
+            rows = [[re.sub(r'\s+', '', html.unescape(re.sub(r'<[^>]+>', '', c))) for c in re.findall(r'<t[dh][^>]*>(.*?)</t[dh]>', tr, re.S | re.I)]
+                    for tr in re.findall(r'<tr[^>]*>(.*?)</tr>', p, re.S | re.I)]
+            yield pre, rows
+        else:
+            pre = re.sub(r'\s+', '', html.unescape(re.sub(r'<[^>]+>', '', p)))[-120:]
+
+def town_of(addr, dists):
+    a = re.sub(r'^(江苏省|浙江省)?(常州市|无锡市|丽水市|金华市)?', '', addr)
+    a = re.sub(r'^(' + '|'.join(dists) + r'|' + '|'.join(d[:2] for d in dists) + r')(区|县|市)?', '', a)
+    m = re.match(r'^(.{2,6}?(?:街道|镇|乡))', a)
+    return m.group(1) if m and not re.search(r'[路村]', m.group(1)[:-1]) else '—'
+
+OUT = {}
+def put(city, **r):
+    n = r['name']
+    if '、' in n:   # “贤母桥、竞爽桥”：名称、地址按顿号一一对应
+        ts = r['loc'].split('、')
+        for i, x in enumerate(n.split('、')):
+            loc = ts[i] if len(ts) == len(n.split('、')) else r['loc']
+            put(city, **dict(r, name=x, loc=loc, town=re.sub(r'^.*?(?:县|市|区)', '', loc) if len(ts) > 1 else r['town']))
+        return
+    if not isbridge(n) or '遗址' in n or '群' in n or not re.search(r'桥(（.*?）)?$', n): return
+    OUT.setdefault(city, []).append(r)
+
+# 常州市第五、六、八批市级文物保护单位（列：序号、编号、名称、时代、地址）
+CZD = CF['常州市']['dists']
+for n, f in (('五', '常州市/常州市第五批市级文物保护单位（常州市人民政府）.html'), ('六', '常州市/常州市第六批市级文物保护单位（常州市人民政府）.html'),
+             ('八', '常州市/常州市第八批市级文物保护单位（常州市人民政府，2019）.html')):
+    for pre, rows in tables(f):
+        for c in rows:
+            if len(c) < 5 or not c[0].isdigit(): continue
+            name, era, addr = c[2], c[3], c[4]
+            a = addr.replace('武进经发区', '武进区').replace('金坛市', '金坛区')
+            d = next((x for x in CZD if a.startswith(x) or a.startswith(x[:2])), None)
+            if not d: continue
+            put('常州市', dist=d, town=town_of(a, CZD), name=name, era=era, loc=addr, lv='shi', lvtxt=f'常州市文物保护单位（第{n}批）',
+                doc=f'常州市第{n}批市级文物保护单位', src=f)
+
+# 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
+WXD = CF['无锡市']['dists']
+RN = {'万园桥': '万缘桥', '西埝桥': '西堰桥', '新安桥': '新岸桥'}   # 第七批附件3 更名
+for (b1, b2, f) in (('五', '二', '无锡市/宜兴市第五批文物保护单位和第二批文物控制单位（2011）.html'),
+                    ('六', '三', '无锡市/宜兴市第六批文物保护单位和第三批文物控制单位（2017）.html')):
+    k = 0
+    for pre, rows in tables(f):
+        hdr = next((c for c in rows if '名称' in ''.join(c)), None)
+        if not hdr: continue
+        k += 1
+        ctrl = '控制' in pre or k == 2
+        for c in rows:
+            if len(c) < 4 or not c[0].isdigit(): continue
+            name, era, addr = RN.get(c[1], c[1]), c[2], c[3].replace('宜兴市', '')
+            put('无锡市', dist='宜兴市', town=town_of(addr, WXD), name=name, era=era, loc=addr, lv='wbd' if ctrl else 'xian',
+                lvtxt=(f'宜兴市文物控制单位（第{b2}批）' if ctrl else f'宜兴市文物保护单位（第{b1}批）'),
+                doc=('宜政发〔2009〕111号' if b1 == '五' else '宜政发〔2016〕162号'), src=f)
+# 宜兴市第七批、第四批文物控制单位（附件为图片，按图片录入）
+F7 = '无锡市/宜兴市第七批文物保护单位和第四批文物控制单位（2023）.html'
+for name, era, addr, ctrl in (('田舍桥', '清', '官林镇凌霞村小杨家自然村', 0), ('寿星桥', '清', '和桥镇北新村官庄自然村南200米吉祥寺内', 0),
+                              ('王家万寿桥', '1928年', '官林镇都山村水韵新村周家浜', 0), ('里塘渎桥', '1928年', '和桥镇南新社区南新老街', 0),
+                              ('莲溪桥', '清', '丁蜀镇三洞桥村村东组', 1), ('永安桥', '1917年', '官林镇官林村', 1)):
+    put('无锡市', dist='宜兴市', town=town_of(addr, WXD), name=name, era=era, loc=addr, lv='wbd' if ctrl else 'xian',
+        lvtxt=('宜兴市文物控制单位（第四批）' if ctrl else '宜兴市文物保护单位（第七批）'), doc='宜兴市人民政府（2023年12月20日）', src=F7)
+
+# 丽水地区文保单位汇总表（列：序号、县（市、区）、名称、地理位置、时代、类别、公布时间、公布文号、备注/级别）
+LSD = CF['丽水市']['dists']
+LV = [('国家级', 'gb'), ('国保', 'gb'), ('省', 'sb'), ('市县级', 'xian'), ('市级', 'shi'), ('县', 'xian')]
+cur, curlv = '莲都区', 'gb'
+for pre, rows in tables('丽水市/丽水地区文保单位汇总表（截至2014年6月30日）.html'):
+    for c in rows:
+        j = ''.join(c)
+        if len(c) == 1:
+            curlv = next((v for k, v in LV if k in j), curlv); continue
+        if len(c) >= 6 and not c[0].isdigit() and c[0].endswith(('县', '市', '区')):   # 合并为国保的组成部分没有序号
+            c = [''] + c + ['国家级']
+        if len(c) < 6 or (c[0] and not c[0].isdigit()): continue
+        if len(c) >= 9:
+            _, cty, name, addr, era, _, when, doc = c[:8]; note = c[8] if len(c) > 8 else ''
+        else:   # 县名列合并单元格时少一列
+            _, name, addr, era, _, when, doc = (c + [''] * 8)[:7]; cty, note = '', c[7] if len(c) > 7 else ''
+        if cty:
+            cur = '莲都区' if cty in ('市本级', '丽水市', '莲都') else next((d for d in LSD if d.startswith(cty[:2])), cur)
+        lv = next((v for k, v in LV if k in note), curlv)
+        txt = {'gb': '全国重点文物保护单位', 'sb': '浙江省文物保护单位', 'shi': '丽水市文物保护单位'}.get(lv, f'{cur}文物保护单位')
+        put('丽水市', dist=cur, town=town_of(addr, LSD), name=re.sub(r'^(处州廊桥-|庆元廊桥-杨家庄护龙桥(?=..)|庆元廊桥-)', '', name), era=era, loc=addr, lv=lv,
+            lvtxt=txt, doc=doc or '—', src='丽水市/丽水地区文保单位汇总表（截至2014年6月30日）.html')
+
+# 武义县各级文物保护单位名录（列：序号、分类号、名称、年代、地址、备注）
+lv = 'gb'
+for pre, rows in tables('金华市/武义县各级文物保护单位名录（2022）.html'):
+    if '全国重点' in pre: lv = 'gb'
+    elif '浙江省文物保护单位' in pre: lv = 'sb'
+    elif '武义县文物保护单位' in pre: lv = 'xian'
+    elif '武义县文物保护点' in pre: lv = 'wbd'
+    for c in rows:
+        if len(c) < 5 or not c[0].isdigit(): continue
+        name, era, addr, note = c[2], c[3], c[4], (c[5] if len(c) > 5 else '')
+        put('金华市', dist='武义县', town=town_of(addr.replace('武义县', ''), ['武义县']), name=name, era=era, loc=addr, lv=lv,
+            lvtxt={'gb': '全国重点文物保护单位', 'sb': '浙江省文物保护单位', 'xian': '武义县文物保护单位', 'wbd': '武义县文物保护点'}[lv],
+            doc=note or '—', src='金华市/武义县各级文物保护单位名录（2022）.html')
+
+json.dump(OUT, open(S + '/build/official.json', 'w'), ensure_ascii=False, indent=0)
+for c, rs in OUT.items(): print(c, len(rs), [r['name'] for r in rs][:60])

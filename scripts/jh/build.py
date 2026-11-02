@@ -51,6 +51,12 @@ for d, town, n, era, loc, lv, note in [
     ('浦江县', '中余乡', '下毛洞口石拱桥', '清', '中余乡五星行政村下毛洞口自然村村口', '浦江县文物保护单位（第四批）', '')]:
     e(d, town, n, era, loc, lv, '—', W(d + '各级文物保护单位列表'), note)
 def core(n): return re.sub(r'（.*?）|\(.*?\)|\s', '', n)
+# 政府原件（文保名录/ 里的县级名录，build/official.py 提取）
+for o in (json.load(open(S + '/build/official.json')).get('金华市', []) if os.path.exists(S + '/build/official.json') else []):
+    if any(r['dist'] == o['dist'] and core(r['name']) == core(o['name']) for r in R): continue
+    u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]
+    if re.match(r'(19[5-9]\d|20\d\d)', o['era']): continue
+    e(o['dist'], o['town'], o['name'], o['era'], o['loc'], o['lvtxt'], o['doc'], u)
 # 金华市文物保护点（浙江省文物局统计表）
 for b in json.load(open(S + '/jh/xlsx_bridges.json')):
     d = b['dist']

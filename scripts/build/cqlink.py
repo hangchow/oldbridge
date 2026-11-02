@@ -56,7 +56,7 @@ for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh')
     elif key in ('sz', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
     elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
     else: I = json.load(open(f'{S}/cq2/idx.json'))
-    RS = json.load(open(f'{S}/{key}/rows.json')); NC = collections.Counter(core2(x['name']) for x in RS)
+    RS = json.load(open(f'{S}/{key}/rows.json')); NC = collections.Counter(core2(x['name']) for x in RS); ND = collections.Counter((x['dist'], core2(x['name'])) for x in RS)
     for r in RS:
         n = core2(r['name'])
         if '、' in n or len(n) < 2: continue
@@ -64,7 +64,7 @@ for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh')
         ctx = [short(r['town'])] + [v for v in vill if len(v) >= 2]
         if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'):
             c = [(p, t) for p, t in I.items() if t.endswith(n) and not ODIST(t, r['dist']) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
-            if len(c) > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]
+            if len(c) > 1 or ND[(r['dist'], n)] > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]   # 本区县同名桥不止一座时要求乡镇对上
         else:
             c = [(p, t) for p, t in I.items() if t.endswith(n) and short(r['dist']) in t and any(x and x in t for x in ctx)]
         if not c and NC[n] == 1 and r['dist'] in CORE.get(city, ()):   # 标题只写市名（如“南京市七桥瓮”）：桥名在本市名录唯一、目录里也唯一才认
