@@ -52,22 +52,20 @@
 
 只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 90 座中排序。
 
-## 杭州市最早的桥前 10 名
+## 杭州市最早的桥前 10 名（按桥身题刻纪年）
 
-| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
-|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>临安区</nobr> | <nobr>青山湖街道</nobr> | 元同桥（玄同桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 石拱桥（单孔） | 6.55米 | 南宋淳熙十一年（1184） | <nobr>市级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | [东磵桥](../文保名录/杭州市/云端档案/671_东磵桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql311.htm) | 石拱桥（单孔） | 6.9米 | 元（至元二十六年，1289） | <nobr>省级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | 永兴桥（俗称杜城桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql408.htm) | 石梁桥（三孔） | 23.1米 | 元至正十一年（1351） | <nobr>市级文物保护点</nobr> |
-| <nobr>4</nobr> | <nobr>建德市</nobr> | <nobr>寿昌镇</nobr> | [南浦桥](../文保名录/杭州市/云端档案/92_南浦桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql570.htm) | — | 27.51米 | 明景泰四年（1453） | <nobr>省级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>上城区</nobr> | <nobr>南星街道</nobr> | [化仙桥](../文保名录/杭州市/云端档案/168_中河南段古桥及古泉.html) | 石拱桥（单孔） | — | 原为木桥，明成化十三年（1477）改建为石拱桥 | <nobr>市级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>拱墅区</nobr> | <nobr>米市巷街道</nobr> | [里万物桥](../文保名录/杭州市/云端档案/257_里万物桥.html) | 石拱桥 | 16.9米 | 明正德三年（1508） | <nobr>市级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | 万岁桥 | — | — | 明正德戊辰年（1508） | <nobr>市级文物保护点</nobr> |
-| <nobr>8</nobr> | <nobr>余杭区</nobr> | <nobr>仓前街道</nobr> | 登瀛桥 | — | — | 明嘉靖乙亥年（1539） | <nobr>市级文物保护点</nobr> |
-| <nobr>9</nobr> | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | 回澜桥 | 石梁桥（单孔） | — | 明嘉靖三十六年（1557） | <nobr>市级文物保护点</nobr> |
-| <nobr>10</nobr> | <nobr>余杭区</nobr> | <nobr>闲林街道</nobr> | 毛家桥 | — | — | 清康熙十二年（1673） | <nobr>市级文物保护点</nobr> |
+| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 题刻纪年 | 题刻 | 时代 | <nobr>级别</nobr> |
+|---|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>临安区</nobr> | <nobr>青山湖街道</nobr> | 元同桥（玄同桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 石拱桥（单孔） | 1184 | [西侧栏板内壁阴刻“淳熙甲辰重九日……施钱造”](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 南宋淳熙十一年（1184） | <nobr>市级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>西湖区</nobr> | <nobr>留下街道</nobr> | [忠义桥](../文保名录/杭州市/云端档案/33_忠义桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 石拱桥（单孔） | 1218 | [拱板题记“嘉定戊寅”](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 南宋 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>建德市</nobr> | <nobr>乾潭镇</nobr> | [西山桥](../文保名录/杭州市/云端档案/44_西山桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql329.htm) | 石拱桥（条石折边单拱） | 1265 | [桥面边石刻题记“咸淳岁在乙丑”](http://www.china-qiao.com/ql15/hz_ql/hzvql329.htm) | 南宋 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | 永兴桥（俗称杜城桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql408.htm) | 石梁桥（三孔） | 1351 | [东桥柱阴刻“皇元辛卯至正十一年七月吉日重建”](http://www.china-qiao.com/ql15/hz_ql/hzvql408.htm) | 元至正十一年（1351） | <nobr>市级文物保护点</nobr> |
+| <nobr>5</nobr> | <nobr>滨江区</nobr> | <nobr>长河街道</nobr> | 荚竹山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql244.htm) | 石梁桥（三孔） | 1534 | [南墩桥石题记“大明嘉靖甲午六月……重建”](http://www.china-qiao.com/ql15/hz_ql/hzvql244.htm) | 明 | <nobr>市级文物保护点</nobr> |
+| <nobr>6</nobr> | <nobr>拱墅区</nobr> | <nobr>祥符街道</nobr> | 祥符桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql506.htm) | 石梁桥（五孔） | 1543 | [明嘉靖癸卯年重建铭文](http://www.china-qiao.com/ql15/hz_ql/hzvql506.htm) | 明 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>拱墅区</nobr> | <nobr>石桥街道</nobr> | [古通济桥](../文保名录/杭州市/云端档案/161_古通济桥.html) | 石拱桥 | 1544 | [拱券题记“嘉靖二十三年岁在甲辰孟□夏吉日重建”](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=161) | 明 | <nobr>市级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>建德市</nobr> | <nobr>大慈岩镇</nobr> | 万枝桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql572.htm) | 石梁桥（单孔） | 1688 | [桥沿题字“万枝桥 康熙戊辰年”](http://www.china-qiao.com/ql15/hz_ql/hzvql572.htm) | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
 
-按始建年份排序，只比时代一列写了确切年份的 31 座。另有 367 座只写到朝代（清 314 座、明 42 座、南宋 8 座、元 1 座、唐 1 座、宋 1 座），可能更早，但无法与上表比较早晚，没有参加排名。
+只认桥身上的题刻纪年（桥柱、栏板、拱券等处刻的年份），方志等文献记载的始建年份不算；题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻纪年的共 8 座。
 
 ## 按级别列出
 

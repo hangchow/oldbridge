@@ -44,17 +44,13 @@
 
 只比石桥（钢桁梁、木桥、廊桥不参加；结构标“—”的按古代石桥计入），在已查到长度的 53 座中排序。
 
-## 上海市最早的桥前 10 名
+## 上海市最早的桥前 10 名（按桥身题刻纪年）
 
-| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
-|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 迎祥桥 [?](http://www.china-qiao.com/ql02/shql292.htm) | 石梁桥（五孔） | 34米 | 明天顺六年（1462） | <nobr>市级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>青浦区</nobr> | <nobr>朱家角镇</nobr> | 放生桥 [?](http://www.china-qiao.com/ql02/shql274.htm) | 石拱桥（五孔） | 70.8米 | 明隆庆五年（1571）始建，清嘉庆十七年（1812）重建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>松江区</nobr> | <nobr>永丰街道</nobr> | 大仓桥 [?](http://www.china-qiao.com/ql02/shql257.htm) | 石拱桥（五孔） | — | 明天启六年（1626） | <nobr>市级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>静安区</nobr> | <nobr>北站街道</nobr> | 浙江路桥 [?](http://www.china-qiao.com/ql02/shql020.htm) | — | — | 1907年 | <nobr>市级文物保护单位</nobr> |
+| <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 题刻纪年 | 题刻 | 时代 | <nobr>级别</nobr> |
+|---|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 1267 | [拱石镌刻“咸淳三年”](http://www.china-qiao.com/ql02/shql291.htm) | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
 
-按始建年份排序，只比时代一列写了确切年份的 5 座。另有 1 座只写到朝代（南宋 1 座），可能更早，但无法与上表比较早晚，没有参加排名。
+只认桥身上的题刻纪年（桥柱、栏板、拱券等处刻的年份），方志等文献记载的始建年份不算；题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻纪年的共 1 座。
 
 ## 按级别列出
 
