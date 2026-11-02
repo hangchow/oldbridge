@@ -7,7 +7,7 @@ S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..
 O = '/Users/sean/workspace/oldbridge'
 C3 = ['桐庐县', '淳安县', '建德市']
 CROSS = {('钱塘江大桥', '滨江区'): '西湖区', ('日新桥', '临安区'): '富阳区'}
-CATS = ['全国重点文物保护单位', '省级文物保护单位', '市级文物保护单位', '县（区）级文物保护单位', '市级文物保护点', '县级文物保护点',
+CATS = ['全国重点文物保护单位', '省级文物保护单位', '市级文物保护单位', '县（区）级文物保护单位', '文物保护点', '县级文物保护点',
         '历史建筑', '一般不可移动文物', '未定级不可移动文物（四普新发现）', '尚未定级（待核实）']
 LIST_FULL = set(CATS[:4])
 
@@ -26,7 +26,7 @@ def cat(lv):
     m = re.match(r'(.{2,3}市)文物保护(单位|点)', lv)
     if m and m.group(1) in CITIES: return CATS[2] if m.group(2) == '单位' else CATS[4]
     if re.match(r'.+(区|县|市)文物保护单位', lv) or lv.startswith('区级文物保护单位'): return CATS[3]
-    if '文物保护点' in lv: return CATS[5]
+    if '文物保护点' in lv: return CATS[4]   # 统计表不分市级、县级公布，合为一类
     if '历史建筑' in lv: return CATS[6]
     if lv.startswith('一般不可移动') or lv.startswith('登记不可移动'): return CATS[7]
     if lv.startswith('未定级'): return CATS[8]

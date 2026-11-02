@@ -2310,7 +2310,7 @@
   "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql420.htm",
-  "struct": "—",
+  "struct": "石梁桥（单孔）",
   "note": "单孔小拱桥（环桥）；老百晓集桥另有一页记在塘栖镇（hzvql401），是同一座桥",
   "commons": null,
   "srcs": [
@@ -2557,6 +2557,142 @@
   "len": "15米"
  },
  {
+  "dist": "西湖区",
+  "town": "北山街道",
+  "name": "西泠桥",
+  "era": "民国三年（1914）重修",
+  "loc": "孤山路西端",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql095.htm",
+  "struct": "石拱桥（单孔）",
+  "note": "又名西林桥、西陵桥；明《西湖游览志》已载；民国十年筑环湖马路时桥面改为平坡",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql095.htm"
+  ],
+  "len": "9.3米"
+ },
+ {
+  "dist": "临平区",
+  "town": "崇贤街道",
+  "name": "东马斜桥",
+  "era": "清嘉庆二十三年（1818）重建（据桥联旁刻字）",
+  "loc": "沾桥龙旋村与北庄村交界处，跨鸭兰港",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql423.htm",
+  "struct": "—",
+  "note": "俗称古斜桥",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql423.htm"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "临平区",
+  "town": "崇贤街道",
+  "name": "皋亭桥",
+  "era": "—（桥梁刻有重建纪年）",
+  "loc": "—",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql522.htm",
+  "struct": "石梁桥（三孔）",
+  "note": "三孔石梁桥，长约18米",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql522.htm"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "临平区",
+  "town": "塘栖镇",
+  "name": "泥坝桥",
+  "era": "—（20世纪80年代整修，桥基和部分桥栏为原物）",
+  "loc": "泥坝圩头村中",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql302.htm",
+  "struct": "—",
+  "note": "—",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql302.htm"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "富阳区",
+  "town": "龙门镇",
+  "name": "三房桥",
+  "era": "—",
+  "loc": "—",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql560.htm",
+  "struct": "石梁桥（双孔）",
+  "note": "两跨石梁桥，桥柱为整石",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql560.htm"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦南街道",
+  "name": "众善桥",
+  "era": "—",
+  "loc": "杭州医学院校区内，旧杭徽古道",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql574.htm",
+  "struct": "石拱桥（单孔）",
+  "note": "单孔石拱桥，长15.6米，券脸刻“众善桥”",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql574.htm"
+  ],
+  "len": "15.6米"
+ },
+ {
+  "dist": "淳安县",
+  "town": "临岐镇",
+  "name": "白佛桥",
+  "era": "—",
+  "loc": "菖蒲村口，跨十都源",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm",
+  "struct": "石拱桥（单孔）",
+  "note": "单孔石拱桥，长15米，券面阳刻“白佛桥”",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm"
+  ],
+  "len": "15米"
+ },
+ {
+  "dist": "淳安县",
+  "town": "浪川乡",
+  "name": "进德桥",
+  "era": "—",
+  "loc": "芹川村头，跨芹水溪",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql567.htm",
+  "struct": "—",
+  "note": "石拱廊桥",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql567.htm"
+  ],
+  "len": "—"
+ },
+ {
   "dist": "上城区",
   "town": "清波街道",
   "name": "肖公桥",
@@ -2647,7 +2783,7 @@
   "srcs": [
    "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
   ],
-  "struct": "—",
+  "struct": "廊桥（三孔）",
   "note": "",
   "commons": null,
   "len": "—"
@@ -2679,10 +2815,10 @@
   "srcs": [
    "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
   ],
-  "struct": "—",
+  "struct": "石拱桥（单孔）",
   "note": "",
   "commons": "20261014 Hemu Qiao.jpg",
-  "len": "—"
+  "len": "20米"
  },
  {
   "dist": "拱墅区",
@@ -2967,7 +3103,7 @@
   "srcs": [
    "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
   ],
-  "struct": "—",
+  "struct": "石拱桥（单孔）",
   "note": "",
   "commons": null,
   "len": "—"
@@ -3047,7 +3183,7 @@
   "srcs": [
    "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
   ],
-  "struct": "—",
+  "struct": "石梁桥（单孔）",
   "note": "",
   "commons": null,
   "len": "—"

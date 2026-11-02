@@ -10,8 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>21</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>58</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>69</nobr> |
-| <nobr>市级文物保护点</nobr> | <nobr>67</nobr> |
-| <nobr>县级文物保护点</nobr> | <nobr>263</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>330</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>208</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -32,10 +31,10 @@
 | <nobr>2</nobr> | <nobr>吴兴区</nobr> | <nobr>龙泉街道</nobr> | 潘公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql039.htm) | 石拱桥（三孔） | 57.5米 | 明万历十三年（1585）始建，清道光二十年（1840）重建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>吴兴区</nobr> | <nobr>朝阳街道</nobr> | 潮音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql038.htm) | 石拱桥（三孔） | 54.2米 | 明嘉靖年间重建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>德清县</nobr> | <nobr>新市镇</nobr> | 龙带桥 [?](http://www.china-qiao.com/ql15/hzql/hzql643.htm) | 石梁桥（七孔） | 54米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>南浔区</nobr> | <nobr>千金镇</nobr> | 韦天桥 [?](http://www.china-qiao.com/ql15/hzql/hzql189.htm) | 石梁桥（五孔） | 52.20米 | 清 | <nobr>市级文物保护点</nobr> |
+| <nobr>5</nobr> | <nobr>南浔区</nobr> | <nobr>千金镇</nobr> | 韦天桥 [?](http://www.china-qiao.com/ql15/hzql/hzql189.htm) | 石梁桥（五孔） | 52.20米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>6</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 万魁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql090.htm) | 石拱桥（三孔） | 51米 | 清乾隆五十五年（1790） | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>7</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 万元桥 [?](http://www.china-qiao.com/ql15/hzql/hzql092.htm) | 石拱桥（三孔） | 51米 | 清道光十四年（1834） | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>南浔区</nobr> | <nobr>千金镇</nobr> | 南高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql194.htm) | 石梁桥（五孔） | 47.10米 | 1917年 | <nobr>市级文物保护点</nobr> |
+| <nobr>8</nobr> | <nobr>南浔区</nobr> | <nobr>千金镇</nobr> | 南高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql194.htm) | 石梁桥（五孔） | 47.10米 | 1917年 | <nobr>文物保护点</nobr> |
 | <nobr>9</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 化成桥 [?](http://www.china-qiao.com/ql15/hzql/hzql091.htm) | 石拱桥（三孔） | 46米 | 清乾隆五十八年（1793） | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>南浔区</nobr> | <nobr>练市镇</nobr> | 妙严塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql106.htm) | 石拱桥（三孔） | 44米 | 清光绪二十五年（1899）重建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>11</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 社桥 [?](http://www.china-qiao.com/ql15/hzql/hzql241.htm) | 石梁桥（五孔） | 42米 | 宋、元、明 | <nobr>全国重点文物保护单位</nobr> |
@@ -58,7 +57,7 @@
 | <nobr>1</nobr> | <nobr>南浔区</nobr> | <nobr>和孚镇</nobr> | 安丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql417.htm) | 石梁桥（三孔） | 1167 | [桥墩字堂阴刻“岁次丁亥乾道三年五月廿一日建造”](http://www.china-qiao.com/ql15/hzql/hzql417.htm) | 南宋乾道三年（1167）建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 兼济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 石梁桥（三孔） | 1172 | [中孔北排柱内侧镌“宋乾道八年壬辰岁……重新建造”](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 宋、元、明；南宋乾道八年（1172）始建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 追远桥 [?](http://www.china-qiao.com/ql15/hzql/hzql562.htm) | 石梁桥（三孔） | 1191 | [中孔石柱镌“绍熙二年岁次辛亥”](http://www.china-qiao.com/ql15/hzql/hzql562.htm) | 宋、元、清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>长兴县</nobr> | <nobr>吕山乡</nobr> | 钮店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 石梁桥（四墩五孔） | 1219 | [排柱刻“岁次嘉定十二年……罗氏十二娘重建”](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 清 | <nobr>县级文物保护点</nobr> |
+| <nobr>4</nobr> | <nobr>长兴县</nobr> | <nobr>吕山乡</nobr> | 钮店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 石梁桥（四墩五孔） | 1219 | [排柱刻“岁次嘉定十二年……罗氏十二娘重建”](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 清 | <nobr>文物保护点</nobr> |
 | <nobr>5</nobr> | <nobr>德清县</nobr> | <nobr>武康街道</nobr> | 僧家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql563.htm) | 石梁桥（三孔） | 1226 | [中孔桥柱刻“皇宋宝庆二年季夏上旬吉日重建”](http://www.china-qiao.com/ql15/hzql/hzql563.htm) | 宋、元、清；南宋宝庆二年（1226）重建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>6</nobr> | <nobr>南浔区</nobr> | <nobr>菱湖镇</nobr> | 宝蓄桥 [?](http://www.china-qiao.com/ql15/hzql/hzql444.htm) | — | 淳祐年间（1241—1252） | [有南宋淳祐、明正统的纪年题刻](http://www.china-qiao.com/ql15/hzql/hzql444.htm) | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>7</nobr> | <nobr>德清县</nobr> | <nobr>武康街道</nobr> | 上邻桥 [?](http://www.china-qiao.com/ql15/hzql/hzql564.htm) | 石梁桥（三孔） | 1832 | [题刻“道光十二年冬月立”](http://www.china-qiao.com/ql15/hzql/hzql564.htm) | 宋、元、清；元至正三年（1343）建 | <nobr>省级文物保护单位</nobr> |
@@ -249,11 +248,7 @@
 | <nobr>安吉县</nobr> | <nobr>梅溪镇</nobr> | 迎仙桥 | — | — | 明 | 安吉县文物保护单位（第五批，2010年） |
 | <nobr>安吉县</nobr> | <nobr>天子湖镇</nobr> | 杨家桥 | — | — | 清 | 安吉县文物保护单位（第五批，2010年） |
 
-### 市级文物保护点（67 座）
-
-数量较多，见各区县文件。
-
-### 县级文物保护点（263 座）
+### 文物保护点（330 座）
 
 数量较多，见各区县文件。
 

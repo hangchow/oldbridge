@@ -10,7 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>9</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>51</nobr> |
-| <nobr>市级文物保护点</nobr> | <nobr>142</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>142</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>117</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -35,23 +35,23 @@
 | <nobr>1</nobr> | <nobr>宁海县</nobr> | <nobr>胡陈乡</nobr> | 戊己桥 [?](http://www.china-qiao.com/ql15/nbql/nbql361.htm) | 石梁桥（四十八孔） | 150米 | 清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>海曙区</nobr> | <nobr>—</nobr> | 灵桥 [?](http://www.china-qiao.com/ql15/nbql/nbql007.htm) | — | 97.6米 | 1936年 | <nobr>省级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>宁海县</nobr> | <nobr>茶院乡</nobr> | 镇宁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql363.htm) | 石梁桥（二十五孔） | 81米 | 清同治六年（1867）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>4</nobr> | <nobr>宁海县</nobr> | <nobr>茶院乡</nobr> | 镇宁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql363.htm) | 石梁桥（二十五孔） | 81米 | 清同治六年（1867）始建 | <nobr>文物保护点</nobr> |
 | <nobr>5</nobr> | <nobr>海曙区</nobr> | <nobr>洞桥镇</nobr> | 百梁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql146.htm) | 石墩木梁廊桥（七孔） | 77米 | 清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>6</nobr> | <nobr>余姚市</nobr> | <nobr>大隐镇</nobr> | 学士桥 [?](http://www.china-qiao.com/ql15/nbql/nbql197.htm) | — | 70.3米 | 清咸丰四年（1854）重修 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>7</nobr> | <nobr>宁海县</nobr> | <nobr>深甽镇</nobr> | 寅饯桥 [?](http://www.china-qiao.com/ql15/nbql/nbql351.htm) | 石梁桥（五孔） | 63.6米 | — | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>8</nobr> | <nobr>象山县</nobr> | <nobr>墙头镇</nobr> | 瑞安桥 [?](http://www.china-qiao.com/ql15/nbql/nbql320.htm) | 石拱桥（单孔） | 62.5米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>9</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 安乐桥 [?](http://www.china-qiao.com/ql15/nbql/nbql082.htm) | 石梁桥（七孔） | 61.5米 | 清道光二十九年（1849）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>9</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 安乐桥 [?](http://www.china-qiao.com/ql15/nbql/nbql082.htm) | 石梁桥（七孔） | 61.5米 | 清道光二十九年（1849）建 | <nobr>文物保护点</nobr> |
 | <nobr>10</nobr> | <nobr>海曙区</nobr> | <nobr>集士港镇</nobr> | 十三洞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql139.htm) | 石梁桥（十三孔） | 53.31米 | 清嘉庆年间建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>11</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/nbql/nbql080.htm) | — | 53米 | — | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>12</nobr> | <nobr>奉化区</nobr> | <nobr>江口街道</nobr> | 南渡广济桥 [?](http://www.china-qiao.com/ql15/nbql/nbql291.htm) | 石梁桥（四孔） | 51.68米 | 清 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>13</nobr> | <nobr>余姚市</nobr> | <nobr>余姚城区凤山街道</nobr> | 季卫桥 [?](http://www.china-qiao.com/ql15/nbql/nbql174.htm) | 石拱桥（三孔） | 51米 | 清道光十五年（1835）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>14</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 朱家渡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql081.htm) | 石梁桥（五孔） | 49.2米 | 清光绪二十四年（1898）重建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>15</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 鄞镇江桥 [?](http://www.china-qiao.com/ql15/nbql/nbql084.htm) | 石拱桥 | 48.7米 | 民国二十二年（1933）建 | <nobr>市级文物保护点</nobr> |
-| <nobr>16</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 金银渡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql083.htm) | 石梁桥（五孔） | 46米 | 清道光三十年（1850）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>15</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 鄞镇江桥 [?](http://www.china-qiao.com/ql15/nbql/nbql084.htm) | 石拱桥 | 48.7米 | 民国二十二年（1933）建 | <nobr>文物保护点</nobr> |
+| <nobr>16</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 金银渡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql083.htm) | 石梁桥（五孔） | 46米 | 清道光三十年（1850）始建 | <nobr>文物保护点</nobr> |
 | <nobr>17</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 长山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql079.htm) | 石拱桥（三孔） | 45米 | 清康熙九年（1670）建成 | <nobr>市级文物保护单位</nobr> |
 | <nobr>18</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 青占桥 [?](http://www.china-qiao.com/ql15/nbql/nbql312.htm) | — | 44米 | 清 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>19</nobr> | <nobr>余姚市</nobr> | <nobr>凤山街道</nobr> | 余姚通济桥 [?](http://www.china-qiao.com/ql15/nbql/nbql165.htm) | 石拱桥（三孔） | 43.4米 | 清 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>宁海县</nobr> | <nobr>深甽镇</nobr> | 甲子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql349.htm) | 石拱桥（三孔） | 42.5米 | 清同治三年（1864）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>20</nobr> | <nobr>宁海县</nobr> | <nobr>深甽镇</nobr> | 甲子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql349.htm) | 石拱桥（三孔） | 42.5米 | 清同治三年（1864）建 | <nobr>文物保护点</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 144 座中排序。
 
@@ -150,7 +150,7 @@
 | <nobr>象山县</nobr> | <nobr>墙头镇</nobr> | 瑞安桥 [?](http://www.china-qiao.com/ql15/nbql/nbql320.htm) | 石拱桥（单孔） | 62.5米 | 清 | 象山县文物保护单位 |
 | <nobr>象山县</nobr> | <nobr>定塘镇</nobr> | 保安桥 | — | — | 民国 | 象山县文物保护单位 |
 
-### 市级文物保护点（142 座）
+### 文物保护点（142 座）
 
 数量较多，见各区县文件。
 

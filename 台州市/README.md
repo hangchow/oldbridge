@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>9</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>3</nobr> |
-| <nobr>市级文物保护点</nobr> | <nobr>18</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>18</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>60</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -41,7 +41,7 @@
 | <nobr>9</nobr> | <nobr>温岭市</nobr> | <nobr>泽国镇</nobr> | 联树桥 [?](http://www.china-qiao.com/ql15/tzql/tzql044.htm) | 石梁桥（五孔） | 51.6米 | 清嘉庆年间始建 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>10</nobr> | <nobr>天台县</nobr> | <nobr>石梁镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/tzql/tzql125.htm) | 石拱桥（单孔） | 42.8米 | 清 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>11</nobr> | <nobr>黄岩区</nobr> | <nobr>—</nobr> | 高雅桥 [?](http://www.china-qiao.com/ql15/tzql/tzql012.htm) | 石梁桥（五孔） | 39米 | 民国二十六年（1937） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>12</nobr> | <nobr>温岭市</nobr> | <nobr>温峤镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql056.htm) | 石拱桥（三孔） | 34.43米 | 民国 | <nobr>市级文物保护点</nobr> |
+| <nobr>12</nobr> | <nobr>温岭市</nobr> | <nobr>温峤镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql056.htm) | 石拱桥（三孔） | 34.43米 | 民国 | <nobr>文物保护点</nobr> |
 | <nobr>13</nobr> | <nobr>临海市</nobr> | <nobr>汇溪镇</nobr> | 开泰桥 [?](http://www.china-qiao.com/ql15/tzql/tzql292.htm) | 石拱桥（单孔） | 34米 | 民国 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>14</nobr> | <nobr>仙居县</nobr> | <nobr>白塔镇</nobr> | 永镇桥 [?](http://www.china-qiao.com/ql15/tzql/tzql136.htm) | 石拱桥（三孔） | 31.5米 | 清 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>15</nobr> | <nobr>椒江区</nobr> | <nobr>章安街道</nobr> | 章安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql006.htm) | — | 30.6米 | 清乾隆四十五年（1780）重建 | <nobr>尚未定级（待核实）</nobr> |
@@ -88,7 +88,7 @@
 | <nobr>椒江区</nobr> | <nobr>洪家街道</nobr> | 王家桥 | — | — | 明万历十年（1582） | 椒江区文物保护单位 |
 | <nobr>椒江区</nobr> | <nobr>下陈街道</nobr> | 涌福桥 | — | — | 清嘉庆二十三年（1818） | 椒江区文物保护单位 |
 
-### 市级文物保护点（18 座）
+### 文物保护点（18 座）
 
 数量较多，见各区县文件。
 

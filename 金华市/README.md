@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>11</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>15</nobr> |
-| <nobr>市级文物保护点</nobr> | <nobr>69</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>69</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>32</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -109,7 +109,7 @@
 | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql121.htm) | 石拱桥（单孔） | 23米 | 清乾隆四十五年（1780）始建 | 浦江县文物保护单位（第四批） |
 | <nobr>浦江县</nobr> | <nobr>中余乡</nobr> | 下毛洞口石拱桥 | — | — | 清 | 浦江县文物保护单位（第四批） |
 
-### 市级文物保护点（69 座）
+### 文物保护点（69 座）
 
 数量较多，见各区县文件。
 

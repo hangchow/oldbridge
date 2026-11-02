@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>21</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>8</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>13</nobr> |
-| <nobr>市级文物保护点</nobr> | <nobr>104</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>104</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>85</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -57,7 +57,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>青田县</nobr> | <nobr>温溪镇</nobr> | 洲头大桥 [?](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | — | 1090 | [桥石刻题记记“始建于北宋元祐五年”](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | 北宋元祐五年（1090）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>1</nobr> | <nobr>青田县</nobr> | <nobr>温溪镇</nobr> | 洲头大桥 [?](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | — | 1090 | [桥石刻题记记“始建于北宋元祐五年”](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | 北宋元祐五年（1090）始建 | <nobr>文物保护点</nobr> |
 
 统计范围：只限本项目收录的十七个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
 
@@ -122,7 +122,7 @@
 | <nobr>云和县</nobr> | <nobr>崇头镇</nobr> | 毓元桥 [?](http://www.china-qiao.com/ql15/lsql/lsql268.htm) | 石拱桥（单孔） | 17.24米 | —（有重建桥记碑） | 云和县文物保护单位 |
 | <nobr>云和县</nobr> | <nobr>崇头镇</nobr> | 石峡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql269.htm) | 石拱桥（单孔） | 12.15米 | — | 云和县文物保护单位 |
 
-### 市级文物保护点（104 座）
+### 文物保护点（104 座）
 
 数量较多，见各区县文件。
 
