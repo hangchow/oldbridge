@@ -1,6 +1,6 @@
 # 嘉兴市古桥
 
-共收录 326 座桥。
+共收录 374 座桥。
 
 ## 按级别统计
 
@@ -12,45 +12,46 @@
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>93</nobr> |
 | <nobr>市级文物保护点</nobr> | <nobr>53</nobr> |
 | <nobr>县级文物保护点</nobr> | <nobr>160</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>48</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[桐乡市](桐乡市/桐乡市古桥.md)</nobr> | <nobr>136</nobr> |
-| <nobr>[平湖市](平湖市/平湖市古桥.md)</nobr> | <nobr>42</nobr> |
+| <nobr>[桐乡市](桐乡市/桐乡市古桥.md)</nobr> | <nobr>139</nobr> |
+| <nobr>[平湖市](平湖市/平湖市古桥.md)</nobr> | <nobr>61</nobr> |
+| <nobr>[秀洲区](秀洲区/秀洲区古桥.md)</nobr> | <nobr>41</nobr> |
 | <nobr>[海盐县](海盐县/海盐县古桥.md)</nobr> | <nobr>40</nobr> |
-| <nobr>[秀洲区](秀洲区/秀洲区古桥.md)</nobr> | <nobr>36</nobr> |
-| <nobr>[海宁市](海宁市/海宁市古桥.md)</nobr> | <nobr>34</nobr> |
-| <nobr>[南湖区](南湖区/南湖区古桥.md)</nobr> | <nobr>24</nobr> |
-| <nobr>[嘉善县](嘉善县/嘉善县古桥.md)</nobr> | <nobr>14</nobr> |
+| <nobr>[海宁市](海宁市/海宁市古桥.md)</nobr> | <nobr>36</nobr> |
+| <nobr>[南湖区](南湖区/南湖区古桥.md)</nobr> | <nobr>34</nobr> |
+| <nobr>[嘉善县](嘉善县/嘉善县古桥.md)</nobr> | <nobr>23</nobr> |
 
 ## 嘉兴市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 永顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql194.htm) | 石梁桥（七孔） | 40.3米 | 清光绪十二年（1886）始建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>秀洲区</nobr> | <nobr>—</nobr> | 鱼池汇桥 [?](http://www.china-qiao.com/ql15/jxql/jxql345.htm) | 石梁桥（七孔） | 39.4米 | 民国十年（1921）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>平湖市</nobr> | <nobr>—</nobr> | 马厩庙大桥 [?](http://www.china-qiao.com/ql15/jxql/jxql107.htm) | 石拱桥（三孔） | 37米 | 清光绪年间重修，民国十八年（1929）重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>秀洲区</nobr> | <nobr>新塍镇</nobr> | 问松桥 [?](http://www.china-qiao.com/ql15/jxql/jxql048.htm) | 石拱桥（单孔） | 36米 | 清道光二十二年（1842）建 | <nobr>市级文物保护点</nobr> |
-| <nobr>5</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/jxql/jxql043.htm) | 石拱桥（三孔） | 30米 | 明万历年间始建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867）重修 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867） | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>秀洲区</nobr> | <nobr>新塍镇</nobr> | 天竺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql330.htm) | 石梁桥（三孔） | 29.2米 | 清 | <nobr>市级文物保护点</nobr> |
-| <nobr>9</nobr> | <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 冯夷桥（冯姨桥） [?](http://www.china-qiao.com/ql15/jxql/jxql242.htm) | 石梁桥（三孔） | 28.7米 | 1936年 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/jxql/jxql257.htm) | 石拱桥（单孔） | 27.4米 | 民国二年（1913） | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>11</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 闻店桥 [?](http://www.china-qiao.com/ql15/jxql/jxql044.htm) | 石拱桥（单孔） | 24.4米 | 清道光七年（1827）重建 | <nobr>市级文物保护点</nobr> |
-| <nobr>12</nobr> | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | 石梁桥（五孔） | 24米 | 清乾隆十四年（1749）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>13</nobr> | <nobr>嘉善县</nobr> | <nobr>姚庄镇</nobr> | 耳顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql313.htm) | 石梁桥（三孔） | 23.6米 | 清乾隆五年（1740）始建，清道光二年（1822）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>14</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 栖真村南湖大桥 [?](http://www.china-qiao.com/ql15/jxql/jxql348.htm) | — | 23.56米 | 清道光二十三年（1843）建 | <nobr>市级文物保护点</nobr> |
-| <nobr>15</nobr> | <nobr>桐乡市</nobr> | <nobr>洲泉镇</nobr> | 万年桥 [?](http://www.china-qiao.com/ql15/jxql/jxql251.htm) | 石拱桥（单孔） | 23.4米 | 清雍正七年（1729）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>16</nobr> | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 仁济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql152.htm) | 石拱桥（单孔） | 22.6米 | 清雍正十二年（1734）重建，清同治年间重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | 石梁桥（五孔） | 22.3米 | 民国 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>19</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 长生桥 [?](http://www.china-qiao.com/ql15/jxql/jxql347.htm) | — | 22米 | 清乾隆五十五年（1790）建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>南湖区</nobr> | <nobr>大桥镇</nobr> | 陆宣泾桥 [?](http://www.china-qiao.com/ql15/jxql/jxql463.htm) | 石梁桥（三孔） | 21.72米 | 清光绪三十二年（1906）重建 | <nobr>市级文物保护点</nobr> |
+| <nobr>1</nobr> | <nobr>南湖区</nobr> | <nobr>解放街道</nobr> | 秋泾桥 [?](http://www.china-qiao.com/ql15/jxql/jxql032.htm) | 石拱桥（单孔） | 60米 | 明崇祯十四年（1641）重修 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>2</nobr> | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 永顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql194.htm) | 石梁桥（七孔） | 40.3米 | 清光绪十二年（1886）始建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>秀洲区</nobr> | <nobr>—</nobr> | 鱼池汇桥 [?](http://www.china-qiao.com/ql15/jxql/jxql345.htm) | 石梁桥（七孔） | 39.4米 | 民国十年（1921）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>平湖市</nobr> | <nobr>—</nobr> | 马厩庙大桥 [?](http://www.china-qiao.com/ql15/jxql/jxql107.htm) | 石拱桥（三孔） | 37米 | 清光绪年间重修，民国十八年（1929）重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>秀洲区</nobr> | <nobr>新塍镇</nobr> | 问松桥 [?](http://www.china-qiao.com/ql15/jxql/jxql048.htm) | 石拱桥（单孔） | 36米 | 清道光二十二年（1842）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>6</nobr> | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 大洋桥 [?](http://www.china-qiao.com/ql15/jxql/jxql193.htm) | 石梁桥（七孔） | 35米 | 清道光十年（1830）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>南湖区</nobr> | <nobr>—</nobr> | 秀城桥 [?](http://www.china-qiao.com/ql15/jxql/jxql031.htm) | 石拱桥（单孔） | 35米 | 明 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>8</nobr> | <nobr>南湖区</nobr> | <nobr>凤桥镇</nobr> | 新篁南星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql006.htm) | 石梁桥（七孔） | 34.7米 | 明 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>9</nobr> | <nobr>嘉善县</nobr> | <nobr>西塘镇</nobr> | 卧龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql203.htm) | 石拱桥（单孔） | 31.46米 | 清 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>10</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/jxql/jxql043.htm) | 石拱桥（三孔） | 30米 | 明万历年间始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867）重修 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>秀洲区</nobr> | <nobr>新塍镇</nobr> | 天竺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql330.htm) | 石梁桥（三孔） | 29.2米 | 清 | <nobr>市级文物保护点</nobr> |
+| <nobr>14</nobr> | <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 冯夷桥（冯姨桥） [?](http://www.china-qiao.com/ql15/jxql/jxql242.htm) | 石梁桥（三孔） | 28.7米 | 1936年 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/jxql/jxql257.htm) | 石拱桥（单孔） | 27.4米 | 民国二年（1913） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>嘉善县</nobr> | <nobr>干窑镇</nobr> | 晋贤桥 [?](http://www.china-qiao.com/ql15/jxql/jxql221.htm) | 石拱桥（单孔） | 27米 | 清乾隆三十年（1765）重建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>17</nobr> | <nobr>秀洲区</nobr> | <nobr>新城街道</nobr> | 里仁桥 [?](http://www.china-qiao.com/ql15/jxql/jxql354.htm) | 石拱桥（单孔） | 25米 | 清道光八年（1828）建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>18</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 闻店桥 [?](http://www.china-qiao.com/ql15/jxql/jxql044.htm) | 石拱桥（单孔） | 24.4米 | 清道光七年（1827）重建 | <nobr>市级文物保护点</nobr> |
+| <nobr>19</nobr> | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | 石梁桥（五孔） | 24米 | 清乾隆十四年（1749）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>嘉善县</nobr> | <nobr>姚庄镇</nobr> | 耳顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql313.htm) | 石梁桥（三孔） | 23.6米 | 清乾隆五年（1740）始建，清道光二年（1822）重建 | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 56 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 69 座中排序。
 
 ## 嘉兴市桥身刻字最早的前 20 名
 
@@ -143,7 +144,7 @@
 | <nobr>桐乡市</nobr> | <nobr>石门镇</nobr> | 油车桥 | — | — | 清 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 永顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql194.htm) | 石梁桥（七孔） | 40.3米 | 清光绪十二年（1886）始建 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 雨社永宁桥 | — | — | 清 | 桐乡市文物保护单位 |
-| <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 大洋桥 | — | — | 清 | 桐乡市文物保护单位 |
+| <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 大洋桥 [?](http://www.china-qiao.com/ql15/jxql/jxql193.htm) | 石梁桥（七孔） | 35米 | 清道光十年（1830）重建 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>濮院镇</nobr> | 重建双贤桥 | — | — | 清光绪十五年 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>濮院镇</nobr> | 重建升平桥 [?](http://www.china-qiao.com/ql15/jxql/jxql188.htm) | 石拱桥（单孔） | — | 民国十四年 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 福星桥 | — | — | 民国十七年 | 桐乡市文物保护单位 |
@@ -171,7 +172,7 @@
 | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 仁济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql152.htm) | 石拱桥（单孔） | 22.6米 | 清雍正十二年（1734）重建，清同治年间重建 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/jxql/jxql257.htm) | 石拱桥（单孔） | 27.4米 | 民国二年（1913） | 桐乡市文物保护单位 |
 | <nobr>平湖市</nobr> | <nobr>曹桥街道</nobr> | 丁店桥 | — | — | 明隆庆二年（1568） | 平湖市文物保护单位（第八批，2015年） |
-| <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 钟南仁寿桥 | — | — | 清乾隆元年（1736） | 平湖市文物保护单位（第八批，2015年） |
+| <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 钟南仁寿桥 [?](http://www.china-qiao.com/ql15/jxql/jxql099.htm) | 石梁桥（五孔） | — | 清乾隆元年（1736） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 利生桥 | — | — | 清嘉庆四年（1799） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>海盐县</nobr> | <nobr>武原街道</nobr> | 胥溪桥 | — | — | 元至清 | 海盐县文物保护单位 |
@@ -202,5 +203,9 @@
 数量较多，见各区县文件。
 
 ### 县级文物保护点（160 座）
+
+数量较多，见各区县文件。
+
+### 尚未定级（待核实）（48 座）
 
 数量较多，见各区县文件。
