@@ -34,7 +34,7 @@
 | <nobr>2</nobr> | <nobr>缙云县</nobr> | <nobr>东渡镇</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>缙云县</nobr> | <nobr>新建镇</nobr> | 公济桥 [?](http://www.china-qiao.com/ql15/lsql/lsql057.htm) | — | 87米 | 清咸丰年间建成 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>4</nobr> | <nobr>庆元县</nobr> | <nobr>竹口镇</nobr> | 阜梁桥 [?](http://www.china-qiao.com/ql15/lsql/lsql234.htm) | 石拱桥（三孔） | 76.8米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>5</nobr> | <nobr>龙泉市</nobr> | <nobr>西街街道</nobr> | 披云桥 [?](http://www.china-qiao.com/ql15/lsql/lsql312.htm) | — | 76米 | 元 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>5</nobr> | <nobr>龙泉市</nobr> | <nobr>西街街道</nobr> | 披云桥 [?](http://www.china-qiao.com/ql15/lsql/lsql312.htm) | 石梁桥（三孔） | 76米 | 元 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>6</nobr> | <nobr>松阳县</nobr> | <nobr>叶村乡</nobr> | 三济桥 [?](http://www.china-qiao.com/ql15/lsql/lsql077.htm) | 石拱桥（四孔） | 70.8米 | 民国 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>7</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 黄水长桥 [?](http://www.china-qiao.com/ql15/lsql/lsql121.htm) | 木拱廊桥 | 54.90米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>8</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 慕义桥 [?](http://www.china-qiao.com/ql15/lsql/lsql059.htm) | 石拱桥（三孔） | 53米 | 清道光十二年（1832）建 | <nobr>省级文物保护单位</nobr> |

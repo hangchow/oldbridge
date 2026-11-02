@@ -43,7 +43,7 @@
 | <nobr>9</nobr> | <nobr>海曙区</nobr> | <nobr>集士港镇</nobr> | 十三洞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql139.htm) | 石梁桥（十三孔） | 53.31米 | 清嘉庆年间建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/nbql/nbql080.htm) | — | 53米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>11</nobr> | <nobr>余姚市</nobr> | <nobr>余姚城区凤山街道</nobr> | 季卫桥 [?](http://www.china-qiao.com/ql15/nbql/nbql174.htm) | 石拱桥（三孔） | 51米 | 清道光十五年（1835）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>12</nobr> | <nobr>余姚市</nobr> | <nobr>兰江街道</nobr> | 永思桥 [?](http://www.china-qiao.com/ql15/nbql/nbql221.htm) | 石拱桥（三孔） | 50米 | 明 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>12</nobr> | <nobr>余姚市</nobr> | <nobr>兰江街道</nobr> | 永思桥 [?](http://www.china-qiao.com/ql15/nbql/nbql221.htm) | — | 50米 | 明 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>13</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 朱家渡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql081.htm) | 石梁桥（五孔） | 49.2米 | 清光绪二十四年（1898）重建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>14</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 鄞镇江桥 [?](http://www.china-qiao.com/ql15/nbql/nbql084.htm) | 石拱桥 | 48.7米 | 民国二十二年（1933）建 | <nobr>市级文物保护点</nobr> |
 | <nobr>15</nobr> | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 金银渡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql083.htm) | 石梁桥（五孔） | 46米 | 清道光三十年（1850）始建 | <nobr>市级文物保护点</nobr> |
@@ -118,7 +118,7 @@
 | <nobr>镇海区</nobr> | <nobr>骆驼街道</nobr> | 觐祖桥 [?](http://www.china-qiao.com/ql15/nbql/nbql094.htm) | 石拱桥（单孔） | 11.3米 | 清 | 镇海区文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>塘溪镇</nobr> | 金鸡堰桥 | — | — | 民国 | 鄞州区文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>塘溪镇</nobr> | 金鸡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql114.htm) | 石梁桥（六孔） | 28.1米 | 民国 | 鄞州区文物保护单位 |
-| <nobr>鄞州区</nobr> | <nobr>东吴镇</nobr> | 大涵山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql116.htm) | — | — | 清 | 鄞州区文物保护单位 |
+| <nobr>鄞州区</nobr> | <nobr>东吴镇</nobr> | 大涵山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql116.htm) | 石梁桥（三孔） | — | 清 | 鄞州区文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>东吴镇</nobr> | 贞寿桥 | — | — | 民国 | 鄞州区文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>姜山镇</nobr> | 定桥 [?](http://www.china-qiao.com/ql15/nbql/nbql128.htm) | 石拱桥（三孔） | 23.90米 | 清宣统三年（1911）重修 | 鄞州区文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>姜山镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql126.htm) | 石梁桥（三孔） | 30米 | 清 | 鄞州区文物保护单位 |

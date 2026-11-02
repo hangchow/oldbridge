@@ -46,7 +46,7 @@
 | <nobr>16</nobr> | <nobr>新昌县</nobr> | <nobr>沙溪镇</nobr> | 大庆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql380.htm) | 石拱桥（三孔） | 56米 | 清咸丰十一年（1861）建成 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>17</nobr> | <nobr>柯桥区</nobr> | <nobr>柯桥街道</nobr> | 接渡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql136.htm) | 石梁桥（单孔） | 55.45米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>18</nobr> | <nobr>柯桥区</nobr> | <nobr>安昌街道</nobr> | 朱公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql198.htm) | 石梁桥 | 51.4米 | 明 | <nobr>市级文物保护点</nobr> |
-| <nobr>19</nobr> | <nobr>嵊州市</nobr> | <nobr>石璜镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql444.htm) | 石梁桥（六孔） | 43米 | 清同治十年（1871）建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>19</nobr> | <nobr>嵊州市</nobr> | <nobr>石璜镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql444.htm) | — | 43米 | 清同治十年（1871）建 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>20</nobr> | <nobr>嵊州市</nobr> | <nobr>崇仁镇</nobr> | 新官桥 [?](http://www.china-qiao.com/ql15/sxql/sxql329.htm) | 石梁桥（七孔） | 42米 | 清 | <nobr>市级文物保护点</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 151 座中排序。

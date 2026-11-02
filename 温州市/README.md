@@ -32,7 +32,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>永嘉县</nobr> | <nobr>巽宅镇</nobr> | 巽宅石板桥 [?](http://www.china-qiao.com/ql15/wzql/wzql387.htm) | — | 89米 | 清乾隆年间始建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>1</nobr> | <nobr>永嘉县</nobr> | <nobr>巽宅镇</nobr> | 巽宅石板桥 [?](http://www.china-qiao.com/ql15/wzql/wzql387.htm) | 石梁桥（十七孔） | 89米 | 清乾隆年间始建 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>2</nobr> | <nobr>永嘉县</nobr> | <nobr>桥下镇</nobr> | 桐园石板桥 [?](http://www.china-qiao.com/ql15/wzql/wzql385.htm) | 石梁桥（十五孔） | 55.30米 | 民国 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>3</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 薛宅桥 [?](http://www.china-qiao.com/ql15/wzql/wzql181.htm) | 木拱廊桥 | 51米 | 清咸丰六年（1856）建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 文兴桥 [?](http://www.china-qiao.com/ql15/wzql/wzql187.htm) | 木拱廊桥 | 46.2米 | 清咸丰七年（1857）重修 | <nobr>全国重点文物保护单位</nobr> |
