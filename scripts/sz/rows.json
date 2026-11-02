@@ -47,9 +47,9 @@
 "level": "全国重点文物保护单位（第八批）",
 "doc": "2019-10-7公布",
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
-"note": "",
-"struct": "石拱桥残段（原七十二孔）",
-"len": "原长约450米（1967年坍塌，现存东西两端残段）"
+"note": "原桥七十二孔，长约450米，1967年坍塌；现存东西两端残段约16孔、长约84米（据百度百科“垂虹断桥”）",
+"struct": "石拱桥残段（现存东西两端约16孔，原七十二孔）",
+"len": "84米"
 },
 {
 "dist": "太仓市",
@@ -100,8 +100,8 @@
 "doc": "2002-10-22公布",
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
 "note": "具体年代据老百晓集桥（名录原写“元至清”）",
-"struct": "—",
-"len": "—"
+"struct": "石拱桥（单孔）",
+"len": "81.3米"
 },
 {
 "dist": "姑苏区",
@@ -113,7 +113,7 @@
 "doc": "2006-6-5公布",
 "src": "https://wglj.suzhou.gov.cn/szwhgdhlyj/whbf/201906/d7e226cf3cb543a49044ca851d06c12d.shtml",
 "note": "",
-"struct": "—",
+"struct": "石拱桥（单孔）",
 "len": "66.3米"
 },
 {

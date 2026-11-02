@@ -33,7 +33,7 @@
 |---|---|---|---|---|---|
 | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | 全国重点文物保护单位（大运河组成部分） |
 | <nobr>祥符街道</nobr> | 祥符桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql506.htm) | 石梁桥（五孔） | 28米 | 明 | 全国重点文物保护单位（大运河组成部分） |
-| <nobr>石桥街道</nobr> | 欢喜永宁桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql211.htm) | 石拱桥（单孔） | — | 清乾隆三十五年（1770）始建 | 全国重点文物保护单位（大运河组成部分） |
+| <nobr>石桥街道</nobr> | 欢喜永宁桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql211.htm) | 石拱桥（单孔） | 47米 | 清乾隆三十五年（1770）始建 | 全国重点文物保护单位（大运河组成部分） |
 
 ### 市级文物保护单位（5 座）
 

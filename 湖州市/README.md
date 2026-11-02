@@ -49,7 +49,7 @@
 | <nobr>19</nobr> | <nobr>长兴县</nobr> | <nobr>林城镇</nobr> | 畎（亩犬）桥 [?](http://www.china-qiao.com/ql15/hzql/hzql319.htm) | 石梁桥（七孔） | 34米 | 清重建（桥墩为宋元风格）；清同治九年（1870）重建 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>20</nobr> | <nobr>南浔区</nobr> | <nobr>菱湖镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/hzql/hzql136.htm) | 石拱桥（三孔） | 31.4米 | 明天顺元年（1457）建 | <nobr>省级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 99 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 100 座中排序。
 
 ## 湖州市桥身刻字最早的前 20 名
 
@@ -81,7 +81,7 @@
 | <nobr>德清县</nobr> | <nobr>下渚湖街道</nobr> | 寿昌桥 [?](http://www.china-qiao.com/ql15/hzql/hzql256.htm) | 石拱桥（单孔） | 35.2米 | 宋、元、明；南宋咸淳年间建 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>下渚湖街道</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql559.htm) | 石拱桥（单孔） | 17.30米 | 宋、元、明；南宋咸淳年间建 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>新安镇</nobr> | 万善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql556.htm) | 石拱桥（单孔） | 17.6米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
-| <nobr>德清县</nobr> | <nobr>雷甸镇</nobr> | 青云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql560.htm) | — | — | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
+| <nobr>德清县</nobr> | <nobr>雷甸镇</nobr> | 青云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql560.htm) | 石拱桥（单孔） | 14.2米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 兼济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 石梁桥（三孔） | 11米 | 宋、元、明；南宋乾道八年（1172）始建 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>钟管镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql558.htm) | 石梁桥（三孔） | 19米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 社桥 [?](http://www.china-qiao.com/ql15/hzql/hzql241.htm) | 石梁桥（五孔） | 42米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
