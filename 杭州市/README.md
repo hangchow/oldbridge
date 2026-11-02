@@ -62,11 +62,11 @@
 | <nobr>西湖区</nobr> | <nobr>留下街道</nobr> | [忠义桥](../文保名录/杭州市/云端档案/33_忠义桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 石拱桥（单孔） | 16.24米 | 南宋 | 全国重点文物保护单位（第八批） |
 | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明 | 全国重点文物保护单位（大运河组成部分） |
 | <nobr>拱墅区</nobr> | <nobr>祥符街道</nobr> | 祥符桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql506.htm) | 石梁桥（五孔） | 28米 | 明 | 全国重点文物保护单位（大运河组成部分） |
-| <nobr>拱墅区</nobr> | <nobr>石桥街道</nobr> | 欢喜永宁桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql211.htm) | — | — | 清 | 全国重点文物保护单位（大运河组成部分） |
+| <nobr>拱墅区</nobr> | <nobr>石桥街道</nobr> | 欢喜永宁桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql211.htm) | 石拱桥（单孔） | — | 清 | 全国重点文物保护单位（大运河组成部分） |
 | <nobr>临平区</nobr> | <nobr>临平街道</nobr> | 桂芳桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql283.htm) | 石拱桥（单孔） | 18.55米 | 清 | 全国重点文物保护单位（大运河组成部分） |
 | <nobr>临平区</nobr> | <nobr>塘栖镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql295.htm) | 石拱桥（七孔） | 89.71米 | 明 | 全国重点文物保护单位（大运河组成部分） |
 | <nobr>建德市</nobr> | <nobr>乾潭镇</nobr> | [西山桥](../文保名录/杭州市/云端档案/44_西山桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql329.htm) | 石拱桥（条石折边单拱） | 18米 | 南宋 | 全国重点文物保护单位（第七批） |
-| <nobr>建德市</nobr> | <nobr>大慈岩镇</nobr> | 万枝桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql572.htm) | — | 4.24米 | 明至民国 | 全国重点文物保护单位（新叶村乡土建筑组成部分，第七批） |
+| <nobr>建德市</nobr> | <nobr>大慈岩镇</nobr> | 万枝桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql572.htm) | 石梁桥（单孔） | 4.24米 | 明至民国 | 全国重点文物保护单位（新叶村乡土建筑组成部分，第七批） |
 | <nobr>建德市</nobr> | <nobr>大慈岩镇</nobr> | 神仙桥 | — | — | 明至民国 | 全国重点文物保护单位（新叶村乡土建筑组成部分，第七批） |
 
 ### 省级文物保护单位（6 座）

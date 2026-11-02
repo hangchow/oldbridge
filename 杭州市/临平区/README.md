@@ -73,14 +73,14 @@
 | <nobr>塘栖镇</nobr> | 车家桥 | — | — | 明 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 石灰桥 | — | — | 明 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 顺德桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql298.htm) | — | — | 明 | 一般不可移动文物（三普登录） |
-| <nobr>塘栖镇</nobr> | 吴家便桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql398.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
+| <nobr>塘栖镇</nobr> | 吴家便桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql398.htm) | 石梁桥（三孔） | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 鸭泾桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 西仁桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 广慧桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql525.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 斗珠桥 | — | — | 中华民国 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 秀才桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 畐公桥 | — | — | 清 | 一般不可移动文物（三普登录） |
-| <nobr>塘栖镇</nobr> | 李家桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql523.htm) | — | — | 中华民国 | 一般不可移动文物（三普登录） |
+| <nobr>塘栖镇</nobr> | 李家桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql523.htm) | 石梁桥（三孔） | — | 中华民国 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 得胜坝桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 万松桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>塘栖镇</nobr> | 仲公桥 | — | — | 清 | 一般不可移动文物（三普登录） |
@@ -102,16 +102,16 @@
 | <nobr>乔司街道</nobr> | 东港桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 四平桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 万善长生高桥 | — | — | 清 | 一般不可移动文物（三普登录） |
-| <nobr>崇贤街道</nobr> | 永新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql403.htm) | — | — | 中华民国 | 一般不可移动文物（三普登录） |
-| <nobr>崇贤街道</nobr> | 山后桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql286.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
+| <nobr>崇贤街道</nobr> | 永新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql403.htm) | 石梁桥（三孔） | — | 中华民国 | 一般不可移动文物（三普登录） |
+| <nobr>崇贤街道</nobr> | 山后桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql286.htm) | 石梁桥（三孔） | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 大有桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 凤凰桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql393.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 南马桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 沾桥村九曲桥 | — | — | 清 | 一般不可移动文物（三普登录） |
-| <nobr>崇贤街道</nobr> | 古斜桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql287.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
+| <nobr>崇贤街道</nobr> | 古斜桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql287.htm) | 石拱桥（单孔） | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 宋家路外桥 | — | — | 中华民国 | 一般不可移动文物（三普登录） |
 | <nobr>崇贤街道</nobr> | 范家角太平桥 | — | — | 明 | 一般不可移动文物（三普登录） |
-| <nobr>运河街道</nobr> | 七家桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql417.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
+| <nobr>运河街道</nobr> | 七家桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql417.htm) | 石梁桥（三孔） | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>运河街道</nobr> | 积善桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>运河街道</nobr> | 千户桥 | — | — | 中华民国 | 一般不可移动文物（三普登录） |
 | <nobr>运河街道</nobr> | 仁隐桥 | — | — | 中华民国 | 一般不可移动文物（三普登录） |
@@ -136,7 +136,7 @@
 | <nobr>南苑街道</nobr> | 韩家村古桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>南苑街道</nobr> | 东梅寺庙桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>临平街道</nobr> | 万寿桥 | — | — | 清 | 一般不可移动文物（三普登录） |
-| <nobr>临平街道</nobr> | 八字桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql296.htm) | — | — | 清 | 一般不可移动文物（三普登录） |
+| <nobr>临平街道</nobr> | 八字桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql296.htm) | 石拱桥（三孔） | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>临平街道</nobr> | 夏家桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>临平街道</nobr> | 弗儿堰桥 | — | — | 清 | 一般不可移动文物（三普登录） |
 | <nobr>临平街道</nobr> | 胡桥太平桥 | — | — | 清 | 一般不可移动文物（三普登录） |

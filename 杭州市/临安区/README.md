@@ -66,7 +66,7 @@
 | <nobr>岛石镇</nobr> | 卫阳桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>湍口镇</nobr> | 塘溪桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>高虹镇</nobr> | 虹桥 | — | — | 清 | 杭州市文物保护点 |
-| <nobr>锦城街道</nobr> | 独山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql578.htm) | — | 23米 | 清 | 杭州市文物保护点 |
+| <nobr>锦城街道</nobr> | 独山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql578.htm) | 石梁桥（三孔） | 23米 | 清 | 杭州市文物保护点 |
 | <nobr>板桥镇</nobr> | 万年桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql581.htm) | 石拱桥（单孔） | 5.2米 | 民国 | 杭州市文物保护点 |
 | <nobr>昌化镇</nobr> | 市溪桥 | — | — | 清 | 杭州市文物保护点 |
 | <nobr>太湖源镇</nobr> | 苕tiáo sháo源桥 | — | — | 清 | 杭州市文物保护点 |

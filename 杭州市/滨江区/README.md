@@ -36,5 +36,5 @@
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|
-| <nobr>长河街道</nobr> | 荚竹山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql244.htm) | 石梁桥 | 18.7米 | 明 | 杭州市文物保护点 |
+| <nobr>长河街道</nobr> | 荚竹山桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql244.htm) | 石梁桥（三孔） | 18.7米 | 明 | 杭州市文物保护点 |
 | <nobr>西兴街道</nobr> | 屋子桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql242.htm) | 石拱桥（单孔） | 8.8米 | 清 | 杭州市文物保护点 |
