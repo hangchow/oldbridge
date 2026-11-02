@@ -16,10 +16,13 @@ def era_of(h):
     if not m: return '—'
     if m.group(1): return {'宋代': '宋', '元代': '元', '明代': '明', '清代': '清', '唐代': '唐'}.get(m.group(1), m.group(1))
     return REIGN[m.group(2)]
+# 标题没写区县、或同名候选其实不是同一座桥的页面：人工补区县、乡镇，清掉候选
+PAGEFIX = json.load(open(S + '/build/unlisted_pagefix.json')) if os.path.exists(S + '/build/unlisted_pagefix.json') else {}
 OUT = {}
 for city, L in O.items():
     rows = []
     for o in L:
+        o = dict(o, **PAGEFIX.get(o['page'], {}))
         if o['cand'] or not o['dist']: continue
         town = re.sub('^' + o['dist'], '', o['town'] or '')
         town = re.sub(r'^(县|市|区)', '', town)
@@ -46,7 +49,7 @@ for city, rows in OUT.items():
         v = dd.get(f"{r['dist']}|{r['town']}|{r['name']}", dd.get(f"{r['dist']}|{r['name']}"))
         if isinstance(v, str) and v.startswith('DROP'): continue
         if isinstance(v, dict):   # 改名、改乡镇、页面写明的文保等级
-            for kk in ('name', 'town', 'lv', 'lvnote'):
+            for kk in ('dist', 'name', 'town', 'lv', 'lvnote'):
                 if kk in v: r[kk] = v[kk]
             v = v.get('era')
         if v is not None: r['era'] = v

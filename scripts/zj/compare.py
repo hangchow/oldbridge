@@ -13,6 +13,8 @@ CQ = json.load(open(S + '/build/cqlinks.json'))
 MOD = re.compile(r'大桥|高架|隧道|立交|互通|铁路|公路|高速|地铁|枢纽|跨线|天桥|匝道|快速|大道|钢|复线|一桥|二桥|三桥|四桥|绿道|栈道|玻璃|悬索|索桥|路桥|人行桥|景区|公园|湿地|水泥|闸桥$|码头|河桥$|江桥$|港桥$|塘桥$|运河桥|新桥$|跨海|机场|渡槽|浮桥')
 OLD = re.compile(r'(宋|元代|元朝|明代|明朝|清代|清朝|民国|乾隆|康熙|嘉庆|道光|光绪|同治|咸丰|雍正|宣统|顺治|万历|嘉靖|洪武|正德|弘治|成化|天启|崇祯|隆庆|永乐|宣德|正统|景泰|天顺|至正|绍兴|淳熙|嘉定|咸淳|宝祐)')
 NEWB = re.compile(r'(19[5-9]\d|20[0-2]\d)年?[^，。]{0,12}(重建|新建|改建|建成|拆除|拆建|翻建|拓宽|移建)|钢筋|混凝土|水泥桥|已拆|被拆|消失|不存|已毁|毁于')
+STONE = re.compile(r'石拱|石梁|石板桥|条石|青石|花岗|古桥')
+MODX = re.compile(r'(19[5-9]\d|20[0-2]\d)年?[^，。]{0,10}(建成|新建|建造|竣工|通车)|钢筋|混凝土|钢')
 def text(p, base):
     f = S + '/cqv/' + (base + p).replace('/', '_')
     if not os.path.exists(f) or os.path.getsize(f) == 0:
@@ -38,7 +40,9 @@ for city in sys.argv[1:]:
         if base + p in used: res['已链接'] += 1; continue
         if MOD.search(t): res['名称为现代桥'] += 1; continue
         x = text(p, base)
-        if not OLD.search(x[:600]): res['没写古代年代'] += 1; continue
+        if not OLD.search(x[:600]):   # 没写古代年代：页面像古石桥的也留下，逐座核对
+            if not (STONE.search(x) and not MODX.search(x[:800])): res['没写古代年代'] += 1; continue
+            res['没写年代但像古石桥'] += 1
         if NEWB.search(x[:600]): res['现桥为近现代重建/已毁/水泥'] += 1; continue
         tt = re.sub('^' + city, '', t)
         d = next((d for d in DISTS[city] if tt.startswith(d) or tt.startswith(d[:2])), None)
@@ -49,6 +53,7 @@ for city in sys.argv[1:]:
         if town: cand = [r for r in cand if r['town'] in ('—', '') or r['town'][:2] == town[:2]] or cand
         out.append(dict(page=base + p, title=t, dist=d, town=town, name=nm, cand=[(r['dist'], r['town'], r['name']) for r in cand], head=x[:260]))
         res['古桥待处理'] += 1
+    pg = {o['page'] for o in out}; out += [o for o in OUTALL.get(city, []) if o['page'] not in pg]   # 保留上次的结果（已收录的页面这次算“已链接”）
     OUTALL[city] = out
     print(city, len(idx), dict(res), '其中项目已有候选', sum(1 for o in out if o['cand']))
 json.dump(OUTALL, open(S + '/build/compare_raw.json', 'w'), ensure_ascii=False, indent=1)
