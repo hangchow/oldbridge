@@ -30,7 +30,7 @@ R = []
 def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote=''):
     if dist not in DISTS or not name: return
     era = era or '—'
-    if re.search(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return
+    if re.match(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return   # 只看建造年代开头，括号里的重修年份不算
     for r in R:
         if r['dist'] == dist and core(r['name']) == core(name):
             if LV[lv] < LV[r['lvk']]:
