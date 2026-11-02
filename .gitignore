@@ -1,1 +1,10 @@
 .DS_Store
+scripts/cqv/
+scripts/cq2/**/*.htm
+scripts/cq2/**/*.html
+scripts/cq2/*.htm
+scripts/cq2/*.html
+scripts/cq2/img_*
+scripts/l4/*.html
+scripts/l4/dl/
+__pycache__/

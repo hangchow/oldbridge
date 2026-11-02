@@ -1,0 +1,51 @@
+以下为温州市[[瓯海区]]范围内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下为瓯海区范围内的[[全国重点文物保护单位]]<ref>{{cite web |url = http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |title = 全国重点文物保护单位 |publisher = 中国文化遗产-中国文物信息咨询中心网站 |date= |accessdate=2009-06-21 |deadurl=yes |archiveurl = https://web.archive.org/web/20100315033814/http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |archivedate=2010-03-15 |language = zh }}</ref>
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[四连碓造纸作坊]]
+|5-517
+|其他
+|瓯海区泽雅镇
+|[[明]]
+| [[File:泽雅四连碓.JPG|180px]]
+|}
+
+==浙江省文物保护单位==
+以下为瓯海区范围内的[[浙江省文物保护单位]]：
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[圣寿禅寺]]||4-39|| || || ||
+|-
+|[[陈傅良墓]]、[[陈傅良祠|祠]]||4-20|| || || ||
+|-
+|[[三垟周氏旧宅]]||5-137|| || || ||
+|-
+|[[琦君故居]]||7-237|| || || ||
+|-
+|[[陈庄金锁桥]]||8-29|| 古建筑|| 瓯海区潘桥街道||宋 ||
+|-
+|}
+
+==参考文献及注释==
+{{Reflist|25em}}
+
+{{浙江各级文物保护单位}}
+[[Category:温州市境内的文物保护单位列表]]
+[[Category:瓯海区]]

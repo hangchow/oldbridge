@@ -1,0 +1,193 @@
+本表列出的是:'''[[黄浦区]]区级[[文物保护单位]]'''，关于黄浦区境内的[[全国重点文物保护单位]]和上海市市级文物保护单位，请分别参见[[上海全国重点文物保护单位列表]]和[[上海市文物保护单位#黄浦区（53处）|上海市文物保护单位]]。
+
+==区级文物保护单位==
+<center>
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[徐光启祠堂]]
+|光启南路232弄1号
+|1962.5{{noteTag|name="南市区"|南市区人民委员会公布}}
+|
+|-
+|[[上海公共租界老闸捕房|英租界老闸捕房]]
+|贵州路101号
+|1985.1.18
+|style="padding:0" |[[File:Louza Station.jpg|125px]]
+|-
+|[[大韩民国临时政府旧址 (上海)|大韩民国临时政府旧址]]
+|马当路306弄4号
+|1990.6.5{{noteTag|name="卢湾区"|卢湾区人民政府公布}}
+|style="padding:0" |[[File:Provisional Government of the Republic of Korea2.jpg|125px]]
+|-
+|[[上海孙中山行馆旧址]]
+|淮海中路650弄3号
+|1996.5.15{{noteTag|name="卢湾区"}}
+|style="padding:0" |[[File:Shanghai Sunzhongshanxingguan Jiuzhi.jpg|125px]]
+|-
+|[[明复图书馆|中国科学社暨明复图书馆旧址]]
+|陕西南路235号
+|1996.5.15
+|
+|-
+|[[敬一堂 (上海)|世春堂]]
+|梧桐路137号
+|2000.5.22
+|style="padding:0" |[[File:Shichuntang.JPG|125px]]
+|-
+|[[梨园公所]]
+|方浜中路593号
+|2000.5.22
+|style="padding:0" |[[File:上海梨園公所.jpg|125px]]
+|-
+|[[慈修庵]]
+|榛岭街15号
+|2000.5.22
+|
+|-
+|[[福佑路清真寺]]
+|福佑路378号
+|2000.5.22
+|style="padding:0" |[[File:Fuyou Road Mosque.JPG|125px]]
+|-
+|[[海上白云观]]
+|大境路239号
+|2000.5.22
+|style="padding:0" |[[File:TempleNuageBlancShanghai02.jpg|125px]]
+|-
+|[[小南门警钟楼|火警钟楼]]<br>[[上海救火联合会]]
+|中华路581号
+|2000.5.22
+|style="padding:0" |[[File:Bell Tower at Xiaonanmen.jpg|125px]]
+|-
+|[[万竹小学堂]]
+|露香园路242号
+|2000.5.22
+|
+|-
+|[[梓园]]
+|乔家路113号
+|2000.5.22
+|style="padding:0" |[[File:Ziyuan.jpg|125px]]
+|-
+|[[小桃园清真寺]]
+|小桃园街52号
+|2000.5.22
+|style="padding:0" |[[File:Xiaotaoyuan Mosque.JPG|125px]]
+|-
+|[[上海特别市临时政府]]
+|蓬莱路171号
+|2000.5.22
+|style="padding:0" |[[File:Former Municipal Building of the Provisional Municipal Government of Shanghai Municipality.jpg|125px]]
+|-
+|[[大同幼稚园旧址]]
+|南昌路48号
+|2007.12.29
+|style="padding:0" |[[File:Datong Youzhiyuan Jiuzhi.JPG|125px]]
+|-
+|[[煦园]]
+|延安中路549号
+|2007.12.29
+|
+|-
+|[[中国农工民主党第一次全国干部会议会址]]
+|淡水路332弄1号
+|2007.12.29
+|
+|-
+|[[法藏讲寺]]
+|吉安路271号
+|2007.12.29
+|style="padding:0" |[[File:Fazang Jiangsi.jpg|125px]]
+|-
+|[[淮海坊|巴金旧居]]
+|淮海中路927弄59号
+|2007.12.29
+|style="padding:0" |[[File:Bajin Jiuju (Huaihaifang).jpg|125px]]
+|-
+|[[浙绍永锡堂大殿（古戏台）旧址]]
+|丽园路650号
+|2008.6.12
+|
+|-
+|[[中华学艺社旧址]]
+|绍兴路7号
+|2008.6.12
+|style="padding:0"|[[File:Zhonghua Xueyishe Jiuzhi.JPG|125px]]
+|-
+|[[梅兰芳故居#上海的梅兰芳故居|梅兰芳旧居]]
+|思南路87号
+|2008.6.12
+|
+|-
+|[[张充仁旧居]]
+|合肥路592弄25号
+|2008.6.12
+|
+|-
+|[[淮海坊|徐悲鸿旧居]]
+|淮海中路927弄99号
+|2008.6.12
+|style="padding:0" |[[File:Xubeihong Jiuju.jpg|125px]]
+|-
+|[[震旦大学|震旦学院]][[上海交通大学医学院|旧址]][[上海交通大学卢湾校区|（一舍、四舍、八舍）]]
+|重庆南路227号
+|2009.6.5
+|style="padding:0" |[[File:Zhendanxueyuan Jiuzhi.jpg|125px]]
+|-
+|rowspan="3"|[[复兴公园|复兴公园（玫瑰园、大草坪、沉床花坛、水榭）]]
+|rowspan="3"|复兴中路516号
+|rowspan="3"|2009.6.5
+|style="padding:0" |[[File:Fuxing Park 2230.JPG|125px]]
+|-
+|style="padding:0" |[[File:Fuxing Park, Shanghai.JPG|125px]]
+|-
+|style="padding:0" |[[File:Shanghai, China, December 2015 - 059.JPG|125px]]
+|-
+|[[花园住宅]]
+|绍兴路5号
+|2009.6.5
+|
+|-
+|[[花园住宅]]
+|绍兴路54号
+|2009.6.5
+|
+|-
+|[[刘海粟旧居]]
+|复兴中路512号
+|2009.6.5
+|style="padding:0" |[[File:Former Residence of Liu Haisu.JPG|125px]]
+|-
+|[[林风眠旧居]]
+|南昌路53号
+|2009.6.5
+|style="padding:0" |[[File:Linfengmian Jiuju.jpg|125px]]
+|-
+|[[中国青年新闻记者协会成立会址]]
+|山西南路200号
+|2010.3.11
+|style="padding:0" |[[File:Nankin Hotel Shanghai.JPG|125px]]
+|}
+</center>
+
+==注释==
+{{NoteFoot}}
+==参考文献==
+*{{cite web |language =  |publisher = 上海市文化广播影视管理局 |title = 黄浦区县级文物保护单位、登记不可移动文物 |url = http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75610.html |author = 上海市文化广播影视管理局 |date = 2011-10-28 |accessdate =  |archiveurl = https://web.archive.org/web/20120512174125/http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75610.html |archivedate = 2012-05-12 |dead-url = no }}
+*《黄浦区志》>>第十一编特色建筑
+*《黄浦区续志》>>第四十编专记>>一、优秀近代建筑
+*《南市区志》>>第三编老城厢>>第六章人文景观
+*《南市区志》>>第三十编文化>>第四章文物古迹、革命遗址
+*《南市区续志》>>第三十四编文化>>第一章文物古迹、革命遗址
+*《卢湾区志》>>第十四编革命史迹
+*《卢湾区志》>>第三十四编专记>>大韩民国临时政府
+*《话说上海·卢湾卷》
+
+{{上海市各区县文物保护单位索引}}
+
+[[Category:黄浦区文物保护单位|*]]

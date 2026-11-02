@@ -1,0 +1,176 @@
+{{redirect|富阳|广西富川瑶族自治县下辖的镇|富阳镇}}
+{{Infobox China County
+| county = 富阳区
+| usedname = 
+| nameorigin = 地处[[富春江]]北岸
+| Photo = Fuyang in winter.jpg
+| Photoname = 
+| map = 
+| map_caption = 
+| coordinates = {{Coord|30|3|2|N|119|57|20|E|region:CN-ZJ|display=inline,title}}
+| Pinyin =  Fùyáng Shì
+| Belong = [[浙江省]][[杭州市]]
+| Types = [[市辖区]]
+| admincode =  330111
+| founded = 
+| seat = [[富春街道]]
+| officerTitle = 
+| officer = 
+| officerTitle2 = 
+| officer2 = 
+| division = 
+| town = 
+| township = 
+| subdistrict = 
+| dialect = 
+| post code = 311400
+| phone code = 571
+| coordinate = 
+| area = 1831平方千米
+| area land = 
+| area water = 
+| census yr = 2022年
+| pop = 常住人口83.9万
+| density = 
+| GDP = 571.4亿
+| GDP_as_of = 2013年
+| GDPPC = 
+| carlicense = 浙A
+| web = www.fuyang.gov.cn
+| web_title = 富阳区政府网
+}}
+'''富阳区'''，古代至宋以前多稱'''富春'''{{NoteTag|現富陽區境內還有古代的稱作「新城」、民國改爲「新登」之地}}，是[[中华人民共和国]][[浙江省]][[杭州市]]的[[市辖区 (中华人民共和国)|市轄區]]，位于杭州市西南部，与[[西湖区 (杭州市)|西湖区]]、[[萧山区]]、[[余杭区]]、[[临安区]]和[[桐庐县]]接壤，距杭州市中心32公里，辖区总面积为1831平方公里，[[富春江]]（[[钱塘江]]上游）横贯全境。區人民政府駐[[富春街道]]桂花路25号。
+
+== 历史 ==
+富阳古称富春，[[前221年]][[秦朝]]置县，至今已有2200多年的历史。[[东晋]]期间，为避[[張春華]]讳，富春县改名为[[富阳县]]；[[后梁]]时期富阳县改名为富春县；到[[宋代]]恢复为富阳县至今。[[三国]][[孫吳]]析设出[[新城县 (东吴)|新城县]]，此后反复多次置废；1914年因新城县在全国范围内多处重名而更名为新登县。1961年以原富阳、新登两县行政区域合并设立新的富阳县。1994年撤县设市。2014年12月，宣布撤销县级富阳市，设立杭州市富阳区，2015年2月，撤市设区挂牌。<ref>{{Cite web |url=http://news.163.com/15/0215/19/AIH3IVH800014SEH.html |title=存档副本 |access-date=2015-02-15 |archive-url=https://web.archive.org/web/20150402134813/http://news.163.com/15/0215/19/AIH3IVH800014SEH.html |archive-date=2015-04-02 |dead-url=yes }}</ref>
+
+== 地理 ==
+富阳地形为“八山半水分半田”，全区东北部为平原地形，其余均为[[丘陵]]。境内山清水秀、风光秀丽，一川如画的富春江横贯全境52公里，两岸春夏秋冬每个时节都有不同的景色，既赋山城之美，又具江城之秀，是典型的江南山水城区，素有“天下佳山水，古今推富春”之美誉。
+
+[[File:Tangzhao Village, Xintong Township, Fuyang District 20241202121712.jpg|thumb|right|240px|桐州岛，位于辖区西境富春江中]]
+
+富阳属亚热带季风气候，四季分明、雨热同期、日照充足。1月平均气温4.3℃，7月平均气温28.8℃，年平均气温16.7℃。极端最高气温42.8℃（2013年8月10日）<ref>http://www.fyqx.com/nyqx/nyqx.asp?id=593{{dead link|date=2017年12月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>，极端最低气温-14.4℃（1977年1月5日）<ref>{{Cite web |url=http://www.fynews.com.cn/html/2013/12/23/084134781.htm |title=存档副本 |access-date=2014-08-30 |archive-date=2020-12-12 |archive-url=https://web.archive.org/web/20201212032147/http://www.fynews.com.cn/html/2013/12/23/084134781.htm |dead-url=no }}</ref>。年降水量1477.9毫米。年日照时数1698.7小时。
+
+{{Infobox Weather
+|single_line= Yes
+|metric_first = Yes
+|location = 富阳区（1981－2010年）
+|Jan_MEAN_°C =4.3
+|Feb_MEAN_°C =6.3
+|Mar_MEAN_°C =10.2
+|Apr_MEAN_°C =16.2
+|May_MEAN_°C =21.4
+|Jun_MEAN_°C =24.8
+|Jul_MEAN_°C =28.8
+|Aug_MEAN_°C =28.1
+|Sep_MEAN_°C =23.7
+|Oct_MEAN_°C =18.2
+|Nov_MEAN_°C =12.2
+|Dec_MEAN_°C =6.3
+|Year_MEAN_°C = 16.7
+|scprecip = green
+|Jan_Precip_mm = 78.9
+|Feb_Precip_mm = 90.6
+|Mar_Precip_mm = 140.9
+|Apr_Precip_mm = 135.7
+|May_Precip_mm = 140.9
+|Jun_Precip_mm = 226.5
+|Jul_Precip_mm = 185.2
+|Aug_Precip_mm = 164.2
+|Sep_Precip_mm = 124.9
+|Oct_Precip_mm = 71.2
+|Nov_Precip_mm = 69.7
+|Dec_Precip_mm = 49.2
+|Year_Precip_mm = 1477.9
+|Jan_Sun= 100.8
+|Feb_Sun= 95.5
+|Mar_Sun= 115.5
+|Apr_Sun= 138.3
+|May_Sun= 162.3
+|Jun_Sun= 140.8
+|Jul_Sun= 217.5
+|Aug_Sun= 195.9
+|Sep_Sun= 140.2
+|Oct_Sun= 141.2
+|Nov_Sun= 125.3
+|Dec_Sun= 125.4
+|Year_Sun= 1698.7
+|Unit_Precip_days = 0.1 mm
+|Jan_Precip_days = 13
+|Feb_Precip_days = 13
+|Mar_Precip_days = 16
+|Apr_Precip_days = 15
+|May_Precip_days = 14
+|Jun_Precip_days = 15
+|Jul_Precip_days = 12
+|Aug_Precip_days = 14
+|Sep_Precip_days = 12
+|Oct_Precip_days = 9
+|Nov_Precip_days = 9
+|Dec_Precip_days = 9
+|source = 富阳农业气象<ref>http://www.fyqx.com/nyqx/nyqxlist.asp?lb=5{{dead link|date=2017年12月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|accessdate = 
+}}
+
+== 行政区划 ==
+下辖5个街道、13个镇、6个乡：<ref>{{cite web |url=http://www.fynews.com.cn/html/2013/07/01/074324328.htm |language= |title=高桥受降两镇合二为一富阳银湖街道挂牌成立 |publisher=富阳新闻网 |date=2013年7月1日 |accessdate= |archive-url=https://web.archive.org/web/20150924020310/http://www.fynews.com.cn/html/2013/07/01/074324328.htm |archive-date=2015年9月24日 |dead-url=yes }}</ref><ref>{{PRC admin/ref sgc|33/01/83/000/000}}</ref>
+
+{{PRC admin/children|33/01/83/000/000}}。
+
+{| class="wikitable" style="text-align:center; width: 700px"
+! colspan="6" |富阳区行政区划图
+|-
+| colspan="6" |{{center|
+[[File:Administrative Division Fuyang Hangzhou.svg|500px]]
+
+{{Image label end}}
+}}
+|}
+
+== 人口 ==
+户籍人口65.9万（常住人口83.20万，[[中华人民共和国第七次全国人口普查|第七次全国人口普查]]）。
+
+'''2022年初'''全区常住人口83.9万人。年末全区户籍总人口694913人，增长5.5‰；出生人口5207人，出生率7.5‰； 死亡人口4161人，死亡率6.0‰，自然增长率1.5‰。登记在册的流动人口数282192人，增长2.7%。<ref>{{Cite web|title=2022年[杭州]富阳区人口第七次人口普查有多少-红黑人口库|url=https://www.hongheiku.com/xianjirank/zhejiangxj/4638.html|access-date=2023-04-12|website=www.hongheiku.com|archive-date=2021-12-05|archive-url=https://web.archive.org/web/20211205231130/https://www.hongheiku.com/xianjirank/zhejiangxj/4638.html|dead-url=no}}</ref>
+
+== 交通 ==
+* {{中国国道名|320}}过境。
+*[[杭州地铁6号线]]富阳段与主城区相连。
+
+== 经济 ==
+富阳区曾被多次评为全国综合实力百强縣，2008年排名[http://unn.people.com.cn/GB/14748/7476673.html 第26位] {{Wayback|url=http://unn.people.com.cn/GB/14748/7476673.html |date=20160304115958 }}。其综合竞争能力[[中国百强县#县域经济论坛评价|2010年位居浙江省县（市）的第八位，全国百强县（市）列第三十位]]。2023年，全市实现生产总值900亿元<ref name=":0">{{Cite web|title=2023年富阳区政府工作报告（全文）|url=http://www.fuyang.gov.cn/art/2023/2/21/art_1385742_59312969.html|archive-date=2023-03-05|access-date=2023-03-05|archive-url=https://web.archive.org/web/20230305212112/http://www.fuyang.gov.cn/art/2023/2/21/art_1385742_59312969.html|dead-url=no}}</ref>；财政总收入150亿元<ref>{{Cite web|date=2022-12-30|title=关于杭州市富阳区2022年财政收支预算调整的报告|url=http://www.fuyang.gov.cn/art/2022/12/30/art_1406056_59307271.html|access-date=2023-03-05|archive-date=2023-03-05|archive-url=https://web.archive.org/web/20230305212106/http://www.fuyang.gov.cn/art/2022/12/30/art_1406056_59307271.html|dead-url=no}}</ref>，城镇和农村居民人均可支配收入达71742元和44661元，分别增长3.5%和6.2%。综合实力在全国百强区排名第49位，投资潜力排名第55位，连续3年获评中国最具幸福感城区。<ref name=":0" />
+
+富阳是浙江省14个工业产值超千亿元的县（市、区）之一，拥有造纸、通信器材、有色金属加工、新型建材、机械电子、生物医药、轻纺、体育用品等特色产业，以及国家（富阳）光纤光缆产业园、中国白板纸基地、中国球拍之乡、中国赛艇之乡等四大产业品牌。农业则主产[[粮食]]、[[茶叶]]、[[蚕|蚕茧]]、豆腐皮、元书纸等，特产有安顶云雾茶、东坞山豆腐皮、新登半山鲜桃、洞桥香榧等{{cn}}。
+
+[[富阳经济技术开发区]]于2012年10月晋级国家级经济技术开发区。<ref>{{cite web |url=http://ori.hangzhou.com.cn/ornews/content/2012-12/18/content_4525866.htm |language= |title=富阳经济技术开发区荣升“国字号”金名片(图) |publisher=杭州网 |date=2012-12-18 |accessdate= |archive-date=2013-03-15 |archive-url=https://web.archive.org/web/20130315184906/http://ori.hangzhou.com.cn/ornews/content/2012-12/18/content_4525866.htm |dead-url=no }}</ref>
+
+== 文化 ==
+
+境内有保存完好的明清建筑群、孙权后裔聚居地龙门古镇，[[黄公望]]隐居地，郁达夫故居等人文名胜。富阳是《[[富春山居图]]》的原创地和实景地，600多年前元代大画家黄公望在富春江畔结庐隐居，创作了绝世名画《富春山居图》。2011年，分隔海峡两岸的《富春山居图》在台北[[國立故宮博物院]]首次合璧展出。2006年，富阳竹纸传统技艺经国务院批准，列入第一批国家级[[非物质文化遗产]]名录。2009年，富阳成为[[郁达夫小说奖]]永久颁奖地。2012年，富阳被命名为“中国[[书法]]之乡”。
+
+== 旅游 ==
+[[富春江]]为国家级风景名胜区。富阳境内拥有华东地区最大的[[杭州野生动物世界|野生动物世界]]（国家AAAA级景区），保留明清建筑特色的孙权后裔聚居地[[龙门镇_(富阳市)|龙门古镇]]（国家AAAA级景区），再现造纸印刷两大发明的中国古代造纸印刷文化村，亚太地区第一洞厅的[[碧云洞]]（所在富春桃源景区为国家AAAA级景区），新沙岛、黄公望隐居地、鹳山、天钟山，以及富春山居国际[[高尔夫球]]场、国家级永安山滑翔伞基地、桐洲岛皮划艇基地等运动休闲基地。
+
+== 知名人物 ==
+{{Category see also|富阳人}}
+富阳是三国吴大帝[[孙权]]，唐代书法家[[孙过庭]]，晚唐诗人[[罗隐]]，清代父子尚书[[董诰]]、[[董邦达]]，现代文学家[[郁达夫]]、[[茅盾文学奖]]获得者[[麦家]]的故乡。
+
+== 註釋 ==
+{{NoteFoot}}
+
+== 参考文献 ==
+{{Wikisourcehas|民政部关于浙江省撤销富阳县设立富阳市的批复|国务院关于同意浙江省调整杭州市部分行政区划的批复 (2014年)}}
+{{reflist}}
+*[https://web.archive.org/web/20110728172859/http://www.fynews.com.cn/html/2011/05/23/080942046.htm 富阳市2010年第六次全国人口普查主要数据公报]
+
+{{富阳区行政区划}}
+{{杭州市行政区划}}
+{{浙江行政区划}}
+{{中华人民共和国国家卫生城市}}
+{{杭州市}}
+{{Authority control}}
+
+[[Category:富阳区| ]]
+[[Category:杭州市辖区]]
+[[Category:国家卫生城市|浙]]
+[[Category:2014年杭州建立]]
+[[Category:前221年建立的行政区划]]

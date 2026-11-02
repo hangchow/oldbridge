@@ -1,0 +1,94 @@
+以下为温州市[[鹿城区]]范围内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下为鹿城区范围内的[[全国重点文物保护单位]]<ref>{{cite web |url = http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |title = 全国重点文物保护单位 |publisher = 中国文化遗产-中国文物信息咨询中心网站 |date= |accessdate=2009-06-21 |deadurl=yes |archiveurl = https://web.archive.org/web/20100315033814/http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |archivedate=2010-03-15 |language = zh }}</ref>
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[曹湾山遗址]]（老鼠山遗址）
+|7-0168-1-168
+|古遗址
+|鹿城区上戍乡渡头村 
+|	新石器时代
+|
+|-
+|[[英国驻温州领事馆旧址]]||8-0581-5-065<ref>{{cite web|title=国务院关于核定并公布第八批全国重点文物保护单位的通知|website=中国政府网|publisher=中国国务院|date=2019-10-16|url=http://www.gov.cn/zhengce/content/2019-10/16/content_5440577.htm|archive-url=https://web.archive.org/web/20191016134146/http://www.gov.cn/zhengce/content/2019-10/16/content_5440577.htm|archive-date=2019-10-16|dead-url=no|accessdate=2019-10-18}}</ref>||近现代重要史迹及代表性建筑||[[江心屿]]温州近代开埠史馆<ref name=news2>{{cite news|author=<!--Staff writer(s); no by-line.-->|title=江心屿英国驻温领事馆旧址“变身” 讲述难忘历史|url=http://news.66wz.com/system/2019/10/08/105199843.shtml|newspaper=温州晚报|date=2019-10-08|access-date=2019-10-18|archive-date=2020-12-12|archive-url=https://web.archive.org/web/20201212044208/http://news.66wz.com/system/2019/10/08/105199843.shtml|dead-url=no}}</ref>||1894年－1924年||[[File:Jiangxinyu 2016.3.13-1.jpg|180px]]
+|-
+|}
+==浙江省文物保护单位==
+以下为鹿城区范围内的[[浙江省文物保护单位]]：
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[叶适墓]]||2-28|| || || ||[[File:南宋龙泉窑叶适青瓷墓志.jpg|120px]]
+|-
+|[[文天祥祠 (温州)|文天祥祠]]||2-30|| || || ||[[File:The Memorial Temple for Wen Tianxiang in Wenzhou 01 2018-10.jpg|120px]]
+|-
+|[[正和堂窑址]]||3-40|| || || ||
+|-
+|[[铁栏井]]||4-90|| || || ||[[File:铁栏井2.jpg|120px]]
+|-
+|[[温州城西堂|城西基督教堂]]||4-107|| || || ||[[File:城西基督堂1.jpg|120px]]
+|-
+|[[寺前桥]]||6-76|| || || ||
+|-
+|[[江心屿东、西塔]]||6-84|| || || ||[[File:The West Pagoda in Mid River Islet 06 2018-10.jpg|120px]] [[File:The East Pagoda in Mid River Islet 06 2018-10.jpg|120px]]
+|-
+|[[江心寺]]||6-156|| || || ||[[File:Jiangxin Temple 07 2018-10.jpg|120px]]
+|-
+|[[浩然楼]]||6-157|| || || ||[[File:Haoran Pavilion 05 2018-10.jpg|120px]]
+|-
+|[[程让平祖居]]||6-270|| || || ||
+|-
+|[[周宅祠巷圣保禄堂|温州天主教总堂]]||6-271|| || || ||[[File:周宅祠巷天主堂.jpg|120px]]
+|-
+|[[温州谯楼|谯楼]]||6-310|| || || ||[[File:The Gate of Ancient Wenzhou Government Office 04 2018-10.jpg|120px]]
+|-
+|[[飞鹏巷陈宅]]||6-311|| || || ||[[File:飞鹏巷陈宅.jpg|120px]]
+|-
+|[[夏鼐故居]]||6-312|| || || ||[[File:Former Residence of Xia Nai 01 2018-10.jpg|80px]]
+|-
+|[[永川轮船局旧址]]||6-313|| || || ||
+|-
+|[[开平闸遗址]]||7-16|| || || ||
+|-
+|[[二十八宿井]]||7-38|| || || ||[[File:White Deer Nunnery Well 03 2018-10.jpg|120px]]
+|-
+|[[张璁碑亭]]||7-72|| || || ||[[File:Zhang Cong Stele Pavilion 06 2018-10.jpg|120px]]
+|-
+|[[永嘉战时青年服务团旧址]]||7-235|| || || ||[[File:Former Lianchang Old-style Chinese Private Bank 02 2018-10.jpg|120px]]
+|-
+|[[益康钱庄旧址]]||7-236|| || || ||[[File:Former Yikang Old-style Chinese Private Bank 02 2018-10.jpg|120px]]
+|-
+|[[沧河巷金宅]]||7-262|| || || ||[[File:Former Residence of Jin Peishu 02 2018-10.jpg|120px]]
+|-
+|[[温州朔门古港遗址]]||8-18||古遗址||鹿城区||宋至清||
+|-
+|[[江心屿古井群]]||8-28||古建筑||鹿城区||宋||
+|-
+|[[瓯海公学图书馆旧址]]||8-96||近现代重要史迹及代表性建筑||鹿城区松台街道||民国||
+|-
+|}
+
+==温州市文物保护单位==
+
+==参考文献及注释==
+{{Reflist|25em}}
+
+{{浙江各级文物保护单位}}
+[[Category:温州市境内的文物保护单位列表]]
+[[Category:鹿城区建筑物]]

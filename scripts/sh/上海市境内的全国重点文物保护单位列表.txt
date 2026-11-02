@@ -1,0 +1,290 @@
+本列表是[[全国重点文物保护单位列表]]的子列表，列举在[[上海市]]境内的[[全国重点文物保护单位]]。
+
+{| class="wikitable sortable"
+|- 
+! 名称
+! 分类
+! 所在
+! 时代
+! 图片
+|-
+|[[上海中山故居]]
+|革命遗址及革命纪念建筑物
+|[[黄浦区]]
+|1919年
+|style="padding:0" |[[File:Shanghai Zhongshan Guju.JPG|180px]] 
+|-
+|[[中国社会主义青年团中央机关旧址]]
+|革命遗址及革命纪念建筑物
+|[[黄浦区]]
+|1920-1921年
+|style="padding:0" |[[File:Zhongguo Shehuizhuyi Qingniantuan Zhongyangjiguan Jiuzhi.JPG|180px]] 
+|-
+|[[中国共产党第一次全国代表大会会址]]{{NoteTag|跨省；国务院第五批公布浙江省'''嘉兴南湖中共“一大”会址'''，归入'''中国共产党第一次全国代表大会会址'''。}}
+|革命遗址及革命纪念建筑物
+|[[黄浦区]]
+|1921年
+|style="padding:0" |[[File:The First National Congress of CPC.jpg|180px]] 
+|-
+|[[鲁迅墓]]
+|革命遗址及革命纪念建筑物
+|[[虹口区]]
+|1956年迁葬于此 
+|style="padding:0" |[[File:Grave of Luxun.jpg|180px]]  
+|-
+|[[宋庆龄墓]]
+|革命遗址及革命纪念建筑物
+|[[长宁区]]
+|1981年
+|style="padding:0" |[[File:Soong's Tomb in Shanghai.JPG|180px]]  
+|-
+|[[豫园]]
+|古建筑及历史纪念建筑物
+|[[黄浦区]]
+|[[明]]至[[清]]
+|style="padding:0" |[[File:Yuyuangardenpic1.jpg|180px]]  
+|-
+|[[龙华革命烈士纪念地]]
+|革命遗址及革命纪念建筑物
+|[[徐汇区]]
+|1927-1937年
+|style="padding:0" |[[File:Longhua Geming Lieshi Jiniandi.JPG|180px]] 
+|-
+|[[松江唐经幢]]
+|石刻及其他
+|[[松江区]]
+|[[唐]]
+|style="padding:0" |[[File:Tang Tuoluoni Jingchuang.JPG|180px]]  
+|-
+|[[徐光启墓]]
+|古墓葬
+|[[徐汇区]]
+|[[明]]
+|style="padding:0" |[[File:The tomb of Xuguangqi.jpg|180px]]  
+|-
+|[[兴圣教寺塔]]
+|古建筑
+|[[松江区]]
+|[[北宋]]
+|style="padding:0" |[[File:松江兴圣教寺塔.jpg|180px]]  
+|-
+|[[真如寺大殿]]
+|古建筑
+|[[普陀区 (上海市)|普陀区]]
+|[[元朝|元]]
+|style="padding:0" |[[File:Zhenrusi Dadian.JPG|180px]]  
+|-
+|[[上海外滩建筑群]]
+|近现代重要史迹及代表性建筑
+|[[黄浦区]]、[[虹口区]]
+|1906-1937年
+|style="padding:0" |[[File:View of the Bund, Shanghai.JPG|180px]]  
+|-
+|[[上海邮政总局]]
+|近现代重要史迹及代表性建筑
+|[[虹口区]]
+|1924年
+|style="padding:0" |[[File:General Post Office Building, Shanghai (2014).jpg|180px]]  
+|-
+|[[沉香阁]]{{NoteTag|国务院第四批公布归入'''豫园'''。}}
+|古建筑及历史纪念建筑物
+|[[黄浦区]]
+|清
+|style="padding:0" |[[File:Chenxiangge.JPG|180px]]
+|-
+|[[福泉山遗址]]
+|古遗址
+|[[青浦区]]
+|[[新石器时代]]
+|style="padding:0" |[[File:Fuquanshan Site.jpg|180px]]
+|-
+|[[上海宋庆龄故居]]
+|近现代重要史迹及代表性建筑
+|[[徐汇区]]
+|1948-1981年
+|style="padding:0" |[[File:Former Residence of Soong Ching-ling.jpg|180px]]
+|-
+|[[张闻天故居]]
+|近现代重要史迹及代表性建筑
+|[[浦东新区]]
+|近代
+|style="padding:0" |[[File:Zhangwentian Guju.JPG|180px]] 
+|-
+|[[龙华寺 (上海)|龙华塔]]
+|古建筑
+|[[徐汇区]]
+|[[宋朝|宋]]
+|style="padding:0" |[[File:Shanghai Longhua Si 2016.08.21 08-41-35.jpg|180px]]
+|-
+|[[马勒住宅]]
+|近现代重要史迹及代表性建筑
+|[[静安区]]
+|[[中華民國大陸時期|民国]]
+|style="padding:0" |[[File:Moller Villa, Shanghai.jpg|180px]]
+|-
+|[[国际饭店]]
+|近现代重要史迹及代表性建筑
+|[[黄浦区]]
+|[[中華民國大陸時期|民国]]
+|style="padding:0" |[[File:Shanghai Park Hotel 2007.jpg|180px]]  
+|-
+|[[崧泽遗址|-{崧}-泽遗址]]
+|古遗址
+|[[青浦区]]
+|新石器时代
+|style="padding:0" |[[File:Songze Site.JPG|180px]]
+|-
+|[[马桥遗址|上海马桥遗址]]
+|古遗址
+|[[闵行区]]
+|新石器时代至商
+|style="padding:0" |[[File:Maqiao Site.JPG|180px]]
+|-
+|[[广富林遗址]]
+|古遗址
+|[[松江区]]
+|新石器时代、东周
+|style="padding:0" |[[File:Guangfulin Site.JPG|180px]]
+|-
+|[[上海元代水闸遗址博物馆|志丹苑元代水闸遗址]]
+|古遗址
+|[[普陀区 (上海市)|普陀区]]
+|元
+|style="padding:0" |[[File:上海元代水闸.jpg|180px]] 
+|-
+|[[嘉定孔庙]]
+|古建筑
+|[[嘉定区]]
+|明至清
+|style="padding:0" |[[File:20130918-嘉定孔庙-2.jpg|180px]] 
+|-
+|[[杨树浦水厂]]
+|近现代重要史迹及代表性建筑
+|[[杨浦区]]
+|1883年
+|style="padding:0" |[[File:杨树浦水厂.jpg|180px]] 
+|-
+|[[佘山天文台]]
+|近现代重要史迹及代表性建筑
+|[[松江区]]
+|1900年
+|style="padding:0" |[[File:Sheshan Tianwentai.JPG|180px]]
+|-
+|[[上海市提篮桥监狱|提篮桥监狱早期建筑]]
+|近现代重要史迹及代表性建筑
+|[[虹口区]]
+|1903年
+|style="padding:0" |[[File:Tilanqiao Prison gate, 2015-01-10 02.JPG|180px]] 
+|-
+|[[徐家汇圣依纳爵主教座堂|徐家汇天主堂]]
+|近现代重要史迹及代表性建筑
+|[[徐汇区]]
+|1910年
+|style="padding:0" |[[File:Saint-Ignatius cathedral of Shanghai.jpg|180px]] 
+|-
+|[[中国共产党第二次全国代表大会会址]]
+|近现代重要史迹及代表性建筑
+|[[静安区]]
+|1922年
+|style="padding:0" |[[File:Zhongguogongchandang Di'erci Quanguodaibiaodahui Huizhi.JPG|180px]]
+|-
+|[[青龙镇遗址]]
+|古遗址
+|[[青浦区]]
+|唐宋
+|style="padding:0" |[[File:旧青浦及青龙镇遗址·上海青浦·俯视.jpg|180px]]
+|-
+|[[圣三一堂 (上海)|圣三一基督教堂]]
+|近现代重要史迹及代表性建筑
+|[[黄浦区]]
+|1869年
+|style="padding:0" |[[File:Shengsanyi Jidujiaotang.JPG|180px]]
+|-
+|[[圣约翰大学 (上海)|圣约翰大学近代建筑]]
+|近现代重要史迹及代表性建筑
+|[[长宁区]]、[[普陀区 (上海市)|普陀区]]
+|1879~1948年
+|style="padding:0" |[[File:St Johns College Shanghai.jpg|180px]]
+|-
+|[[上海交通大学徐汇校区|上海交通大学早期建筑]]
+|近现代重要史迹及代表性建筑
+|[[徐汇区]]
+|1896年
+|style="padding:0" |[[File:Old Library, SJTU Xuhui.JPG|180px]]
+|-
+|[[沪江大学|沪江大学近代建筑]]
+|近现代重要史迹及代表性建筑
+|[[杨浦区]]
+|1906~1948年
+|style="padding:0" |[[File:上海理工大学4.jpg|180px]]
+|-
+|[[上海公共租界工部局宰牲场|上海工部局宰牲场旧址]]
+|近现代重要史迹及代表性建筑
+|[[虹口区]]
+|1933年
+|style="padding:0" |[[File:1933·上海公共租界工部局宰牲场·上海虹口·（正面俯拍）.jpg|180px]]
+|-
+|[[四行仓库|四行仓库抗战旧址]]
+|近现代重要史迹及代表性建筑
+|[[静安区]]
+|1937年
+|style="padding:0" |[[File:Sihang Warehouse 2017.jpg|180px]]
+|-
+|[[上海周公馆|中国共产党代表团驻沪办事处旧址]]
+|近现代重要史迹及代表性建筑
+|[[黄浦区]]
+|1946~1947年
+|style="padding:0" |[[File:Zhougongguan.jpg|180px]]
+|-
+|[[嘉道理爵士公馆|中国福利会少年宫]]
+|近现代重要史迹及代表性建筑
+|[[静安区]]
+|1953年
+|style="padding:0" |[[File:Kadoorie's House.JPG|180px]]
+|-
+|[[法国学堂|上海科学会堂]]
+|近现代重要史迹及代表性建筑
+|[[黄浦区]]
+|1958年
+|style="padding:0" |[[File:上海科學會堂.jpg|180px]]
+|-
+|[[华亭海塘奉贤段]]
+|其他
+|[[奉贤区]]
+|清
+|style="padding:0" |[[File:Fengxianhuatinghaitang.jpg|180px]]
+|-
+|[[博文女校|中国共产党第一次全国代表大会代表宿舍旧址]]{{NoteTag|国务院第八批公布归入'''中国共产党第一次全国代表大会会址'''。}}
+|近现代重要史迹及代表性建筑
+|[[黄浦区]]
+|1921年
+|style="padding:0" |[[File:Zhongguogongchandang Diyici Quanguodaibiaodahui Daibiao Sushe Jiuzhi.JPG|180px]]
+|}
+
+== 注释 ==
+{{NoteFoot}}
+
+== 参考文献 ==
+* {{cite web |url = http://www.ncha.gov.cn/col/col1644/index.html |title = 国务院关于公布第一批全国重点文物保护单位名单的通知 |publisher = [[国家文物局]] |date =  |accessdate =  |archive-url = https://web.archive.org/web/20141008014045/http://www.sach.gov.cn/col/col1644/index.html |archive-date = 2014-10-08 |dead-url = yes }}
+* {{cite web |url = http://www.ncha.gov.cn/col/col1645/index.html |title = 国务院关于公布第二批全国重点文物保护单位的通知 |publisher = 国家文物局 |date =  |accessdate =  |archive-url = https://archive.today/20150129041817/http://www.sach.gov.cn/col/col1645/index.html |archive-date = 2015-01-29 |dead-url = yes }}
+* {{cite web |url = http://www.ncha.gov.cn/col/col1646/index.html |title = 国务院关于公布第三批全国重点文物保护单位的通知 |publisher = 国家文物局 |date =  |accessdate =  |archive-url = https://web.archive.org/web/20141008131520/http://www.sach.gov.cn/col/col1646/index.html |archive-date = 2014-10-08 |dead-url = yes }}
+*{{cite web |url = http://www.ncha.gov.cn/col/col1647/index.html |title = 国务院关于公布第四批全国重点文物保护单位的通知 |publisher = 国家文物局 |date =  |accessdate =  |archive-url = https://web.archive.org/web/20141008064915/http://www.sach.gov.cn/col/col1647/index.html |archive-date = 2014-10-08 |dead-url = yes }}
+* {{cite web |url = http://www.ncha.gov.cn/col/col1648/index.html |title = 国务院关于公布第五批全国重点文物保护单位和与现有全国重点文物保护单位合并项目的通知 |publisher = 国家文物局 |date =  |accessdate =  |archive-url = https://web.archive.org/web/20141008115313/http://www.sach.gov.cn/col/col1648/index.html |archive-date = 2014-10-08 |dead-url = yes }}
+* {{cite web|url =http://www.ncha.gov.cn/col/col1649/index.html|title =国务院关于核定并公布第六批全国重点文物保护单位的通知|publisher =国家文物局|date =|accessdate =|archive-url =https://web.archive.org/web/20141006110251/http://www.sach.gov.cn/col/col1649/index.html|archive-date =2014-10-06|dead-url =yes}}
+* {{cite web |url = http://www.ncha.gov.cn/col/col1650/index.html |title = 第七批全国重点文物保护单位名单 |publisher = 国家文物局 |date =  |accessdate =  |archive-url = https://web.archive.org/web/20150924114619/http://www.sach.gov.cn/col/col1650/index.html |archive-date = 2015-09-24 |dead-url = yes }}
+* {{cite web |url = http://www.gov.cn/zhengce/content/2019-10/16/content_5440577.htm |title = 国务院关于核定并公布第八批全国重点文物保护单位的通知 |publisher = 国家文物局 |date =  |accessdate =  |archive-date = 2019-10-16 |archive-url = https://web.archive.org/web/20191016134146/http://www.gov.cn/zhengce/content/2019-10/16/content_5440577.htm |dead-url = no }}
+
+== 参见 ==
+{{Portal box|中国文化遗产|中国建筑|上海}}
+* [[上海市文物保护单位]]
+* [[上海市优秀历史建筑]]
+* [[上海市历史文化风貌区]]
+* [[上海市风貌保护道路]]
+
+{{-}}
+{{上海各级文物保护单位}}
+{{全国重点文物保护单位分省索引}}
+{{上海全国重点文物保护单位}}
+
+[[Category:全国重点文物保护单位列表|沪]]
+[[Category:上海市境内的全国重点文物保护单位|*]]

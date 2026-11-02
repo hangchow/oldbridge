@@ -1,0 +1,51 @@
+以下为丽水市[[云和县]]范围内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下为云和县范围内的[[全国重点文物保护单位]]<ref>{{cite web |url = http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |title = 全国重点文物保护单位 |publisher = 中国文化遗产-中国文物信息咨询中心网站 |date= |accessdate=2009-06-21 |deadurl=yes |archiveurl = https://web.archive.org/web/20100315033814/http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |archivedate=2010-03-15 |language = zh }}</ref>
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+| [[云和银矿遗址]]
+| 7-0182-1-182
+| 古遗址
+| [[云和县]]
+| [[明代|明]]
+|
+|}
+==浙江省文物保护单位==
+以下为云和县范围内的[[浙江省文物保护单位]]：
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[石门桥]]||6-70|| || || ||
+|-
+|[[王家祠堂 (云和)|王家祠堂]]||6-234|| || || ||
+|-
+|[[黄绍竑公馆]]||6-340|| || || ||
+|-
+|[[梅源梯田]]||6-364|| || || ||
+|-
+|[[横山周窑址]]||7-17|| || || ||
+|-
+|[[林山下石拱桥]]||7-195|| || || ||
+|-
+|}
+
+==参考文献及注释==
+{{reflist|2}}
+{{浙江各级文物保护单位}}
+[[Category:云和县]]

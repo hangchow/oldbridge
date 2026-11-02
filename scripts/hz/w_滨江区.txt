@@ -1,0 +1,236 @@
+{{noteTA
+|G1=Unit
+}}
+{{Infobox China County
+| county = 滨江区
+| usedname = 
+| nameorigin = 地处江滨
+| Photo = {{multiple image
+ | border                 = infobox
+ | total_width            = 290
+ | caption_align          = center
+ | image_style            = border:1;
+ | perrow                 = 1/2/2/2
+ | image1 = Binjiang-Panorama.jpg
+ | caption1 = 滨江与[[钱塘江]]景色
+ | image2 = King Qian Shooting the Tidal Wave 20201105.jpg
+ | caption2=  杭州滨江公园《钱王射潮》巨型雕塑
+ | image3 = Qiantang River Bridge DJI 0564 (2).jpg
+ | caption3 = [[钱江一桥]]南引桥
+ | image4 = Jiangnan Avenue Hangzhou(west).jpg
+ | caption4 = [[江南大道 (杭州)|江南大道]]西段
+ | image5 = Alibaba Center in Binjiang Hangzhou2021.jpg
+ | caption5 = 阿里巴巴滨江园区
+ | image6 = 201607 Binjiang Overview.jpg
+ | caption6 = 高新区夜景
+ | image7 = Binjiang District Government Building 01.jpg
+ | caption7 = 区政府大楼
+}}
+| Photoname = 
+| map = 
+| map_caption = 
+| coordinates = {{Coord|30|12|39|N|120|12|26|E|region:CN-ZJ|display=inline,title}}
+| Pinyin = Bīnjiāng Qū
+| Belong = [[浙江省]][[杭州市]]
+| Types = [[市辖区 (中华人民共和国)|市轄區]]
+| admincode = 330108
+| founded = 1996年12月12日
+| neighbor = [[杭州市]][[萧山区]]
+| seat = [[西兴街道 (杭州市)|西兴街道]]
+| officerTitle = 区委书记
+| officer = [[王敏]]
+| officerTitle2 = 区长
+| officer2 = [[李志龙]]
+| division = 
+| town = 
+| township = 
+| subdistrict = 3
+| dialect = [[吴语]][[太湖片]][[杭州话]]、[[萧山话]]
+| post code = 310051
+| phone code = 571
+| coordinate = 
+| area = 73平方千米
+| area land = 71.28平方千米
+| area water = 2.02平方千米
+| elevation = 5.2－6.2米（平均）
+| census yr = 2022年
+| pop = 常住人口52.5万人
+| density = 2748人/平方公里
+| GDP = 3037.92亿
+| GDP_as_of = 2025年
+| GDPPC = 
+| carlicense = 浙A
+| web = www.hhtz.gov.cn
+| web_title = 滨江区政府网
+}}
+'''滨江区'''，是中华人民共和国[[浙江省]][[杭州市]]的一个市辖区，辖区包括钱塘江以南、钱江一桥以东沿江的西兴、长河、浦沿三个街道，北与[[上城区]]相望，西经[[钱江七桥|之江大桥]]可达[[西湖区 (杭州市)|西湖区]]，東南两面为[[萧山区]]所包围，与萧山区共同组成杭州三大副城之一的[[江南副城]]。辖区总面积达73.33平方公里，區人民政府駐[[西兴街道 (杭州市)|西兴街道]]江南大道100號。
+
+1990年国务院批准杭州高新技术产业开发区，其区域涵盖了今滨江区地域，杭州市政府后于1996年以原属萧山市的杭州高新区江南片区设立滨江区，2002年杭州高新技术产业开发区和滨江区行政城区合并，现今滨江区已成为杭州[[数字经济]]重地。<ref>{{Cite web|title=高新（滨江）简介|url=http://www.hhtz.gov.cn/art/2019/5/17/art_1487018_20332922.html|accessdate=2019-10-22|work=www.hhtz.gov.cn|archive-date=2020-06-04|archive-url=https://web.archive.org/web/20200604014813/http://www.hhtz.gov.cn/art/2019/5/17/art_1487018_20332922.html|dead-url=no}}</ref>
+
+== 历史沿革 ==
+[[File:Hangzhou, Qiantang 1978 01.jpg|thumb|left|从[[六和塔]]上眺望[[钱江一桥]]和现属滨江区内的萧山农田（1978年）]]
+1981年，杭州市开始酝酿建立高新区，并在1990年3月经[[浙江省人民政府]]批准建立杭州高新技术产业开发区。唯当时高新区仅包含城西与[[下沙地区|下沙]]两个区块。1991年3月6日，经国务院批准，杭州高新技术产业开发区为国家级高新区之一。<ref name="guo">{{cite book |last= |first= |date=2015.8 |title=杭州市志（1986-2005） 第二卷（上）第十三篇 开发区 - 国家级开发区 |pages= 第75-76页 |publisher=方志出版社 |author=杭州市人民政府地方志办公室 |isbn=978-7-5144-0474-6 }}</ref>
+
+当时杭州市与萧山市在[[钱塘江大桥]]的管理和财政分摊上存在分歧，浙江省政府最终裁定由杭州市统一承担大桥的管理、维护和财政，而杭州市政府要求萧山市划转部分土地作为补偿。<ref name=":1">{{Cite book |title=惊鸿巨变40年 |author=湛青 |publisher=杭州 |location=浙江人民出版社 |year=2019 |isbn=978-7-213-09087-5 |chapter=经济技术开发区选址下沙是一个战略抉择 |editor=中共杭州市委党史研究室}}</ref>1996年5月9日，萧山市的[[浦沿街道|浦沿]]、[[长河街道 (杭州市)|长河]]、[[西兴街道 (杭州市)|西兴]]三镇划归[[西湖区 (杭州市)|西湖区]]管辖；5月24日，西兴镇的东湖、杜湖、湖头陈3个村划归[[萧山区|萧山市]][[城厢街道 (杭州市)|城厢镇]]管辖<ref>{{cite book |last= |first= |date=2013.5 |title=杭州市地名志（上） 卷二 行政区划 - 西兴街道 |pages= 第196页 |publisher=杭州出版社 |author=杭州市民政局、杭州市地名委员会 |isbn=978-7-80758-721-7 }}</ref>。
+
+1996年7月3日，高新区管委会对三镇内由[[钱塘江]]、[[浙赣铁路]]及长江路围合而成的面积约10.5平方千米的之江区块进行管辖。该区块于1997年12月26日由[[国家科委]]批准，正式并入高新区。<ref name="guo" />1996年12月12日浦沿、长河、西兴三镇地域独立设区，因地处江滨故名滨江区，由时任杭州市体改委主任湛青命名。<ref>{{Cite web|title=滨江区历史沿革|url=http://www.hhtz.gov.cn/art/2019/1/23/art_1487021_20333049.html|accessdate=2019-10-22|work=www.hhtz.gov.cn|archive-date=2019-10-22|archive-url=https://web.archive.org/web/20191022042417/http://www.hhtz.gov.cn/art/2019/1/23/art_1487021_20333049.html|dead-url=no}}</ref><ref name=":1" />
+
+2002年6月，杭州市委、市政府对1990年3月成立的高新区、1996年12月成立的滨江区进行“[[一個機構兩塊牌子|两个名称、一套人马]]”的统一管理，并于2003年11月18日撤销区内所有建制镇，全部改为[[街道办事处|街道]]。
+
+== 行政区划 ==
+[[File:Xixing_Town,_2015-02-14_03.JPG|thumb|西兴古镇]]
+区政府驻江南大道100号，位于西兴街道。
+
+下辖3个街道，共计12个社区和23个村委会：
+{| class="wikitable" style="text-align:center; width: 700px"
+! colspan="7" |滨江区行政区划图
+|-
+| colspan="7" |{{center|
+{{Image label begin|image=Administrative Division Binjiang Hangzhou.svg|width=300|link=}}
+{{Image label|x=80.0|y=200.0|scale=1|text='''[[浦沿街道|{{color|black|浦沿}}]]'''}}
+{{Image label|x=160.0|y=170.0|scale=1|text='''[[长河街道 (杭州市)|{{color|black|长河}}]]'''}}
+{{Image label|x=250.0|y=120.0|scale=1|text='''[[西兴街道 (杭州市)|{{color|black|西兴}}]]'''}}
+{{Image label end}}
+}}
+|-
+!区划代码 !! 街道 !! 面积<br>（平方千米） !! 人口<br>（万人） !! 社区数 !! 行政村数 !!办事处
+|-
+! 310108001 !! [[西兴街道 (杭州市)|西兴街道]]
+| 17.6 || 12.83<ref>{{citeweb|url=http://hzbjxx.zjzwfw.gov.cn/art/2015/12/14/art_907464_298777.html|title=街道简介|publisher=杭州政务服务网|access-date=2019-11-05|archive-date=2020-06-04|archive-url=https://web.archive.org/web/20200604014821/http://hzbjxx.zjzwfw.gov.cn/art/2015/12/14/art_907464_298777.html|dead-url=no}}</ref> || 14<ref>{{citeweb|url=http://hzbjxx.zjzwfw.gov.cn/col/col907476/index.html|title=滨江区政府门户网站滨江区·西兴街道|access-date=2019-11-05|archive-date=2020-01-28|archive-url=https://web.archive.org/web/20200128050857/http://hzbjxx.zjzwfw.gov.cn/col/col907476/index.html|dead-url=no}}</ref><ref>{{citeweb|url=https://view.inews.qq.com/a/20190624A0B89N00|title=滨江第60个社区，来了|date=2019-06-24|access-date=2019-11-05|archive-date=2019-11-05|archive-url=https://web.archive.org/web/20191105065729/https://view.inews.qq.com/a/20190624A0B89N00|dead-url=no}}</ref> || 0 || 官河路1号
+|-
+! 310108002 !! [[长河街道 (杭州市)|长河街道]]
+| 29.18<ref>不含顺坝围垦、东江围垦和五万二千亩围垦土地</ref> || 17<ref>{{citeweb|url=http://hzbjch.zjzwfw.gov.cn/col/col907652/index.html|title=街道简介|publisher=杭州政务服务网|access-date=2019-11-05|archive-date=2019-11-05|archive-url=https://web.archive.org/web/20191105071641/http://hzbjch.zjzwfw.gov.cn/col/col907652/index.html|dead-url=no}}</ref> || 20<ref>{{citeweb|url=http://hzbjch.zjzwfw.gov.cn/col/col907664/index.html|title=滨江区政府门户网站滨江区·长河街道|access-date=2019-11-05|archive-date=2019-11-05|archive-url=https://web.archive.org/web/20191105071641/http://hzbjch.zjzwfw.gov.cn/col/col907664/index.html|dead-url=no}}</ref> || 0 || 长江北路18号
+|-
+! 310108003 !! [[浦沿街道]]
+| 21.27 || 17.59<ref>{{citeweb|url=http://hzbjpy.zjzwfw.gov.cn/art/2015/12/14/art_907840_298966.html|title=街道简介|publisher=杭州政务服务网|access-date=2019-11-05|archive-date=2020-06-04|archive-url=https://web.archive.org/web/20200604014846/http://hzbjpy.zjzwfw.gov.cn/art/2015/12/14/art_907840_298966.html|dead-url=no}}</ref> || 18<ref>{{citeweb|url=http://hzbjpy.zjzwfw.gov.cn/col/col907852/index.html|title=滨江区政府门户网站滨江区·浦沿街道|access-date=2019-11-05|archive-date=2019-11-05|archive-url=https://web.archive.org/web/20191105071646/http://hzbjpy.zjzwfw.gov.cn//col/col907852/index.html|dead-url=no}}</ref> || 0 || 东冠路501号
+|}
+
+== 社会 ==
+
+=== 人口 ===
+2018年常住人口39.2万人。
+
+'''2022年初'''常住人口为52.5万人，其中城镇常住人口为52.5万人。户籍人口总数为31.11万人<ref>{{Cite web|title=2022年[杭州]滨江区人口第七次人口普查有多少-红黑人口库|url=https://www.hongheiku.com/xianjirank/zhejiangxj/4648.html|access-date=2023-04-08|website=www.hongheiku.com|archive-date=2022-01-24|archive-url=https://web.archive.org/web/20220124171103/https://www.hongheiku.com/xianjirank/zhejiangxj/4648.html|dead-url=no}}</ref>。
+
+=== 教育 ===
+[[File:Hangzhou No. 2 High School 03.jpg|thumb|杭二中滨江校区南大门]]
+[[File:Binjiang Higher Education Park 08.jpg|thumb|浙江中医药大学南大门]]
+2000年建立的[[滨江高教园区]]位于[[浦沿街道]][[滨文路]]两侧，拥有[[浙江中医药大学]]、[[浙江警察学院]]、[[浙江艺术职业学院]]、[[浙江机电职业技术学院]]、[[杭州医学院]]和[[浙江商业职业技术学院]]共六所院校。
+
+位于浦沿街道的[[杭二中]]滨江校区（主校区，2001年建成）和长河街道的[[杭州市长河高级中学|长河高中]]是[[浙江省一级重点中学]]，杭二中更是排名第一的杭州高中。
+
+=== 医院 ===
+[[File:Zhejiang Armed Police Hospital 02.jpg|缩略图|武警医院]]
+滨江目前有武警浙江医院、[[杭州市滨江医院]]（又名[[浙医二院滨江院区]]，2013年3月开业）、[[浙江大学医学院附属儿童医院|浙医儿童医院]]（主院区，2014年底开业）三家大型医院。[[杭州牙科医院]]（总院）位于江南大道288号。
+
+=== 文化 ===
+自2005年开始每年4月底至5月初在杭州滨江[[杭州白马湖生态创意城|白马湖生态创意城]]举办的[[中国国际动漫节]]由[[国家广电总局]]和[[浙江省]]政府主办<ref>{{cite web |url=http://www.zj.xinhuanet.com/newscenter/2012-04/28/content_25146341.htm |language= |title=第八届中国国际动漫节28日杭州白马湖开幕 |publisher=今日早报 |date=2012-04-28 |accessdate= |deadurl=yes |archiveurl=https://web.archive.org/web/20120501022659/http://www.zj.xinhuanet.com/newscenter/2012-04/28/content_25146341.htm |archivedate=2012-05-01 }}</ref>。动漫节是目前中国唯一的国家级[[动漫]]专业节展，也是中国规模最大、人气最旺、影响最广的动漫专业盛会。
+
+=== 文体设施 ===
+[[File:Binjiang Gymnasium 06.jpg|thumb|right|滨江体育馆]]
+*中国（杭州）[[低碳]]科技馆：2012年7月18日开馆。
+*滨江文化中心（内有滨江图书馆）：图书馆于2015年12月对外开放<ref>{{Cite web |title=滨江区图书馆---杭州图书馆 |url=https://www.hzlib.net/fwwd/5773.htm |website=杭州图书馆 |access-date=2022-09-14 |archive-date=2022-09-14 |archive-url=https://web.archive.org/web/20220914070635/https://www.hzlib.net/fwwd/5773.htm |dead-url=no }}</ref>。
+*[[滨江体育馆]]：承办了[[杭州亚运会]][[羽毛球]]赛事，室外跑道和室外篮球场于2022年6月免费对外开放，室内羽毛球收费场地7月1日正式开放。<ref>{{Cite web |last= |date=2022-06-21 |title=好消息！杭州又一批场馆面向市民开放参观！如何预约，戳进来！ |url=https://www.163.com/dy/article/HACF8HCL05149IKJ.html |website=网易 |access-date=2022-09-14 |archive-date=2022-09-14 |archive-url=https://web.archive.org/web/20220914100000/https://www.163.com/dy/article/HACF8HCL05149IKJ.html |dead-url=no }}</ref>
+*[[杭州奥体博览城]]，分占了滨江区和[[萧山区]]的土地
+
+== 经济 ==
+[[File:Buildings in Binjiang District 03.jpg|right|thumb|滨江的[[苏泊尔]]大厦（左侧）、[[杭州牙科医院]]（中间）、[[康恩贝]]大厦（右侧）]]
+2014年，全区实现地区生产总值692.84亿元，增长11.5%；财政总收入169.21亿元，增长20.4%，财政总收入增幅连续三年位居杭州市第一。全区信息经济总收入1273.43亿元，增长30%。全区规上工业销售产值突破千亿元，达1019.52亿元，增长21.8%；实现工业增加值350.03亿元，增长17.1%；万元工业增加值综合能耗0.07吨标煤，为杭州市平均水平的十分之一。滨江区的上市公司数量位居浙江省各县级行政区第一，截至2023年11月共有72家上市公司，实现“每平方公里拥有一家上市公司”的目标<ref>{{cite news |title=高新区（滨江）每平方公里拥有一家上市公司 |url=https://www.hangzhou.gov.cn/art/2023/11/3/art_812264_59089235.html |accessdate=2025-06-26 |work=杭州日报 |date=2023-11-03}}</ref><ref>{{cite news |title=每平方公里就有一家上市公司！滨江区为何能坐稳浙江“资本第一区”？ |url=https://www.hhtz.gov.cn/art/2022/10/27/art_1485821_59048403.html |accessdate=2025-06-26 |work=浙江新闻客户端 |date=2022-10-27 |archive-date=2025-02-12 |archive-url=https://web.archive.org/web/20250212104930/https://www.hhtz.gov.cn/art/2022/10/27/art_1485821_59048403.html |dead-url=no }}</ref>。
+
+=== 特色产业 ===
+
+目前已初步形成“两强两优两新”的特色产业格局（“两强”指通信设备制造业和软件业，“两优”指集成电路设计制造业和数字电视产业，“两新”指动漫产业和网络游戏产业）；2006年高新技术产业实现技工贸收入885亿元，占全区技工贸总收入的78.3％<ref>[http://www.hhtz.gov.cn/hhtz/DesktopDefault.aspx?tabid=8297157a-989f-4469-bef2-b5aa1b2bd6f9 走进高新（滨江）产业园区] {{webarchive|url=https://web.archive.org/web/20110925153231/http://www.hhtz.gov.cn/hhtz/DesktopDefault.aspx?tabid=8297157a-989f-4469-bef2-b5aa1b2bd6f9 |date=2011-09-25 }}</ref>。具体如下：
+
+*通讯设备制造业
+*软件产业
+*集成电路设计制造业
+*数字电视产业
+*动漫、网络游戏产业
+
+=== 著名企业 ===
+[[File:Geely Group Building 03.jpg|thumb|吉利集团总部]]
+[[File:Hikvision Building 06.jpg|thumb|海康威视]]
+*[[阿里巴巴集团]]滨江园区，电子商务
+*[[网易]]杭州（网易两大办公基地：杭州和[[广州]])，互联网
+*[[华为]]杭州
+*[[吉利汽车]]
+*[[零跑汽车]]
+*[[海康威视]]
+*[[大华股份]]
+*[[新华三集团]]
+*[[宇视科技]]
+*[[宇树科技]]
+*[[电魂网络]]
+*[[纳爱斯集团]]
+*[[苏泊尔集团]]
+*[[康恩贝]]
+*[[安恒科技]]
+*[[信雅达集团]]
+*[[恒生电子]]
+*[[士兰微电子]]
+*[[长川科技]]
+*[[赛诺菲]]杭州
+
+=== 主要商圈 ===
+[[File:Hangzhou Star Avenue 10.jpg|thumb|星光大道步行商业街]]
+*华联·星光大道：分为一期（南）、二期（北），一期（步行商业街区）于2008年12月开街启用，二期（商场）于2015年12月开业。
+*家居博览园、中南乐游城（原名中南购物中心）：2013年开业。
+*中赢国际：2013年开业。
+*[[星耀城]]：分为一期（北）、二期（南），2014年12月开业。
+*中嬴康康谷：2016年开业，大排档食客集中地。
+*[[滨江宝龙城]]：2016年12月开业。
+*[[兴耀·鑫都汇]]：2017年5月开业。
+*[[滨江龙湖天街]]：2017年9月开业。
+*啦喜街（原垃圾街）：位于[[滨文高教园区]]，改造后的新街于2020年3月重新开业<ref>{{Cite web |title=你们想念的啦喜街回来啦 |url=https://hznews.hangzhou.com.cn/chengshi/content/2020-03/19/content_7697793_0.htm |website=杭州网新闻频道 |access-date=2022-09-14 |archive-date=2022-09-14 |archive-url=https://web.archive.org/web/20220914065110/https://hznews.hangzhou.com.cn/chengshi/content/2020-03/19/content_7697793_0.htm |dead-url=no }}</ref>。
+*[[滨江银泰]]：分A、B、C、D四区，2022年6月30日开业。<ref>{{Cite web |title=银泰百货首进滨江，引入高端、首店级品牌 |url=https://www.hangzhou.gov.cn/art/2022/6/29/art_812268_59060155.html |website=杭州市政府 |access-date=2022-09-14 |archive-date=2022-09-14 |archive-url=https://web.archive.org/web/20220914065359/https://www.hangzhou.gov.cn/art/2022/6/29/art_812268_59060155.html |dead-url=no }}</ref>
+*[[滨江开元广场]]，2023年12月31日开业，位于浦沿，包括酒店、公寓、写字楼和商业，总建筑面积约23.3万方，这是杭州第三座开元广场。<ref>{{Cite web |title=杭州第三座开元广场开业滨江再添大型购物中心 |url=http://www.linkshop.com/news/2023513207.shtml |website=联商网 |access-date=2024-11-29}}</ref>
+
+=== 地标建筑 ===
+[[File:Shimao Wisdom Gate 05.jpg|thumb|right|220px|世茂智慧之门]]
+*[[杭州印]]，集江景公寓、行政大公馆、艺术办公空间、精品商业和云端会所于一体，形似月影，中间镂空，2015年3月竣工，高140余米共43层。
+*[[世茂智慧之门]]，位于滨江区[[风情大道]]与江南大道交叉口西南侧280米高的[[双塔楼|双塔写字楼]]，2022年完工。
+*[[绿城卓越·傲旋城]]，位于滨江[[时代大道]]与[[滨康路]]交叉口西北侧的摩天大楼垂直生活综合体，包括两座约240米的双子塔楼及一座约100米的塔楼，涵盖住宅（天空之宅）、公寓（云端跃墅）和酒店（铂尔曼酒店）。2024年建成。
+
+== 交通 ==
+滨江区与江北的杭州主城区通过三座[[钱塘江]][[桥梁]]相连，由西到东分别为[[钱塘江大桥]]、[[复兴大桥]]和[[西兴大桥]]。另外滨江通过西边的[[钱江七桥]]（之江大桥）和[[钱江五桥]]与[[西湖区 (杭州市)|西湖区]]的[[双浦镇]]相连。2019年年底通车的[[望江隧道]]是连通滨江区和主城区的最新公路通道<ref>{{cite web |author1=杭州发布 |title=最新！望江隧道年底全面竣工通车，过江只要5分钟 |url=https://www.thehour.cn/news/312998.html |publisher=钱江晚报-杭州房产 |accessdate=2019-10-09 |archive-date=2020-06-04 |archive-url=https://web.archive.org/web/20200604014908/https://www.thehour.cn/news/312998.html |dead-url=no }}</ref>。
+
+[[江南大道 (杭州)|江南大道]]为滨江区内东西走向的主干道路<ref>{{cite web |title=滨江道路“一哥”江南大道改造提升工程即将开工 |url=http://county.hangzhou.com.cn/content/2017-02/22/content_6473611.htm |publisher=杭州网 |accessdate=2017-02-22 |archive-date=2020-06-04 |archive-url=https://web.archive.org/web/20200604014907/https://county.hangzhou.com.cn/content/2017-02/22/content_6473611.htm |dead-url=no }}</ref>；地下的[[江南大道隧道]]东起西兴立交（接机场快速路），西至中兴立交（接时代高架），全长约4.56公里<ref>{{Cite web |title=江南大道要挖4.5公里下穿隧道 4分钟就能从三桥到四桥-浙江新闻 |url=https://zjnews.zjol.com.cn/zjnews/hznews/201702/t20170223_3150195.shtml |website=浙江在线 |access-date=2026-02-06}}</ref>，2017年6月主体工程开工，2022年1月19日开通试运行，全程通过仅需3分钟；<ref>{{Cite web |title=3分钟开完全程！江南大道隧道现场体验来了-杭州新闻中心 |url=https://hznews.hangzhou.com.cn/chengshi/content/2022-01/19/content_8149680.htm |website=杭州网 |access-date=2026-02-06}}</ref>其他东西向的主干路还有闻涛路、滨盛路、滨和路、江汉东路、滨兴路、滨安路、滨康路和南环路。南北向的主干路有：东信大道、伟业路、火炬大道、诚业路、信诚路、建业路、时代大道(北连[[复兴大桥]])、长河路、江虹路、[[江汉路 (杭州市)|江汉路]]、江晖路、江陵路和西兴路。
+
+[[杭州地铁1号线]]在滨江区设有[[江陵路站]]、[[滨和路站]]、[[西兴站]]和[[滨康路站]]。[[杭州地铁4号线]]在滨江区设有[[联庄站]]、[[中医药大学站 (杭州市)|中医药大学站]]、[[杨家墩站]]和[[浦沿站]]。[[杭州地铁5号线]]在滨江境内自东向西后转向北，设[[滨康路站]]、[[江晖路站]]、[[聚才路站]]和[[长河站 (杭州地铁)|长河站]]4站；[[杭州地铁6号线]]横穿滨江区设有10站。
+
+== 参见 ==
+*[[杭州经济技术开发区]]
+
+== 参考文献 ==
+{{Wikisource|国务院关于同意浙江省调整杭州市市辖区行政区划的批复}}
+{{reflist|30em}}
+
+== 外部链接 ==
+* {{Commons category-inline}}
+
+{{Geographic Location
+|西北 = 
+|北   = [[上城区]]
+|東北 = [[江干区]]
+|西   = [[西湖区 (杭州市)|西湖区]]
+|中央 = 滨江区
+|東   = [[萧山区]]
+|西南 = 
+|南   = [[萧山区]]
+|東南 = 
+}}
+{{滨江区行政区划}}
+{{杭州市行政区划}}
+{{浙江行政区划}}
+{{国家级高新技术产业开发区}}
+{{杭州市}}
+
+[[Category:滨江区| ]]
+[[Category:1996年建立的行政区划]]
+
+[[Category:杭州市辖区]]
+[[Category:杭州经济]]
+[[Category:国家级高新技术产业开发区]]
+[[Category:杭州新城区]]
+[[Category:1996年杭州建立]]
+[[Category:蕭山區歷史]]

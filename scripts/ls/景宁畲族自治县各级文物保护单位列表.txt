@@ -1,0 +1,64 @@
+以下为丽水市[[景宁畲族自治县]]范围内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下为景宁畲族自治县范围内的[[全国重点文物保护单位]]<ref>{{cite web |url = http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |title = 全国重点文物保护单位 |publisher = 中国文化遗产-中国文物信息咨询中心网站 |date= |accessdate=2009-06-21 |deadurl=yes |archiveurl = https://web.archive.org/web/20100315033814/http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |archivedate=2010-03-15 |language = zh }}</ref>
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[处州廊桥]]<ref>第五批全国重点文物保护单位名为'''[[如龙桥]]'''，第七批扩充后更名为'''[[处州廊桥]]'''。</ref><br>
+其中景宁畲族自治县范围内共8座，包括<small>
+*[[大赤坑桥]]
+*[[东坑上桥]]
+*[[东坑下桥]]
+*[[莲川大地桥]]
+*[[梅歧桥]]
+*[[接龙桥 (景宁)|接龙桥]]
+*[[环胜桥]]
+*[[护关桥]]</small>
+|5-296
+|古建筑
+|[[景宁畲族自治县]]
+|[[明朝|明]]至[[中華民國|民国]]
+|[[File:护关桥.jpg|180px]]
+|-
+|[[时思寺]]
+|5-310
+|古建筑
+|[[景宁县]][[大漈乡]]西二村
+|[[元朝|元]]—[[清]]
+|[[File:時思寺全景.jpg|180px]]
+|}
+
+==浙江省文物保护单位==
+以下为景宁畲族自治县范围内的[[浙江省文物保护单位]]：
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[鹤溪潘家大屋]]||6-133||古建筑 ||景宁畲族自治县鹤溪街道戏台后15-16号 ||明清 ||[[File:Former Residence of Pan's Family in Hexi Subdistrict 03 2020-11.jpg|180px]]
+|-
+|[[敕木山村|敕木山村畲族民居]]||6-236||古建筑 ||景宁畲族自治县 || ||
+|-
+|[[景宁文庙|景宁孔庙]]||7-198||古建筑||景宁畲族自治县鹤溪街道人民南路72号 ||清 ||[[File:Jingning Confucian Temple 09 2019-08.jpg|180px]]
+|-
+|[[严氏节孝木牌坊]]||7-199||古建筑 ||景宁畲族自治县 || ||
+|-
+|}
+
+==参考文献及注释==
+{{reflist|2}}
+{{浙江各级文物保护单位}}
+[[Category:景宁畲族自治县]]

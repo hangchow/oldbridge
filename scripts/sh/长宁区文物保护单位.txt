@@ -1,0 +1,49 @@
+本表列出的是[[长宁区]]区级[[文物保护单位]]，关于长宁区境内的[[全国重点文物保护单位]]和上海市市级文物保护单位，请分别参见[[上海全国重点文物保护单位列表]]和[[上海市文物保护单位#长宁区（15处）|上海市文物保护单位]]。
+
+==区级文物保护单位（5处）==
+<center>
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[陈止善堂]]
+|新华路294弄5号
+|2011.3.4
+|
+|-
+|[[青霉素实验所旧址]]
+|延安西路1146号
+|2011.3.4
+|
+|-
+|[[复旦公学旧址]]
+|华山路1626号
+|2011.3.4
+|
+|-
+|[[哥伦比亚住宅圈#邬达克公馆|邬达克住宅]]
+|番禺路129号
+|2011.3.4
+|style="padding:0" |[[File:Former Hudec Residence in Shanghai.JPG|125px]]
+|-
+|[[农工党第四次全国干部会议会址]]
+|愚园路1320弄5号楼
+|2011.3.4
+|style="padding:0" |[[File:Nonggongdangdisiciquanguoganbuhuiyihuizhi.jpg|125px]]
+|}
+</center>
+
+==参考文献==
+{{reflist}}
+==参见==
+*{{cite web |language =  |publisher = 上海市文化广播影视管理局 |title = 长宁区县级文物保护单位、登记不可移动文物 |url = http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75606.html |author = 市文广影视局 |date = 2011-10-28 |accessdate =  |archiveurl = https://web.archive.org/web/20140202000111/http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75606.html |archivedate = 2014-02-02 |dead-url = no }}
+*《长宁区志》>>第三十四编文化>>第五章文物、史迹
+*《话说上海·长宁卷》
+
+{{上海市各区县文物保护单位索引}}
+
+[[Category:上海市境内的区级文物保护单位]]
+[[Category:长宁区]]

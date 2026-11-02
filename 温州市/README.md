@@ -48,7 +48,7 @@
 | <nobr>14</nobr> | <nobr>文成县</nobr> | <nobr>巨屿镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/wzql/wzql228.htm) | 石拱桥（单孔） | 26.56米 | 民国二十四年（1935）建 | <nobr>市级文物保护点</nobr> |
 | <nobr>15</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 文重桥 [?](http://www.china-qiao.com/ql15/wzql/wzql186.htm) | 木拱廊桥 | 26.2米 | 清乾隆十年（1745）始建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>16</nobr> | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 道均洋桥 [?](http://www.china-qiao.com/ql15/wzql/wzql152.htm) | 石拱廊桥 | 25.74米 | 民国 | <nobr>市级文物保护点</nobr> |
-| <nobr>17</nobr> | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 毓秀桥 [?](http://www.china-qiao.com/ql15/wzql/wzql323.htm) | 石梁桥（六墩七孔） | 25米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 毓秀桥 [?](http://www.china-qiao.com/ql15/wzql/wzql323.htm) | 石梁桥（六墩七孔） | 25米 | 清嘉庆十四年（1809）建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>18</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 刘宅桥 [?](http://www.china-qiao.com/ql15/wzql/wzql180.htm) | 木梁廊桥 | 24.8米 | 清乾隆四十一年（1776）重修 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>19</nobr> | <nobr>瑞安市</nobr> | <nobr>—</nobr> | 河西桥 [?](http://www.china-qiao.com/ql15/wzql/wzql227.htm) | 石梁桥（五孔） | 24.50米 | 宋 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 霞庄桥 [?](http://www.china-qiao.com/ql15/wzql/wzql168.htm) | 木拱廊桥 | 23.49米 | 明至清；清同治七年（1868）重修 | <nobr>省级文物保护单位</nobr> |
@@ -125,7 +125,7 @@
 | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 罗阳登云桥 | — | — | 明至清 | 泰顺县文物保护单位 |
 | <nobr>泰顺县</nobr> | <nobr>三魁镇</nobr> | 刘宅木廊桥 | — | — | 明至清 | 泰顺县文物保护单位 |
 | <nobr>泰顺县</nobr> | <nobr>三魁镇</nobr> | 薛宅木拱桥 | — | — | 清 | 泰顺县文物保护单位 |
-| <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 毓秀桥 [?](http://www.china-qiao.com/ql15/wzql/wzql323.htm) | 石梁桥（六墩七孔） | 25米 | 清 | 泰顺县文物保护单位 |
+| <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 毓秀桥 [?](http://www.china-qiao.com/ql15/wzql/wzql323.htm) | 石梁桥（六墩七孔） | 25米 | 清嘉庆十四年（1809）建 | 泰顺县文物保护单位 |
 | <nobr>泰顺县</nobr> | <nobr>翁山乡</nobr> | 旗峰桥 [?](http://www.china-qiao.com/ql15/wzql/wzql161.htm) | 石拱廊桥 | 22.58米 | 清 | 泰顺县文物保护单位 |
 | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 柳溪桥 | — | — | 清 | 泰顺县文物保护单位 |
 | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 贝谷石梁桥 | — | — | 清 | 泰顺县文物保护单位 |

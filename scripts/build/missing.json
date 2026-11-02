@@ -1,0 +1,5700 @@
+[
+{
+"dist": "建德市",
+"town": "大慈岩镇",
+"name": "神仙桥",
+"era": "明至民国",
+"loc": "新叶村",
+"level": "全国重点文物保护单位（新叶村乡土建筑组成部分，第七批）",
+"doc": "国发〔2013〕13号",
+"src": "https://zh.wikipedia.org/wiki/杭州市各级文物保护单位列表",
+"struct": "—",
+"note": "“新叶村乡土建筑”整体列为国保",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市各级文物保护单位列表"
+]
+},
+{
+"dist": "富阳区",
+"town": "龙门镇",
+"name": "永安桥",
+"era": "明至民国",
+"loc": "龙门古镇内",
+"level": "浙江省文物保护单位（龙门建筑群组成部分，第七批）",
+"doc": "浙政发〔2017〕2号",
+"src": "https://zh.wikipedia.org/wiki/杭州市各级文物保护单位列表",
+"struct": "—",
+"note": "“龙门建筑群”整体列为省保，永安桥是其中一处",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市各级文物保护单位列表"
+]
+},
+{
+"dist": "拱墅区",
+"town": "石桥街道",
+"name": "古通济桥",
+"era": "明",
+"loc": "石桥村",
+"level": "杭州市文物保护单位（第三批）",
+"doc": "—（2000年公布）",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "拱墅区",
+"town": "米市巷街道",
+"name": "里万物桥",
+"era": "明正德三年（1508）",
+"loc": "万物桥巷清水潭",
+"level": "杭州市文物保护单位（第五批）",
+"doc": "杭政函〔2013〕174号",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "西湖区",
+"town": "北山街道",
+"name": "断桥",
+"era": "—",
+"loc": "白堤东端",
+"level": "杭州市文物保护单位（西湖三堤·白堤组成部分）",
+"doc": "—（2004年7月22日增补）",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "石拱桥（单孔）",
+"note": "“西湖三堤”整体列为市保，桥梁是其组成部分",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "西湖区",
+"town": "北山街道",
+"name": "锦带桥",
+"era": "—",
+"loc": "白堤中段",
+"level": "杭州市文物保护单位（西湖三堤·白堤组成部分）",
+"doc": "—（2004年7月22日增补）",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "石拱桥（单孔）",
+"note": "“西湖三堤”整体列为市保，桥梁是其组成部分",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "苏堤六桥（映波桥、锁澜桥、望山桥、压堤桥、东浦桥、跨虹桥）",
+"era": "—",
+"loc": "苏堤上，由南向北",
+"level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
+"doc": "—（2004年7月22日增补）",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "石拱桥",
+"note": "“西湖三堤”整体列为市保，桥梁是其组成部分",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "杨公堤六桥（环璧桥、流金桥、卧龙桥、隐秀桥、景行桥、浚源桥）",
+"era": "—",
+"loc": "杨公堤上",
+"level": "杭州市文物保护单位（西湖三堤·杨公堤组成部分）",
+"doc": "—（2004年7月22日增补）",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "石拱桥",
+"note": "“西湖三堤”整体列为市保，桥梁是其组成部分；现桥多为2003年杨公堤恢复工程重建，另有“景行古桥”单列为市级文物保护点",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "瓜沥通济桥",
+"era": "清",
+"loc": "长巷村",
+"level": "杭州市文物保护单位（第四批，原萧山市保调整）",
+"doc": "杭政函〔2009〕72号",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "萧山区",
+"town": "楼塔镇",
+"name": "洲口桥",
+"era": "现代",
+"loc": "楼塔镇人民政府东南侧",
+"level": "杭州市文物保护单位（第四批）",
+"doc": "杭政函〔2009〕72号",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "党山镇古桥（延寿桥、永禄桥、永福桥、迎福桥）",
+"era": "明—清",
+"loc": "党山村",
+"level": "杭州市文物保护单位（第五批）",
+"doc": "杭政函〔2013〕174号",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "4座桥作为一处文物公布",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "萧山区",
+"town": "楼塔镇",
+"name": "田村金钱桥",
+"era": "清",
+"loc": "田村自然村",
+"level": "杭州市文物保护单位（第七批）",
+"doc": "杭政函〔2022〕59号",
+"src": "https://edu.hangzhou.gov.cn/art/2022/10/27/art_1229424612_1826758.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://edu.hangzhou.gov.cn/art/2022/10/27/art_1229424612_1826758.html"
+]
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "大堰桥",
+"era": "清",
+"loc": "径山村里洪自然村，双溪公路旁的里洪港上",
+"level": "杭州市文物保护单位",
+"doc": "杭政函〔2009〕72号",
+"src": "http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+]
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "众善桥",
+"era": "始建不详，民国重修",
+"loc": "勾庄村吴王自然村",
+"level": "杭州市文物保护单位",
+"doc": "杭政函〔2009〕72号",
+"src": "http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+]
+},
+{
+"dist": "余杭区",
+"town": "鸬鸟镇",
+"name": "万庆桥",
+"era": "清",
+"loc": "山沟沟村汤坑自然村村口",
+"level": "杭州市文物保护单位",
+"doc": "杭政函〔2013〕174号",
+"src": "http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+]
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "上环桥",
+"era": "清",
+"loc": "临平经济技术开发区上环桥社区",
+"level": "杭州市文物保护单位（第四批）",
+"doc": "杭政函〔2009〕72号",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "名录只写“临平经济技术开发区”，归入东湖街道是按开发区托管范围推断的，待核实",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "隆兴桥",
+"era": "清",
+"loc": "东大街东段",
+"level": "杭州市文物保护单位（第四批）",
+"doc": "杭政函〔2009〕72号",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "富阳区",
+"town": "新登镇",
+"name": "湘河湘溪廊桥",
+"era": "明",
+"loc": "湘河村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "富阳区",
+"town": "鹿山街道",
+"name": "汤家埠万龄桥",
+"era": "清",
+"loc": "汤家埠村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "富阳区",
+"town": "万市镇",
+"name": "方里方坑桥",
+"era": "清",
+"loc": "方里村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "富阳区",
+"town": "洞桥镇",
+"name": "洞桥",
+"era": "明",
+"loc": "洞桥村陈林自然村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "板桥镇",
+"name": "日新桥",
+"era": "清",
+"loc": "临安区板桥镇葱坑村与富阳区永昌镇青何村民政自然村之间",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "跨临安区、富阳区",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "天目山镇",
+"name": "天目山桂芳桥",
+"era": "清",
+"loc": "桂芳桥村桂芳自然村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "昌化镇",
+"name": "联盟久安桥",
+"era": "清",
+"loc": "联盟村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "太湖源镇",
+"name": "太湖源青云桥",
+"era": "清",
+"loc": "青云村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "浙江省文保点统计表里另以“青云桥”（太湖源镇青云村，临文广新〔2006〕34号）列为市级文物保护点，应是同一座桥，这里按较高的市保等级记录",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "於潜镇",
+"name": "南山长安桥",
+"era": "清",
+"loc": "南山村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "浙江省文保点统计表里另以“长安桥”（於潜镇南山坞村，临文广新〔2006〕34号）列为市级文物保护点，应是同一座桥，这里按较高的市保等级记录",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "龙岗镇",
+"name": "百丈万年桥",
+"era": "清",
+"loc": "百丈村双石自然村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "清凉峰镇",
+"name": "清凉峰永安桥",
+"era": "清",
+"loc": "杨溪村义干自然村、颊口村前坑自然村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "临安区",
+"town": "龙岗镇",
+"name": "龙岗长乐桥",
+"era": "民国",
+"loc": "龙井桥村",
+"level": "杭州市文物保护单位（第五批增补）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
+"struct": "—",
+"note": "浙江省文保点统计表里另以“长乐桥”（原大峡谷镇龙井桥村，临文广新〔2006〕24号）列为市级文物保护点，应是同一座桥，这里按较高的市保等级记录",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市文物保护单位"
+]
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "上马桥",
+"era": "—",
+"loc": "上马村",
+"level": "建德市文物保护单位（第二批）",
+"doc": "建政（85）211号",
+"src": "https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表"
+]
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "镇源桥",
+"era": "—",
+"loc": "镇源村松源里自然村56号民居北侧",
+"level": "建德市文物保护单位（第九批）",
+"doc": "建政函〔2010〕54号",
+"src": "https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表"
+]
+},
+{
+"dist": "建德市",
+"town": "梅城镇",
+"name": "保安桥",
+"era": "—",
+"loc": "滨江村双蔡自然村外蔡",
+"level": "建德市文物保护单位（第九批）",
+"doc": "建政函〔2010〕54号",
+"src": "https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表"
+]
+},
+{
+"dist": "建德市",
+"town": "乾潭镇",
+"name": "乐善桥",
+"era": "—",
+"loc": "胥江村白佛寺自然村三桥头",
+"level": "建德市文物保护单位（第九批）",
+"doc": "建政函〔2010〕54号",
+"src": "https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/建德市各级文物保护单位列表"
+]
+},
+{
+"dist": "桐庐县",
+"town": "百江镇",
+"name": "凤坡桥",
+"era": "清",
+"loc": "乐明行政村罗湖口自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "莪山畲族乡",
+"name": "上江桥",
+"era": "清",
+"loc": "塘联行政村畈里自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "莪山畲族乡",
+"name": "白鹅桥",
+"era": "1915年",
+"loc": "中门民族村莪溪自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "分水镇",
+"name": "儒桥",
+"era": "清",
+"loc": "儒桥行政村陈家自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2000年12月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "富春江镇",
+"name": "万福桥",
+"era": "清",
+"loc": "茆坪行政村茆坪自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "合村乡",
+"name": "善庆桥",
+"era": "清",
+"loc": "三源行政村柴家畈自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "横村镇",
+"name": "丰盛桥",
+"era": "清",
+"loc": "上塘行政村唐王岭自然村",
+"level": "桐庐县文物保护单位（与唐王岭村堰合为一处）",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "江南镇",
+"name": "环溪双桥",
+"era": "清至民国",
+"loc": "环溪行政村环溪自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "新合乡",
+"name": "履坦桥",
+"era": "南宋",
+"loc": "松山行政村里松山自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "瑶琳镇",
+"name": "同人桥",
+"era": "清",
+"loc": "毕浦行政村毕浦自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "桐庐县",
+"town": "瑶琳镇",
+"name": "普安桥",
+"era": "清",
+"loc": "元川行政村元川自然村",
+"level": "桐庐县文物保护单位",
+"doc": "2011年4月公布",
+"src": "https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://www.tonglu.gov.cn/art/2025/8/6/art_1229891683_59029306.html"
+]
+},
+{
+"dist": "上城区",
+"town": "清波街道",
+"name": "肖公桥",
+"era": "清",
+"loc": "劳动路社区，西湖景区柳浪闻莺公园内闻莺阁茶楼东南面5米处。",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "上城区",
+"town": "清波街道",
+"name": "新横河桥",
+"era": "清",
+"loc": "劳动路社区，柳浪闻莺公园内闻莺馆茶室东面。",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "上城区",
+"town": "笕桥街道",
+"name": "全福桥",
+"era": "清",
+"loc": "水墩社区备塘河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "上城区",
+"town": "笕桥街道",
+"name": "永安桥",
+"era": "明",
+"loc": "范家社区麦庙港",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "上城区",
+"town": "笕桥街道",
+"name": "俞章陆桥",
+"era": "清",
+"loc": "笕桥镇俞章村俞章直路俞章村二组91号前",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "长庆街道",
+"name": "坝子桥",
+"era": "清",
+"loc": "浙大御跸社区东河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "长庆街道",
+"name": "广安新桥",
+"era": "清",
+"loc": "新华坊社区东河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "祥符街道",
+"name": "福寿长桥",
+"era": "清",
+"loc": "拱墅区祥符街道总管堂村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "毓秀桥",
+"era": "清",
+"loc": "金沙港社区赵公堤东侧，盖叫天旧居旁",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "通利桥",
+"era": "清",
+"loc": "茅家埠村都锦生故居东侧",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "玉涧桥",
+"era": "明、清",
+"loc": "茅家埠村都锦生故居东侧",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "永福桥",
+"era": "清",
+"loc": "茅家埠村景行桥西北乌龟潭杨公堤景区",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "西湖街道",
+"name": "景行古桥",
+"era": "清",
+"loc": "净寺社区杨公堤18号西湖国宾馆与知味观味庄的交界处",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "灵隐街道",
+"name": "古荡桥",
+"era": "清",
+"loc": "庆丰社区沿山河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "留下街道",
+"name": "栅桥",
+"era": "清",
+"loc": "茶市街社区",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "翠苑街道",
+"name": "思娘桥",
+"era": "清",
+"loc": "古荡湾社区葛家庄路东尽头",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "戴家桥及螺峰亭",
+"era": "清",
+"loc": "十间楼自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "蜀山街道",
+"name": "思家桥及河沿",
+"era": "明",
+"loc": "史家桥自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "义桥镇",
+"name": "古凤仪桥",
+"era": "清",
+"loc": "义桥村西河沿自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "戴村镇",
+"name": "东吴桥",
+"era": "清",
+"loc": "佛山村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "戴村镇",
+"name": "响石桥",
+"era": "清",
+"loc": "枫桥村响石桥自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "渔庄第一桥",
+"era": "清",
+"loc": "渔庄村南，池上河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "衙前镇",
+"name": "螺山大桥",
+"era": "清",
+"loc": "螺山村南",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "古西木桥",
+"era": "清",
+"loc": "大义村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "龙江桥",
+"era": "清",
+"loc": "大义村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "大义万缘桥",
+"era": "清",
+"loc": "大义村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "瓜沥镇",
+"name": "飞腾桥",
+"era": "清",
+"loc": "渔庄村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "进化镇",
+"name": "三祝桥",
+"era": "1922年",
+"loc": "华家垫村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "进化镇",
+"name": "镇东桥",
+"era": "清",
+"loc": "吉山村七埌坪",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "印月桥",
+"era": "清",
+"loc": "娄下陈村娄下陈自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "东河桥",
+"era": "清",
+"loc": "浙东村东河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "莫家桥",
+"era": "清",
+"loc": "涝湖村横塘头自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "万济桥",
+"era": "清",
+"loc": "涝湖村东陈自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "东许八字桥",
+"era": "清",
+"loc": "西许村东许自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "益农镇",
+"name": "益农村万寿桥",
+"era": "清",
+"loc": "益农村周家埠头",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "益农镇",
+"name": "夹灶万安桥",
+"era": "1920年",
+"loc": "星联村夹灶自然村南部",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "河上镇",
+"name": "济远桥",
+"era": "清",
+"loc": "大桥村大桥埠头",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕57号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "船桥",
+"era": "清",
+"loc": "径山村里洪村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "部伍桥",
+"era": "清",
+"loc": "东门头，南渠河北岸沙港口",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "登瀛桥",
+"era": "明嘉靖乙亥年（1539）",
+"loc": "高桥村田家角22号东南",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "福兴桥",
+"era": "清",
+"loc": "吴山前村寡山斗自然村东南部",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "新桥",
+"era": "清嘉庆二十三年（1818）",
+"loc": "吴山前村新桥头自然村西",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "回澜桥",
+"era": "明嘉靖三十六年（1557）",
+"loc": "大陆村陶家㘰自然村东",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "石梁桥（单孔）",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "应龙桥",
+"era": "清",
+"loc": "东山村毛墩坝自然村北",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "东新桥",
+"era": "清嘉庆二年（1797）",
+"loc": "东塘村东新村东姚家湾1号东侧",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "五常街道",
+"name": "保宁桥",
+"era": "清宣统二年（1910）",
+"loc": "友谊社区古白庙旁，五常杭州绕城公路以西",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "闲林街道",
+"name": "毛家桥",
+"era": "清康熙十二年（1673）",
+"loc": "华丰社区毛家桥自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+"http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "三星桥",
+"era": "清",
+"loc": "三家村102号民宅南",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "沾驾桥",
+"era": "清",
+"loc": "沾桥村，沾驾桥东与沾驾桥西自然村交界处，东西向跨于沾桥港",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "万年桥",
+"era": "清",
+"loc": "沾桥村南马浜外浜39号民宅西侧，东西向跨沾桥港",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "跌马桥",
+"era": "明",
+"loc": "超山村龟山东自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "磻溪桥",
+"era": "清",
+"loc": "河西埭村磻阳自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "花明村桥",
+"era": "清",
+"loc": "三星村周家湾27－3号民宅东侧",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "洪家桥",
+"era": "南宋",
+"loc": "泉漳村徐家里，东西向跨朱家里河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "竹节关桥",
+"era": "民国",
+"loc": "李家桥村双家㘰，南北向跨洋南港",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "见龙桥",
+"era": "1923年",
+"loc": "东新村五组邵家角，东西向跨东凌河",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "永兴渡船桥",
+"era": "清",
+"loc": "兴旺村三花里，东西向跨三花港",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "渔山乡",
+"name": "万寿桥",
+"era": "明",
+"loc": "五岭村五爱自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "常绿镇",
+"name": "长春大庙桥",
+"era": "清",
+"loc": "大章村章村自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "常绿镇",
+"name": "八字桥",
+"era": "民国",
+"loc": "大章村章村自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "新登镇",
+"name": "崔家大桥",
+"era": "清",
+"loc": "湘溪村崔家自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "万市镇",
+"name": "众源众缘桥",
+"era": "清、民国",
+"loc": "众缘村众源自然村",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2015〕45号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "富春街道",
+"name": "太平桥",
+"era": "清",
+"loc": "金桥社区",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "东洲街道",
+"name": "木桥头杨树桥",
+"era": "民国",
+"loc": "木桥头村南侧",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "万市镇",
+"name": "洞山脚李皇桥",
+"era": "明",
+"loc": "平山村洞山脚",
+"level": "杭州市文物保护点",
+"doc": "杭园文〔2017〕56号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "青山湖街道",
+"name": "会仙桥",
+"era": "南宋",
+"loc": "宫里村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "岛石镇",
+"name": "仁里桥",
+"era": "清",
+"loc": "仁里村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "岛石镇",
+"name": "岩镇桥",
+"era": "清",
+"loc": "汤家村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "锦城街道",
+"name": "金头桥",
+"era": "清",
+"loc": "金头村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "於潜镇",
+"name": "双坑桥",
+"era": "清",
+"loc": "双坑村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "天目山镇",
+"name": "永乐桥",
+"era": "清",
+"loc": "甫上村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "名录地址用的是撤并前的“藻溪镇”，今属天目山镇",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "岛石镇",
+"name": "卫阳桥",
+"era": "清",
+"loc": "上许村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "名录地址用的是撤并前的“新桥乡”，今属岛石镇",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "湍口镇",
+"name": "塘溪桥",
+"era": "清",
+"loc": "凤凰山村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "高虹镇",
+"name": "虹桥",
+"era": "清",
+"loc": "虹桥村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2006〕34号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "昌化镇",
+"name": "市溪桥",
+"era": "清",
+"loc": "东街村东部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "太湖源镇",
+"name": "苕tiáo sháo源桥",
+"era": "清",
+"loc": "光辉村觃头自然村",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "天目山镇",
+"name": "目源桥",
+"era": "清",
+"loc": "门口村西河自然村北部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "太阳镇",
+"name": "安乐桥",
+"era": "清",
+"loc": "太阳村王家自然村北部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "龙岗镇",
+"name": "仙人桥",
+"era": "清",
+"loc": "兴龙村茆里自然村南部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "龙岗镇",
+"name": "三渡桥",
+"era": "清",
+"loc": "龙井村龙井自然村西部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "龙岗镇",
+"name": "狮溪桥",
+"era": "清",
+"loc": "太平村狮溪自然村西部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "龙岗镇",
+"name": "纤岭桥",
+"era": "清",
+"loc": "上溪村上溪自然村东部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "清凉峰镇",
+"name": "顺溪村永乐桥",
+"era": "清",
+"loc": "顺溪村顺溪自然村北部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "清凉峰镇",
+"name": "下乾永安桥",
+"era": "清",
+"loc": "顺白果村乾山自然村中部",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "河桥镇",
+"name": "赵家永安桥",
+"era": "清",
+"loc": "学川村学川自然村赵家",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "河桥镇",
+"name": "庆安桥",
+"era": "清",
+"loc": "河桥村曹家自然村九江坞",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "清凉峰镇",
+"name": "鹄山村永安桥",
+"era": "1920年",
+"loc": "大鹄村鹄山自然村十字石",
+"level": "杭州市文物保护点",
+"doc": "临文广新〔2012〕135号",
+"srcs": [
+"https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "西湖区",
+"town": "留下街道",
+"name": "古楹春桥",
+"era": "—",
+"loc": "留下街道",
+"level": "杭州市历史建筑",
+"doc": "—",
+"src": "https://baijiahao.baidu.com/s?id=1709588752468179224",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://baijiahao.baidu.com/s?id=1709588752468179224"
+]
+},
+{
+"dist": "西湖区",
+"town": "留下街道",
+"name": "古庆春桥",
+"era": "—",
+"loc": "留下街道",
+"level": "杭州市历史建筑",
+"doc": "—",
+"src": "https://baijiahao.baidu.com/s?id=1709588752468179224",
+"struct": "—",
+"note": "",
+"commons": null,
+"srcs": [
+"https://baijiahao.baidu.com/s?id=1709588752468179224"
+]
+},
+{
+"dist": "西湖区",
+"town": "留下街道",
+"name": "古灵慈桥",
+"era": "清乾隆六十年（1795）重建",
+"loc": "留下大街往北约50米，东西向跨西溪河",
+"level": "杭州市历史建筑",
+"doc": "—",
+"src": "https://baijiahao.baidu.com/s?id=1709588752468179224",
+"struct": "石拱桥（单孔）",
+"note": "",
+"commons": null,
+"srcs": [
+"https://baijiahao.baidu.com/s?id=1709588752468179224"
+]
+},
+{
+"dist": "西湖区",
+"town": "蒋村街道",
+"name": "伍郎桥",
+"era": "—",
+"loc": "蒋墩路、晴川街西北角",
+"level": "杭州市历史建筑（第九批）",
+"doc": "—",
+"src": "https://zh.wikipedia.org/wiki/杭州市历史建筑",
+"struct": "—",
+"note": "所在街道按地址推断，待核实",
+"commons": null,
+"srcs": [
+"https://zh.wikipedia.org/wiki/杭州市历史建筑"
+]
+},
+{
+"dist": "萧山区",
+"town": "临浦镇",
+"name": "庙前石桥",
+"era": "清代",
+"loc": "通二村西施庙东侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "浦阳镇",
+"name": "临江村明朝吊桥及景观池",
+"era": "明代",
+"loc": "临江村王家自然村南",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "蜀山街道",
+"name": "王绣桥",
+"era": "明代",
+"loc": "赵家墩村王秀里自然村",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "蜀山街道",
+"name": "严家桥",
+"era": "清代",
+"loc": "南秀路南侧，铁佛寺北侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "蜀山街道",
+"name": "岳大桥及武穆亭",
+"era": "清代",
+"loc": "祝家桥社区万源路1号",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "霞江村百岁桥",
+"era": "清代",
+"loc": "霞江村西南部，横跨东塘河",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "官河社区古谢家桥",
+"era": "清代",
+"loc": "官河社区",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "衙前镇",
+"name": "明华村前方桥",
+"era": "清代",
+"loc": "明华村前方自然村育才路南",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "衙前镇",
+"name": "明华村永安桥",
+"era": "清代",
+"loc": "明华村毛家上路45号南侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "衙前镇",
+"name": "卫家永乐桥",
+"era": "不详",
+"loc": "凤凰村卫家自然村",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "名录只写“不详”，具体年代待核实，如为1949年后修建则不在本项目范围",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "衙前镇",
+"name": "翔凤村镇东桥",
+"era": "清代",
+"loc": "四翔村翔凤自然村前河路",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "益农镇",
+"name": "东村村宏济桥",
+"era": "清代",
+"loc": "东村村二组南，横跨塘南内河",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "益农镇",
+"name": "星联村绳武桥",
+"era": "清代",
+"loc": "星联村夹灶自然村南",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229303104/art/2026/art_40b635ed85804fbb9be14c581dde73bf.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "萧山区",
+"town": "新塘街道",
+"name": "联华新村会阆桥",
+"era": "清康熙庚辰年（1700）",
+"loc": "联华新村会郎曹自然村",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.xiaoshan.gov.cn/col/col1229292698/art/2026/art_6fb0ec768c77455ab1160bf1eb80cc7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "湖源乡",
+"name": "湖源大桥",
+"era": "近现代",
+"loc": "新一村南侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.fuyang.gov.cn/col/col1228923482/art/2026/art_52183baca1db47898a08e94c009c12e5.html"
+],
+"struct": "—",
+"note": "名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "万市镇",
+"name": "方里村龙门桥",
+"era": "清代",
+"loc": "方里村龙门桥自然村万牧公路北侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.fuyang.gov.cn/col/col1228923482/art/2026/art_52183baca1db47898a08e94c009c12e5.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "富阳区",
+"town": "万市镇",
+"name": "万仙桥",
+"era": "清代",
+"loc": "何家村龙王坑水库库尾与临安百丈岭水口交界处",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.fuyang.gov.cn/col/col1228923482/art/2026/art_52183baca1db47898a08e94c009c12e5.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "板桥镇",
+"name": "小畔坞石拱桥",
+"era": "清代",
+"loc": "上钱村上钱自然村西北部",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "板桥镇",
+"name": "白垃坪石拱桥",
+"era": "清代",
+"loc": "上钱村上钱自然村西北部",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "板桥镇",
+"name": "上钱廊桥",
+"era": "清代",
+"loc": "上钱村上钱自然村横岭脚南部",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "高虹镇",
+"name": "宣王殿桥",
+"era": "清代",
+"loc": "石门村东南宣王桥",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "河桥镇",
+"name": "石室寺南石拱桥",
+"era": "清代",
+"loc": "河桥村曹家自然村石室寺东南",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "河桥镇",
+"name": "石室寺北石拱桥",
+"era": "清代",
+"loc": "河桥村曹家自然村南部石室寺东北",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "清凉峰镇",
+"name": "柴湾脚石拱桥",
+"era": "清代",
+"loc": "马啸村童家庄东北侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "太阳镇",
+"name": "桃树岭石拱桥",
+"era": "明代",
+"loc": "锦坑桥村青石门1组23号附房东北",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "天目山镇",
+"name": "蟠龙桥",
+"era": "近现代",
+"loc": "天目村西天目山禅源寺东南",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "湍口镇",
+"name": "鱼水桥",
+"era": "清代",
+"loc": "塘秀村秀上自然村东侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "湍口镇",
+"name": "会头湾石拱桥",
+"era": "清代",
+"loc": "洪岭村会头湾52-1号西南",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临安区",
+"town": "於潜镇",
+"name": "席家石拱桥",
+"era": "清代",
+"loc": "古竺村席家自然村南侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "梅城镇",
+"name": "梅城太平桥",
+"era": "宋辽西夏金元",
+"loc": "严陵社区正大街思范坊牌坊南侧10米",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "梅城镇",
+"name": "团结桥",
+"era": "近现代",
+"loc": "利群村利群自然村村东侧，利群村文化礼堂东侧约10米处",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "三都镇",
+"name": "里陈村万年桥",
+"era": "明代",
+"loc": "寿峰村，里陈50号民居东侧约10米处，东西向横跨前源溪",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "下涯镇",
+"name": "四峰村高下桥",
+"era": "清代",
+"loc": "丰和村四峰自然村79号西北侧约20米，建德侯庙东南侧约100米",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "杨村桥镇",
+"name": "飞仙桥",
+"era": "清代",
+"loc": "岭源村虬村自然村横源坞，里何源线沿线，横源坞1号西侧约120米",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "子孙桥",
+"era": "清代",
+"loc": "黄垅村前山岗自然村村西北侧田垄，前山岗1号西北侧约70米，劳田线东侧约45米",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "众安石拱桥",
+"era": "清代",
+"loc": "溪口村琴山自然村单家山北，青山祖庙西北侧约85米",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "谭家口桥",
+"era": "近现代",
+"loc": "江头村官山源西南约120米，官山源15号东南约45米处",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "金山庙桥",
+"era": "清代",
+"loc": "禹甸村金山庙西北侧约50米处，大长线东侧寿昌江上",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "大同镇",
+"name": "大源口平桥",
+"era": "清代",
+"loc": "上马村西南侧约240米，后畈67号东南约35米处",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "建德市",
+"town": "李家镇",
+"name": "桥头石拱桥",
+"era": "清代",
+"loc": "石鼓村桥头自然村村口，鹅龙寺西侧约10米",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "上城区",
+"town": "彭埠街道",
+"name": "郑家桥",
+"era": "明代、清代",
+"loc": "王家井社区，麦庙港（古后沙河）上，地铁4号线新风站西侧",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.hzsc.gov.cn/col/col1229262710/art/2026/art_ebac3ab588614dc2a0646e8ee531f705.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "桐庐县",
+"town": "新合乡",
+"name": "秋星桥",
+"era": "清代",
+"loc": "松山行政村松山自然村七七坞路口",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "桐庐县",
+"town": "富春江镇",
+"name": "茆坪仁寿桥",
+"era": "近现代",
+"loc": "茆坪行政村茆坪自然村",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html"
+],
+"struct": "—",
+"note": "名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围",
+"commons": null
+},
+{
+"dist": "桐庐县",
+"town": "分水镇",
+"name": "喧坞桥",
+"era": "清代",
+"loc": "三合村张家自然村村口罗沈线北侧十米处",
+"level": "未定级不可移动文物（四普新发现）",
+"doc": "2026年公示",
+"srcs": [
+"https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "车家桥",
+"era": "明",
+"loc": "乐苑社区八字桥南侧5米处，东西向跨石目港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "石灰桥",
+"era": "明",
+"loc": "水北社区西北首，顺德桥北约150米处，西临塘钱港，南北向跨姚家兜",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "顺德桥",
+"era": "明",
+"loc": "水北社区水北街西端，东西向跨运河支流塘钱港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "吴家便桥",
+"era": "清",
+"loc": "泰山村牛卧山（俗称南扒山）东麓，朱家桥北200米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "鸭泾桥",
+"era": "清",
+"loc": "西苑村朱家门自然村北，东西向跨鸭泾港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "西仁桥",
+"era": "清",
+"loc": "三文村东，东西向跨三文村港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "广慧桥",
+"era": "清",
+"loc": "塘北村村委南300余米处的景林自然村中的河道上，南距景林村桥5米",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "斗珠桥",
+"era": "中华民国",
+"loc": "塘北村埂头圩自然村东，南北向跨斗珠河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "秀才桥",
+"era": "清",
+"loc": "塘北村秀才桥头自然村和铁点河自然村西侧田畈交界处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "畐公桥",
+"era": "清",
+"loc": "塘北村仲家舍自然村，仲家舍53号民居南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "李家桥",
+"era": "中华民国",
+"loc": "塘北村外口自然村，南北向跨西漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "得胜坝桥",
+"era": "清",
+"loc": "莫家桥村王家坝口自然村",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "万松桥",
+"era": "清",
+"loc": "柴家坞村钱家角自然村，新建水泥万松桥西50米处，南北向跨柏树湾（俗称八字湾）",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "仲公桥",
+"era": "清",
+"loc": "西苑村马家埭，南北向跨马家埭港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "永安桥",
+"era": "清",
+"loc": "钱江经济开发区泉漳村泉漳自然村28号民居南，南北向跨庙前港（旧称漳溪河）",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "名录地址写“钱江经济开发区”，按村名归入东湖街道",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "姑婆桥",
+"era": "清",
+"loc": "西界河村周家里自然村和李家桥村钟家角自然村交界处，东西向横跨中界河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "北家桥",
+"era": "清",
+"loc": "钱江经济开发区朱家角村北家桥自然村西北，新龙电动车辆厂门口",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "名录地址写“钱江经济开发区”，按村名归入东湖街道",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "里人丁之桥",
+"era": "清",
+"loc": "钱江经济开发区龙船坞村南坝桥自然村",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "名录地址写“钱江经济开发区”，按村名归入东湖街道",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "西兴桥",
+"era": "清",
+"loc": "唐家埭村芙蓉圩29号西侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "兴济桥",
+"era": "清",
+"loc": "钱江经济开发区漳河村南500米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "名录地址写“钱江经济开发区”，按村名归入东湖街道",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "孤林村安乐桥",
+"era": "清",
+"loc": "钱江经济开发区孤林村店前埭7号东南角",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "名录地址写“钱江经济开发区”，按村名归入东湖街道",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "东湖街道",
+"name": "坝子桥",
+"era": "清",
+"loc": "钱江经济开发区漳河村南墙门15号（村枇杷园）南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "名录地址写“钱江经济开发区”，按村名归入东湖街道",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "张家坝桥",
+"era": "清",
+"loc": "姚家埭村张家里村东侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "长板木桥",
+"era": "中华民国",
+"loc": "姚家埭村梁家埭村南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "塘栖村万安桥",
+"era": "清",
+"loc": "塘栖村76-77号住宅东北侧东横塘河上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "小丁山桥",
+"era": "清",
+"loc": "超丁村32号、33号之间",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "增福桥",
+"era": "清",
+"loc": "河西埭村西大坝20号东侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "福莲桥",
+"era": "清",
+"loc": "邵家坝村福莲桥1号西侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "塘栖镇",
+"name": "福来桥",
+"era": "清",
+"loc": "三星村廊下36号东南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "善庆桥",
+"era": "清",
+"loc": "漕桥村小五山村景家头西南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "古城桥",
+"era": "清",
+"loc": "小古城村俞8组小古城61号叶惠良家东",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "羊棚坞湾桥",
+"era": "清",
+"loc": "潘板桥村羊棚坞21号民居西侧约20米",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "叶家桥",
+"era": "清",
+"loc": "潘板桥村招贤弄自然村东",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "乔司街道",
+"name": "东港桥",
+"era": "清",
+"loc": "良熟村大树村51号民宅东侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "里洪村船桥",
+"era": "清",
+"loc": "径山村里洪村口，双径公路北",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "径山镇",
+"name": "长乐古桥",
+"era": "清",
+"loc": "长乐村长春街",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "永泰村油车桥",
+"era": "清",
+"loc": "永泰村仁家斗与北坝儿村交界处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "永泰高桥",
+"era": "清",
+"loc": "永泰村永泰庙东北500米处，东西向跨南旺港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "小环桥",
+"era": "清",
+"loc": "东塘村小环桥14号民居东北侧，东西向跨村中小河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "寺斗里太平桥",
+"era": "清",
+"loc": "洛阳村寺斗里自然村南，南北向跨太平港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "高义桥",
+"era": "清",
+"loc": "新桥村石桥西3号民居以东，东西向跨石桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "万福新桥",
+"era": "清",
+"loc": "平宅村村委南侧，南北向跨平宅港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "丝网埭太平桥",
+"era": "中华民国",
+"loc": "平宅村丝网埭30号民居西南角、村委西北",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "华墅桥",
+"era": "中华民国",
+"loc": "东风村华墅桥28号民居西侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "流翠桥",
+"era": "清",
+"loc": "云会村西山自然村北，南北向跨东山漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "陈公坝桥",
+"era": "中华民国",
+"loc": "九龙村张花弄47号民居南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "三白潭村青龙桥",
+"era": "清",
+"loc": "三白潭村施家墩自然村东南，东西向跨施家墩河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "施家墩石桥",
+"era": "明、清",
+"loc": "三白潭村施家墩村石桥头19号民居西，东西向跨施家墩河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "仁德桥",
+"era": "清",
+"loc": "三白潭村金家墩西坝头北，南北向跨石桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "信善桥",
+"era": "清",
+"loc": "三白潭村金家墩村南阳墩49号东南，南北向跨庙桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "永福长桥",
+"era": "清",
+"loc": "普宁村长桥头33号民居西南，南北向跨长桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "宝顺桥",
+"era": "清",
+"loc": "普宁村骧马桥2号民居西北，东西向跨骧马桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "石蟹桥",
+"era": "清",
+"loc": "普宁村高新农业园区北首，南北向跨石蟹港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "慈大桥",
+"era": "清",
+"loc": "洛阳村田头村自然村东，东西向跨慈大桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "万新桥",
+"era": "中华民国",
+"loc": "奉口村獐湾自然村内，东西向跨沉钵头港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "蔡婆桥",
+"era": "清",
+"loc": "奉口村宋家塘自然村西，南北向跨六亩漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "豆富桥",
+"era": "中华民国",
+"loc": "东山村豆腐桥自然村东，东西向跨东港漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "东山村余庆桥",
+"era": "中华民国",
+"loc": "东山村后墩桥7号民居西北，东西向跨中塘河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仁和街道",
+"name": "永昌坝桥",
+"era": "清",
+"loc": "东山村毛墩坝95、96号民居南，南北向跨毛墩坝港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "四平桥",
+"era": "清",
+"loc": "北庄村鱼池埂1号南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "万善长生高桥",
+"era": "清",
+"loc": "沾桥村东丁家村8号南，东西向跨石前港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "永新桥",
+"era": "中华民国",
+"loc": "向阳村丁家湾32号东南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "山后桥",
+"era": "清",
+"loc": "龙旋村山后路朝西埭114号西侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "大有桥",
+"era": "清",
+"loc": "四维村，蓝天天然气发电有限公司以北约30米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "凤凰桥",
+"era": "清",
+"loc": "沿山村老鸦桥自然村北首，东西向跨沿山港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "南马桥",
+"era": "清",
+"loc": "沾桥村南马浜自然村东首，东西向跨北马桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "沾桥村九曲桥",
+"era": "清",
+"loc": "沾桥村丁家村南，南北向跨九曲港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "古斜桥",
+"era": "清",
+"loc": "龙旋村斜桥30号民居东北，东西向跨斜桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "宋家路外桥",
+"era": "中华民国",
+"loc": "三家村宋家路外95号南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "崇贤街道",
+"name": "范家角太平桥",
+"era": "明",
+"loc": "三家村范家角45号西",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "七家桥",
+"era": "清",
+"loc": "戚家桥村周家里自然村西，东西向跨菩提庵西侧的河道",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "积善桥",
+"era": "清",
+"loc": "东新村东桥头自然村，博陆东庙南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "千户桥",
+"era": "中华民国",
+"loc": "明智村道家圩千户桥自然村，千户桥54号民居西北",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "仁隐桥",
+"era": "中华民国",
+"loc": "博陆村南园里25－1号东南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "聚顺桥",
+"era": "中华民国",
+"loc": "博陆村河北埭1号东南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "螺蛳桥村永丰桥",
+"era": "清",
+"loc": "螺蛳桥村前溪村中部",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "前溪西桥",
+"era": "中华民国",
+"loc": "螺蛳桥村，新临博公路东侧50米",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "永明桥",
+"era": "中华民国",
+"loc": "费庄村东坝里东500米",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "西安桥",
+"era": "清",
+"loc": "唐公村唐家墩48号南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "兴旺村万兴桥",
+"era": "清",
+"loc": "兴旺村北兴村12号东侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "玉露桥",
+"era": "中华民国",
+"loc": "五杭社区玉露路",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "永宁桥",
+"era": "清",
+"loc": "运河村曹家港27号民居西南侧，东西向跨曹家港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "福寿桥",
+"era": "清",
+"loc": "运河村八字桥3号民居东侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "资福桥",
+"era": "清",
+"loc": "运河村费家门1号民居南侧的河港上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "埋甲桥",
+"era": "清",
+"loc": "运河村埋甲桥78号民居东侧的河道上，杭宣铁路以南约30米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "南阳桥",
+"era": "清、中华民国",
+"loc": "谢村南阳桥50号民居南侧河港上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "谢尚书庙桥",
+"era": "清",
+"loc": "谢村谢家塘自然村东，南北向跨谢家塘",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "保善桥",
+"era": "清",
+"loc": "东湖社区菖蒲墩104号民居西南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "翁梅社区永兴桥",
+"era": "中华民国",
+"loc": "翁梅社区南吴郭自然村，南苑小学东南约20米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "星桥街道",
+"name": "周杨社区保安桥",
+"era": "清",
+"loc": "周杨社区沈家角17号民居东北侧，南北向跨老虎浜",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "星桥街道",
+"name": "平安桥",
+"era": "清",
+"loc": "万乐社区卜家桥48号民居西南侧，万乐桥东约130米处，南北向跨张桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "星桥街道",
+"name": "庆庄桥",
+"era": "清",
+"loc": "太平社区庆庄头31号民居北侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "保元桥",
+"era": "中华民国",
+"loc": "新城社区东湖南路333号房屋南侧，保元泽第小区内",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "运河街道",
+"name": "河北埭坝桥",
+"era": "中华民国",
+"loc": "双桥村河北埭48号南侧，南北向横跨河北埭港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "星桥街道",
+"name": "平和桥",
+"era": "中华民国",
+"loc": "万乐社区卜家桥村东的田圩中",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "苏家太平桥",
+"era": "清",
+"loc": "苏家社区苏家村134号民居东南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "进龙桥",
+"era": "清",
+"loc": "联胜社区前木梳庄自然村北首，南北向跨木梳河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "永富桥",
+"era": "清",
+"loc": "天万社区天万自然村双忠庙南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "韩家村古桥",
+"era": "清",
+"loc": "翁梅社区韩家村83号民居西侧河港上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "南苑街道",
+"name": "东梅寺庙桥",
+"era": "清",
+"loc": "红联社区东梅寺庙村与北桥头村之间的河道上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "万寿桥",
+"era": "清",
+"loc": "·东湖街道双林社区胡家埭自然村东南，东西向跨山凌圈港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "八字桥",
+"era": "清",
+"loc": "·东湖街道红旗社区李家桥67号民居、79号民居之间，东西向跨文颜港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "夏家桥",
+"era": "清",
+"loc": "·东湖街道红旗社区，恒诺印染有限公司东，振兴路桥北约30米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "弗儿堰桥",
+"era": "清",
+"loc": "·东湖街道红旗社区弗儿堰16号民居西南，南北向跨小桥漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "胡桥太平桥",
+"era": "清",
+"loc": "·东湖街道胡桥社区北圩石桥1号民居东约30米处，东西向跨长板桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "丁塘社区保宁桥",
+"era": "清、中华民国",
+"loc": "·东湖街道丁塘社区丁塘角",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "重建娑婆闸桥",
+"era": "中华民国",
+"loc": "·东湖街道丁塘社区贺家堰69号民居以北100米，沪杭铁路南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "新塘万安桥",
+"era": "中华民国",
+"loc": "·东湖街道新塘社区，320国道余杭收费站北100米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "圆通永庆桥",
+"era": "清",
+"loc": "·东湖街道新塘社区长河埭，南北向跨黑桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "千金桥",
+"era": "清",
+"loc": "·东湖街道新塘社区千金桥83号民居北侧50米处，东西向跨千金港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "过军桥",
+"era": "清、中华民国",
+"loc": "·东湖街道塘湾社区王家坞，东西向跨双林港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "鱼行石桥",
+"era": "清、中华民国",
+"loc": "·东湖街道塘湾社区鱼行石桥32号民居南，南北向跨湾子里港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "临平街道",
+"name": "朱家塘新桥",
+"era": "清、中华民国",
+"loc": "·东湖街道工农社区朱家塘，南北向跨六水湾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "闲林街道",
+"name": "华丰社区安乐桥",
+"era": "清",
+"loc": "华丰社区8组安乐桥自然村，东西向跨安乐漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "闲林街道",
+"name": "阜民桥",
+"era": "待定",
+"loc": "方家山社区中市街43号民居以西",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "闲林街道",
+"name": "公福桥",
+"era": "清",
+"loc": "方家山社区庙弄东头",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "中泰街道",
+"name": "拱南桥",
+"era": "中华民国",
+"loc": "石鸽社区北首",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "吴山前新桥",
+"era": "清",
+"loc": "吴山前村新桥头自然村西，东西向跨新桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "苕溪村大兴桥",
+"era": "清、中华民国",
+"loc": "苕溪村童家桥25号民居东,东西向跨童家漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "众兴桥",
+"era": "清",
+"loc": "永乐村俞家桥自然村西",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "永乐村万安桥",
+"era": "清",
+"loc": "永乐村张家田畈68号前",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "高桥村太平桥",
+"era": "清",
+"loc": "高桥村石华桥1号民居东,东西向跨新桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "苕溪村青龙桥",
+"era": "明",
+"loc": "苕溪村马家村自然村北，南北向跨砂河港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "百福桥",
+"era": "明",
+"loc": "苕溪村荷叶岭10号民居南，南北向跨村中无名小河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "荷叶岭门桥",
+"era": "明",
+"loc": "苕溪村荷叶岭自然村东，东西向跨无名小河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "邵家塘大兴桥",
+"era": "清",
+"loc": "朱庙村邵家塘1号民居南，南北向跨邵家斗河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "葛巷村万安桥",
+"era": "清",
+"loc": "葛巷村北陆家桥自然村东南，南北向跨陆家桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "殿基桥",
+"era": "明",
+"loc": "葛巷村白龙潭自然村内，土地白龙庙北，南北向跨王家漾后河头",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "升福桥",
+"era": "清",
+"loc": "葛巷村捻竿埭自然村东南，南北向跨姚家港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "永通桥",
+"era": "清",
+"loc": "葛巷村张庙前27号民居西南，东西向跨文洞港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "隆庆桥",
+"era": "清",
+"loc": "灵源村林家斗8号民居南，南北向跨后横桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "城后桥",
+"era": "清",
+"loc": "灵源村李家塘5号民居南，南北向跨李家塘河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "仓前街道",
+"name": "道胜桥",
+"era": "明",
+"loc": "灵源村仓前塘路48号民众南，东西向跨仓西港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "黄湖镇",
+"name": "赐璧村环桥",
+"era": "中华民国",
+"loc": "赐璧村赐璧47-1号民居北侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "黄湖镇",
+"name": "黄湖大桥",
+"era": "中华民国",
+"loc": "清波村黄湖大溪上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "宝隆桥",
+"era": "清",
+"loc": "东塘河村王家门自然村东南，王家门2号民居东南侧50米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "永盛桥",
+"era": "清",
+"loc": "东塘河村盛家兜自然村东南的农田中",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "普庆桥",
+"era": "清",
+"loc": "长桥村邱家桥自然村与王家斗自然村之间，东西向跨邱家桥河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "六福长桥",
+"era": "清",
+"loc": "长桥村陀公庙自然村，陀公庙西南侧约50米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "歌罗桥",
+"era": "中华民国",
+"loc": "大陆村歌罗桥自然村原村委东，南北向跨歌罗桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "南星桥",
+"era": "清",
+"loc": "大陆村15组南星自然村，南北向跨歌罗桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "登云桥",
+"era": "中华民国",
+"loc": "大陆村杨家桥自然村，南北向跨七贤港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "七贤桥村九曲桥",
+"era": "清",
+"loc": "七贤桥村九曲桥42号民居东北侧，南北向跨九曲港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "古县桥",
+"era": "清",
+"loc": "良渚村县桥头自然村，南北向跨县桥头港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "先试桥",
+"era": "清",
+"loc": "新港村北五马头自然村，西临东苕溪",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "行宫塘村永丰桥",
+"era": "清",
+"loc": "行宫塘村行宫塘80号民居北，南北向跨村内小河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "五方兴隆桥",
+"era": "清",
+"loc": "西塘河村丁公村自然村与裘家村自然村交界处，东西向跨西塘河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "佑隆桥",
+"era": "清",
+"loc": "金家渡村徐家斗自然村西，东西向跨王庵漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "施村桥",
+"era": "清",
+"loc": "大陆村施村桥1号民居旁，东西向跨施村桥河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "和志桥",
+"era": "清",
+"loc": "杜甫村和志桥自然村西，南北向跨陈家洋",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "北长桥",
+"era": "清",
+"loc": "东莲村双浜郎自然村南，南北向跨长桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "付家桥",
+"era": "清",
+"loc": "石桥村石桥头自然村南，南北向跨潭头洋",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "后良桥",
+"era": "清",
+"loc": "石桥村大房桥55号民居东，东西向跨赵家漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "天神桥",
+"era": "清",
+"loc": "纤石村草里坝自然村西，东西向跨西塘河一支流",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "求顺桥",
+"era": "清",
+"loc": "石桥村梁家村自然村北，南北向跨西塘河一支流",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "良渚街道",
+"name": "花园聚财桥",
+"era": "清",
+"loc": "纤石村花园桥10号民居南，南北向跨花园桥港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "临平区",
+"town": "乔司街道",
+"name": "和睦村东桥",
+"era": "清",
+"loc": "和睦桥村和睦村北49号民宅南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "桥上桥",
+"era": "清",
+"loc": "南山村桥上桥1、2号民居门前，东临东苕溪",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "麦庆桥",
+"era": "中华民国",
+"loc": "凤都村丁家59号、60号民居南侧的小港上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "伍福桥",
+"era": "清",
+"loc": "石濑村埂头自然村南，南北向跨溪坑",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "戚家桥",
+"era": "元",
+"loc": "石濑村石濑102号民居西南，南北向跨戚家河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "报恩桥",
+"era": "清",
+"loc": "崇化村许家村南，南北向跨许家村河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "长命村环桥",
+"era": "清",
+"loc": "长命村长命桥自然村中心位置，东西向跨良渚港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "瓶窑镇",
+"name": "仲家村太平桥",
+"era": "清",
+"loc": "瓶窑村仲家村自然村东南，东西向跨良渚港（夹塘）",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "建富村桥",
+"era": "清",
+"loc": "经济开发区建富社区张羊年自然村，09省道东约10米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "会龙桥",
+"era": "清",
+"loc": "经济开发区结网社区石荡廊32号民居西侧的河道上，南临小林港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "圣堂桥",
+"era": "中华民国",
+"loc": "经济开发区上环桥社区圣堂桥36号南侧2米处的河道上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "狮姑桥",
+"era": "中华民国",
+"loc": "经济开发区上环桥社区狮姑桥20号民居南侧的河道上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "上环桥",
+"era": "中华民国",
+"loc": "经济开发区上环桥社区上环桥36号民居西侧，江南家居（09省道）东约300米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "回龙桥",
+"era": "中华民国",
+"loc": "经济开发区陈家木桥社区3组陈家木桥56号民居西南，东西向跨莲花港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "广福桥",
+"era": "清",
+"loc": "经济开发区陈家木桥社区陈家木桥48号西侧，南北向跨莲花港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "禾丰社区余庆桥",
+"era": "清",
+"loc": "经济开发区禾丰社区金家角93号南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "通泾桥",
+"era": "清",
+"loc": "经济开发区上环桥社区8组茅山头与小林社区7组交界处，南北向跨北港河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "乾元社区保安桥",
+"era": "明、清",
+"loc": "经济开发区乾元社区东阳门60号东南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "万陈社区万兴桥",
+"era": "中华民国",
+"loc": "经济开发区万陈社区大船头24号西北侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "丰禾桥",
+"era": "清",
+"loc": "经济开发区南公河社区周家湾塘自然村与万陈社区胡家坟自然村之间，南北向跨南公河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "天带桥",
+"era": "清",
+"loc": "经济开发区乾元社区乾元路52号民居南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "万胜桥",
+"era": "清",
+"loc": "经济开发区乾元社区北陈自然村西端，北陈村41号民居西南侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "乾元社区万安桥",
+"era": "清",
+"loc": "经济开发区乾元社区荡廊27号民居南侧，南北向跨灰塘漾",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "东石桥",
+"era": "清",
+"loc": "经济开发区万陈社区南陈自然村东",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "祥林桥",
+"era": "中华民国",
+"loc": "经济开发区万陈社区中埭21号民居西南",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "积子桥",
+"era": "中华民国",
+"loc": "经济开发区石坝社区鸭店桥17号民居东南侧，南侧紧邻兴福桥",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "兴隆桥",
+"era": "中华民国",
+"loc": "经济开发区石坝社区鸭店桥37号民居南侧河道上",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "大林桥",
+"era": "清",
+"loc": "经济开发区建富社区，原建富村村委南60米处",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "五常街道",
+"name": "荫孙桥",
+"era": "清",
+"loc": "原五常村，现西溪国家湿地公园西区",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "荷家桥",
+"era": "清",
+"loc": "金星村古金庵自然村南，南北向跨山前港",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "余杭街道",
+"name": "环弄桥",
+"era": "清",
+"loc": "义桥村喻家村磨坊斗，南北向跨喻家村河",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "百丈镇",
+"name": "宝昌桥",
+"era": "唐",
+"loc": "半山村杭宣古道上，东西向跨半山溪",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "百丈镇",
+"name": "新安里洞桥",
+"era": "清",
+"loc": "溪口村新安里16号民居东侧",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "余杭区",
+"town": "鸬鸟镇",
+"name": "积善桥",
+"era": "中华民国",
+"loc": "太公堂村凌村坞自然村内，东西向跨凌村溪",
+"level": "一般不可移动文物（三普登录）",
+"doc": "余政办〔2011〕317号",
+"srcs": [
+"https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "石桥街道",
+"name": "华丰文河桥",
+"era": "清",
+"loc": "华丰社区南横港上",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "半山街道",
+"name": "阔板桥",
+"era": "清",
+"loc": "阔板桥社区5幢西侧，北距半山西南约300米处",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "康桥街道",
+"name": "万顺高桥",
+"era": "清",
+"loc": "永和村沾驾桥港上",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "康桥街道",
+"name": "杨店高桥",
+"era": "清",
+"loc": "蒋家浜村北马桥港上，方家车前",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "祥符街道",
+"name": "永福桥",
+"era": "待定",
+"loc": "郭家厍社区郭家厍路，北距石祥路约180米处",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "康桥街道",
+"name": "平安桥",
+"era": "清",
+"loc": "平安桥村平安桥河上，平安桥28号南",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+},
+{
+"dist": "拱墅区",
+"town": "祥符街道",
+"name": "亦家桥",
+"era": "待定",
+"loc": "阮家桥社区丰潭路东侧，沁园路北侧，富强路96号",
+"level": "一般不可移动文物",
+"doc": "—",
+"srcs": [
+"https://www.gongshu.gov.cn/col/col1229602407/art/2026/art_485cf2af008c490780daadcb310703ce.html"
+],
+"struct": "—",
+"note": "",
+"commons": null
+}
+]

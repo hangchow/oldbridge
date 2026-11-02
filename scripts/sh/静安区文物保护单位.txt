@@ -1,0 +1,104 @@
+本表列出的是静安、闸北合并后，[[静安区]]区级[[文物保护单位]]，关于静安区境内的[[全国重点文物保护单位]]和上海市市级文物保护单位，请分别参见[[上海全国重点文物保护单位列表]]和[[上海市文物保护单位#静安区（42处）|上海市文物保护单位]]。
+
+==区级文物保护单位==
+<center>
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[上海佛教居士林]]
+|常德路418号
+|2006.11.17
+|style="padding:0" |[[File:Jushilinzhengmen.jpg|125px]]
+|-
+|[[私家藏书楼——小校经阁旧址]]
+|新闸路1321号
+|2006.11.17
+|
+|-
+|[[上海宋家花园|宋家老宅旧址]]
+|陕西北路369号
+|2006.11.17
+|style="padding:0" |[[File:Residence of Song Family.JPG|125px]]
+|-
+|[[史量才寓所旧址]]
+|铜仁路257号
+|2006.11.17
+|style="padding:0" |[[File:Tongrenlu Shiliangcai Guju.JPG|125px]]
+|-
+|[[上海市立实验民众学校旧址]]
+|胶州路601号
+|2006.11.17
+|
+|-
+|[[荣宅|荣家老宅旧址]]
+|陕西北路186号
+|2006.11.17
+|style="padding:0" |[[File:186 North Shanxi Rd. Shanghai.JPG|125px]]
+|-
+|[[闸北公园|钱氏宗祠]]
+|共和新路1555号闸北公园内
+|2000.8
+|style="padding:0" |[[File:Qianshizongci.jpg|125px]]
+|-
+|[[会文堂印书局旧址]]
+|会文路125弄6号
+|2000.8
+|style="padding:0" |[[File:Huiwentang Yinshuju Jiuzhi.jpg|125px]]
+|-
+|[[上海天后宫|天妃宫]]
+|河南北路3号
+|2000.8
+|
+|-
+|[[梁氏民宅]]
+|山西北路457弄61号
+|2000.8
+|
+|-
+|[[上海商务印书馆总厂旧址]]
+|宝源路209弄23号
+|2000.8
+|
+|-
+|[[上海北火车站遗址]]
+|天目东路100号
+|2000.8
+|
+|-
+|[[宝华寺遗址]]
+|少年村路500号
+|2000.8
+|
+|-
+|[[大东书局旧址]]
+|福建北路300、301号
+|2005.9.8
+|
+|-
+|[[中共三大后中央局机关三曾里遗址]]
+|临山路202～204号处
+|2006.12
+|
+|-
+|[[出使大臣行辕|上海总商会中国商品陈列所旧址]]
+|北苏州路470号
+|2006.6.9
+|style="padding:0" | [[File:上海總商會舊址.JPG|125px]]
+|}
+</center>
+
+==参考文献==
+*{{cite web|language =|publisher =上海市文化广播影视管理局|title =静安区县级文物保护单位、登记不可移动文物|url =http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75613.html|author =市文广影视局|date =2011-10-28|accessdate =}}{{dead link|date=十一月 2017 |bot=InternetArchiveBot }}
+*《静安区志》>>第二十九编文化>>第五章革命遗址、文物收藏
+*《话说上海·静安卷》
+*{{cite web|language =|publisher =上海市文化广播影视管理局|title =闸北区县级文物保护单位、登记不可移动文物|url =http://wgj.sh.gov.cn/wgj/node1257/node1264/userobject1ai75821.html|author =市文广影视局|date =2011-11-08|accessdate =|deadurl =yes|archiveurl =https://web.archive.org/web/20140202000210/http://wgj.sh.gov.cn/wgj/node1257/node1264/userobject1ai75821.html|archivedate =2014-02-02}}
+*《闸北区志》>>第三十四编文化>>第五章历史文物、遗址
+*《话说上海·闸北卷》
+
+{{上海市各区县文物保护单位索引}}
+
+[[Category:静安区文物保护单位|*]]

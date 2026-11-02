@@ -31,7 +31,7 @@
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
 | <nobr>1</nobr> | <nobr>黄岩区</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | — | <nobr>省级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | 清乾隆五十四年（1789）重建，清同治四年（1865）重修 | <nobr>省级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>温岭市</nobr> | <nobr>—</nobr> | 金清大桥 [?](http://www.china-qiao.com/ql15/tzql/tzql049.htm) | 石拱桥（五孔） | 64米 | 清 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>黄岩区</nobr> | <nobr>西城街道</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql010.htm) | 石拱桥（五孔） | 60米 | 清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>温岭市</nobr> | <nobr>温峤镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql056.htm) | 石拱桥（三孔） | 34.43米 | 民国 | <nobr>市级文物保护点</nobr> |
@@ -60,7 +60,7 @@
 | <nobr>黄岩区</nobr> | <nobr>西城街道</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql010.htm) | 石拱桥（五孔） | 60米 | 清 | 浙江省文物保护单位（3-72） |
 | <nobr>黄岩区</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | 浙江省文物保护单位（7-181） |
 | <nobr>路桥区</nobr> | <nobr>金清镇</nobr> | 下梁大桥 | — | — | 清 | 浙江省文物保护单位（8-68） |
-| <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | — | 浙江省文物保护单位（7-183） |
+| <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | 清乾隆五十四年（1789）重建，清同治四年（1865）重修 | 浙江省文物保护单位（7-183） |
 | <nobr>温岭市</nobr> | <nobr>新河镇</nobr> | 糠桥头桥 | — | — | 南宋 | 浙江省文物保护单位（8-33） |
 | <nobr>天台县</nobr> | <nobr>—</nobr> | 九遮山牮桥群 | — | — | — | 浙江省文物保护单位（6-244） |
 | <nobr>天台县</nobr> | <nobr>坦头镇</nobr> | 欢溪高桥 | — | — | 清 | 浙江省文物保护单位（8-70） |

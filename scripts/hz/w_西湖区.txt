@@ -1,0 +1,219 @@
+{{Distinguish|西湖风景名胜区}}
+{{Other uses}}
+{{Infobox China County
+| county = 西湖区
+| usedname = 
+| nameorigin = 杭州[[西湖]]所在
+| Photo = {{multiple image
+ | border                 = infobox
+ | total_width            = 290
+ | caption_align          = center
+ | image_style            = border:1;
+ | perrow                 = 1/2/2/2
+ | image1 = West Lake, Hangzhou 2025.jpg
+ | caption1 = [[西湖]][[三潭印月]]和[[雷峰塔]]
+ | image2 = Tianmuli.jpg
+ | caption2= [[杭州天目里]]广场
+ | image3 = Blubb (10595970686).jpg
+ | caption3 = [[灵隐寺]]
+ | image4 = Zijingang Campus ZJU.jpg
+ | caption4 = [[浙江大学紫金港校区|浙大紫金港校区]]
+ | image5 = Xixi wetland.jpg
+ | caption5 = [[西溪湿地]]
+ | image6 = HANGZHOU CLOUD TOWN.jpg
+ | caption6 = [[转塘街道|转塘]][[云栖小镇]] 
+ | image7 = Yuhangtang Canal & Yuhangtang Road - DJI 20250826173247 0018 D.jpg 
+ | caption7 = [[余杭塘路]] 
+}}
+| Photoname = 
+| map = 
+| map_caption = 
+| coordinates = {{Coord|30|15|42|N|120|7|32|E|region:CN-ZJ|display=inline,title}}
+| Pinyin = Xīhú Qū
+| Belong = [[浙江省]][[杭州市]]
+| Types = [[市辖区 (中华人民共和国)|市轄區]]
+| admincode = 330106
+| founded = 1977年10月
+| seat = [[北山街道 (杭州市)|北山街道]]
+| officerTitle = 
+| officer = 
+| officerTitle2 = 
+| officer2 = 
+| division = 12
+| town = 2
+| township = 
+| subdistrict = 10
+| dialect = 
+| post code = 310013
+| phone code = 571
+| coordinate = 
+| area = 263平方千米
+| area land = 
+| area water = 
+| census yr = 2022
+| pop = 常住人口111.8万人
+| density = 
+| GDP = 2451.89亿
+| GDP_as_of = 2025
+| GDPPC = 
+| carlicense = 浙A
+| web = www.hzxh.gov.cn
+| web_title = 西湖区政府网
+}}
+'''西湖区'''是[[中华人民共和国]][[浙江省]][[杭州市]]下辖的一个区，为[[中国共产党浙江省委员会]]、[[浙江省人民政府]]所在地。區人民政府駐[[北山街道 (杭州市)|北山街道]]浙大路1号。区域总面积为309.41平方公里。
+
+西湖区地域西部与中部高，山脊走向呈横趟的丁字形，为天目山余脉，多为海拔300米以下的丘陵。北部与南部为平原，河流纵横。钱塘江自南而北曲折而下，境北的余杭塘河横贯东西，新开运河纵贯南。西湖三面云山一面城，是著名游览胜地。
+
+== 简介 ==
+
+西湖区因位于区内的[[西湖]]得名。西湖区南部区域也称上泗地区，包括转塘、龙坞、双浦3个乡镇和之江国家旅游度假区。
+
+[[之江国家旅游度假区]]、杭州国家高新技术开发区江北区块和[[浙江大学]]等近百所高等院校、科研院所坐落区内。西湖區經濟發達、现代服务业发展实力强劲，[[西溪国家湿地公园]]建成开放，黄龙商务中心、城西商贸圈初具规模，[[文三路]]电子信息街区荣获“中国特色商业街”称号。
+
+西湖区也是[[阿里巴巴集团]]、[[农夫山泉]]、[[綠城中國|绿城中国]]等民营企业的发家地。文三路電子信息街區是杭州傳統的電子數碼市場聚集地。[[西湖街道 (杭州市)|西湖街道]]拥有5800亩茶园，是[[西湖龙井茶]]产地。
+
+==行政区划==
+下辖辖2个[[行政建制镇|鎮]]、10个[[街道办事处|街道]]，共131个[[社区 (行政区划)|社區]]、61个[[行政村 (中華人民共和國)|行政村]]<ref>{{PRC admin/ref sgc|33/01/06/000/000}}</ref>。区人民政府驻浙大路1号。
+{| class="wikitable" style="text-align:center"
+!西湖区行政区划图
+!区划代码
+!区划名称
+!陆域面积<ref>{{cite book |last= |first= |date= |title=杭州市地名志 上 卷二 西湖区 |url=http://hzszfzg.wanfangdata.com.cn/local/itemInfo.html?id=20002452&&bookId=20002444&&parentID=FZ201746787 |publisher=杭州出版社 |author=杭州市地名委员会 |isbn= }}{{Dead link}}</ref>
+（平方千米）
+!邮政编码
+!社区数
+!行政村数
+|-
+! rowspan="13" style="padding: 0; font-size:smaller; background-color: white" | {{center|
+{{Image label begin|image=Administrative Division Xihu Hangzhou.svg|width=250|link=}}
+{{Image label|x=180|y=30|scale=1|text=<span style="line-height: 15px; font-weight: bold">① [[文新街道|{{color|black|文新}}]]<br>② [[古荡街道|{{color|black|古荡}}]]<br>③ [[翠苑街道|{{color|black|翠苑}}]]<br>④ [[西溪街道|{{color|black|西溪}}]]</span>}}
+{{Image label|x=85.0|y=55.0|scale=1|text='''[[三墩镇 (杭州市)|{{color|black|三墩}}]]'''}}
+{{Image label|x=193.0|y=115.0|scale=1|text='''[[西溪街道|{{color|black|④}}]]'''}}
+{{Image label|x=175.0|y=115.0|scale=1|text='''[[翠苑街道|{{color|black|③}}]]'''}}
+{{Image label|x=155.0|y=115.0|scale=1|text='''[[古荡街道|{{color|black|②}}]]'''}}
+{{Image label|x=137.0|y=115.0|scale=1|text='''[[文新街道|{{color|black|①}}]]'''}}
+{{Image label|x=98.0|y=125.0|scale=1|text='''[[蒋村街道|{{color|black|蒋村}}]]'''}}
+{{Image label|x=192.0|y=150.0|scale=1|text='''[[北山街道 (杭州市)|{{color|black|北山}}]]'''}}
+{{Image label|x=159.0|y=155.0|scale=1|text='''[[灵隐街道|{{color|black|灵隐}}]]'''}}
+{{Image label|x=150.0|y=225.0|scale=1|text='''[[西湖街道 (杭州市)|{{color|black|西湖}}]]'''}}
+{{Image label|x=75.0|y=200.0|scale=1|text='''[[留下街道|{{color|black|留下}}]]'''}}
+{{Image label|x=87.0|y=300.0|scale=1|text='''[[转塘街道|{{color|black|转塘}}]]'''}}
+{{Image label|x=120.0|y=380.0|scale=1|text='''[[双浦镇|{{color|black|双浦}}]]'''}}
+{{Image label end}}
+}}
+!330106002
+![[北山街道 (杭州市)|北山街道]]
+|2.49
+|310007
+|7
+|0
+|-
+!330106004
+![[西溪街道]]
+|3.02
+|310012
+|12
+|0
+|-
+!330106005
+![[翠苑街道]]
+|3.9
+|310012
+|10
+|0
+|-
+!330106007
+![[古荡街道]]
+|4.46
+|310012
+|10
+|0
+|-
+!330106008
+![[西湖街道 (杭州市)|西湖街道]]
+|48
+|310013
+|6
+|9
+|-
+!330106009
+![[留下街道]]
+|29.88
+|310023
+|12
+|1
+|-
+!330106010
+![[转塘街道]]
+|75.15
+|310024
+|37
+|8
+|-
+!330106011
+![[蒋村街道]]
+|14.79
+|310030
+|8
+|0
+|-
+!330106012
+![[灵隐街道]]
+|6
+|310013
+|7
+|0
+|-
+!330106013
+![[文新街道]]
+|5.05
+|310012
+|15
+|0
+|-
+!330106109
+![[三墩镇 (杭州市)|三墩镇]]
+|37.58
+|310030
+|25
+|4
+|-
+!330106110
+![[双浦镇]]
+|81.81
+|310024
+|9
+|21
+|-
+| colspan="8" |其中西湖街道于2006年底委托[[西湖风景名胜区管委会]]管理。
+|}
+
+== 人口 ==
+西湖区人口主要集中在西湖景区以北地区，一般被称为“城西”，大致範圍是西溪濕地以東，保俶（北）路以西，余杭塘河以南。随着杭州早期商品房的建设以及后来文教区高校用地的功能置换，城西地区也成为杭州最大规模的住宅区，有着较多的中高档住宅小区，聚集了大批从事文化、教育、媒体、IT和广告业的人士。[[天目山路]]、文一（西）路、文二（西）路、文三（西）路、古墩路是城西地区主要的交通干道，交通高峰期有较严重的道路拥挤问题。
+
+'''2022年初'''常住人口为111.8万人，其中城镇常住人口为108.56万人。户籍人口总数为81.5万人。<ref>{{Cite web|title=2022年[杭州]西湖区人口第七次人口普查有多少-红黑人口库|url=https://www.hongheiku.com/xianjirank/zhejiangxj/4643.html|access-date=2023-04-08|website=www.hongheiku.com|archive-date=2022-01-22|archive-url=https://web.archive.org/web/20220122120718/https://www.hongheiku.com/xianjirank/zhejiangxj/4643.html|dead-url=no}}</ref>
+
+== 教育 ==
+西湖區擁有較多優秀的公立中小學。代表學校包括[[學軍小學]]、[[文三街小學]]，[[杭州市第十三中學]]（初中）、[[杭州市第十五中學]]（初中）,[[杭州學軍中學]]（高中）、[[浙江大學附屬中學]]（高中）等。同時，[[浙江大学]]的紫金港校区、玉泉校区、西溪校区均位於西湖区境內。[[中国美术学院]]的象山校区和中国第一所国立高等美术学府[[国立艺术院]]遗址也位于西湖区境内。
+
+[[中国美术学院]]象山校區、[[浙江音乐学院]]及浙江图书馆新馆位于西湖区南部。
+
+== 地标景点 ==
+西湖区有风景点40多处，其中有“西湖十景”中的雷峰夕照、南屏晚钟、花港观鱼、苏堤春晓、曲院风荷、双峰插云、三潭印月、平湖秋月、断桥残雪，西湖、西溪湿地是国家5A级景区。西湖区有国家级重点文物保护单位3处，省级重点文化保护单位10处。
+
+[[中共浙江省委]]、省人大、省政府、省政协机关，[[浙江电视台]]（浙江廣電集團）、[[浙江图书馆]]、浙江音乐厅等省级文化设施均集中设置在西湖区。
+
+== 特色小镇 ==
+*[[云栖小镇]]
+
+== 参考文献 ==
+{{Wikisource|国务院关于同意浙江省调整杭州市市辖区行政区划的批复}}
+{{reflist}}
+
+{{杭州市西湖区行政区划}}
+{{杭州市行政区划}}
+{{浙江行政区划}}
+{{杭州市}}
+
+[[Category:西湖区| ]]
+[[Category:杭州市辖区]]

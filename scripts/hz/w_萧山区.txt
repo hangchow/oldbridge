@@ -1,0 +1,572 @@
+{{noteTA
+|1=zh-hant:餘暨;zh-hans:余暨
+}}
+{{Infobox China County
+| county = 萧山区
+| Photo = {{multiple image
+ | border                 = infobox
+ | total_width            = 290
+ | caption_align          = center
+ | image_style            = border:1;
+ | perrow                 = 1/2/2/2
+ | image1 = Xiaoshan Farm CBD.jpg
+ | caption1 = [[钱江世纪城]]的中央商务区和东单元的[[永久基本农田]]形成“麦田CBD”景观
+ | image2 = Qianjiang Century City.jpg
+ | caption2 = 从对岸看[[钱江世纪城]]
+ | image3 = 201607 A slogan in Xiaoshan.jpg
+ | caption3= [[北干山 (萧山区)|北干山]]标语
+ | image4 = 杭州绍兴边界西小江上空.png
+ | caption4 = 空中俯瞰萧山区
+ | image5 = Main view of People's Square in Xiaoshan, Hangzhou, Zhejiang, China, 202508.jpg
+ | caption5 = [[人民广场 (萧山区)|人民广场]]与区政府大楼
+ | image6 = 20230528 Hangzhou South Railway Station and overview of Xiaoshan.jpg
+ | caption6 = 萧山城区和[[杭州南站]]
+ | image7 = 201907 River between Liming and Jingjiang.jpg
+ | caption7 = [[靖江街道]]民居
+}}
+| Photoname = 
+| state = [[杭州市]]
+| map = 
+| map size = 200
+| mapofstate = 
+| coordinates = {{Coord|30|11|11|N|120|15|35|E|region:CN-ZJ|display=inline,title}}
+| Pinyin = 
+| nickname = 
+| Othername = 
+| nameorigin = 境内萧然山之简称
+| Oldname = 
+| Belong = [[浙江省]][[杭州市]]
+| Types = [[市辖区 (中华人民共和国)|市轄區]]
+| admincode = 330109
+| founded = 2001年3月25日
+| seat = [[北干街道]]
+| officerTitle = 区委书记
+| officer = [[王敏 (1968年)|王敏]]
+| officerTitle2 = 区长
+| officer2 = 
+| division = 22
+| town = 12
+| township = 
+| subdistrict = 10
+| dialect = 
+| coordinate = 
+| area_total = 998平方千米
+| area_urban = 
+| area_metro = 76.53平方千米[http://www.xsnet.cn/news/szjj/2012_2/1501181.shtml]
+| area land = 
+| area water = 
+| census yr = 2023
+| population_total = 214
+| pop_house = 1288605
+| GDP = 2506.02億
+| GDP_as_of = 2025
+| GDPPC = 
+| climate = [[亚热带季风气候]]
+| temperature_mean = 16.8
+| Precipitation = 1440.5毫米
+| Sunshine_hrs = 1804.6小时
+| time_zone = UTC+8（[[东八区]]）
+| tree = 
+| flower = 
+| post code = 311200
+| phone code = 571
+| carlicense = 
+| web = http://www.xiaoshan.gov.cn/
+| web_title = 萧山区政府门户
+}}
+
+'''萧山区'''是[[中华人民共和国]][[浙江省]][[杭州市]]的[[市辖区 (中华人民共和国)|市轄區]]，原先后为[[绍兴专区]][[蕭山縣|萧山县]]、浙江省直辖萧山县、[[宁波专区]]萧山县、杭州市萧山县、浙江省[[萧山市]]（[[县级市]]，地级杭州市代管），2001年设立萧山区。地处[[钱塘江]]南岸，为杭州南大门，北与[[上城区]]隔江而望，东接[[钱塘区]]、绍兴市[[柯桥区]]，西接[[滨江区]]、[[西湖区 (杭州市)|西湖區]]和[[富阳区]]，南临[[诸暨市]]。區人民政府駐[[北干街道]][[金城路]]685号。区域总面积为998平方公里。
+
+唐天寶元年（742年），改縣名永興為蕭山，因境內的[[萧然山|蕭然山]]而得名。1988年，撤銷蕭山縣，設立蕭山市（縣級）。2001年，撤銷縣級蕭山市，成立杭州市蕭山區。
+
+== 历史 ==
+[[春秋战国]]初期，现境属[[越国]]，战国中期，[[楚威王]]灭越，遂为楚地。公元2年建[[县]]，称'''余暨縣'''，属[[会稽郡]]，[[新朝]]元年（9年），改县名为'''餘衍'''。[[东汉]][[建武 (东汉)|建武]]年间（25－56年），复名余暨，郡属不变。[[三国]][[孫吳|吴]][[黄武]]年间（222－229年），改名永兴。[[隋]][[开皇]]九年（589年），废永兴县建制，并入[[会稽县]]。[[唐]][[仪凤]]二年（677年）复设'''永兴县'''，属[[越州]]。[[唐]][[天宝 (唐朝)|天宝]]元年（公元742年）改名[[蕭山縣|萧山县]]。[[吴越国]]时，改越州为[[镇东军]]，萧山隶属之，978年，吴越国并入[[北宋]]，镇东军复名越州。[[南宋]]時改越州為[[紹興府]]，萧山隶属不变。自[[元代]]至[[中华民国大陆时期|民国]]，萧山隶属不变，[[民国纪年|民国]]36年（1947年）6月，萧山改为省直辖县。
+
+1949年5月，[[中国人民解放军]]接管蕭山，萧山为省直属县。1949年6月底，划归绍兴专区。1952年起，复为省直属县。1957年划归宁波专区。1959年改属[[杭州市]]。1988年撤县设市。由于当时浙江省省级财政倚重萧山市，萧山市与杭州市在[[钱塘江大桥]]的管理和财政分摊上存在分歧，浙江省政府裁定由杭州市统一承担大桥维护费用，而杭州市向浙江省政府索要萧山市部分土地作为补偿<ref name=":1">{{Cite book |title=惊鸿巨变40年|author=湛青|publisher=杭州|location=浙江人民出版社|year=2019|isbn=978-7-213-09087-5|chapter=经济技术开发区选址下沙是一个战略抉择|editor=中共杭州市委党史研究室}}</ref>。1996年5月8日萧山市[[西兴街道 (杭州市)|西兴镇]]、[[长河街道 (杭州市)|长河镇]]、[[浦沿街道|浦沿镇]]三镇划归杭州市[[西湖区 (杭州市)|西湖区]]（同年12月12日以三镇为基础成立[[滨江区]]），2001年3月撤市设杭州市'''萧山区'''<ref>{{Cite web|title=历史沿革|url=http://www.xiaoshan.gov.cn/art/2019/5/16/art_1229232032_54636675.html|work=杭州市萧山区人民政府}}{{Dead link}}</ref>。
+
+2021年4月，杭州市进行行政区划调整，萧山区的大江东地区——[[河庄街道]]、[[义蓬街道]]、[[新湾街道]]、[[临江街道 (杭州市)|臨江街道]]、[[前进街道 (杭州市)|前進街道]]成为新建立的[[钱塘区]]行政区域的一部分<ref>{{Cite web|title=重磅!国务院批复同意杭州部分行政区划优化调整|url=https://ori.hangzhou.com.cn/ornews/content/2021-04/09/content_7943776.htm|accessdate=2021-04-09|work=杭州网|archive-date=2021-04-09|archive-url=https://web.archive.org/web/20210409035301/https://ori.hangzhou.com.cn/ornews/content/2021-04/09/content_7943776.htm|dead-url=no}}</ref>。
+
+== 气候 ==
+属亚热带季风气候，四季分明、雨热同期、日照充足。1月平均气温4.5℃，7月平均气温28.9℃，年平均气温16.8℃。极端最高气温42.2℃（2003年7月25日、8月1日，2013年7月30日），极端最低气温-15.0℃（1977年1月5日）。年降水量1440.5毫米。年日照时数1804.6小时。
+
+{{Infobox Weather
+|single_line= Yes
+|metric_first = Yes
+|location = 萧山区（1981－2010年）
+|Jan_MEAN_°C =4.5
+|Feb_MEAN_°C =6.3
+|Mar_MEAN_°C =10.2
+|Apr_MEAN_°C =16.1
+|May_MEAN_°C =21.4
+|Jun_MEAN_°C =24.7
+|Jul_MEAN_°C =28.9
+|Aug_MEAN_°C =28.1
+|Sep_MEAN_°C =23.8
+|Oct_MEAN_°C =18.5
+|Nov_MEAN_°C =12.6
+|Dec_MEAN_°C =6.8
+|Year_MEAN_°C =16.8
+|scprecip = green
+|Jan_Precip_mm = 82.9
+|Feb_Precip_mm = 91.2
+|Mar_Precip_mm = 139.4
+|Apr_Precip_mm = 121.6
+|May_Precip_mm = 130.4
+|Jun_Precip_mm = 216.6
+|Jul_Precip_mm = 162.1
+|Aug_Precip_mm = 161.1
+|Sep_Precip_mm = 131.6
+|Oct_Precip_mm = 76.5
+|Nov_Precip_mm = 74.3
+|Dec_Precip_mm = 52.8
+|Year_Precip_mm = 1440.5
+|Jan_Sun= 108.8
+|Feb_Sun= 103.5
+|Mar_Sun= 122.4
+|Apr_Sun= 146.0
+|May_Sun= 166.1
+|Jun_Sun= 145.7
+|Jul_Sun= 219.6
+|Aug_Sun= 209.2
+|Sep_Sun= 155.3
+|Oct_Sun= 154.6
+|Nov_Sun= 135.3
+|Dec_Sun= 138.1
+|Year_Sun= 1804.6
+|Unit_Precip_days = 0.1 mm
+|Jan_Precip_days = 13.0
+|Feb_Precip_days = 12.6
+|Mar_Precip_days = 15.9
+|Apr_Precip_days = 15.1
+|May_Precip_days = 14.2
+|Jun_Precip_days = 15.2
+|Jul_Precip_days = 12.9
+|Aug_Precip_days = 13.8
+|Sep_Precip_days = 12.2
+|Oct_Precip_days = 9.6
+|Nov_Precip_days = 9.4
+|Dec_Precip_days = 9.1
+|source = 《萧山年鉴2013》
+|accessdate = 
+}}
+
+==社会==
+
+=== 人口 ===
+2023年末全区常住人口214万人，比上年末增加3万人。户籍登记总人口128.86万人。全年人口出生10893人，死亡8565人，出生率为8.54‰，死亡率为6.72‰，自然增长率为1.82‰。<ref>{{Cite book | editor = 杭州市萧山区统计局 国家统计局萧山调查队 | title = 《2023年萧山区统计年鉴》 | url = https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2243/site/attach/0/8c0f24c4f9a34575a594be65d81ea208.pdf | language = zh-cn | access-date = 2025-08-01 | archive-date = 2025-09-08 | archive-url = https://web.archive.org/web/20250908111339/https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2243/site/attach/0/8c0f24c4f9a34575a594be65d81ea208.pdf | dead-url = no }}</ref>
+
+萧山人口总数长期位列杭州各辖区第一位，仅在2018年至2021年4月区划调整前低于[[余杭区]]居第二位。<ref>{{Cite web |title=杭州向超大城市迈进！2018年常住人口达980万|url=https://zzhz.zjol.com.cn/hz/csxw/201902/t20190215_9460536.shtml |website=浙江在线 |access-date=2026-10-17}}</ref><ref>{{Cite web |title=2021年杭州市各区常住人口数量及城镇化率 |url=https://x.qianzhan.com/xcharts/detail/2cbe53e68de4df5c.html# |website=前瞻产业研究院 |access-date=2026-10-17}}</ref><ref>{{Cite web |title=杭州人口历年数据_走势图 |url=https://population.gotohui.com/pdata-37 |website=聚汇数据 |access-date=2026-10-17}}</ref>
+
+=== 方言 ===
+因萧山古代一直属于会稽下的辖区，因此[[蕭山話|萧山方言]]不同于杭州，属于[[吴语]]临绍小片，与[[绍兴]]方言基本相近。
+
+=== 教育 ===
+[[File:Zhejiang Sheng Xiaoshan Zhongxue.jpg|thumb|浙江省蕭山中學]]
+[[File:浙师大萧山校区体育馆, 2022-10-22.jpg|thumb|浙师大萧山校区体育馆]]
+[[浙江省萧山中学]]（1995年首批）、[[杭州市萧山区第二高级中学]]、[[杭州市萧山区第三高级中学]]和[[杭州市萧山区第五高级中学]]是[[浙江省一级重点中学]]。
+
+[[萧山高教园]]位于萧山区北部的[[宁围街道]]，2007年建立。入驻有[[浙江师范大学]]萧山校区（2014年7月1日揭牌成立）、[[浙江建设职业技术学院]]、[[浙江旅游职业技术学院]]、[[浙江同济科技职业学院]]、[[浙江体育职业技术学院]]、[[浙江大学杭州国际科创中心]]、[[西安电子科技大学]]杭州研究院共计七所高校。
+
+=== 宗教 ===
+[[File:萧山 江寺.jpg|right|thumb|220px|[[江寺 (杭州市)|江寺]]]]
+[[佛教]]传入萧山，至少已有1600多年历史，东晋咸和六年（331）始建祇园寺（原名崇化寺，萧山体育路西端）。萧山佛教寺庙主要有曹洞正宗和临济正宗两派佛教禅宗支脉，前者如曹山寺、云门寺等，后者如白龙寺、宝寿禅寺等。寺庙作为佛教活动载体，在传播佛文化同时，产生了一批名僧高师。如竹林寺高昙禅师、宝寿禅寺独超法师、曹山寺净生起祖禅师等，他们问禅教化、济世治病，对萧山佛教文化的发展做出积极贡献。
+
+萧山是浙江省内除[[温州]]以外，另一个[[基督徒]]众多的地区，人数超过10万，其中95%属于[[地方教会]]背景。
+
+== 行政区划 ==
+下辖10个街道、12个镇，349个社区、209个行政村<ref>{{Cite web|url=https://www.xiaoshan.gov.cn/art/2024/4/12/art_1229232076_59099748.html|title=行政区划·人口|accessdate=2025-03-17|date=|format=|publisher=萧山政府网|pages=|language=zh-Hans|archiveurl=https://web.archive.org/web/20250427001021/https://www.xiaoshan.gov.cn/art/2024/4/12/art_1229232076_59099748.html|archivedate=2025-04-27|quote=|dead-url=no}}</ref>：城廂街道、北幹街道、蜀山街道、新塘街道、靖江街道、南陽街道、聞堰街道、寧圍街道、新街街道、盈豐街道、樓塔鎮、河上鎮、戴村鎮、浦陽鎮、進化鎮、臨浦鎮、義橋鎮、所前鎮、衙前鎮、瓜瀝鎮、益農鎮、黨灣鎮。
+
+{| class="wikitable" style="text-align:center; width: 700px"
+! colspan="7" |萧山区行政区划图
+|-
+| colspan="7" |{{center|
+{{Image label begin|image=Administrative Division Xiaoshan Hangzhou.svg|width=570|link=}}
+{{Image label|x=450|y=410|scale=1|text=<span style="line-height: 15px; font-weight: bold">① [[城厢街道 (杭州市)|{{color|black|城厢}}]]<br /><br />②[[盈丰街道|{{color|black|盈丰}}]]<br /><br />③属[[瓜沥镇|{{color|black|瓜沥镇}}]]</span>}}
+{{Image label|x=90.0|y=245.0|scale=1|text='''[[义桥镇 (杭州市)|{{color|black|义桥}}]]'''}}
+{{Image label|x=152.0|y=265.0|scale=1|text='''[[临浦镇|{{color|black|临浦}}]]'''}}
+{{Image label|x=78.0|y=315.0|scale=1|text='''[[戴村镇|{{color|black|戴村}}]]'''}}
+{{Image label|x=85.0|y=370.0|scale=1|text='''[[河上镇 (杭州市)|{{color|black|河上}}]]'''}}
+{{Image label|x=30.0|y=430.0|scale=1|text='''[[楼塔镇|{{color|black|楼塔}}]]'''}}
+{{Image label|x=155.0|y=350.0|scale=1|text='''[[浦阳镇|{{color|black|浦阳}}]]'''}}
+{{Image label|x=210.0|y=320.0|scale=1|text='''[[进化镇 (杭州市)|{{color|black|进化}}]]'''}}
+{{Image label|x=210.0|y=155.0|scale=1|text='''[[新塘街道 (杭州市)|{{color|black|新塘}}]]'''}}
+{{Image label|x=275.0|y=150.0|scale=1|text='''[[衙前镇 (杭州市)|{{color|black|衙前}}]]'''}}
+{{Image label|x=200.0|y=230.0|scale=1|text='''[[所前镇|{{color|black|所前}}]]'''}}
+{{Image label|x=157.0|y=142.0|scale=1|text='''[[城厢街道 (杭州市)|{{color|black|①}}]]'''}}
+{{Image label|x=167.0|y=122.0|scale=1|text='''[[北干街道|{{color|black|北干}}]]'''}}
+{{Image label|x=150.0|y=192.0|scale=1|text='''[[蜀山街道|{{color|black|蜀山}}]]'''}}
+{{Image label|x=97.0|y=185.0|scale=1|text='''[[闻堰街道|{{color|black|闻堰}}]]'''}}
+{{Image label|x=200.0|y=62.0|scale=1|text='''[[宁围街道|{{color|black|宁围}}]]'''}}
+{{Image label|x=165.0|y=80.0|scale=1|text='''{{color|black|②}}'''}}
+{{Image label|x=235.0|y=105.0|scale=1|text='''[[新街街道 (杭州市)|{{color|black|新街}}]]'''}}
+{{Image label|x=345.0|y=115.0|scale=1|text='''[[瓜沥镇|{{color|black|瓜沥}}]]'''}}
+{{Image label|x=315.0|y=42.0|scale=1|text='''[[南阳街道 (杭州市)|{{color|black|南阳}}]]'''}}
+{{Image label|x=360.0|y=72.0|scale=1|text='''[[靖江街道|{{color|black|靖江}}]]'''}}
+{{Image label|x=420.0|y=72.0|scale=1|text='''[[党湾镇|{{color|black|党湾}}]]'''}}
+{{Image label|x=460.0|y=123.0|scale=1|text='''[[益农镇|{{color|black|益农}}]]'''}}
+{{Image label|x=505.0|y=95.0|scale=1|text='''[[瓜沥镇|{{color|black|③}}]]'''}}
+{{Image label end}}
+}}
+|-
+!区划代码
+!区划名称
+!陆域面积<ref>{{cite book |last= |first= |date= |title=杭州市地名志 上 卷二 萧山区 |url=http://hzszfzg.wanfangdata.com.cn/local/itemInfo.html?id=20002454&&bookId=20002444&&parentID=FZ201746787 |publisher=杭州出版社 |author=杭州市地名委员会 |isbn=978-7-80758-721-7 |access-date=2020-01-18 |archive-date=2020-02-19 |archive-url=https://web.archive.org/web/20200219061421/http://hzszfzg.wanfangdata.com.cn/local/itemInfo.html?id=20002454&&bookId=20002444&&parentID=FZ201746787 |dead-url=no }}</ref>
+（平方千米）
+!邮政编码
+!户籍人口<br>（2021年）<ref>{{cite book|author1=中共杭州市萧山区委党史研究室|author2=杭州市萧山区人民政府地方志办公室|title=萧山年鉴2022|url=https://dfz.zj.gov.cn/zlyz/ossfs//h5/NJ-Z-330109-2021-001-0101/index.html|publisher=方志出版社|year=2022|isbn=978-7-5144-5481-9|via=浙里有志}}</ref>{{rp|366}}
+!社区数
+!行政村数
+|-
+!330109001
+![[城厢街道 (杭州市)|城厢街道]]
+|25.63
+|311201<br>311203
+|114271
+|33
+|0
+|-
+!330109002
+![[北干街道]]
+|17.51
+|311202
+|88234
+|21
+|6
+|-
+!330109003
+![[蜀山街道]]
+|34.75
+|311203
+|56134
+|18
+|8
+|-
+!330109004
+![[新塘街道 (杭州市)|新塘街道]]
+|35.65
+|311201
+|78116
+|23
+|17
+|-
+!330109005
+![[靖江街道]]
+|23.06
+|311223
+|37699
+|5
+|10
+|-
+!330109006
+![[南阳街道 (杭州市)|南阳街道]]
+|31.03
+|311227
+|41538
+|2
+|13
+|-
+!330109012
+![[闻堰街道]]
+|26.75
+|311258
+|38200
+|4
+|6
+|-
+!330109013
+![[宁围街道]]
+|62.58<ref name="b">{{Cite web|url=http://www.hangzhou.gov.cn/art/2020/6/22/art_1229063387_651442.html|title=杭州市人民政府关于萧山区部分行政区划调整的批复|date=2020-06-19|publisher=杭州市人民政府}}</ref>
+|311215
+|38203
+|7
+|6
+|-
+!330109014
+![[新街街道 (杭州市)|新街街道]]
+|40.68
+|311217
+|72138
+|4
+|15
+|-
+! 330109015
+![[盈丰街道]]
+|23.10<ref name="b"/>
+|311215
+|43027
+|9
+|4
+|-
+!330109100
+![[楼塔镇]]
+|47.93
+|311266
+|26927
+|1
+|12
+|-
+!330109101
+![[河上镇 (杭州市)|河上镇]]
+|63.69
+|311265
+|28960
+|1
+|15
+|-
+!330109102
+![[戴村镇]]
+|62.82
+|311261
+|38767
+|1
+|22
+|-
+!330109103
+![[浦阳镇]]
+|44.49
+|311255
+|43530
+|0
+|18
+|-
+!330109104
+![[进化镇 (杭州市)|进化镇]]
+|87.10
+|311253
+|47871
+|0
+|25
+|-
+!330109105
+![[临浦镇]]
+|42.48
+|311251
+|56811
+|14
+|20
+|-
+!330109106
+![[义桥镇 (杭州市)|义桥镇]]
+|57.99
+|311256
+|60719
+|1
+|21
+|-
+!330109107
+![[所前镇]]
+|44.13
+|311254<br>311201
+|41072
+|1
+|19
+|-
+!330109108
+![[衙前镇 (杭州市)|衙前镇]]
+|17.92
+|311209
+|27199
+|2
+|11
+|-
+!330109113
+![[瓜沥镇]]
+|127.15
+|311241<br>311243<br>311245
+|165476
+|11
+|63
+|-
+!330109115
+![[益农镇]]
+|46.51
+|311247
+|43775
+|1
+|19
+|-
+!330109120
+![[党湾镇]]
+|32.73
+|311215
+|43523
+|1
+|17
+|-
+|colspan=7 align=left|
+*宁围街道顺坝垦区中约2100余亩属[[上城区]]。<ref>{{Cite web|url=http://zzhz.zjol.com.cn/xww/lskb/hz13179/201808/t20180801_7916773.shtml|title=羊棚变身优质良田 江干“飞地”迎大变样|date=2018-08-01|publisher=浙江在线|language=zh-Hans|archiveurl=https://web.archive.org/web/20201212105120/http://zzhz.zjol.com.cn/xww/lskb/hz13179/201808/t20180801_7916773.shtml|archivedate=2020-12-12|quote=|access-date=2020-01-18|dead-url=no}}</ref>
+|}
+
+== 交通 ==
+===铁路===
+[[File:20171105从西广场观看杭州南站.jpg|thumb|[[杭州南站]]站房]]
+[[File:201607 Intersection of Main Line and Subline of Shanghai–Kunming Railway near Bailutang.jpg|thumb|杭州绕行线在[[沪昆铁路]][[萧山站]]分岔]]
+萧山有[[沪昆铁路]]经过，[[萧甬铁路]]在萧山接入沪昆铁路，同时设有杭州绕行线、萧萧联络线、萧浙联络线等联络线。在高速铁路方面，则有[[沪昆客运专线]]、[[杭甬客运专线]]经过，在[[杭州南站]]设有杭南信号所作为两条线路的联络线，未来还有[[杭黄客运专线]]经过。原浙赣铁路与1932年完成，铁路横穿萧山并在[[城厢街道 (杭州市)|城厢街道]]设[[萧山西站|萧山站]]，办理客货运业务。1992年联通[[萧山站|白鹿塘站]]和[[笕桥站]]的浙赣铁路绕行线完工，并在萧山设有办理客运业务的[[杭州南站|新萧山站]]和[[盈宁站]]，部分经由杭州的列车不再经由横穿萧山的老浙赣线、直接由绕行萧山城区的绕行先北上进入[[沪杭铁路]]和[[宣杭铁路]]，同时原萧山站改名[[萧山西站]]。2006年，原浙赣铁路绕行线与浙赣铁路、沪杭铁路合并成为[[沪昆铁路]]，而横穿萧山城区的浙赣铁路改名[[杭州绕行线]]。
+
+2010年1月1日起，萧山站更名为杭州南站。<ref>{{Cite web |url=http://news.cnnb.com.cn/system/2010/01/06/006382500.shtml |title=铁路：萧山站改名为“杭州南站” |access-date=2016-12-25 |archive-date=2010-04-23 |archive-url=https://web.archive.org/web/20100423081413/http://news.cnnb.com.cn/system/2010/01/06/006382500.shtml |dead-url=no }}</ref><ref>{{Cite web |url=http://www.xsnet.cn/news/shms/2010_1/1040365.shtml |title=火车站：近八十载风雨中的三次更名（萧山网） |accessdate=2016-12-25 |archive-date=2012-03-06 |archive-url=https://web.archive.org/web/20120306224804/http://www.xsnet.cn/news/shms/2010_1/1040365.shtml |dead-url=no }}</ref> 在[[杭州东站]]站改过程中，杭州南站和[[杭州站]]是[[杭州]]地区主要的两个客运站。2013年7月1日，新杭州东站启用后，杭州南站开始进入闭关改造阶段。南站站房及相关工程于2014年11月正式开建，原来预计2017年6月完工<ref >{{cite web |url=http://hz.house.sina.com.cn/news/2014-09-14/08314449647.shtml |language= |title=铁路杭州南站11月改建 计划2017年6月30日完工及檢收，7月1日正式啟用 |publisher=都市快报 |date=2014-09-14 |accessdate= |archive-date=2014-11-29 |archive-url=https://web.archive.org/web/20141129032309/http://hz.house.sina.com.cn/news/2014-09-14/08314449647.shtml |dead-url=no }}</ref>。2020年7月1日，杭州南站重新投入使用。而萧山站的名称则于2015年用于[[萧山站|白鹿塘站]]，同时在该站周围将兴建萧山货场，今后将成为铁路杭州枢纽南部的最重要的组成部分，与[[钱塘江]]北岸的[[乔司站 (中国铁路)|乔司站]]一同形成“北乔司、南萧山”的杭州铁路货运新格局。<ref>{{cite news|url=http://two.crec4.com/content-87-1505-1.html|title=白鹿塘经理部承建的萧山铁路货场正式运营|publisher=中国中铁四局集团第二工程有限公司|date=2016-01-11|accessdate=2016-12-25|archive-date=2019-06-03|archive-url=https://web.archive.org/web/20190603095405/http://two.crec4.com/content-87-1505-1.html|dead-url=no}}</ref>
+
+萧山所有的铁路车站除[[萧甬铁路]][[夏家桥站]]由[[上海铁路局]][[宁波车务段]]管理外，均由[[上海铁路局]][[杭州直属站]]管理。<ref>{{cite web|title=铁路杭州站经营文化手册震撼来袭！|url=http://mp.weixin.qq.com/s?__biz=MzA3NjIzMDMyOQ==&mid=2650036933&idx=1&sn=9798061aa88e25ef908c1a9951733f89&chksm=87648113b01308059fdd0d1367374f21ebe2136e33c2fda0c40a19320433d8f018968a8ae4a8&mpshare=1&scene=1&srcid=1020FoJQBqSwFOQ2Najn58C5#rd|date=2016-10-20|publisher=上铁杭州站|access-date=2016-12-25|archive-date=2020-06-04|archive-url=https://web.archive.org/web/20200604014748/https://mp.weixin.qq.com/s?__biz=MzA3NjIzMDMyOQ%3D%3D&mid=2650036933&idx=1&sn=9798061aa88e25ef908c1a9951733f89&chksm=87648113b01308059fdd0d1367374f21ebe2136e33c2fda0c40a19320433d8f018968a8ae4a8&mpshare=1&scene=1&srcid=1020FoJQBqSwFOQ2Najn58C5#rd}}</ref>从前上海铁路局杭州铁路分局设有萧山车务段，以管理萧山地区的铁路车站。后萧山车务段于2000年合并至诸暨车务段<ref>{{cite news|title=杭州年鉴2000 铁路|url=http://www.hangzhou.gov.cn/art/2003/1/27/art_806912_133972.html|publisher=杭州市人民政府|date=2003-01-27|access-date=2019-01-10|archive-url=https://web.archive.org/web/20190110183600/http://www.hangzhou.gov.cn/art/2003/1/27/art_806912_133972.html|archive-date=2019-01-10|dead-url=yes}}</ref>，后者又于2005并入新成立的[[金华车务段]]<ref>{{cite web|title=2006绍兴年鉴 铁路运输|url=http://www.sx.gov.cn/art/2008/6/3/art_1462297_16998695.html|publisher=绍兴市人民政府|access-date=2019-01-10|archive-date=2020-06-04|archive-url=https://web.archive.org/web/20200604014751/http://www.sx.gov.cn/art/2008/6/3/art_1462297_16998695.html|dead-url=no}}</ref>，萧山的大部分车站改由金华车务段管理。[[金华车务段]]管理的萧山铁路车站又于2009年10月1日起移交[[杭州站|杭州直属站]]管辖<ref>{{cite web|title=杭州年鉴2010 交通运输 铁路|url=http://www.hangzhou.gov.cn/art/2011/4/13/art_806361_160300.html|date=2011-04-13|publisher=杭州市人民政府|access-date=2016-12-25|archive-date=2020-07-19|archive-url=https://web.archive.org/web/20200719071221/http://www.hangzhou.gov.cn/art/2011/4/13/art_806361_160300.html|dead-url=no}}</ref>。
+
+===公路===
+* 公路：{{中国高速公路名|G2504}}，{{中国高速公路名|G9221}}，{{中国高速公路名|G60}}，{{China Expwy Name|S4|P=Zhejiang|[[杭州萧山机场高速]]}}，{{China Expwy Name|S2|P=Zhejiang|[[沪杭甬高速]]}}，{{中国国道名|104}}，{{中国国道名|329}}。
+
+===公交===
+* 公交：杭州萧山公共交通有限公司
+
+===航空===
+[[File:202001 Domestic Terminal of Hangzhou Xiaoshan International Airport.jpg|thumb|[[杭州萧山国际机场|萧山国际机场]]]]
+[[杭州萧山国际机场]]位于区内[[瓜沥镇]]，是[[杭州市]]的主要民航机场，同时也是[[浙江省]]以及[[长江三角洲|长三角]]地区的重要机场，处于华东第三，全国前十的水平。机场于2001年开航，以取代杭州城区军民合用的矛盾日益突出的[[笕桥机场]]。但随着萧山机场航班量日益增加，尤其是第二跑道启用后，萧山机场造成机场周边以及萧山城区受到噪声影响日益严重的事实亦不容忽略，引起部分当地居民的不满<ref>{{cite web|title=【环保 求助】萧山机场噪音问题需要务实解决|publisher=人民网 地方领导留言板|url=http://liuyan.people.com.cn/thread.php?tid=3652540&display=&domainid=13&act=domain&page=1|date=2016-05-21|access-date=2016-12-25|archive-date=2016-12-25|archive-url=https://web.archive.org/web/20161225150836/http://liuyan.people.com.cn/thread.php?tid=3652540&display=&domainid=13&act=domain&page=1|dead-url=no}}</ref>。
+
+===地铁===
+[[File:201607 Exit A2 of Renmin Road Station.jpg|thumb|[[人民路站 (杭州市)|人民路站]]A2出口]]
+萧山区内现有地铁7条：[[杭州地铁1号线]]、[[杭州地铁2号线|2号线]]、[[杭州地铁5号线|5号线]]、[[杭州地铁6号线|6号线]]、[[杭州地铁7号线|7号线]]、[[杭州地铁19号线|19号线]]和[[绍兴轨道交通1号线]]。
+
+2012年11月24日通车试运营的[[杭州地铁1号线|地铁1号线]]在萧山区设有[[湘湖站]]，同时在与[[滨江区]]交界设有[[滨康路站]]，联通杭州主城、[[临平街道|临平]]和[[下沙新城|下沙]]地区。1号线三期线路于2020年12月30日开通，从[[下沙江滨站|下沙江滨]]延伸至[[萧山国际机场站|蕭山國際機場]]<ref >{{cite web |url=http://biz.zjol.com.cn/system/2016/06/14/021187661.shtml |language= |title=杭州地铁7号线确定进机场 杭绍城际铁路下月动工 |publisher=杭州网 |date=2016-06-14 |accessdate= |archive-date=2017-07-31 |archive-url=https://web.archive.org/web/20170731204758/http://biz.zjol.com.cn/system/2016/06/14/021187661.shtml |dead-url=yes }}</ref>。
+
+2014年11月24日开通运营的[[杭州地铁2号线|地铁2号线]]沿市心路南北纵贯整个萧山城区，增强与杭州主城以及城西地区的联通。
+
+2020年4月23日全线贯通运营的[[杭州地铁5号线|地铁5号线]]首次直连了萧山区与滨江区，并在2021年6月28日于[[姑娘桥站|姑娘桥]]实现了与[[绍兴轨道交通1号线]]柯桥段的换乘。
+
+[[杭州地铁6号线|地铁6号线]]有四个站点位于萧山区内，分别为：[[博览中心站 (杭州地铁)|博览中心]]、[[钱江世纪城站|钱江世纪城]]、[[丰北站|丰北]]和[[亚运村站|亚运村]]，其中博览中心站与钱江世纪城站已于2020年12月30日6号线一期开通时投入使用。
+
+[[杭州地铁7号线|地铁7号线]]大部分位于江南的萧山区内，过江后经[[杭州奥体博览城]]（可在此换乘[[杭州地铁6号线|6号线]]），向东沿建设三路、建设四路至[[杭州萧山国际机场|萧山国际机场]]，后向北进入[[钱塘区]]，该线为连接线，目的是构建[[钱塘区]]与钱江两岸CBD以及杭州老城区的联系，目前开通了[[奥体中心站 (杭州市)|奥体中心]]与[[江东二路站|江东二路]]区间。
+
+[[杭州地铁19号线|地铁19号线]]连接[[杭州西站]]、[[杭州东站]]与[[杭州萧山国际机场|萧山国际机场]]，其中有五个站点位于萧山区内：[[平澜路站|平澜路]]、[[耕文路站|耕文路]]、[[知行路站|知行路]]、[[萧山国际机场站|萧山国际机场]]、[[永盛路站|永盛路]]。
+
+远期途径萧山区的地铁规划有[[杭州地铁10号线|地铁10号线]]南延段、[[杭州地铁11号线|地铁11号线]]、[[杭州地铁17号线|地铁17号线]]和[[杭州地铁22号线|地铁22号线]]（原13号线）等。
+
+现在途径萧山的[[杭州地铁4号线|地铁4号线]]南延段、[[杭州地铁18号线]]与[[杭州地铁15号线]]已经开工，预计2027年-2028年开通。
+
+== 经济 ==
+[[File:QianJiang Century City, Feb 2017 - 03.jpg|thumb|[[钱江世纪城]]在建的高楼]]
+曾经位于[[中国百强县]]第七位，浙江省县域经济第一位，后由于变成区级单位退出该类排名。目前截至2011年末数据，实现地区生产总值1446.78亿元，财政总收入217.02亿元，其中地方财政收入113.38亿元，城镇居民人均可支配收入36278元，农村居民人均纯收入18398元，各项数据指标依旧傲视全浙江省。
+
+*[[钱江世纪城]]
+*[[萧山经济技术开发区]]
+
+=== 主要公司 ===
+[[File:20240123 Headquarter of Wanxiang A123.jpg|thumb|[[万向集团]]]]
+[[File:201907 Zhejiang Hangmin Corp HQ.jpg|thumb|航民股份织造分公司]]
+[[File:201806 Headquarter of Loongair at HGH.jpg|thumb|[[长龙航空]]]]
+{|class="wikitable sortable"; style="font-size:90%"; text-align:"center"; margin:"1em;"
+|+2024年杭州市百强企业榜中的萧山企业<ref>{{cite news|title=2024杭州百强企业榜发布，萧山这些企业上榜！|url=https://mp.weixin.qq.com/s/E2KJDtyIbchuiBDq4QallQ|work=萧山发布|publisher=微信公众号|date=2024-08-21|access-date=2025-04-03|archive-date=2025-11-12|archive-url=https://web.archive.org/web/20251112023847/https://mp.weixin.qq.com/s/E2KJDtyIbchuiBDq4QallQ|dead-url=no}}</ref>
+|-
+!排名 !! 企业
+|-
+| 2 || [[榮盛控股集團]]
+|-
+| 4 || [[浙江恒逸集團]]
+|-
+| 7 || [[浙商中拓集团]]
+|-
+| 8 || [[万向集团]]
+|-
+| 10 || [[传化集团]]
+|-
+| 20 || [[东南网架集团]]
+|-
+| 25 || 兴惠化纤集团
+|-
+| 32 || [[正凯集团]]
+|-
+| 33 || 万向三农集团
+|-
+| 34 || 火山口网络科技
+|-
+| 43 || [[航民实业集团]]
+|-
+| 45 || [[永盛控股集团]]
+|-
+| 51 || [[众安房产|众安集团]]
+|-
+| 52 || 浙江华瑞集团
+|-
+| 53 || [[杭萧钢构]]股份
+|-
+| 55 || 金帝联合控股集团
+|-
+| 57 || [[长龙航空]]
+|-
+| 70 || [[中国移动|浙江移动]]信息系统集成有限公司
+|-
+| 71 || 浙江万丰企业集团
+|-
+| 85 || 杭州大明万洲金属科技有限公司
+|-
+| 88 || 柳桥集团
+|-
+| 92 || 大立建设集团
+|-
+| 93 || 亚太机电集团
+|-
+| 94 || 杭可科技
+|-
+| 96 || 宝盛控股集团
+|-
+| 99 || 浙江[[九州通医药]]
+|}
+
+=== 大型商场 ===
+[[File:Inlong Department Store 06.jpg|thumb|银隆百货]]
+*[[萧山众安广场]]，旧名萧山恒隆广场，位于山阴路688号，2007年12月开业
+*[[市心广场]]，位于[[萧绍路]]的一个商业街区
+*[[银隆百货]]，位于市心中路，A座、B座分别于2009年12月和2015年5月开业
+*[[加州阳光开元广场]]，旧名城市生活广场，位于金城路333号，2012年8月开业<ref>{{Cite web|title=外婆家杭州萧山首店进驻LSE城市生活广场 今日开业|url=http://news.winshang.com/html/012/4219.html|website=赢商网|access-date=2024-07-02|archive-date=2024-07-03|archive-url=https://web.archive.org/web/20240703174957/http://news.winshang.com/html/012/4219.html|dead-url=no}}</ref>
+*[[萧山宝龙广场]]，位于建设一路与金鸡路口，2015年12月开业
+*[[萧山万象汇]]，位于市心中路与金城路口，2018年6月15日开业
+*[[印力汇德隆杭州奥体印象城]]，位于[[钱江世纪城]]金鸡路与扬帆路交叉口，2021年9月30日开业。<ref>{{Cite web |title=印象城-印力汇德隆杭州奥体印象城 |url=https://www.scpgroup.com/business/data?id=24 |website=印力集团 |access-date=2024-12-04 |archive-date=2025-08-22 |archive-url=https://web.archive.org/web/20250822133142/https://www.scpgroup.com/business/data?id=24 |dead-url=no }}</ref>
+*[[萧山银泰]]，位于通惠南路与南秀路交叉口，2021年12月10日开业。<ref>{{Cite web |title=银泰百货萧山店开业在即 |url=https://www.hangzhou.gov.cn/art/2021/12/1/art_812262_59045293.html |website=杭州日报 |date=2021-12-01 |access-date=2024-12-04 |archive-date=2024-12-26 |archive-url=https://web.archive.org/web/20241226081435/https://www.hangzhou.gov.cn/art/2021/12/1/art_812262_59045293.html |dead-url=no }}</ref>
+*[[萧山开元广场]]，位于市心南路1216号，2023年11月18日开业<ref>{{Cite web|title=万众瞩目，不负期待！萧山开元广场11月18日盛大开业！|url=https://www.xsnet.cn/citylife/content/2023-11/19/content_362930.html|website=萧山网|date=2023-11-19|access-date=2024-07-02|archive-date=2024-07-02|archive-url=https://web.archive.org/web/20240702084135/https://www.xsnet.cn/citylife/content/2023-11/19/content_362930.html|dead-url=no}}</ref>
+*[[杭州亚奥万象天地]]，位于[[杭州亚运村]]的[[亚运村站]]附近，2025年9月开业。
+*[[杭州SKP]]，位于[[钱江世纪城]]，在建中，预计2027年竣工。
+
+=== 特产 ===
+*[[萧山萝卜干]]：[[中国地理标志产品]]。
+
+== 旅游景点 ==
+[[File:Xiang Lake, Xiaoshan. View from Qiming Bridge.jpg|缩略图|湘湖]]
+*[[湘湖]]
+*[[杭州极地海洋公园]]
+*[[杭州乐园]]（[[杭州休闲博览园]]）
+*[[杭州东方文化园]]
+*[[北干山 (萧山区)|北干山]]
+*[[人民广场 (萧山区)|人民广场]]
+*[[江寺公园]]
+*[[萧山观潮城]]
+
+== 文体设施 ==
+[[File:Xiaoshan Culture Centre.jpg|thumb|right|萧山剧院]]
+[[File:Xiaoshan Tiyu Zhongxin Tiyuchang.jpg|thumb|right|萧山体育中心]]
+*[[萧山图书馆]]
+*[[萧山区文化馆]]
+*[[萧山博物馆]]
+*[[萧山剧院]]
+*[[萧山体育中心]]
+*[[杭州奥体博览城]]
+
+==人物==
+{{Category see also|萧山人}}
+
+== 参见 ==
+*[[杭州南站]]
+*[[杭州萧山国际机场]]
+*[[萧山区第一人民医院]]
+
+== 参考资料 ==
+{{Wikisource|国务院关于同意浙江省撤销萧山市余杭市设立杭州市萧山区余杭区的批复}}
+{{reflist|2}}
+
+== 外部链接 ==
+* {{Commons category-inline}}
+* {{Official website|http://www.xiaoshan.gov.cn/|name=杭州市萧山区人民政府}}
+
+{{萧山区行政区划}}
+{{杭州市行政区划}}
+{{浙江行政区划}}
+{{杭州市}}
+{{规范控制}}
+
+[[Category:萧山区| ]]
+[[Category:杭州市辖区]]
+[[Category:2001年杭州建立]]
+[[Category:2001年建立的行政區劃]]

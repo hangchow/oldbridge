@@ -1,0 +1,76 @@
+以下为金华市[[武义县]]范围内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下为武义县范围内的[[全国重点文物保护单位]]<ref>{{cite web |url = http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |title = 全国重点文物保护单位 |publisher = 中国文化遗产-中国文物信息咨询中心网站 |date= |accessdate=2009-06-21 |deadurl=yes |archiveurl = https://web.archive.org/web/20100315033814/http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |archivedate=2010-03-15 |language = zh }}</ref>
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[延福寺]]
+|4-121
+|古建筑
+|[[武义县]]
+|[[元朝|元]]
+| [[File:Wuyi Yanfu Si 20120219-17.jpg|180px]]
+|-
+|[[俞源村古建筑群]]
+|5-300
+|古建筑
+|[[武义县]]
+|[[元朝|元]]—[[清]]
+| [[File:Wuyi Yuyuan 20120219-18.jpg|180px]]
+|-
+| [[吕祖谦及家族墓]]
+| 7-0574-2-058
+| 古墓葬
+| [[武义县]]
+| [[宋代|宋]]
+|
+|}
+==浙江省文物保护单位==
+以下为武义县范围内的[[浙江省文物保护单位]]：
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[熟溪桥]]||3-73|| || || ||[[File:Shuxi Bridge 11 2020-08.jpg|120px]]
+|-
+|[[上甘塔红军标语]]||3-3|| || || ||
+|-
+|[[发宝象龙塔]]||4-37|| || || ||[[File:Fabao Xianglong Ta 20120218-09.jpg|90px]]
+|-
+|[[忠孝堂]]||5-57|| || || ||[[File:Wuyi Zhongxiao Tang 20120219-6.jpg|120px]]
+|-
+|[[岭下汤石祠]]||5-82|| || || ||
+|-
+|[[王村花厅]]||6-92|| || || ||
+|-
+|[[履坦徐氏民居]]||6-191|| || || ||[[File:Former Residence of Xu Rizhang 08 2020-08.jpg|120px]]
+|-
+|[[石板巷陈家厅]]||6-192|| || || ||[[File:Former Residence of Chen's Family in Shiban Alley 04 2020-08.jpg|120px]]
+|-
+|[[毓英塔]]||7-56|| || || ||
+|-
+|[[日军侵华掠矿遗址]]||7-273|| || || ||
+|-
+|[[溪里窑址]]||8-19||古遗址|| 武义县熟溪街道||元|| 
+|-
+|[[徐英故居]]（含徐氏宗祠）||8-90||近现代重要史迹及代表性建筑|| 武义县熟溪街道||清、民国||
+|-
+|}
+
+==参考文献及注释==
+{{reflist|2}}
+{{浙江各级文物保护单位}}
+[[Category:武义县]]

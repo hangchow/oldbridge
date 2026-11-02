@@ -1,0 +1,11 @@
+#!/bin/bash
+# 全部重新生成：先按名录原始数据生成，再算孔数/年代补充，再生成一次
+cd "$(dirname "$0")"
+B="build/gen.py huz/build.py jx/build.py sh/build.py sz/build.py jh/build.py"
+C="绍兴市 宁波市 衢州市 台州市 温州市 丽水市 舟山市"
+gen() { for f in $B; do python3 -I $f >/dev/null || echo "FAIL $f"; done; for c in $C; do python3 -I zj/build.py $c >/dev/null || echo "FAIL $c"; done; }
+mkdir -p /tmp/ob_bak; mv build/cq_holes.json build/era_fill.json build/cq_len_fill.json /tmp/ob_bak/ 2>/dev/null
+gen
+python3 -I build/cqlink.py && python3 -I build/cqholes.py | tail -1 && python3 -I build/erafill.py | tail -1
+gen
+python3 -I build/cityreadme.py >/dev/null && python3 -I build/nowrap.py | tail -1

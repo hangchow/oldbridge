@@ -1,0 +1,175 @@
+{{Update|time=2024-10-30T06:08:35+00:00}}
+本表列出的是[[上海市]][[杨浦区]]区级[[文物保护单位]]。关于杨浦区境内的[[全国重点文物保护单位]]和上海市市级文物保护单位，请分别参见[[上海全国重点文物保护单位列表]]和[[上海市文物保护单位#杨浦区（8处）|上海市文物保护单位]]。
+
+==区级文物保护单位==
+<center>
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[上海市立图书馆|旧上海市图书馆]]
+|黑山路181号
+|2004.2.25
+|style="padding:0" |[[File:Former Shanghai Library.jpg|125px]]
+|-
+|[[上海市立博物馆|旧上海市博物馆]]
+|长海路174号
+|2004.2.25
+|style="padding:0" |[[File:Shanghai City Museum.jpg|125px]]
+|-
+|[[沪江大学|沪江大学历史建筑]]
+|军工路516号
+|2004.2.25
+|style="padding:0" |[[File:Hu-chiang University.JPG|125px]]
+|-
+|[[中国航空协会大楼|飞机楼]]
+|长海路174号
+|2004.2.25
+|style="padding:0" |[[File:中國航空協會舊址.jpg|125px]]
+|-
+|[[国立音乐专科学校旧址|国立音乐专科学校]]
+|民京路918号
+|2004.2.25
+|style="padding:0" |[[File:公安部上海检测中心（国立音乐专科学校旧址）建筑.jpg|125px]]
+|-
+|rowspan="2"|[[闸北水厂|闸北水厂老办公楼、水塔、出水泵房]]
+|rowspan="2"|闸殷路65号
+|rowspan="2"|2004.2.25
+|style="padding:0" |[[File:Zhabei Shuichang Laobangonglou.JPG|125px]]
+|-
+|style="padding:0" |[[File:Zhabeishuichang Shuita Chushuibengfang.jpg|125px]]
+|-
+|rowspan="2"|[[复旦大学]][[复旦大学邯郸校区|数学楼、校史馆、相辉堂]]
+|rowspan="2"|邯郸路220号
+|rowspan="2"|2004.2.25
+|style="padding:0" |[[File:ZibinYuan.jpg|125px]]
+|-
+|style="padding:0" |[[File:Fudan-xianghuitang.jpg|125px]]
+|-
+|[[圣心医院]]
+|杭州路349号
+|2004.2.25
+|style="padding:0" |[[File:圣心医院.jpg|125px]]
+|-
+|[[杨树浦发电厂|公共租界工部局电气处新厂]]
+|杨树浦路2800号
+|2004.2.25
+|style="padding:0" |[[File:Shanghai Gongbuju Dianqichu Xinchang Jiuzhi.JPG|125px]]
+|-
+|rowspan="2"|[[上海煤气公司杨树浦工场]]
+|rowspan="2"|杨树浦路2524号
+|rowspan="2"|2004.2.25
+|style="padding:0" |[[File:Office Building of River Gas Plant.JPG|125px]]
+|-
+|style="padding:0" |[[File:Residence of senior staff of River Gas Plant.JPG|125px]]
+|-
+|rowspan="2"|[[东区污水处理厂旧址|东区污水处理厂]]
+|rowspan="2"|河间路1283号
+|rowspan="2"|2004.2.25
+|style="padding:0" |[[File:Office Building of East District Sewage Treatment Plant.JPG|125px]]
+|-
+|style="padding:0"|[[File:Pump Station of East District Sewage Treatment Plant.JPG|125px]]
+|-
+|[[叶家花园]]
+|政民路507号
+|2011.2.21
+|style="padding:0" |[[File:Yeh's Garden (White Hall).JPG|125px]]
+|-
+|[[陈望道旧居]]
+|国福路51号
+|2011.2.21
+|style="padding:0" |[[File:Residence of Chen Wangdao.jpg|125px]]
+|-
+|[[上海国歌展示馆|《义勇军进行曲》纪念地]]
+|大连路长阳路（大连绿地）
+|2011.2.21
+|style="padding:0" |[[File:"Yiyongjun Jinxingqu" Jiniandi.JPG|125px]]
+|-
+|[[王根英#纪念|王根英烈士故居遗址]]
+|周家嘴路1888号瀚海明玉大酒店内
+|2011.2.21
+|style="padding:0" |[[File:Wanggenying Lieshi Guju Yizhi.jpg|125px]]
+|-
+|苏步青旧居
+|国福路61号
+|2026.1.27
+|
+|-
+|谈家桢、陈建功旧居
+|国福路65号
+|2026.1.27
+|
+|-
+|日本商业学校旧址礼堂
+|平凉路2103号
+|2026.1.27
+|
+|-
+|日本商业学校旧址南教学楼
+|平凉路2103号
+|2026.1.27
+|
+|-
+|公大二厂办公楼旧址
+|杨树浦路658号
+|2026.1.27
+|
+|-
+|恽代英烈士被捕处
+|杨树浦路天章路口（原英商怡和纱厂大门处）
+|2026.1.27
+|
+|-
+|上海总工会第二办事处遗址
+|双阳路109号
+|2026.1.27
+|
+|-
+|中共杨树浦部委机关遗址
+|大连路绿地北部（近长阳路）
+|2026.1.27
+|
+|-
+|沪东工人纠察队秘密军训处遗址
+|惠民路379弄入口东侧
+|2026.1.27
+|
+|-
+|杨树浦女工夜校遗址
+|杨树浦路1509号
+|2026.1.27
+|
+|-
+|中共中央国际电台遗址
+|通北路589号
+|2026.1.27
+|
+|-
+|一·二二游行集合处
+|通北路540号
+|2026.1.27
+|
+|-
+|欧阳立安战斗过的地方
+|长阳路910弄
+|2026.1.27
+|
+|}
+</center>
+
+== 參見 ==
+* [[杨浦区登记不可移动文物]]
+
+== 参考文献 ==
+*{{cite web|language =|publisher =上海市文化广播影视管理局|title =杨浦区县级文物保护单位、登记不可移动文物|url =http://wgj.sh.gov.cn/wgj/node1257/node1264/userobject1ai75820.html|author =市文广影视局|date =2011-11-08|accessdate =|deadurl =yes|archiveurl =https://web.archive.org/web/20140116112059/http://wgj.sh.gov.cn/wgj/node1257/node1264/userobject1ai75820.html|archivedate =2014-01-16}}
+*《话说上海·杨浦卷》
+*上海市杨浦区人民政府.关于拟公布“苏步青旧居”等13处为未定级不可移动文物（区文物保护点）的公示.2026-01-27.<ref>{{Cite web|url=https://www.shyp.gov.cn/zhengwu/wlj-wwbhdwjbhdxx/2026/27/1315.html|title=关于拟公布“苏步青旧居”等13处为未定级不可移动文物（区文物保护点）的公示|date=2026-01-27|url-status=live|website=上海市楊浦區人民政府}}</ref>
+
+{{上海市各区县文物保护单位索引}}
+
+[[Category:杨浦区文物保护单位| ]]
+[[Category:上海市境内的区级文物保护单位]]
+[[Category:杨浦区建筑物]]

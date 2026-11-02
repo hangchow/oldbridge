@@ -185,7 +185,7 @@
 | <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 夹浦兴隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql307.htm) | 石拱桥（三孔） | 12.11米 | 清嘉庆年间重建，清嘉庆二十二年（1817）重建 | 长兴县文物保护单位（1983年公布） |
 | <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 鼎嘉桥 | — | — | 清 | 长兴县文物保护单位（1983年公布） |
 | <nobr>长兴县</nobr> | <nobr>图影管委会</nobr> | 锁界桥 [?](http://www.china-qiao.com/ql15/hzql/hzql290.htm) | 石拱桥（单孔） | 20米 | 清 | 长兴县文物保护单位（第三批，2003年） |
-| <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 蒋埠桥 [?](http://www.china-qiao.com/ql15/hzql/hzql318.htm) | 石梁桥（二墩三孔） | 13.48米 | 民国 | 长兴县文物保护单位（第三批，2003年） |
+| <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 蒋埠桥 [?](http://www.china-qiao.com/ql15/hzql/hzql318.htm) | 石梁桥（二墩三孔） | 13.48米 | 民国三年（1914）建 | 长兴县文物保护单位（第三批，2003年） |
 | <nobr>长兴县</nobr> | <nobr>煤山镇</nobr> | 大路桥 [?](http://www.china-qiao.com/ql15/hzql/hzql340.htm) | 石拱桥（单孔） | — | 民国 | 长兴县文物保护单位（第三批，2003年） |
 | <nobr>长兴县</nobr> | <nobr>和平镇</nobr> | 中和桥 [?](http://www.china-qiao.com/ql15/hzql/hzql334.htm) | — | — | 不详 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>林城镇</nobr> | 包福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql320.htm) | — | — | 不详 | 长兴县文物保护单位（第四批，2010年） |
@@ -194,7 +194,7 @@
 | <nobr>长兴县</nobr> | <nobr>二界岭乡</nobr> | 太平村太平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql321.htm) | 石拱桥（单孔） | 16米 | 不详 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>龙山街道</nobr> | 生圣桥 [?](http://www.china-qiao.com/ql15/hzql/hzql274.htm) | — | — | 清嘉庆二十一年（1816）建 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>雉城镇</nobr> | 三登桥 [?](http://www.china-qiao.com/ql15/hzql/hzql269.htm) | — | — | 不详 | 长兴县文物保护单位（第四批，2010年） |
-| <nobr>长兴县</nobr> | <nobr>洪桥镇</nobr> | 鸿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql287.htm) | 石梁桥（三孔） | 25.8米 | 不详 | 长兴县文物保护单位（第四批，2010年） |
+| <nobr>长兴县</nobr> | <nobr>洪桥镇</nobr> | 鸿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql287.htm) | 石梁桥（三孔） | 25.8米 | 民国年间建，民国二十年（1931）重建 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>洪桥镇</nobr> | 六河桥 [?](http://www.china-qiao.com/ql15/hzql/hzql288.htm) | 石梁桥（四墩五孔） | 41.2米 | 不详 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>洪桥镇</nobr> | 高宁塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql289.htm) | 石梁桥（五孔） | — | 不详 | 长兴县文物保护单位（第四批，2010年） |
 | <nobr>长兴县</nobr> | <nobr>夹浦镇</nobr> | 德盛桥 [?](http://www.china-qiao.com/ql15/hzql/hzql310.htm) | 石拱桥（单孔） | 18.1米 | 不详 | 长兴县文物保护单位（第四批，2010年） |

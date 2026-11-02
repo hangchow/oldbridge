@@ -1,0 +1,31 @@
+以下为[[温州市]][[洞头区]]范围内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下为洞头区范围内的[[全国重点文物保护单位]]<ref>{{cite web |url = http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |title = 全国重点文物保护单位 |publisher = 中国文化遗产-中国文物信息咨询中心网站 |date= |accessdate=2009-06-21 |deadurl=yes |archiveurl = https://web.archive.org/web/20100315033814/http://www.cchmi.com/tabid/75/MoreModuleID/426/MoreTabID/69/Default.aspx |archivedate=2010-03-15 |language = zh }}</ref>
+
+==浙江省文物保护单位==
+以下为洞头区范围内的[[浙江省文物保护单位]]：
+
+{| class="wikitable sortable"
+|-
+!名称
+! style="min-width: 7em" | 编号
+!类型
+!所在
+!时代
+!图片
+|-
+|[[洞头县妈祖宫|妈祖宫]]||4-41|| || || || 
+|-
+|[[寨楼寨墙及张氏家族墓]]||6-171|| || || || 
+|-
+|[[岙内叶宅]]||6-279|| || || || 
+|-
+|}
+
+==参考文献及注释==
+{{Reflist|25em}}
+
+{{浙江各级文物保护单位}}
+[[Category:温州市境内的文物保护单位列表]]
+[[Category:洞头区]]

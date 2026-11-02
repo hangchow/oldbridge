@@ -1,0 +1,266 @@
+本表列出的是[[徐汇区]]区级[[文物保护单位]]，关于徐汇区境内的[[全国重点文物保护单位]]和上海市市级文物保护单位，请分别参见[[上海全国重点文物保护单位列表]]和[[上海市文物保护单位#徐汇区（23处）|上海市文物保护单位]]。
+
+==区级文物保护单位==
+<center>
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[新四军驻上海办事处旧址]]
+|嘉善路140弄15号
+|1991.6.12
+|style="padding:0" |[[file:XingshundongLi_on_Jiashan_Rd..JPG|125px]]
+|-
+|[[中共江苏省委旧址]]
+|永嘉路291弄66号
+|1991.6.12
+|style="padding:0" |[[File:Zhonggong Jiangsushengwei Jiuzhi.JPG|125px]]
+|-
+|[[桂林公园]]
+|桂林路128号
+|2004.1.5
+|style="padding:0" |[[File:Guilin Gongyuan.jpg|125px]]
+|-
+|rowspan="2"|[[上海特别市政府旧址]]
+|rowspan="2"|平江路48号
+|rowspan="2"|2004.1.5
+|style="padding:0" |[[File:Shanghai Tebieshi Zhengfu Jiuzhi.jpg|125px]]
+|-
+|style="padding:0" |[[File:Pingjianglu 48 Hao 7 Hao Lou.JPG|125px]]
+|-
+|[[鸿英图书馆旧址]]
+|淮海中路1413号
+|2004.1.5
+|style="padding:0" |[[File:Xuhui Art Museum.JPG|125px]]
+|-
+|[[徐家汇观象台|徐家汇观象台旧址]]
+|漕溪北路280号
+|2004.1.5
+|style="padding:0" |[[File:Xujiahui Guanxiangtai Jiuzhi.jpg|125px]]
+|-
+|[[百代公司旧址]]
+|衡山路811号
+|2004.1.5
+|style="padding:0" |[[File:Former_Site_of_Pathé.JPG|125px]]
+|-
+|[[高安路_(上海)#励家花园|励家花园]]
+|高安路63号
+|2004.1.5
+|style="padding:0" |[[File:63_Gao'An_Road.JPG|125px]]
+|-
+|rowspan="2"|[[上海市上海中学|上海中学龙门楼、先棉堂]]
+|rowspan="2"|上中路400号
+|rowspan="2"|2004.1.5
+|style="padding:0" |[[File:SHSID Flower Garden and Longmen Building.jpg|125px]]
+|-
+|style="padding:0" |[[File:Xianmiantang.jpg|125px]]
+|-
+|[[武康路393号住宅|黄兴寓所]]
+|武康路393号
+|2004.1.5
+|style="padding:0" |[[File:393_Wukang_Road.JPG|125px]]
+|-
+|[[徐家汇藏书楼]]
+|漕溪北路80号
+|2004.1.5
+|style="padding:0" |[[File:Library_Bibliotheca_Zi-Ka-Wei.jpg|125px]]
+|-
+|[[上海市徐汇中学|徐汇中学崇思楼]]
+|虹桥路68号
+|2004.1.5
+|style="padding:0" |[[File:Front_of_Chongsi_Building.JPG|125px]]
+|-
+|[[光启公园#南春华堂|南春华堂]]
+|南丹路17号
+|2004.1.5
+|style="padding:0" |[[File:Xu_Guangqi_Memorial_Hall.jpg|125px]]
+|-
+|[[桃江路45号住宅]]
+|桃江路45号
+|2005.10.11
+|style="padding:0" |[[File:Taojianglu 45 Hao Zhuzhai.jpg|125px]]
+|-
+|[[丁香花园]]
+|华山路849号1号楼
+|2007.8.2
+|style="padding:0" |[[File:Dingxiang Garden Building No.1.jpg|125px]]
+|-
+|[[爱庐]]
+|东平路9号
+|2007.8.2
+|style="padding:0" |[[File:Ailu.jpg|125px]]
+|-
+|[[徐家汇圣母院|徐家汇圣母院旧址]]
+|漕溪北路201号
+|2007.8.2
+|style="padding:0" |[[File:Shanghai_Old_Station.JPG|125px]]
+|-
+|[[孔祥熙旧居]]
+|东平路7号
+|2007.8.2
+|style="padding:0" |[[File:Kongxiangxi Jiuju.jpg|125px]]
+|-
+|[[上海虹桥疗养院旧址]]
+|淮海中路966号5号楼
+|2007.8.2
+|style="padding:0" |[[File:Shanghai Hongqiao Liaoyangyuan Jiuzhi.jpg|125px]]
+|-
+|[[土山湾孤儿院|土山湾孤儿院旧址]]
+|蒲汇塘路55号
+|2007.8.2
+|style="padding:0" |[[File:Tushanwan Gu'eryuan Jiuzhi.jpg|125px]]
+|-
+|[[岳阳路45号住宅]]
+|岳阳路45号1号楼
+|2007.8.2
+|style="padding:0" |[[File:Residence on No. 45, Route Pichon.jpg|125px]]
+|-
+|[[杜重远旧居]]
+|淮海中路1897号
+|2008.12.4
+|
+|-
+|[[圣母大堂|东正教堂]]
+|新乐路55号
+|2008.12.4
+|style="padding:0" |[[File:上海圣母大堂(主体).jpg|125px]]
+|-
+|[[东湖宾馆 (上海)|东湖路70号住宅]]
+|东湖路70号
+|2008.12.4
+|
+|-
+|[[中国科学院上海分院|法国领事馆馆舍旧址]]
+|岳阳路319号11号楼
+|2008.12.4
+|style="padding:0" |[[File:SIAS_Shanghai.jpg|125px]]
+|-
+|[[国立上海医学院]][[复旦大学枫林校区|旧址]]
+|医学院路138号
+|2008.12.4
+|
+|-
+|[[中国福利会|中国福利基金会托儿所旧址]]
+|五原路314号
+|2008.12.4
+|style="padding:0" |[[File:中国福利会2.jpg|125px]]
+|-
+|[[巴金旧居]]
+|武康路113号
+|2008.12.4
+|style="padding:0"|[[File:Bajin Jiuju.JPG|125px]]
+|-
+|[[太原别墅]]
+|太原路160号
+|2008.12.4
+|style="padding:0" |[[File:Residence of A. Du Pac de Marsoulies.jpg|125px]]
+|-
+|[[永嘉路孔祥熙旧居]]
+|永嘉路383号
+|2008.12.4
+|style="padding:0" |[[File:Yongjialu Kongxiangxi Jiuju.jpg|125px]]
+|-
+|[[同济大学#德文医学堂|同济德文医工学堂旧址]]
+|复兴中路1195号
+|2008.12.4
+|style="padding:0" |[[File:Deutsche Ingenieurschule.jpg|125px]]
+|-
+|[[张乐平旧居]]
+|五原路288弄3号
+|2008.12.4
+|
+|-
+|[[江南弹药厂翻砂车间旧址]]
+|龙华路2577号
+|2008.12.4
+|style="padding:0" |[[File:Foundary of Kiangnan Ammunition Plant.JPG|125px]]
+|-
+|[[颜福庆旧居]]
+|武康路40弄4号
+|2009.11.17
+|
+|-
+|[[聂耳旧居]]
+|淮海中路1258号三楼
+|2009.11.17
+|
+|-
+|[[上海市第四中学|启明女校旧址]]
+|天钥桥路100号
+|2009.11.17
+|style="padding:0" |[[File:Qimingnvxiaojiuzhi.jpg|125px]]
+|-
+|[[上海交通大学|南洋公学旧址建筑群]]
+|华山路1954号
+|2010.11.18
+|style="padding:0" |[[File:SJTU_Xuhui_Campus_Gate.JPG|125px]]
+|-
+|[[刘鸿生旧居]]
+|肇嘉浜路687弄7、8号
+|2010.11.18
+|
+|-
+|[[上海市第二中学|雷米小学旧址]]
+|永康路200号
+|2010.11.18
+|style="padding:0" |[[File:Leimixiaoxuejiuzhi.jpg|125px]]
+|-
+|[[永嘉路555号花园住宅]]
+|永嘉路555号
+|2010.11.18
+|style="padding:0" |[[File:Yongjialu 555 Hao Huayuanzhuzhai.jpg|125px]]
+|-
+|[[上海市南洋中学|南洋中学校友厅]]
+|中山南二路225号
+|2010.11.18
+|
+|-
+|[[霖生医院旧址]]
+|岳阳路190号
+|2010.11.18
+|style="padding:0" |[[File:Former Site of Linsheng Hospital.JPG|125px]]
+|-
+|[[张澜旧居]]
+|永嘉路321弄8号
+|2011.11.30
+|style="padding:0" |[[File:Zhanglan Jiuju.JPG|125px]]
+|-
+|[[南国艺术学院旧址]]
+|永嘉路371－381号
+|2011.11.30
+|style="padding:0" |[[File:Nanguo Yishu Xueyuan Jiuzhi & Tianhan Yusuo.JPG|125px]]
+|-
+|[[赵丹旧居]]
+|湖南路8号
+|2011.11.30
+|
+|-
+|[[夏衍旧居]]
+|乌鲁木齐南路178号2号楼
+|2011.11.30
+|style="padding:0" |[[File:Ürümqi Road 178.jpg|125px]]
+|-
+|[[普希金像 (上海)|普希金像]]
+|汾阳路、岳阳路、桃江路交汇处
+|2011.11.30
+|style="padding:0" |[[File:Shanghai0612_001.JPG|125px]]
+|-
+|[[清代仪门]]
+|中山南二路729号
+|2011.11.30
+|style="padding:0" |[[File:Yimen.JPG|125px]]
+|}
+</center>
+
+==参考文献==
+*{{cite web|language =|publisher =徐汇区政府|title =徐汇区登记不可移动文物列表|url =http://www.xuhui.gov.cn/infoopen/InfoProceedContent.aspx?ti_id=3538&up_id=5&pageurl=Proceed|author =徐汇区政府|date =2012-05-17|accessdate =2014-02-04|deadurl =yes|archiveurl =https://web.archive.org/web/20140222223644/http://www.xuhui.gov.cn/infoopen/InfoProceedContent.aspx?ti_id=3538&up_id=5&pageurl=Proceed|archivedate =2014-02-22}}
+*{{cite web|language =|publisher =上海市文化广播影视管理局|title =徐汇区县级文物保护单位、登记不可移动文物|url =http://wgj.sh.gov.cn/wgj/node1257/node1264/userobject1ai75819.html|author =市文广影视局|date =2011-11-08|accessdate =|deadurl =yes|archiveurl =https://web.archive.org/web/20140202145024/http://wgj.sh.gov.cn/wgj/node1257/node1264/userobject1ai75819.html|archivedate =2014-02-02}}
+*《徐汇区志》>>第二十七篇文化>>第五章文物、史迹
+*《话说上海·徐汇卷》
+
+{{上海市各区县文物保护单位索引}}
+
+[[Category:徐汇区文物保护单位|*]]
