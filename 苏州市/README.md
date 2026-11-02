@@ -30,7 +30,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | — | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥 | 95.5米 | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>姑苏区</nobr> | <nobr>双塔街道</nobr> | 吴门桥 [?](http://www.china-qiao.com/ql16/szql/szql111.htm) | — | 66.3米 | 清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>虎丘区</nobr> | <nobr>横塘街道</nobr> | 行春桥 [?](http://www.china-qiao.com/ql16/szql/szql589.htm) | 石拱桥（九孔） | 54米 | 清重建 | <nobr>省级文物保护单位</nobr> |
@@ -74,7 +74,7 @@
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
-| <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | — | 316.8米 | 明清重建 | 全国重点文物保护单位（第五批） |
+| <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | 全国重点文物保护单位（第五批） |
 | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 思本桥 [?](http://www.china-qiao.com/ql16/szql/szql368.htm) | 石拱桥（单孔） | 22.5米 | 宋 | 全国重点文物保护单位（第七批） |
 | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥（三孔） | 21.5米 | 南宋绍定年间建 | 全国重点文物保护单位（第七批） |
 | <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | 石拱桥残段（原七十二孔） | 原长约450米（1967年坍塌，现存东西两端残段） | 元、明 | 全国重点文物保护单位（第八批） |

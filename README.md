@@ -46,7 +46,7 @@
 | <nobr>21</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>钟管镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql558.htm) | 石梁桥（三孔） | 19米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>22</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 社桥 [?](http://www.china-qiao.com/ql15/hzql/hzql241.htm) | 石梁桥（五孔） | 42米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>23</nobr> | <nobr>嘉兴市</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/jxql/jxql043.htm) | 石拱桥（三孔） | 30米 | 明万历年间始建 | 全国重点文物保护单位（大运河组成部分） |
-| <nobr>24</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | — | 316.8米 | 明清重建 | 全国重点文物保护单位（第五批） |
+| <nobr>24</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | 全国重点文物保护单位（第五批） |
 | <nobr>25</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 思本桥 [?](http://www.china-qiao.com/ql16/szql/szql368.htm) | 石拱桥（单孔） | 22.5米 | 宋 | 全国重点文物保护单位（第七批） |
 | <nobr>26</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥（三孔） | 21.5米 | 南宋绍定年间建 | 全国重点文物保护单位（第七批） |
 | <nobr>27</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | 石拱桥残段（原七十二孔） | 原长约450米（1967年坍塌，现存东西两端残段） | 元、明 | 全国重点文物保护单位（第八批） |
@@ -118,7 +118,7 @@
 | <nobr>2</nobr> | <nobr>绍兴市</nobr> | <nobr>上虞区</nobr> | <nobr>—</nobr> | 新黄浦桥 [?](http://www.china-qiao.com/ql15/sxql/sxql590.htm) | — | 393.4米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>3</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>—</nobr> | 和济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql911.htm) | — | 386.06米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>4</nobr> | <nobr>绍兴市</nobr> | <nobr>新昌县</nobr> | <nobr>澄潭街道</nobr> | 腾龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql699.htm) | — | 331米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>5</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | — | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>6</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>壶镇镇</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥（十三孔） | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>7</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>—</nobr> | 风则江廊桥 [?](http://www.china-qiao.com/ql15/sxql/sxql001.htm) | — | 180米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>8</nobr> | <nobr>绍兴市</nobr> | <nobr>嵊州市</nobr> | <nobr>—</nobr> | 新马桥 [?](http://www.china-qiao.com/ql15/sxql/sxql459.htm) | — | 178米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
