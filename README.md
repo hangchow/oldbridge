@@ -131,20 +131,20 @@
 
 | <nobr>名次</nobr> | <nobr>市</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>金华市</nobr> | <nobr>婺城区</nobr> | <nobr>长山乡</nobr> | 东村桥 [?](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 石梁桥（三孔） | 1093 | [北面石板外侧阴刻“宋癸酉元祐八年六月徐宅建造记旦”；现桥为1933年重建（另一石板刻“中华民国贰拾贰年……重建”），刻字石板为宋代原物](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 北宋元祐八年（1093）建，民国二十二年（1933）重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>湖州市</nobr> | <nobr>南浔区</nobr> | <nobr>和孚镇</nobr> | 安丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql417.htm) | 石梁桥（三孔） | 1167 | [桥墩字堂阴刻“岁次丁亥乾道三年五月廿一日建造”](http://www.china-qiao.com/ql15/hzql/hzql417.htm) | 南宋乾道三年（1167）建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 兼济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 石梁桥（三孔） | 1172 | [中孔北排柱内侧镌“宋乾道八年壬辰岁……重新建造”](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 宋、元、明；南宋乾道八年（1172）始建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>青山湖街道</nobr> | 元同桥（玄同桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 石拱桥（单孔） | 1184 | [西侧栏板内壁阴刻“淳熙甲辰重九日……施钱造”](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 南宋淳熙十一年（1184） | <nobr>市级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 追远桥 [?](http://www.china-qiao.com/ql15/hzql/hzql562.htm) | 石梁桥（三孔） | 1191 | [中孔石柱镌“绍熙二年岁次辛亥”](http://www.china-qiao.com/ql15/hzql/hzql562.htm) | 宋、元、清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>金华市</nobr> | <nobr>义乌市</nobr> | <nobr>赤岸镇</nobr> | 古月桥 [?](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 石拱桥（单孔） | 1213 | [南侧压梁石阴刻“皇宋嘉定癸酉季秋闰月建造”](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 南宋嘉定六年（1213） | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>杭州市</nobr> | <nobr>西湖区</nobr> | <nobr>留下街道</nobr> | [忠义桥](文保名录/杭州市/云端档案/33_忠义桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 石拱桥（单孔） | 1218 | [拱板题记“嘉定戊寅”](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 南宋嘉定十一年（1218）建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>湖州市</nobr> | <nobr>长兴县</nobr> | <nobr>吕山乡</nobr> | 钮店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 石梁桥（四墩五孔） | 1219 | [排柱刻“岁次嘉定十二年……罗氏十二娘重建”](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 清 | <nobr>县级文物保护点</nobr> |
-| <nobr>9</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>武康街道</nobr> | 僧家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql563.htm) | 石梁桥（三孔） | 1226 | [中孔桥柱刻“皇宋宝庆二年季夏上旬吉日重建”](http://www.china-qiao.com/ql15/hzql/hzql563.htm) | 宋、元、清；南宋宝庆二年（1226）重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥 | 绍定年间（1228—1233） | [中跨梁石侧面刻“绍定”二字](http://www.china-qiao.com/ql16/szql/szql418.htm) | 南宋绍定年间建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>丽水市</nobr> | <nobr>青田县</nobr> | <nobr>温溪镇</nobr> | 洲头大桥 [?](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | — | 1090 | [桥石刻题记记“始建于北宋元祐五年”](http://www.china-qiao.com/ql15/lsql/lsql246.htm) | 北宋元祐五年（1090）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>2</nobr> | <nobr>金华市</nobr> | <nobr>婺城区</nobr> | <nobr>长山乡</nobr> | 东村桥 [?](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 石梁桥（三孔） | 1093 | [北面石板外侧阴刻“宋癸酉元祐八年六月徐宅建造记旦”；现桥为1933年重建（另一石板刻“中华民国贰拾贰年……重建”），刻字石板为宋代原物](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 北宋元祐八年（1093）建，民国二十二年（1933）重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>湖州市</nobr> | <nobr>南浔区</nobr> | <nobr>和孚镇</nobr> | 安丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql417.htm) | 石梁桥（三孔） | 1167 | [桥墩字堂阴刻“岁次丁亥乾道三年五月廿一日建造”](http://www.china-qiao.com/ql15/hzql/hzql417.htm) | 南宋乾道三年（1167）建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 兼济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 石梁桥（三孔） | 1172 | [中孔北排柱内侧镌“宋乾道八年壬辰岁……重新建造”](http://www.china-qiao.com/ql15/hzql/hzql561.htm) | 宋、元、明；南宋乾道八年（1172）始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>青山湖街道</nobr> | 元同桥（玄同桥） [?](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 石拱桥（单孔） | 1184 | [西侧栏板内壁阴刻“淳熙甲辰重九日……施钱造”](http://www.china-qiao.com/ql15/hz_ql/hzvql351.htm) | 南宋淳熙十一年（1184） | <nobr>市级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 追远桥 [?](http://www.china-qiao.com/ql15/hzql/hzql562.htm) | 石梁桥（三孔） | 1191 | [中孔石柱镌“绍熙二年岁次辛亥”](http://www.china-qiao.com/ql15/hzql/hzql562.htm) | 宋、元、清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>金华市</nobr> | <nobr>义乌市</nobr> | <nobr>赤岸镇</nobr> | 古月桥 [?](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 石拱桥（单孔） | 1213 | [南侧压梁石阴刻“皇宋嘉定癸酉季秋闰月建造”](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 南宋嘉定六年（1213） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>绍兴市</nobr> | <nobr>上虞区</nobr> | <nobr>丰惠镇</nobr> | 九狮桥 [?](http://www.china-qiao.com/ql15/sxql/sxql235.htm) | 石拱桥（单孔） | 1214 | [桥侧刻石“宋嘉定七年岁次甲戌二月初六日辛丑重修”](http://www.china-qiao.com/ql15/sxql/sxql235.htm) | 元 | <nobr>省级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>杭州市</nobr> | <nobr>西湖区</nobr> | <nobr>留下街道</nobr> | [忠义桥](文保名录/杭州市/云端档案/33_忠义桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 石拱桥（单孔） | 1218 | [拱板题记“嘉定戊寅”](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 南宋嘉定十一年（1218）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>湖州市</nobr> | <nobr>长兴县</nobr> | <nobr>吕山乡</nobr> | 钮店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 石梁桥（四墩五孔） | 1219 | [排柱刻“岁次嘉定十二年……罗氏十二娘重建”](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 清 | <nobr>县级文物保护点</nobr> |
 
 统计范围：只限本项目收录的十三个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
 
-只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 27 座。
+只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 32 座。
 
 各市的分级名单见各市目录下的 README。
 <!-- SUMMARY END -->
