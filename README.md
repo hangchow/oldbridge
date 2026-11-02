@@ -16,8 +16,8 @@
 | <nobr>历史建筑</nobr> | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 | <nobr>一般不可移动文物</nobr> | 197 | 0 | 0 | 49 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 246 |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | 44 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 44 |
-| <nobr>尚未定级（待核实）</nobr> | 29 | 185 | 44 | 193 | 90 | 27 | 187 | 99 | 2 | 46 | 84 | 82 | 2 | 1070 |
-| <nobr>**合计**</nobr> | 505 | 675 | 370 | 337 | 235 | 124 | 331 | 310 | 62 | 78 | 223 | 225 | 6 | 3481 |
+| <nobr>尚未定级（待核实）</nobr> | 29 | 185 | 44 | 193 | 90 | 27 | 107 | 99 | 2 | 46 | 84 | 82 | 2 | 990 |
+| <nobr>**合计**</nobr> | 505 | 675 | 370 | 337 | 235 | 124 | 251 | 310 | 62 | 78 | 223 | 225 | 6 | 3401 |
 
 ## 全国重点文物保护单位（86 座）
 
@@ -114,28 +114,28 @@
 
 | <nobr>名次</nobr> | <nobr>市</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>绍兴市</nobr> | <nobr>上虞区</nobr> | <nobr>—</nobr> | 前胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql722.htm) | — | 469.4米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>2</nobr> | <nobr>绍兴市</nobr> | <nobr>上虞区</nobr> | <nobr>—</nobr> | 新黄浦桥 [?](http://www.china-qiao.com/ql15/sxql/sxql590.htm) | — | 393.4米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>3</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>—</nobr> | 和济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql911.htm) | — | 386.06米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>4</nobr> | <nobr>绍兴市</nobr> | <nobr>新昌县</nobr> | <nobr>澄潭街道</nobr> | 腾龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql699.htm) | — | 331米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>5</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>壶镇镇</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥（十三孔） | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>—</nobr> | 风则江廊桥 [?](http://www.china-qiao.com/ql15/sxql/sxql001.htm) | — | 180米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>8</nobr> | <nobr>绍兴市</nobr> | <nobr>嵊州市</nobr> | <nobr>—</nobr> | 新马桥 [?](http://www.china-qiao.com/ql15/sxql/sxql459.htm) | — | 178米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>9</nobr> | <nobr>金华市</nobr> | <nobr>永康市</nobr> | <nobr>江南街道</nobr> | 西津桥 [?](http://www.china-qiao.com/ql15/jhql/jhql092.htm) | 石墩木梁廊桥（十三孔） | 166米 | 清康熙五十七年（1718）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>胡陈乡</nobr> | 戊己桥 [?](http://www.china-qiao.com/ql15/nbql/nbql361.htm) | 石梁桥（四十八孔） | 150米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>11</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>东渡镇</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>12</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>大唐街道</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | 石梁桥（十五孔） | 145米 | 民国六年（1917）建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>13</nobr> | <nobr>金华市</nobr> | <nobr>武义县</nobr> | <nobr>壶山街道</nobr> | 熟溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql103.htm) | 石墩木梁廊桥（九孔） | 140米 | 南宋始建，清重修 | <nobr>省级文物保护单位</nobr> |
-| <nobr>14</nobr> | <nobr>台州市</nobr> | <nobr>黄岩区</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>15</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>东湖街道</nobr> | 后廿眼桥 [?](http://www.china-qiao.com/ql15/sxql/sxql639.htm) | 石梁桥（十七孔） | 133.65米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>16</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>—</nobr> | 会义桥 [?](http://www.china-qiao.com/ql15/sxql/sxql954.htm) | 石拱桥（双孔） | 107米 | 宋 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>18</nobr> | <nobr>杭州市</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>19</nobr> | <nobr>宁波市</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥 | 95.5米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>壶镇镇</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥（十三孔） | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>金华市</nobr> | <nobr>永康市</nobr> | <nobr>江南街道</nobr> | 西津桥 [?](http://www.china-qiao.com/ql15/jhql/jhql092.htm) | 石墩木梁廊桥（十三孔） | 166米 | 清康熙五十七年（1718）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>胡陈乡</nobr> | 戊己桥 [?](http://www.china-qiao.com/ql15/nbql/nbql361.htm) | 石梁桥（四十八孔） | 150米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>丽水市</nobr> | <nobr>缙云县</nobr> | <nobr>东渡镇</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>绍兴市</nobr> | <nobr>诸暨市</nobr> | <nobr>大唐街道</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | 石梁桥（十五孔） | 145米 | 民国六年（1917）建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>金华市</nobr> | <nobr>武义县</nobr> | <nobr>壶山街道</nobr> | 熟溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql103.htm) | 石墩木梁廊桥（九孔） | 140米 | 南宋始建，清重修 | <nobr>省级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>台州市</nobr> | <nobr>黄岩区</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>杭州市</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>宁波市</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥 | 95.5米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>杭州市</nobr> | <nobr>临平区</nobr> | <nobr>塘栖镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql295.htm) | 石拱桥（七孔） | 89.71米 | 明弘治二年（1489）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>昌化镇</nobr> | [联盟久安桥](文保名录/杭州市/云端档案/365_联盟久安桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql353.htm) | 石拱桥（三孔） | 88.4米 | 清光绪二十八年（1902） | <nobr>市级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>金华市</nobr> | <nobr>兰溪市</nobr> | <nobr>梅江镇</nobr> | 通洲桥 [?](http://www.china-qiao.com/ql15/jhql/jhql037.htm) | 廊桥（六墩五孔） | 84.8米 | 清道光三年（1823）重修 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>绍兴市</nobr> | <nobr>嵊州市</nobr> | <nobr>金庭镇</nobr> | 金兰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql578.htm) | 石拱桥（五孔） | 84.00米 | 民国十五年（1926）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>17</nobr> | <nobr>宁波市</nobr> | <nobr>宁海县</nobr> | <nobr>茶院乡</nobr> | 镇宁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql363.htm) | — | 81米 | 清同治六年（1867）始建 | <nobr>市级文物保护点</nobr> |
+| <nobr>18</nobr> | <nobr>宁波市</nobr> | <nobr>海曙区</nobr> | <nobr>洞桥镇</nobr> | 百梁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql146.htm) | 石梁桥 | 77米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>金华市</nobr> | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 萧家小龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql191.htm) | — | 75.3米 | — | <nobr>省级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>台州市</nobr> | <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | — | <nobr>省级文物保护单位</nobr> |
 
-只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 1072 座中排序，大部分桥还没有长度数据。
+只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 706 座中排序，大部分桥还没有长度数据。
 
 ## 本项目收录范围内桥身刻字最早的前 20 名
 
@@ -173,7 +173,7 @@
 
 下面这些问题程序判断不了，需要查资料、看现场或由维护者决定：
 
-- **“尚未定级（待核实）”的古桥**：约 1100 座据老百晓集桥收录、不在文保名录中的古桥。衢州、舟山、金华、嘉兴、台州、丽水、温州、宁波、苏州已逐座核对页面（删去已毁、拆除、复建、1949 年后重建的，年代改为页面中本桥的记载）；湖州、上海、绍兴还在核对中。
+- **“尚未定级（待核实）”的古桥**：约 1100 座据老百晓集桥收录、不在文保名录中的古桥。衢州、舟山、金华、嘉兴、台州、丽水、温州、宁波、苏州、绍兴已逐座核对页面（删去已毁、拆除、复建、1949 年后重建的，年代改为页面中本桥的记载）；湖州、上海还在核对中（未核对的不参加桥长排行）。
 - **竞爽桥（缙云东渡镇）**：上世纪五十至九十年代桥西侧拓宽为公路桥，150 米长度是否仍计入石木桥桥长排行。
 - **平湖万安桥、桐乡应家桥**：原为古桥，后改为水泥板桥；如改建在 1949 年以后，是否移出名录。
 - **兰溪游埠永安桥**：老百晓集桥页面称 1964 年改建为钢筋水泥桥，现作为省保“游埠古桥群”组成部分列出，是否保留。

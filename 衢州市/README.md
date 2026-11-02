@@ -26,10 +26,9 @@
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
 | <nobr>1</nobr> | <nobr>常山县</nobr> | <nobr>天马街道</nobr> | 傥溪桥 [?](http://www.china-qiao.com/ql15/qzql/qzql044.htm) | 石拱桥（四孔） | 57米 | 清光绪三十二年（1906）建成 | <nobr>省级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>衢江区</nobr> | <nobr>湖南镇</nobr> | 小湖南廊桥 [?](http://www.china-qiao.com/ql15/qzql/qzql052.htm) | — | 25.5米 | 清乾隆年间始建，咸丰八年（1858）焚毁后重建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>3</nobr> | <nobr>江山市</nobr> | <nobr>峡口镇</nobr> | 文昌桥 [?](http://www.china-qiao.com/ql15/qzql/qzql037.htm) | — | 17.5米 | 清乾隆年间建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>江山市</nobr> | <nobr>峡口镇</nobr> | 文昌桥 [?](http://www.china-qiao.com/ql15/qzql/qzql037.htm) | — | 17.5米 | 清乾隆年间建 | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 3 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 2 座中排序。
 
 ## 衢州市桥身刻字最早的前 20 名
 

@@ -32,26 +32,26 @@
 |---|---|---|---|---|---|---|---|
 | <nobr>1</nobr> | <nobr>缙云县</nobr> | <nobr>壶镇镇</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥（十三孔） | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>缙云县</nobr> | <nobr>东渡镇</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>缙云县</nobr> | <nobr>新建镇</nobr> | 公济桥 [?](http://www.china-qiao.com/ql15/lsql/lsql057.htm) | — | 87米 | 清咸丰年间建成 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>4</nobr> | <nobr>庆元县</nobr> | <nobr>竹口镇</nobr> | 阜梁桥 [?](http://www.china-qiao.com/ql15/lsql/lsql234.htm) | 石拱桥（三孔） | 76.8米 | 清道光二年（1822）重建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>5</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 黄水长桥 [?](http://www.china-qiao.com/ql15/lsql/lsql121.htm) | 木拱廊桥 | 54.90米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 慕义桥 [?](http://www.china-qiao.com/ql15/lsql/lsql059.htm) | 石拱桥（三孔） | 53米 | 清道光十二年（1832）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 步蟾桥 [?](http://www.china-qiao.com/ql15/lsql/lsql153.htm) | 廊桥（单孔） | 51.60米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>东坑镇</nobr> | 章坑安庆桥 [?](http://www.china-qiao.com/ql15/lsql/lsql176.htm) | — | 51米 | 民国六年（1917） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>9</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 兰溪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql134.htm) | 木拱廊桥 | 48.12米 | 明至民国；明万历二年（1574）始建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>龙泉市</nobr> | <nobr>小梅镇</nobr> | 双溪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql306.htm) | — | 45米 | 民国二十一年（1932）建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>11</nobr> | <nobr>龙泉市</nobr> | <nobr>城北乡</nobr> | 永庆桥 [?](http://www.china-qiao.com/ql15/lsql/lsql308.htm) | 廊桥（单孔） | 43.33米 | 清晚期 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>12</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>鹤溪街道</nobr> | 徐山永镇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql170.htm) | — | 42米 | 清同治三年（1864） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>13</nobr> | <nobr>庆元县</nobr> | <nobr>安南乡</nobr> | 安溪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql140.htm) | — | 41.50米 | 清嘉庆四年（1799）重建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>14</nobr> | <nobr>云和县</nobr> | <nobr>白龙山街道</nobr> | 积翠桥 [?](http://www.china-qiao.com/ql15/lsql/lsql267.htm) | 石拱桥（单孔） | 40.14米 | 清光绪年间 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>15</nobr> | <nobr>龙泉市</nobr> | <nobr>锦溪镇</nobr> | 锦川桥 [?](http://www.china-qiao.com/ql15/lsql/lsql025.htm) | 石梁桥（三孔） | 39.54米 | 清 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>16</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>英川镇</nobr> | 梅崇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql188.htm) | — | 39米 | 清嘉庆七年（1802） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>17</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 咏归桥 [?](http://www.china-qiao.com/ql15/lsql/lsql086.htm) | 木拱廊桥 | 38.76米 | 明崇祯十五年（1642）建，民国十三年（1924）重建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>家地乡</nobr> | 芎岱岭脚桥 [?](http://www.china-qiao.com/ql15/lsql/lsql205.htm) | — | 38米 | 清同治九年（1870） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>19</nobr> | <nobr>庆元县</nobr> | <nobr>左溪镇</nobr> | 竹坪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql113.htm) | — | 36.69米 | 清道光二十二年（1842）建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>20</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 大赤坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql194.htm) | — | 36.4米 | 明至民国；民国十二年（1923）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 黄水长桥 [?](http://www.china-qiao.com/ql15/lsql/lsql121.htm) | 木拱廊桥 | 54.90米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 慕义桥 [?](http://www.china-qiao.com/ql15/lsql/lsql059.htm) | 石拱桥（三孔） | 53米 | 清道光十二年（1832）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 步蟾桥 [?](http://www.china-qiao.com/ql15/lsql/lsql153.htm) | 廊桥（单孔） | 51.60米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 兰溪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql134.htm) | 木拱廊桥 | 48.12米 | 明至民国；明万历二年（1574）始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 咏归桥 [?](http://www.china-qiao.com/ql15/lsql/lsql086.htm) | 木拱廊桥 | 38.76米 | 明崇祯十五年（1642）建，民国十三年（1924）重建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 大赤坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql194.htm) | — | 36.4米 | 明至民国；民国十二年（1923）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 环胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql200.htm) | — | 35米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 来凤桥 [?](http://www.china-qiao.com/ql15/lsql/lsql151.htm) | 廊桥（单孔） | 30.00米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 半路亭桥 [?](http://www.china-qiao.com/ql15/lsql/lsql095.htm) | 木拱廊桥 | 28.65米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 袅桥 [?](http://www.china-qiao.com/ql15/lsql/lsql087.htm) | 木拱廊桥 | 28.63米 | 明至民国；明万历三十二年（1604）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 如龙桥 [?](http://www.china-qiao.com/ql15/lsql/lsql150.htm) | 木拱廊桥 | 28.2米 | 明至民国；明天启五年（1625）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 护关桥 [?](http://www.china-qiao.com/ql15/lsql/lsql198.htm) | 廊桥（双孔） | 27米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>松阳县</nobr> | <nobr>—</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/lsql/lsql251.htm) | — | 26.5米 | 明正德年间建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 东坑上桥 [?](http://www.china-qiao.com/ql15/lsql/lsql174.htm) | — | 23.7米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 后坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql101.htm) | 石拱桥（单孔） | 23.55米 | 明至民国；民国十一年（1922）建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>庆元县</nobr> | <nobr>龙溪乡</nobr> | 垅  桥 [?](http://www.china-qiao.com/ql15/lsql/lsql159.htm) | — | 22.00米 | 清乾隆四年（1739）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>19</nobr> | <nobr>庆元县</nobr> | <nobr>左溪镇</nobr> | 梅树桥 [?](http://www.china-qiao.com/ql15/lsql/lsql110.htm) | — | 21.80米 | 1912年 | <nobr>市级文物保护点</nobr> |
+| <nobr>20</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 龙济桥 [?](http://www.china-qiao.com/ql15/lsql/lsql148.htm) | 木拱廊桥 | 21.00米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 102 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 31 座中排序。
 
 ## 丽水市桥身刻字最早的前 20 名
 
