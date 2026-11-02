@@ -27,7 +27,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>诸暨市</nobr> | <nobr>大唐镇</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | — | 145米 | 民国六年（1917）建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>诸暨市</nobr> | <nobr>大唐镇</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | 石梁桥（十五孔） | 145米 | 民国六年（1917）建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>嵊州市</nobr> | <nobr>金庭镇</nobr> | 金兰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql578.htm) | 石拱桥（五孔） | 84.00米 | 民国十五年（1926）建 | <nobr>市级文物保护点</nobr> |
 | <nobr>3</nobr> | <nobr>柯桥区</nobr> | <nobr>福全街道</nobr> | 虹明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql168.htm) | 石梁桥 | 58米 | 清嘉庆六年（1801）重建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 广宁桥 [?](http://www.china-qiao.com/ql15/sxql/sxql052.htm) | 石拱桥（单孔） | 57.2米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
@@ -120,7 +120,7 @@
 | <nobr>上虞区</nobr> | <nobr>道墟镇</nobr> | 祥麟桥 [?](http://www.china-qiao.com/ql15/sxql/sxql1016.htm) | 石拱桥 | — | 明清 | 上虞区文物保护单位 |
 | <nobr>上虞区</nobr> | <nobr>道墟镇</nobr> | 沽渚毓秀桥 | — | — | 清代 | 上虞区文物保护单位 |
 | <nobr>诸暨市</nobr> | <nobr>草塔镇</nobr> | 宝珠桥 [?](http://www.china-qiao.com/ql15/sxql/sxql313.htm) | 石拱桥（单孔） | 17米 | 清嘉庆年间重建 | 诸暨市文物保护单位 |
-| <nobr>诸暨市</nobr> | <nobr>大唐镇</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | — | 145米 | 民国六年（1917）建 | 诸暨市文物保护单位 |
+| <nobr>诸暨市</nobr> | <nobr>大唐镇</nobr> | 溪圆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql446.htm) | 石梁桥（十五孔） | 145米 | 民国六年（1917）建 | 诸暨市文物保护单位 |
 | <nobr>诸暨市</nobr> | <nobr>东白湖镇</nobr> | 后马桥 [?](http://www.china-qiao.com/ql15/sxql/sxql536.htm) | — | — | 清代 | 诸暨市文物保护单位 |
 | <nobr>诸暨市</nobr> | <nobr>王家井镇</nobr> | 玉锁桥 | — | — | 民国 | 诸暨市文物保护单位 |
 | <nobr>诸暨市</nobr> | <nobr>东白湖镇</nobr> | 清潭桥 | — | — | 清代 | 诸暨市文物保护单位 |

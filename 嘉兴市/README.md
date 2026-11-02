@@ -46,7 +46,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 重建望龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | — | 1927 | [桥身刻“民国十六年建”](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | 明万历二十三年（1595） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 重建望龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | 石梁桥（五孔） | 1927 | [桥身刻“民国十六年建”](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | 明万历二十三年（1595） | <nobr>县（区）级文物保护单位</nobr> |
 
 统计范围：只限本项目收录的十三个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
 
@@ -178,7 +178,7 @@
 | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | — | 22.3米 | 民国 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 重建冯师娘桥 | — | — | 清 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 韩家桥重建永宁桥 | — | — | 清 | 海盐县文物保护单位 |
-| <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 重建望龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | — | — | 明万历二十三年（1595） | 海盐县文物保护单位 |
+| <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 重建望龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | 石梁桥（五孔） | — | 明万历二十三年（1595） | 海盐县文物保护单位 |
 | <nobr>嘉善县</nobr> | <nobr>天凝镇</nobr> | 广安桥 | — | — | 明 | 嘉善县文物保护单位（第五批） |
 | <nobr>嘉善县</nobr> | <nobr>陶庄镇</nobr> | 积善桥 [?](http://www.china-qiao.com/ql15/jxql/jxql222.htm) | 石拱桥（单孔） | 10米 | 清乾隆六十年（1795）建 | 嘉善县文物保护单位（第五批） |
 | <nobr>嘉善县</nobr> | <nobr>姚庄镇</nobr> | 耳顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql313.htm) | 石梁桥（三孔） | 23.6米 | 清乾隆五年（1740）始建，清道光二年（1822）重建 | 嘉善县文物保护单位（第五批） |

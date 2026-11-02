@@ -66,7 +66,7 @@
 | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | — | — | 明清重建 | 全国重点文物保护单位（第五批） |
 | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 思本桥 [?](http://www.china-qiao.com/ql16/szql/szql368.htm) | 石拱桥（单孔） | 22.5米 | 宋 | 全国重点文物保护单位（第七批） |
 | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥 | 21.5米 | 南宋绍定年间建 | 全国重点文物保护单位（第七批） |
-| <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | — | — | 元、明 | 全国重点文物保护单位（第八批） |
+| <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | 石拱桥（七十二孔） | — | 元、明 | 全国重点文物保护单位（第八批） |
 | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 州桥 [?](http://www.china-qiao.com/ql16/szql/szql546.htm) | 石拱桥（单孔） | — | 元天历二年（1329）建 | 全国重点文物保护单位（第六批） |
 | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 皋桥 [?](http://www.china-qiao.com/ql16/szql/szql547.htm) | 石拱桥（单孔） | — | 元 | 全国重点文物保护单位（第六批） |
 | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 周泾桥 [?](http://www.china-qiao.com/ql16/szql/szql548.htm) | 石拱桥（单孔） | — | 元至顺元年（1330）建 | 全国重点文物保护单位（第六批） |
@@ -204,7 +204,7 @@
 | <nobr>太仓市</nobr> | <nobr>沙溪镇</nobr> | 新桥 | — | — | 明 | 苏州市文物保护单位 |
 | <nobr>太仓市</nobr> | <nobr>沙溪镇</nobr> | 庵桥 [?](http://www.china-qiao.com/ql16/szql/szql731.htm) | — | — | 清 | 苏州市文物保护单位 |
 | <nobr>太仓市</nobr> | <nobr>沙溪镇</nobr> | 义兴桥 [?](http://www.china-qiao.com/ql16/szql/szql666.htm) | 石拱桥 | — | 清康熙年间改建 | 苏州市文物保护单位 |
-| <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 东亭子桥 [?](http://www.china-qiao.com/ql16/szql/szql539.htm) | — | — | 清光绪三十年（1904）改建 | 苏州市文物保护单位 |
+| <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 东亭子桥 [?](http://www.china-qiao.com/ql16/szql/szql539.htm) | 石梁桥（三孔） | — | 清光绪三十年（1904）改建 | 苏州市文物保护单位 |
 | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 流顺桥 [?](http://www.china-qiao.com/ql16/szql/szql730.htm) | 石拱桥（单孔） | 21米 | 清康熙三十年（1691）建 | 苏州市文物保护单位 |
 | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 长安桥 | — | — | 明代 | 苏州市文物保护单位 |
 | <nobr>张家港市</nobr> | <nobr>塘桥镇</nobr> | 萧家桥 | — | — | 明 | 苏州市文物保护单位 |

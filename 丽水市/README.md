@@ -28,7 +28,7 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥 | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥（十三孔） | 201米 | 清嘉庆二十二年（1817）建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>庆元县</nobr> | <nobr>—</nobr> | 黄水长桥 [?](http://www.china-qiao.com/ql15/lsql/lsql121.htm) | 石拱桥（单孔） | 54.90米 | 明至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>缙云县</nobr> | <nobr>—</nobr> | 慕义桥 [?](http://www.china-qiao.com/ql15/lsql/lsql059.htm) | 石拱桥（三孔） | 53米 | 清道光十二年（1832）建 | <nobr>省级文物保护单位</nobr> |
@@ -87,7 +87,7 @@
 | <nobr>青田县</nobr> | <nobr>—</nobr> | 陈宅古桥群 | — | — | — | 浙江省文物保护单位（6-131） |
 | <nobr>缙云县</nobr> | <nobr>—</nobr> | 慕义桥 [?](http://www.china-qiao.com/ql15/lsql/lsql059.htm) | 石拱桥（三孔） | 53米 | 清道光十二年（1832）建 | 浙江省文物保护单位（5-48） |
 | <nobr>缙云县</nobr> | <nobr>—</nobr> | 仙都石梁桥 [?](http://www.china-qiao.com/ql15/lsql/lsql315.htm) | 石梁桥 | — | — | 浙江省文物保护单位（5-51） |
-| <nobr>缙云县</nobr> | <nobr>—</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥 | 201米 | 清嘉庆二十二年（1817）建 | 浙江省文物保护单位（“贤母桥、竞爽桥”组成部分，6-228） |
+| <nobr>缙云县</nobr> | <nobr>—</nobr> | 贤母桥 [?](http://www.china-qiao.com/ql15/lsql/lsql056.htm) | 石拱桥（十三孔） | 201米 | 清嘉庆二十二年（1817）建 | 浙江省文物保护单位（“贤母桥、竞爽桥”组成部分，6-228） |
 | <nobr>缙云县</nobr> | <nobr>—</nobr> | 竞爽桥 [?](http://www.china-qiao.com/ql15/lsql/lsql304.htm) | 石拱桥（九孔） | 150米 | 清道光七年（1827）建 | 浙江省文物保护单位（“贤母桥、竞爽桥”组成部分，6-228） |
 | <nobr>云和县</nobr> | <nobr>—</nobr> | 石门桥 [?](http://www.china-qiao.com/ql15/lsql/lsql082.htm) | 石拱桥 | 14.16米 | 清光绪三年（1877）重修 | 浙江省文物保护单位（6-70） |
 | <nobr>云和县</nobr> | <nobr>—</nobr> | 林山下石拱桥 | — | — | — | 浙江省文物保护单位（7-195） |

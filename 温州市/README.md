@@ -34,10 +34,10 @@
 | <nobr>1</nobr> | <nobr>永嘉县</nobr> | <nobr>岩头镇</nobr> | 顶香桥 [?](http://www.china-qiao.com/ql15/wzql/wzql389.htm) | 石拱桥 | 46.11米 | 南宋 | <nobr>市级文物保护点</nobr> |
 | <nobr>2</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 南阳桥 [?](http://www.china-qiao.com/ql15/wzql/wzql166.htm) | 廊桥 | 41.7米 | 清同治九年（1870）建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>文成县</nobr> | <nobr>百丈漈镇</nobr> | 周济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql144.htm) | 石拱桥（三孔） | 40.4米 | 清 | <nobr>市级文物保护点</nobr> |
-| <nobr>4</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/wzql/wzql148.htm) | 石墩廊桥 | 40米 | 明至清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/wzql/wzql148.htm) | 石墩廊桥（双孔） | 40米 | 明至清 | <nobr>省级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>泰顺县</nobr> | <nobr>彭溪镇</nobr> | 彭溪石拱桥 [?](http://www.china-qiao.com/ql15/wzql/wzql210.htm) | 石拱桥（单孔） | 40米 | 清光绪 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>6</nobr> | <nobr>龙湾区</nobr> | <nobr>永中街道</nobr> | 塘桥 [?](http://www.china-qiao.com/ql15/wzql/wzql024.htm) | 石梁桥（五孔） | 40米 | 明 | <nobr>市级文物保护点</nobr> |
-| <nobr>7</nobr> | <nobr>龙港市</nobr> | <nobr>—</nobr> | 贮壶桥 [?](http://www.china-qiao.com/ql15/wzql/wzql116.htm) | — | 39米 | 清嘉庆二十二年（1817）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>7</nobr> | <nobr>龙港市</nobr> | <nobr>—</nobr> | 贮壶桥 [?](http://www.china-qiao.com/ql15/wzql/wzql116.htm) | 石梁桥（十一孔） | 39米 | 清嘉庆二十二年（1817）建 | <nobr>市级文物保护点</nobr> |
 | <nobr>8</nobr> | <nobr>泰顺县</nobr> | <nobr>三魁镇</nobr> | 永庆桥 [?](http://www.china-qiao.com/ql15/wzql/wzql182.htm) | 石墩廊桥 | 33米 | 清嘉庆二年（1797）建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>永嘉县</nobr> | <nobr>岩坦镇</nobr> | 石拱桥 [?](http://www.china-qiao.com/ql15/wzql/wzql388.htm) | 石拱桥 | 30米 | 清道光年间重修，清道光二十四年（1844）重建 | <nobr>市级文物保护点</nobr> |
 | <nobr>10</nobr> | <nobr>泰顺县</nobr> | <nobr>洲岭乡</nobr> | 三条桥 [?](http://www.china-qiao.com/ql15/wzql/wzql155.htm) | 石拱桥 | 26.63米 | 清道光二十三年（1843）建 | <nobr>全国重点文物保护单位</nobr> |
@@ -87,7 +87,7 @@
 | <nobr>乐清市</nobr> | <nobr>天成街道</nobr> | 万桥 [?](http://www.china-qiao.com/ql15/wzql/wzql077.htm) | 石拱桥 | 2.42米 | 明宣德八年（1433）重建 | 浙江省文物保护单位（6-111） |
 | <nobr>永嘉县</nobr> | <nobr>岩头镇</nobr> | 含丽水桥 | — | — | 明 | 浙江省文物保护单位（“花亭（”组成部分，4-83） |
 | <nobr>永嘉县</nobr> | <nobr>枫林镇</nobr> | 枫林黄桥 | — | — | 明 | 浙江省文物保护单位（8-39） |
-| <nobr>泰顺县</nobr> | <nobr>—</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/wzql/wzql148.htm) | 石墩廊桥 | 40米 | 明至清 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
+| <nobr>泰顺县</nobr> | <nobr>—</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/wzql/wzql148.htm) | 石墩廊桥（双孔） | 40米 | 明至清 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
 | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 南溪桥 [?](http://www.china-qiao.com/ql15/wzql/wzql167.htm) | 木梁廊桥 | 20.35米 | 明至清；清道光二十二年（1842）重建 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
 | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 霞庄桥 [?](http://www.china-qiao.com/ql15/wzql/wzql168.htm) | 木拱廊桥 | 23.49米 | 明至清；清同治七年（1868）重修 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
 | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 墩头桥 [?](http://www.china-qiao.com/ql15/wzql/wzql175.htm) | 木梁廊桥 | 16.36米 | 明至清；清道光十二年（1832）重建 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
