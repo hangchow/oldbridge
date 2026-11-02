@@ -23,7 +23,7 @@
 | <nobr>[诸暨市](诸暨市/)</nobr> | <nobr>9</nobr> |
 | <nobr>[上虞区](上虞区/)</nobr> | <nobr>8</nobr> |
 
-## 绍兴市石木桥桥长前 10 名
+## 绍兴市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
@@ -37,10 +37,20 @@
 | <nobr>8</nobr> | <nobr>柯桥区</nobr> | <nobr>安昌街道</nobr> | 朱公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql198.htm) | 石梁桥 | 51.4米 | 明 | <nobr>市级文物保护点</nobr> |
 | <nobr>9</nobr> | <nobr>嵊州市</nobr> | <nobr>崇仁镇</nobr> | 新官桥 [?](http://www.china-qiao.com/ql15/sxql/sxql329.htm) | 石梁桥（七孔） | 42米 | 清 | <nobr>市级文物保护点</nobr> |
 | <nobr>10</nobr> | <nobr>越城区</nobr> | <nobr>斗门街道</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql448.htm) | 石梁桥（五孔） | 36.2米 | 清咸丰十一年（1861）重建 | <nobr>市级文物保护点</nobr> |
+| <nobr>11</nobr> | <nobr>上虞区</nobr> | <nobr>岭南乡</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql294.htm) | 石拱桥（三孔） | 36米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>新昌县</nobr> | <nobr>小将镇</nobr> | 吉安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql365.htm) | 石拱桥（单孔） | 35.5米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>越城区</nobr> | <nobr>稽山街道</nobr> | 望仙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql334.htm) | 石梁桥（四墩五孔） | 30.32米 | 清 | <nobr>市级文物保护点</nobr> |
+| <nobr>14</nobr> | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 光相桥 [?](http://www.china-qiao.com/ql15/sxql/sxql054.htm) | 石拱桥（单孔） | 30.28米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 宝珠桥 [?](http://www.china-qiao.com/ql15/sxql/sxql069.htm) | 石拱桥（单孔） | 30米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>柯桥区</nobr> | <nobr>夏履镇</nobr> | 寨口桥 [?](http://www.china-qiao.com/ql15/sxql/sxql228.htm) | 石拱桥（单孔） | 30米 | 清光绪十二年（1886）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>17</nobr> | <nobr>新昌县</nobr> | <nobr>南明街道</nobr> | 迎仙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql357.htm) | 石拱桥（单孔） | 29米 | 清道光二十四年（1844）重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>新昌县</nobr> | <nobr>儒岙镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql395.htm) | 石拱桥（单孔） | 28.8米 | 1941年 | <nobr>市级文物保护点</nobr> |
+| <nobr>19</nobr> | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 谢公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql055.htm) | 石拱桥（单孔） | 28.5米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>新昌县</nobr> | <nobr>小将镇</nobr> | 灵鹤桥 [?](http://www.china-qiao.com/ql15/sxql/sxql366.htm) | 石拱桥（单孔） | 28米 | 清光绪五年（1879）建 | <nobr>县（区）级文物保护单位</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 66 座中排序。
 
-## 绍兴市桥身刻字最早的前 10 名
+## 绍兴市桥身刻字最早的前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|

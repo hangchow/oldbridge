@@ -27,7 +27,7 @@
 | <nobr>[徐汇区](徐汇区/)</nobr> | <nobr>1</nobr> |
 | <nobr>[杨浦区](杨浦区/)</nobr> | <nobr>1</nobr> |
 
-## 上海市石木桥桥长前 10 名
+## 上海市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
@@ -41,10 +41,20 @@
 | <nobr>8</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 聚善桥 [?](http://www.china-qiao.com/ql02/shql136.htm) | 石拱桥（单孔） | 28米 | 明洪武十三年（1380）始建，明万历四十年（1612）重建，清同治三年（1864）重修 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>金山区</nobr> | <nobr>朱泾镇</nobr> | 济众桥 [?](http://www.china-qiao.com/ql02/shql175.htm) | 石拱桥（单孔） | 28米 | 明洪武年间建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 高义桥 [?](http://www.china-qiao.com/ql02/shql137.htm) | 石拱桥（单孔） | 27米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>奉贤区</nobr> | <nobr>青村镇</nobr> | 三祝桥 [?](http://www.china-qiao.com/ql02/shql418.htm) | 石梁桥 | 24.1米 | 明永乐年间建 | <nobr>一般不可移动文物</nobr> |
+| <nobr>13</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 登嬴桥 [?](http://www.china-qiao.com/ql02/shql130.htm) | 石拱桥（单孔） | 24米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 林老桥 [?](http://www.china-qiao.com/ql02/shql294.htm) | 石拱桥（单孔） | 24米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>金山区</nobr> | <nobr>吕巷镇</nobr> | 寿带桥 [?](http://www.china-qiao.com/ql02/shql226.htm) | 石拱桥（单孔） | 22.75米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql131.htm) | 石拱桥（单孔） | 21米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>奉贤区</nobr> | <nobr>青村镇</nobr> | 南虹桥 [?](http://www.china-qiao.com/ql02/shql417.htm) | 石拱桥（单孔） | 21米 | 清康熙三十一年（1692）始建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>浦东新区</nobr> | <nobr>航头镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql02/shql168.htm) | 石拱桥 | 21米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>闵行区</nobr> | <nobr>浦江镇</nobr> | 水月庵桥 [?](http://www.china-qiao.com/ql02/shql508.htm) | 石拱桥（单孔） | 20.80米 | 元泰定元年（1324）始建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 如意桥 [?](http://www.china-qiao.com/ql02/shql295.htm) | 石拱桥（单孔） | 20.8米 | — | <nobr>县（区）级文物保护单位</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 53 座中排序。
 
-## 上海市桥身刻字最早的前 10 名
+## 上海市桥身刻字最早的前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|

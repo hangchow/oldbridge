@@ -35,7 +35,7 @@
 
 跨区的桥（钱塘江大桥跨西湖区、滨江区；日新桥跨富阳区、临安区）在两个区的文件里都有列出，但统计只算一次。
 
-## 杭州市石木桥桥长前 10 名
+## 杭州市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
@@ -49,10 +49,20 @@
 | <nobr>8</nobr> | <nobr>临安区</nobr> | <nobr>於潜镇</nobr> | [南山长安桥](../文保名录/杭州市/云端档案/378_南山长安桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql405.htm) | 石拱桥（三孔） | 51.1米 | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>余杭区</nobr> | <nobr>余杭街道</nobr> | [通济桥](../文保名录/杭州市/云端档案/236_通济桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql294.htm) | 石拱桥（三孔） | 50米 | 明洪武元年（1368）重建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>临平区</nobr> | <nobr>运河街道</nobr> | [长福桥](../文保名录/杭州市/云端档案/120_长福桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql416.htm) | 石梁桥（九孔） | 49米 | 清乾隆三十一年（1766）重修 | <nobr>省级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>萧山区</nobr> | <nobr>楼塔镇</nobr> | [洲口桥](../文保名录/杭州市/云端档案/310_洲口桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql271.htm) | 石拱桥（五孔，折边拱） | 47.8米 | 民国九年（1920）重建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>临安区</nobr> | <nobr>河桥镇</nobr> | 振麟桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql576.htm) | 石拱桥（三孔） | 47.2米 | 清 | <nobr>市级文物保护点</nobr> |
+| <nobr>13</nobr> | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | 福寿漕桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql310.htm) | 石梁桥（五孔） | 35.5米 | 清 | <nobr>市级文物保护点</nobr> |
+| <nobr>14</nobr> | <nobr>萧山区</nobr> | <nobr>楼塔镇</nobr> | [田村金钱桥](../文保名录/杭州市/云端档案/491_田村金钱桥.html) | — | 34米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>淳安县</nobr> | <nobr>瑶山乡</nobr> | 云溪廊桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql386.htm) | 石墩廊桥（三孔） | 32.6米 | 明 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>富阳区</nobr> | <nobr>万市镇</nobr> | [方里方坑桥](../文保名录/杭州市/云端档案/457_方里方坑桥.html) | 石拱桥 | 31.47米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>临平区</nobr> | <nobr>运河街道</nobr> | 报恩新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql282.htm) | 石梁桥（七孔） | 31米 | 清、民国 | <nobr>市级文物保护点</nobr> |
+| <nobr>18</nobr> | <nobr>富阳区</nobr> | <nobr>新登镇</nobr> | [庄泽桥](../文保名录/杭州市/云端档案/673_庄泽桥.html) | — | 30.48米 | 明 | <nobr>省级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | [陶村桥](../文保名录/杭州市/云端档案/318_陶村桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql309.htm) | — | 29.8米 | 民国十四年（1925） | <nobr>市级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>拱墅区</nobr> | <nobr>半山街道</nobr> | [衣锦桥](../文保名录/杭州市/云端档案/194_衣锦桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql212.htm) | 石拱桥 | 29.5米 | 清乾隆四十三年（1778）重建 | <nobr>市级文物保护单位</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 94 座中排序。
 
-## 杭州市桥身刻字最早的前 10 名
+## 杭州市桥身刻字最早的前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|

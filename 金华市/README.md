@@ -25,7 +25,7 @@
 | <nobr>[浦江县](浦江县/)</nobr> | <nobr>5</nobr> |
 | <nobr>[磐安县](磐安县/)</nobr> | <nobr>3</nobr> |
 
-## 金华市石木桥桥长前 10 名
+## 金华市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
@@ -39,10 +39,11 @@
 | <nobr>8</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql031.htm) | — | 30米 | 清道光年间建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql121.htm) | 石拱桥（单孔） | 23米 | 清乾隆四十五年（1780）始建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>武义县</nobr> | <nobr>大溪口乡</nobr> | 金溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql147.htm) | — | 8.19米 | 民国三十六年（1947）建，民国三十七年（1948）重修 | <nobr>市级文物保护点</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 11 座中排序。
 
-## 金华市桥身刻字最早的前 10 名
+## 金华市桥身刻字最早的前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|

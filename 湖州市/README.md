@@ -23,7 +23,7 @@
 | <nobr>[吴兴区](吴兴区/)</nobr> | <nobr>48</nobr> |
 | <nobr>[安吉县](安吉县/)</nobr> | <nobr>43</nobr> |
 
-## 湖州市石木桥桥长前 10 名
+## 湖州市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
@@ -37,10 +37,20 @@
 | <nobr>8</nobr> | <nobr>德清县</nobr> | <nobr>下渚湖街道</nobr> | 寿昌桥 [?](http://www.china-qiao.com/ql15/hzql/hzql256.htm) | 石拱桥（单孔） | 50米 | 宋、元、明；南宋咸淳年间建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>南浔区</nobr> | <nobr>千金镇</nobr> | 南高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql194.htm) | 石梁桥（五孔） | 47.10米 | 1917年 | <nobr>市级文物保护点</nobr> |
 | <nobr>10</nobr> | <nobr>南浔区</nobr> | <nobr>双林镇</nobr> | 化成桥 [?](http://www.china-qiao.com/ql15/hzql/hzql091.htm) | 石拱桥（三孔） | 46米 | 清乾隆五十八年（1793） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>南浔区</nobr> | <nobr>练市镇</nobr> | 妙严塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql106.htm) | 石拱桥（三孔） | 44米 | 清光绪二十五年（1899）重建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 社桥 [?](http://www.china-qiao.com/ql15/hzql/hzql241.htm) | 石梁桥（五孔） | 42米 | 宋、元、明 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>长兴县</nobr> | <nobr>洪桥镇</nobr> | 六河桥 [?](http://www.china-qiao.com/ql15/hzql/hzql288.htm) | 石梁桥（四墩五孔） | 41.2米 | 不详 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>南浔区</nobr> | <nobr>练市镇</nobr> | 徐林普济塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql104.htm) | 石拱桥（三孔） | 40.5米 | 民国八年（1919）重建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>安吉县</nobr> | <nobr>梅溪镇</nobr> | 万埭桥 [?](http://www.china-qiao.com/ql15/hzql/hzql375.htm) | — | 37.6米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>安吉县</nobr> | <nobr>杭垓镇</nobr> | 长丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql371.htm) | 石拱桥（单孔） | 35米 | 清乾隆五十四年（1789）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>南浔区</nobr> | <nobr>菱湖镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/hzql/hzql136.htm) | 石拱桥（三孔） | 31.4米 | 明天顺元年（1457）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>长兴县</nobr> | <nobr>图影管委会</nobr> | 震泽桥 [?](http://www.china-qiao.com/ql15/hzql/hzql294.htm) | — | 28.8米 | 清 | <nobr>县级文物保护点</nobr> |
+| <nobr>19</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 通津桥 [?](http://www.china-qiao.com/ql15/hzql/hzql066.htm) | 石拱桥（单孔） | 28米 | 清嘉庆三年（1798） | <nobr>省级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>南浔区</nobr> | <nobr>南浔镇</nobr> | 洪济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql067.htm) | 石拱桥（单孔） | 28米 | 清嘉庆十年（1805） | <nobr>省级文物保护单位</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 68 座中排序。
 
-## 湖州市桥身刻字最早的前 10 名
+## 湖州市桥身刻字最早的前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|

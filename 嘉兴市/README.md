@@ -25,7 +25,7 @@
 | <nobr>[南湖区](南湖区/)</nobr> | <nobr>24</nobr> |
 | <nobr>[嘉善县](嘉善县/)</nobr> | <nobr>14</nobr> |
 
-## 嘉兴市石木桥桥长前 10 名
+## 嘉兴市石木桥桥长前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
@@ -39,10 +39,20 @@
 | <nobr>8</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/jxql/jxql257.htm) | 石拱桥（单孔） | 27.4米 | 民国二年（1913） | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 闻店桥 [?](http://www.china-qiao.com/ql15/jxql/jxql044.htm) | 石拱桥（单孔） | 24.4米 | 清道光七年（1827）重建 | <nobr>市级文物保护点</nobr> |
 | <nobr>10</nobr> | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | — | 24米 | 清乾隆十四年（1749）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>嘉善县</nobr> | <nobr>姚庄镇</nobr> | 耳顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql313.htm) | 石梁桥（三孔） | 23.6米 | 清乾隆五年（1740）始建，清道光二年（1822）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 栖真村南湖大桥 [?](http://www.china-qiao.com/ql15/jxql/jxql348.htm) | — | 23.56米 | 清道光二十三年（1843）建 | <nobr>市级文物保护点</nobr> |
+| <nobr>13</nobr> | <nobr>桐乡市</nobr> | <nobr>洲泉镇</nobr> | 万年桥 [?](http://www.china-qiao.com/ql15/jxql/jxql251.htm) | 石拱桥（单孔） | 23.4米 | 清雍正七年（1729）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 仁济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql152.htm) | 石拱桥（单孔） | 22.6米 | 清雍正十二年（1734）重建，清同治年间重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | — | 22.3米 | 民国 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 长生桥 [?](http://www.china-qiao.com/ql15/jxql/jxql347.htm) | — | 22米 | 清乾隆五十五年（1790）建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>南湖区</nobr> | <nobr>大桥镇</nobr> | 陆宣泾桥 [?](http://www.china-qiao.com/ql15/jxql/jxql463.htm) | 石梁桥（三孔） | 21.72米 | 清光绪三十二年（1906）重建 | <nobr>市级文物保护点</nobr> |
+| <nobr>19</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 步云桥 [?](http://www.china-qiao.com/ql15/jxql/jxql349.htm) | — | 21.59米 | 1914年 | <nobr>市级文物保护点</nobr> |
+| <nobr>20</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 八字村牛桥 [?](http://www.china-qiao.com/ql15/jxql/jxql437.htm) | 石梁桥 | 21.17米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 54 座中排序。
 
-## 嘉兴市桥身刻字最早的前 10 名
+## 嘉兴市桥身刻字最早的前 20 名
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|---|
