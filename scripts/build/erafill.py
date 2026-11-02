@@ -6,7 +6,7 @@ sys.path.insert(0, S + '/build'); from era import year
 CQ = json.load(open(S + '/build/cqlinks.json'))
 R = json.load(open(S + '/singdo/recs.json')); R = R.values() if isinstance(R, dict) else R
 SDI = {x['id']: x for x in R if isinstance(x, dict)}
-F = {'杭州市': 'build/all_rows.json', '湖州市': 'huz/rows.json', '嘉兴市': 'jx/rows.json', '上海市': 'sh/rows.json', '苏州市': 'sz/rows.json', '金华市': 'jh/rows.json', '绍兴市': 'sx/rows.json', '宁波市': 'nb/rows.json', '衢州市': 'qz/rows.json', '台州市': 'tz/rows.json', '温州市': 'wz/rows.json', '丽水市': 'ls/rows.json', '舟山市': 'zs/rows.json'}
+F = {'杭州市': 'build/all_rows.json', '湖州市': 'huz/rows.json', '嘉兴市': 'jx/rows.json', '上海市': 'sh/rows.json', '苏州市': 'sz/rows.json', '金华市': 'jh/rows.json', '绍兴市': 'sx/rows.json', '宁波市': 'nb/rows.json', '衢州市': 'qz/rows.json', '台州市': 'tz/rows.json', '温州市': 'wz/rows.json', '丽水市': 'ls/rows.json', '舟山市': 'zs/rows.json', '无锡市': 'wx/rows.json', '南京市': 'nj/rows.json', '常州市': 'cz/rows.json', '镇江市': 'zjs/rows.json'}
 RG = {'宋': '建隆 乾德 开宝 太平兴国 雍熙 端拱 淳化 至道 咸平 景德 大中祥符 天禧 乾兴 天圣 明道 景祐 宝元 康定 庆历 皇祐 至和 嘉祐 治平 熙宁 元丰 元祐 绍圣 元符 建中靖国 崇宁 大观 政和 重和 宣和 靖康 建炎 绍兴 隆兴 乾道 淳熙 绍熙 庆元 嘉泰 开禧 嘉定 宝庆 绍定 端平 嘉熙 淳祐 宝祐 开庆 景定 咸淳 德祐',
       '元': '至元 元贞 大德 至大 皇庆 延祐 至治 泰定 致和 天历 至顺 元统 至正',
       '明': '洪武 建文 永乐 洪熙 宣德 正统 景泰 天顺 成化 弘治 正德 嘉靖 隆庆 万历 泰昌 天启 崇祯',

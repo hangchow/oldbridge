@@ -35,7 +35,7 @@ for r in R:
         t = it['title'] + ' ' + it['alias']
         if not t.endswith(nm) and nm not in it['title']: continue
         if not any(d in t for d in dists): continue
-        if short(r['town']) not in t: continue
+        if short(r['town']) not in re.sub('|'.join(sum(OLD.values(), []) + COUNTIES + ['滨江区', '萧山区', '西湖区']), '', t): continue   # 去掉区县名再比乡镇
         cands.append(it)
     if len(cands) != 1: continue
     it = cands[0]

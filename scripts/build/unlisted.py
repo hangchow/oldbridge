@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 由各市老百晓目录对比结果生成“不在文保名录的古桥”（尚未定级，待核实）
-import json, re
+import json, re, os
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 O = json.load(open(S + '/build/compare_raw.json'))
 LV = '尚未定级（待核实，老百晓集桥收录，不在文保名录中）'
@@ -44,9 +44,13 @@ for city, rows in OUT.items():
     dd = DEC.get(city, {}); keep = []
     for r in rows:
         v = dd.get(f"{r['dist']}|{r['town']}|{r['name']}", dd.get(f"{r['dist']}|{r['name']}"))
-        if v and v.startswith('DROP'): continue
+        if isinstance(v, str) and v.startswith('DROP'): continue
+        if isinstance(v, dict):   # 改名、改乡镇、页面写明的文保等级
+            for kk in ('name', 'town', 'lv', 'lvnote'):
+                if kk in v: r[kk] = v[kk]
+            v = v.get('era')
         if v is not None: r['era'] = v
-        if city in DEC: r['note'] = '不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面' + ('' if v is None or v == '—' else '中本桥的记载') + '，等级待核实'
+        if city in DEC: r['note'] = ('不在文保名录中，' if r.get('lv', 'dj') == 'dj' else '维基百科名单未收，') + '据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面' + ('' if v is None or v == '—' else '中本桥的记载') + ('，等级待核实' if r.get('lv', 'dj') == 'dj' else '')
         if r['name'].startswith('街道') and r['town'].endswith('镇'): r['town'] += '街道'; r['name'] = r['name'][2:]   # “嘉定镇街道宾兴桥”拆分有误
         keep.append(r)
     OUT[city] = keep

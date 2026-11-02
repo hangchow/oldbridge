@@ -1,0 +1,45 @@
+以下是江苏镇江[[丹阳市]]境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下是[[丹阳市]]境内的全国重点文物保护单位：
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+|-
+|[[丹阳南朝陵墓石刻]]，含<br />
+<span style="font-size:smaller;">陵口陵墓石刻</span><br />
+<span style="font-size:smaller;">齐宣帝萧承之永安陵石刻</span><br />
+<span style="font-size:smaller;">齐武帝萧赜景安陵石刻</span><br />
+<span style="font-size:smaller;">齐景帝萧道生修安陵石刻</span><br />
+<span style="font-size:smaller;">齐明帝萧鸾兴安陵石刻</span><br />
+<span style="font-size:smaller;">梁文帝萧顺之建陵石刻</span><br />
+<span style="font-size:smaller;">梁武帝萧衍修陵石刻</span><br />
+<span style="font-size:smaller;">梁始兴忠武王萧憺墓石刻</span><br />
+<span style="font-size:smaller;">梁简文帝萧纲庄陵石刻</span><br />
+<span style="font-size:smaller;">金家村陵墓石刻</span><br />
+<span style="font-size:smaller;">水经山村陵墓石刻</span><br />
+<span style="font-size:smaller;">梁南康简王萧績墓石刻</span><br />
+|3-168
+|石刻及其他
+|[[丹阳市]]、[[句容市]]
+|[[南朝]]<!--http://202.193.162.13/englishonline/culture/chinaculture/chinaculture/en_travel/2003-09/24/content_33364.htm Stone Inscriptions of Southern Dynasties Mausoleums-->
+| [[File:The Tianlu in the Imperial Tomb of Xiao Yan 2012-12.JPG|180px]]
+|-
+| [[葛城遗址]]
+| 7-0149
+| 古遗址
+| [[丹阳市]]
+| 西周至春秋
+|
+|}
+
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:丹阳文物]]

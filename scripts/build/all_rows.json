@@ -5987,7 +5987,7 @@
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
-  "struct": "石拱桥（三孔）",
+  "struct": "—",
   "note": "",
   "commons": null
  },
@@ -7203,10 +7203,9 @@
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
-  "struct": "石梁桥（三孔）",
+  "struct": "—",
   "note": "",
-  "commons": null,
-  "len": "32.8米"
+  "commons": null
  },
  {
   "dist": "余杭区",

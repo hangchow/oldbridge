@@ -9,12 +9,13 @@ def clean(s):
     s = re.sub(r'<br\s*/?>', '；', s); s = re.sub(r'<[^>]+>', '', s); s = re.sub(r"'''?", '', s)
     s = re.sub(r'\{\{0\}\}', '', s); s = re.sub(r'\{\{[^{}]*\}\}', '', s)
     return s.strip()
-NOT = re.compile(r'遗址|窑址|台门|民居|故居|碑|摩崖|宗祠|洋龙局|村$|庙|寺|祠|学校|墓|堂|诞生地|街区|建筑群|旧址|古道$|老街|会馆|书院|塔$|亭$|牌坊|坊$|闸$|堰$|渠|码头|埠头|渡口|驿|关$|城墙|故里|古镇|古村|门$|桥头$|烽火台|景观|井$|遗迹|题记|石刻|爱吾庐|矴步|碇步|故居')
+NOT = re.compile(r'^桥$|遗存|轮渡|遗址|窑址|台门|民居|故居|碑|摩崖|宗祠|洋龙局|村$|庙|寺|祠|学校|墓|堂|诞生地|街区|建筑群|旧址|古道$|老街|会馆|书院|塔$|亭$|牌坊|坊$|闸$|堰$|渠|码头|埠头|渡口|驿|关$|城墙|故里|古镇|古村|门$|桥头$|烽火台|景观|井$|遗迹|题记|石刻|爱吾庐|矴步|碇步|故居')
 def isbridge(n): return '桥' in n and not NOT.search(n) and len(n) <= 16
 def level_of(h, city=''):
     if '全国' in h: return 'gb'
-    if '浙江省' in h or '省级' in h: return 'sb'
-    if city and h.startswith(city): return 'shi'
+    if '浙江省' in h or '江苏省' in h or '省级' in h: return 'sb'
+    if '不可移动文物' in h or '历史建筑' in h: return 'wbd'
+    if city and h.startswith(city) and not re.match(r'[一-龥]{1,4}(区|县|市)', h[len(city):]): return 'shi'
     return 'xian'
 COLS = {'name': r'名称|名 称', 'num': r'编号', 'era': r'时代|年代', 'addr': r'所在|地址|位置|地点', 'pub': r'公布|批次|备注'}
 def parse(text, city=''):

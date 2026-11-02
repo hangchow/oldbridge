@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-# 浙江其他城市古桥名录生成（两级目录：市/区县/区县古桥.md）。用法：python3 build.py 绍兴市
+# 浙江、江苏其他城市古桥名录生成（两级目录：市/区县/区县古桥.md）。用法：python3 build.py 绍兴市
 import json, os, re, sys, html
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 sys.path.insert(0, S + '/zj'); sys.path.insert(0, S + '/build')
 from wikilist import parse, clean, split_names
-CITY = sys.argv[1]; CF = json.load(open(S + '/zj/cities.json'))[CITY]; K = CF['key']; DISTS = CF['dists']
+CITY = sys.argv[1]; CF = json.load(open(S + '/zj/cities.json'))[CITY]; K = CF['key']; DISTS = CF['dists']; PROV = CF.get('prov', '浙江省'); ZJ = PROV == '浙江省'
 ROOT = f'/Users/sean/workspace/oldbridge/{CITY}'
 W = lambda p: 'https://zh.wikipedia.org/wiki/' + p
 XLSX = 'http://wwj.zj.gov.cn/'
@@ -16,7 +16,7 @@ def load(p): return json.load(open(p)) if os.path.exists(p) else {}
 ST, LN, IMG = load(f'{S}/{K}/struct.json'), load(f'{S}/{K}/len.json'), load(f'{S}/{K}/imgsrc.json')
 CQ, HOLES, EF, LENF = load(S + '/build/cqlinks.json'), load(S + '/build/cq_holes.json'), load(S + '/build/era_fill.json'), load(S + '/build/cq_len_fill.json')
 core = lambda n: re.sub(r'（.*?）|\(.*?\)|\s', '', n)
-PRE = r'^(?:浙江省)?(?:' + CITY + r')?(?:' + '|'.join(DISTS) + r')?(?:[一-龥]{2}新区)?'
+PRE = r'^(?:' + PROV + r')?(?:' + CITY + r')?(?:' + '|'.join(DISTS) + r')?(?:[一-龥]{2}新区)?'
 def town_of(*ss):
     for s in ss:
         if not s: continue
@@ -27,7 +27,7 @@ def town_of(*ss):
     return '—'
 LV = {'gb': 0, 'sb': 1, 'shi': 2, 'xian': 3, 'wbd': 4, 'dj': 5}
 R = []
-def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—'):
+def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote=''):
     if dist not in DISTS or not name: return
     era = era or '—'
     if re.search(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return
@@ -40,7 +40,7 @@ def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None
             if r['town'] == '—': r['town'] = town or town_of(addr)
             return
     R.append(dict(dist=dist, name=name, era=era, loc=addr or '—', lvk=lv, num=num, group=group, batch=batch, src=src,
-                  town=town or town_of(addr), doc=doc))
+                  town=town or town_of(addr), doc=doc, unote=unote))
 # 1) 各区县列表
 for d in DISTS:
     f = f'{S}/{K}/{d}各级文物保护单位列表.txt'
@@ -49,7 +49,7 @@ for d in DISTS:
         add(d, r['name'], r['era'], r['addr'], r['lv'], r['num'], r['group'], r['batch'], W(d + '各级文物保护单位列表'))
 # 2) 浙江省文物保护单位总表（补区县列表里缺的省保）
 t = open(S + '/jx/浙江省文物保护单位.txt').read()
-m = re.search(r'===\[\[' + CITY + r'\]\]===(.*?)\n===\[\[', t, re.S)
+m = ZJ and re.search(r'===\[\[' + CITY + r'\]\]===(.*?)\n===\[\[', t, re.S)
 if m:
     body = re.sub(r'<!--.*?-->', '', m.group(1), flags=re.S); cur = None
     for l in body.split('\n'):
@@ -60,23 +60,24 @@ if m:
             c = re.sub(r'（\d.*', '', c).split('；')[0]
             for n in split_names(c): add(cur, n, '', '', 'sb', num, '' if n == c else c, '', W('浙江省文物保护单位'))
 # 3) 文保点（浙江省文物局统计表）
-ss = open(S + '/x/xl/sharedStrings.xml', encoding='utf8').read()
-strs = [''.join(re.findall(r'<t[^>]*>(.*?)</t>', x, re.S)) for x in re.findall(r'<si>(.*?)</si>', ss, re.S)]
-x = open(f"{S}/x/xl/worksheets/sheet{CF['sheet']}.xml", encoding='utf8').read(); cur = ''
-for row in re.findall(r'<row[^>]*>(.*?)</row>', x, re.S)[2:]:
-    v = {}
-    for attr, inner in re.findall(r'<c ([^>]*?)(?:/>|>(.*?)</c>)', row, re.S):
-        col = re.search(r'r="([A-Z]+)\d+"', attr).group(1); vv = re.search(r'<v>(.*?)</v>', inner or '')
-        v[col] = '' if not vv else html.unescape(strs[int(vv.group(1))] if 't="s"' in attr else vv.group(1))
-    if v.get('B'): cur = re.sub(r'（.*', '', v['B']).strip()
-    n = v.get('C', '')
-    if '桥' not in n: continue
-    d = next((dd for dd in DISTS if dd[:2] == cur[:2]), cur)
-    tw = re.sub(PRE, '', v.get('F', ''))
-    add(d, n, v.get('D', ''), v.get('G', ''), 'wbd', town=tw if re.search(r'(镇|乡|街道)$', tw) else town_of(v.get('G', '')), src=XLSX, doc=v.get('H', '') or '—')
+for _ in ([1] if CF.get('sheet') else []):
+  ss = open(S + '/x/xl/sharedStrings.xml', encoding='utf8').read()
+  strs = [''.join(re.findall(r'<t[^>]*>(.*?)</t>', x, re.S)) for x in re.findall(r'<si>(.*?)</si>', ss, re.S)]
+  x = open(f"{S}/x/xl/worksheets/sheet{CF['sheet']}.xml", encoding='utf8').read(); cur = ''
+  for row in re.findall(r'<row[^>]*>(.*?)</row>', x, re.S)[2:]:
+      v = {}
+      for attr, inner in re.findall(r'<c ([^>]*?)(?:/>|>(.*?)</c>)', row, re.S):
+          col = re.search(r'r="([A-Z]+)\d+"', attr).group(1); vv = re.search(r'<v>(.*?)</v>', inner or '')
+          v[col] = '' if not vv else html.unescape(strs[int(vv.group(1))] if 't="s"' in attr else vv.group(1))
+      if v.get('B'): cur = re.sub(r'（.*', '', v['B']).strip()
+      n = v.get('C', '')
+      if '桥' not in n: continue
+      d = next((dd for dd in DISTS if dd[:2] == cur[:2]), cur)
+      tw = re.sub(PRE, '', v.get('F', ''))
+      add(d, n, v.get('D', ''), v.get('G', ''), 'wbd', town=tw if re.search(r'(镇|乡|街道)$', tw) else town_of(v.get('G', '')), src=XLSX, doc=v.get('H', '') or '—')
 # 4) 不在文保名录、老百晓集桥收录的古桥（尚未定级，待核实）
 for u in (json.load(open(S + '/build/unlisted.json')).get(CITY, []) if os.path.exists(S + '/build/unlisted.json') else []):
-    if not any(r['dist'] == u['dist'] and core(r['name']) == core(u['name']) for r in R): add(u['dist'], u['name'], u['era'], '', 'dj', src=u['src'], town=u['town'])
+    if not any(r['dist'] == u['dist'] and core(r['name']) == core(u['name']) for r in R): add(u['dist'], u['name'], u['era'], '', u.get('lv', 'dj'), src=u['src'], town=u['town'], unote=(f"据老百晓集桥页面：{u['lvnote']}（维基百科名单未收，待核对政府原件）；" if u.get('lvnote') else '') + u.get('note', ''))
 # 撤镇设街道的旧名改成今名（以统计表里同一区县出现过的街道名为准）
 XT = {}
 for r in R:
@@ -95,25 +96,25 @@ R[:] = [r for r in R if (r['dist'], core(r['name'])) not in grp]
 for r in R:
     g = f"“{r['group']}”组成部分" if r['group'] and r['group'] != r['name'] else ''
     if r['lvk'] == 'gb': r['level'] = '全国重点文物保护单位' + (f'（{g}）' if g else '')
-    elif r['lvk'] == 'sb': r['level'] = '浙江省文物保护单位' + ('（' + '，'.join(x for x in [g, r['num']] if x) + '）' if g or r['num'] else '')
+    elif r['lvk'] == 'sb': r['level'] = PROV + '文物保护单位' + ('（' + '，'.join(x for x in [g, r['num']] if x) + '）' if g or r['num'] else '')
     elif r['lvk'] == 'shi': r['level'] = f'{CITY}文物保护单位'
     elif r['lvk'] == 'xian': r['level'] = f"{r['dist']}文物保护单位"
     elif r['lvk'] == 'dj': r['level'] = '尚未定级（待核实，老百晓集桥收录，不在文保名录中）'
-    else: r['level'] = f'{CITY}文物保护点'
+    else: r['level'] = f'{CITY}文物保护点' if ZJ else f"一般不可移动文物（{r['dist']}不可移动文物名录）"
     k = f"{r['dist']}|{r['town']}|{r['name']}"
-    r['struct'] = ST.get(k, '—'); r['len'] = LN.get(k, '—'); r['note'] = '不在文保名录中，据老百晓集桥页面收录，年代按页面开头的记载，待核实' if r['lvk'] == 'dj' else ''
+    r['struct'] = ST.get(k, '—'); r['len'] = LN.get(k, '—'); r['note'] = r['unote'] or ('不在文保名录中，据老百晓集桥页面收录，年代按页面开头的记载，待核实' if r['lvk'] == 'dj' else '')
     ck = f"{CITY}|{k}"
     if ck in HOLES and (r['struct'] == '—' or re.fullmatch(r'石?(拱|梁)桥|石板桥|平桥|廊桥', r['struct'])): r['struct'] = HOLES[ck]
     if ck in LENF and r['len'] in ('—', ''): r['len'] = LENF[ck]
     if ck in EF and r['era'] == EF[ck]['old']:
         f = EF[ck]; old = r['era']; ds = [d for d in ('宋', '元', '明', '清', '民国') if d in old.replace('中华民国', '民国')]
         r['era'] = f['era'] if all(d in f['era'] for d in ds) else old + '；' + f['era']
-        r['note'] = f"具体年代据{'老百晓集桥' if f['src'] == 'cq' else '云端档案'}（名录原写“{old}”）"
+        r['note'] = (r['note'] + '；' if r['note'] else '') + f"具体年代据{'老百晓集桥' if f['src'] == 'cq' else '云端档案'}（名录原写“{old}”）"
 for r in R:
-    for kk in ('lvk', 'num', 'group', 'batch'): r.pop(kk, None)
+    for kk in ('lvk', 'num', 'group', 'batch', 'unote'): r.pop(kk, None)
 json.dump(R, open(f'{S}/{K}/rows.json', 'w'), ensure_ascii=False, indent=0)
 # 生成区县 md
-ORD = lambda lv: 0 if lv.startswith('全国') else 1 if lv.startswith('浙江') else 5 if lv.startswith('尚未') else 4 if '保护点' in lv else 2 if lv.startswith(CITY) else 3
+ORD = lambda lv: 0 if lv.startswith('全国') else 1 if lv.startswith(PROV) else 5 if lv.startswith('尚未') else 4 if '保护点' in lv or '不可移动' in lv else 2 if lv.startswith(CITY) else 3
 for d in DISTS:
     folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
     rs = sorted([r for r in R if r['dist'] == d], key=lambda r: ORD(r['level']))
@@ -129,7 +130,7 @@ for d in DISTS:
         nm = f"{r['name']} [?]({CQ[ck]})" if ck in CQ else r['name']
         L.append('| ' + ' | '.join([str(i), r['town'], nm, r['struct'], r['len'], r['era'] or '—', (r['loc'] or '—').replace('|', '／'), r['level'], r['doc'], img]) + ' |')
     notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
-    notes += [f'{CITY}文物保护点以浙江省文物局《全省文物保护点》统计表为准（原件存于本项目 文保名录/浙江省/）。',
+    notes += ([f'{CITY}文物保护点以浙江省文物局《全省文物保护点》统计表为准（原件存于本项目 文保名录/浙江省/）。'] if ZJ else [f'{PROV}没有找到公开的文物保护点统计表，未定级的古桥只收录了老百晓集桥上的（尚未定级，待核实）。']) + [
               '国保、省保、市保、县保依据维基百科整理，还没有核对政府原件；市保、县保名单可能不完整。',
               '成组公布的文物（如古桥群）按单桥列出，组名写在文保等级里。',
               '乡镇、结构、长度标“—”的，是没有查到可靠资料；部分结构、长度、年代来自“老百晓集桥”网站。']

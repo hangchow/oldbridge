@@ -14,7 +14,8 @@ for r in json.load(open(S + '/build/all_rows.json')):
     if '、' in nm or '六桥' in nm or len(nm) < 2: continue
     ds = OLD.get(r['dist'], [r['dist']]); tw = re.sub(r'(街道|镇|乡)$', '', r['town'])
     c = [it for it in IDX if (it['title'] + ' ' + it['alias']).endswith(nm) or nm in it['title']]
-    c = [it for it in c if any(d in it['title'] + ' ' + it['alias'] for d in ds) and tw in it['title'] + ' ' + it['alias']]
+    TD = lambda it: re.sub('|'.join(sum(OLD.values(), []) + ['滨江区', '萧山区', '富阳', '临安', '建德', '桐庐', '淳安']), '', it['title'] + ' ' + it['alias'])   # 去掉区县名再比乡镇（“余杭街道”的“余杭”不能匹配“余杭区”）
+    c = [it for it in c if any(d in it['title'] + ' ' + it['alias'] for d in ds) and tw in TD(it)]
     if len(c) == 1: OUT[f"杭州市|{r['dist']}|{r['town']}|{r['name']}"] = 'http://www.china-qiao.com/ql15/hz_ql/' + c[0]['page']
 # 杭州补充：页面标题不写乡镇的（如“中河之桥——六部桥”“杭州市苏堤映波桥”），
 # 桥名在杭州项目里唯一、在目录里去掉前缀后也唯一，才链接
@@ -40,21 +41,23 @@ for r in HR:
 # 其余城市
 core2 = lambda n: re.sub(r'（.*?）|\(.*?\)|\s|^重建', '', n)
 short = lambda x: re.sub(r'(新区|街道|镇|乡|区|县|市)$', '', x)
-for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh'), ('苏州市', 'sz'), ('金华市', 'jh'), ('绍兴市', 'sx'), ('宁波市', 'nb'), ('衢州市', 'qz'), ('台州市', 'tz'), ('温州市', 'wz'), ('丽水市', 'ls'), ('舟山市', 'zs')]:
-    BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz') else 'ql15/')
+ALLD = sorted({d for cf in json.load(open(S + '/zj/cities.json')).values() for d in cf['dists']} | set('吴兴区 南浔区 德清县 长兴县 安吉县 南湖区 秀洲区 嘉善县 平湖市 海盐县 海宁市 桐乡市 姑苏区 虎丘区 吴中区 相城区 吴江区 常熟市 张家港市 昆山市 太仓市 婺城区 金东区 兰溪市 东阳市 义乌市 永康市 浦江县 武义县 磐安县'.split()))
+ODIST = lambda t, d: any(x in t for x in ALLD if x != d and not d.startswith(x[:-1]))   # 标题写了别的区县（如“惠山区”不能配“梁溪区惠山街道”）
+for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh'), ('苏州市', 'sz'), ('金华市', 'jh'), ('绍兴市', 'sx'), ('宁波市', 'nb'), ('衢州市', 'qz'), ('台州市', 'tz'), ('温州市', 'wz'), ('丽水市', 'ls'), ('舟山市', 'zs'), ('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs')]:
+    BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz', 'wx', 'nj', 'cz', 'zjs') else 'ql15/')
     if key == 'sh':
         PY = dict(huangpu88='黄浦区', xuhui88='徐汇区', changning88='长宁区', jingan88='静安区', putuo88='普陀区', hongkou88='虹口区', yangpu88='杨浦区', minhang88='闵行区', baoshan88='宝山区', jiading88='嘉定区', pudong88='浦东新区', jinshan88='金山区', songjiang88='松江区', qingpu88='青浦区', fengxian88='奉贤区', chongming88='崇明区')
         I = {p: (PY.get(a, '') + t) for p, (a, t) in json.load(open(f'{S}/cq2/sh/idx.json')).items()}
-    elif key == 'sz': I = json.load(open(f'{S}/cq2/{key}/idx.json'))
-    elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
+    elif key in ('sz', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
+    elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
     else: I = json.load(open(f'{S}/cq2/idx.json'))
     for r in json.load(open(f'{S}/{key}/rows.json')):
         n = core2(r['name'])
         if '、' in n or len(n) < 2: continue
         vill = [v[:-1] for v in re.findall(r'[一-龥]{2,4}?村', r['loc'] or '')]
         ctx = [short(r['town'])] + [v for v in vill if len(v) >= 2]
-        if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs'):
-            c = [(p, t) for p, t in I.items() if t.endswith(n) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
+        if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'):
+            c = [(p, t) for p, t in I.items() if t.endswith(n) and not ODIST(t, r['dist']) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
             if len(c) > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]
         else:
             c = [(p, t) for p, t in I.items() if t.endswith(n) and short(r['dist']) in t and any(x and x in t for x in ctx)]
