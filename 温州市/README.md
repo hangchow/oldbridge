@@ -94,7 +94,7 @@
 |---|---|---|---|---|---|---|
 | <nobr>瓯海区</nobr> | <nobr>潘桥街道</nobr> | 陈庄金锁桥 | — | — | 宋 | 浙江省文物保护单位（8-29） |
 | <nobr>瑞安市</nobr> | <nobr>—</nobr> | 东安硐桥 [?](http://www.china-qiao.com/ql15/wzql/wzql063.htm) | 石拱桥（单孔） | — | — | 浙江省文物保护单位（6-112） |
-| <nobr>乐清市</nobr> | <nobr>天成街道</nobr> | 万桥 [?](http://www.china-qiao.com/ql15/wzql/wzql077.htm) | 石拱桥 | 2.42米 | 明宣德八年（1433）重建 | 浙江省文物保护单位（6-111） |
+| <nobr>乐清市</nobr> | <nobr>天成街道</nobr> | 万桥 [?](http://www.china-qiao.com/ql15/wzql/wzql077.htm) | 石拱桥（五孔） | 2.42米 | 明宣德八年（1433）重建 | 浙江省文物保护单位（6-111） |
 | <nobr>永嘉县</nobr> | <nobr>岩头镇</nobr> | 含丽水桥 | — | — | 明 | 浙江省文物保护单位（“花亭（”组成部分，4-83） |
 | <nobr>永嘉县</nobr> | <nobr>枫林镇</nobr> | 枫林黄桥 | — | — | 明 | 浙江省文物保护单位（8-39） |
 | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/wzql/wzql148.htm) | 石墩木梁廊桥（双孔） | 40米 | 明至清 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
@@ -113,7 +113,7 @@
 | <nobr>乐清市</nobr> | <nobr>淡溪镇</nobr> | 孝义桥 | — | — | 清代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>虹桥镇</nobr> | 清远桥 | — | — | 明代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>虹桥镇</nobr> | 瑶溪桥 | — | — | 宋代 | 乐清市文物保护单位 |
-| <nobr>乐清市</nobr> | <nobr>乐成街道</nobr> | 文虹桥 [?](http://www.china-qiao.com/ql15/wzql/wzql075.htm) | 石拱桥 | — | 明天启七年（1627）建 | 乐清市文物保护单位 |
+| <nobr>乐清市</nobr> | <nobr>乐成街道</nobr> | 文虹桥 [?](http://www.china-qiao.com/ql15/wzql/wzql075.htm) | 石拱桥（三孔） | — | 明天启七年（1627）建 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>柳市镇</nobr> | 刘公桥 | — | — | 宋代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>石帆街道</nobr> | 慈济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql378.htm) | — | — | 南宋 | 乐清市文物保护单位 |
 | <nobr>文成县</nobr> | <nobr>黄坦镇</nobr> | 依仁桥 | — | — | 清 | 文成县文物保护单位 |

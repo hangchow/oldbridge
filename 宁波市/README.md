@@ -52,7 +52,7 @@
 | <nobr>19</nobr> | <nobr>海曙区</nobr> | <nobr>高桥镇</nobr> | 高桥 [?](http://www.china-qiao.com/ql15/nbql/nbql129.htm) | 石拱桥（单孔） | 29米 | 清光绪八年（1882）重修 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>奉化区</nobr> | <nobr>江口街道</nobr> | 灞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql290.htm) | 石拱桥（单孔） | 28.60米 | 清咸丰四年（1854）建 | <nobr>市级文物保护点</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 85 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 82 座中排序。
 
 ## 宁波市桥身刻字最早的前 20 名
 
@@ -89,7 +89,7 @@
 | <nobr>北仑区</nobr> | <nobr>小港街道</nobr> | 朱家渡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql081.htm) | 石梁桥（五孔） | 49.2米 | 清光绪二十四年（1898）重建 | 宁波市文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>—</nobr> | 皎碶桥 [?](http://www.china-qiao.com/ql15/nbql/nbql118.htm) | 石拱桥（三孔） | 27.3米 | 清 | 宁波市文物保护单位 |
 | <nobr>鄞州区</nobr> | <nobr>姜山镇</nobr> | 昼锦桥 [?](http://www.china-qiao.com/ql15/nbql/nbql127.htm) | 石梁桥（三孔） | 11米 | 明嘉靖十四年（1535）建 | 宁波市文物保护单位 |
-| <nobr>鄞州区</nobr> | <nobr>东钱湖镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/nbql/nbql374.htm) | 石拱桥 | 18.6米 | 民国十九年（1930）建 | 宁波市文物保护单位 |
+| <nobr>鄞州区</nobr> | <nobr>东钱湖镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/nbql/nbql374.htm) | 钢筋混凝土拱桥（三孔） | 18.6米 | 民国十九年（1930）建 | 宁波市文物保护单位 |
 | <nobr>奉化区</nobr> | <nobr>西坞街道</nobr> | 居敬桥 [?](http://www.china-qiao.com/ql15/nbql/nbql293.htm) | 石拱桥（三孔） | 29.60米 | 明 | 宁波市文物保护单位 |
 | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | 宁波市文物保护单位 |
 

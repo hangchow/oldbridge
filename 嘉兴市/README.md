@@ -34,21 +34,21 @@
 | <nobr>3</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/jxql/jxql043.htm) | 石拱桥（三孔） | 30米 | 明万历年间始建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867）重修 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql153.htm) | 石拱桥 | 29.4米 | 清同治六年（1867） | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>秀洲区</nobr> | <nobr>新塍镇</nobr> | 天竺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql330.htm) | — | 29.2米 | 清 | <nobr>市级文物保护点</nobr> |
-| <nobr>7</nobr> | <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 冯夷桥（冯姨桥） [?](http://www.china-qiao.com/ql15/jxql/jxql242.htm) | — | 28.7米 | 1936年 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>秀洲区</nobr> | <nobr>新塍镇</nobr> | 天竺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql330.htm) | 石梁桥（三孔） | 29.2米 | 清 | <nobr>市级文物保护点</nobr> |
+| <nobr>7</nobr> | <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 冯夷桥（冯姨桥） [?](http://www.china-qiao.com/ql15/jxql/jxql242.htm) | 石梁桥（三孔） | 28.7米 | 1936年 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>8</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/jxql/jxql257.htm) | 石拱桥（单孔） | 27.4米 | 民国二年（1913） | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 闻店桥 [?](http://www.china-qiao.com/ql15/jxql/jxql044.htm) | 石拱桥（单孔） | 24.4米 | 清道光七年（1827）重建 | <nobr>市级文物保护点</nobr> |
-| <nobr>10</nobr> | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | — | 24米 | 清乾隆十四年（1749）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | 石梁桥（五孔） | 24米 | 清乾隆十四年（1749）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>11</nobr> | <nobr>嘉善县</nobr> | <nobr>姚庄镇</nobr> | 耳顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql313.htm) | 石梁桥（三孔） | 23.6米 | 清乾隆五年（1740）始建，清道光二年（1822）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>12</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 栖真村南湖大桥 [?](http://www.china-qiao.com/ql15/jxql/jxql348.htm) | — | 23.56米 | 清道光二十三年（1843）建 | <nobr>市级文物保护点</nobr> |
 | <nobr>13</nobr> | <nobr>桐乡市</nobr> | <nobr>洲泉镇</nobr> | 万年桥 [?](http://www.china-qiao.com/ql15/jxql/jxql251.htm) | 石拱桥（单孔） | 23.4米 | 清雍正七年（1729）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>14</nobr> | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>15</nobr> | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 仁济桥 [?](http://www.china-qiao.com/ql15/jxql/jxql152.htm) | 石拱桥（单孔） | 22.6米 | 清雍正十二年（1734）重建，清同治年间重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>16</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | — | 22.3米 | 民国 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | 石梁桥（五孔） | 22.3米 | 民国 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>17</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 长生桥 [?](http://www.china-qiao.com/ql15/jxql/jxql347.htm) | — | 22米 | 清乾隆五十五年（1790）建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>18</nobr> | <nobr>南湖区</nobr> | <nobr>大桥镇</nobr> | 陆宣泾桥 [?](http://www.china-qiao.com/ql15/jxql/jxql463.htm) | 石梁桥（三孔） | 21.72米 | 清光绪三十二年（1906）重建 | <nobr>市级文物保护点</nobr> |
 | <nobr>19</nobr> | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 步云桥 [?](http://www.china-qiao.com/ql15/jxql/jxql349.htm) | — | 21.59米 | 1914年 | <nobr>市级文物保护点</nobr> |
-| <nobr>20</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 八字村牛桥 [?](http://www.china-qiao.com/ql15/jxql/jxql437.htm) | 石梁桥 | 21.17米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 八字村牛桥 [?](http://www.china-qiao.com/ql15/jxql/jxql437.htm) | 石梁桥（五孔） | 21.17米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
 
 只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 54 座中排序。
 
@@ -107,9 +107,9 @@
 | <nobr>海宁市</nobr> | <nobr>硖石街道</nobr> | 紫薇桥 [?](http://www.china-qiao.com/ql15/jxql/jxql068.htm) | 石拱桥（单孔） | — | 元大德七年（1303）建 | 海宁市文物保护单位（第二批） |
 | <nobr>海宁市</nobr> | <nobr>长安镇</nobr> | 虹桥 [?](http://www.china-qiao.com/ql15/jxql/jxql073.htm) | 石拱桥（单孔） | 11.5米 | 清咸丰元年（1851）重建，清咸丰二年（1852）重建 | 海宁市文物保护单位（第二批） |
 | <nobr>海宁市</nobr> | <nobr>硖石街道</nobr> | 下渡桥 [?](http://www.china-qiao.com/ql15/jxql/jxql083.htm) | 石拱桥（单孔） | 10.7米 | 民国十二年（1923） | 海宁市文物保护单位（第六批） |
-| <nobr>海宁市</nobr> | <nobr>海昌街道</nobr> | 天神桥 [?](http://www.china-qiao.com/ql15/jxql/jxql438.htm) | 石梁桥 | 19米 | 清光绪十七年（1891） | 海宁市文物保护单位（第六批） |
+| <nobr>海宁市</nobr> | <nobr>海昌街道</nobr> | 天神桥 [?](http://www.china-qiao.com/ql15/jxql/jxql438.htm) | 石梁桥（三孔） | 19米 | 清光绪十七年（1891） | 海宁市文物保护单位（第六批） |
 | <nobr>海宁市</nobr> | <nobr>斜桥镇</nobr> | 德义桥 [?](http://www.china-qiao.com/ql15/jxql/jxql075.htm) | 石梁桥（三孔） | — | 明永乐十二年（1414） | 海宁市文物保护单位（第六批） |
-| <nobr>海宁市</nobr> | <nobr>斜桥镇</nobr> | 德风桥 [?](http://www.china-qiao.com/ql15/jxql/jxql076.htm) | 石梁桥 | 13.4米 | 清道光二年（1822） | 海宁市文物保护单位（第六批） |
+| <nobr>海宁市</nobr> | <nobr>斜桥镇</nobr> | 德风桥 [?](http://www.china-qiao.com/ql15/jxql/jxql076.htm) | 石梁桥（三孔） | 13.4米 | 清道光二年（1822） | 海宁市文物保护单位（第六批） |
 | <nobr>海宁市</nobr> | <nobr>许村镇</nobr> | 鲁家桥 [?](http://www.china-qiao.com/ql15/jxql/jxql071.htm) | 石拱桥（单孔） | 11.0米 | 清 | 海宁市文物保护单位（第六批） |
 | <nobr>海宁市</nobr> | <nobr>盐官镇</nobr> | 宜家桥 [?](http://www.china-qiao.com/ql15/jxql/jxql080.htm) | 石拱桥（单孔） | 17.8米 | 清康熙年间始建 | 海宁市文物保护单位（第六批） |
 | <nobr>海宁市</nobr> | <nobr>许村镇</nobr> | 黄安桥 [?](http://www.china-qiao.com/ql15/jxql/jxql070.htm) | — | 18.0米 | 清 | 海宁市文物保护单位（第七批） |
@@ -175,17 +175,17 @@
 | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 利生桥 | — | — | 清嘉庆四年（1799） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>海盐县</nobr> | <nobr>武原街道</nobr> | 胥溪桥 | — | — | 元至清 | 海盐县文物保护单位 |
-| <nobr>海盐县</nobr> | <nobr>武原街道</nobr> | 东黄桥 [?](http://www.china-qiao.com/ql15/jxql/jxql440.htm) | 石梁桥 | 18.12米 | 清乾隆十九年（1754）重建 | 海盐县文物保护单位 |
+| <nobr>海盐县</nobr> | <nobr>武原街道</nobr> | 东黄桥 [?](http://www.china-qiao.com/ql15/jxql/jxql440.htm) | 石梁桥（五孔） | 18.12米 | 清乾隆十九年（1754）重建 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>元通街道</nobr> | 重建洪明桥 | — | — | 清 | 海盐县文物保护单位 |
-| <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 冯夷桥（冯姨桥） [?](http://www.china-qiao.com/ql15/jxql/jxql242.htm) | — | 28.7米 | 1936年 | 海盐县文物保护单位 |
+| <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 冯夷桥（冯姨桥） [?](http://www.china-qiao.com/ql15/jxql/jxql242.htm) | 石梁桥（三孔） | 28.7米 | 1936年 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>沈荡镇</nobr> | 永庆塘桥（沈荡大桥） | — | — | 清光绪八年 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 重建任祠堂桥 | — | — | 清嘉庆四年（1799） | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 小杨家桥 | — | — | 不详 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 来龙桥 | — | — | 明 | 海盐县文物保护单位 |
-| <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | — | 24米 | 清乾隆十四年（1749）重建 | 海盐县文物保护单位 |
+| <nobr>海盐县</nobr> | <nobr>百步镇</nobr> | 蔡家坟桥 [?](http://www.china-qiao.com/ql15/jxql/jxql243.htm) | 石梁桥（五孔） | 24米 | 清乾隆十四年（1749）重建 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 重建太平桥 | — | — | 清 | 海盐县文物保护单位 |
-| <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 八字村牛桥 [?](http://www.china-qiao.com/ql15/jxql/jxql437.htm) | 石梁桥 | 21.17米 | 清 | 海盐县文物保护单位 |
-| <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | — | 22.3米 | 民国 | 海盐县文物保护单位 |
+| <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 八字村牛桥 [?](http://www.china-qiao.com/ql15/jxql/jxql437.htm) | 石梁桥（五孔） | 21.17米 | 清 | 海盐县文物保护单位 |
+| <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 景星桥 [?](http://www.china-qiao.com/ql15/jxql/jxql464.htm) | 石梁桥（五孔） | 22.3米 | 民国 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>于城镇</nobr> | 重建冯师娘桥 | — | — | 清 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 韩家桥重建永宁桥 | — | — | 清 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>通元镇</nobr> | 重建望龙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql241.htm) | 石梁桥（五孔） | — | 明万历二十三年（1595） | 海盐县文物保护单位 |

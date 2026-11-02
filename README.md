@@ -48,7 +48,7 @@
 | <nobr>23</nobr> | <nobr>嘉兴市</nobr> | <nobr>秀洲区</nobr> | <nobr>王江泾镇</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/jxql/jxql043.htm) | 石拱桥（三孔） | 30米 | 明万历年间始建 | 全国重点文物保护单位（大运河组成部分） |
 | <nobr>24</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | — | — | 明清重建 | 全国重点文物保护单位（第五批） |
 | <nobr>25</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 思本桥 [?](http://www.china-qiao.com/ql16/szql/szql368.htm) | 石拱桥（单孔） | 22.5米 | 宋 | 全国重点文物保护单位（第七批） |
-| <nobr>26</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥 | 21.5米 | 南宋绍定年间建 | 全国重点文物保护单位（第七批） |
+| <nobr>26</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥（三孔） | 21.5米 | 南宋绍定年间建 | 全国重点文物保护单位（第七批） |
 | <nobr>27</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | 石拱桥（七十二孔） | — | 元、明 | 全国重点文物保护单位（第八批） |
 | <nobr>28</nobr> | <nobr>苏州市</nobr> | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 州桥 [?](http://www.china-qiao.com/ql16/szql/szql546.htm) | 石拱桥（单孔） | — | 元天历二年（1329）建 | 全国重点文物保护单位（第六批） |
 | <nobr>29</nobr> | <nobr>苏州市</nobr> | <nobr>太仓市</nobr> | <nobr>城厢镇</nobr> | 皋桥 [?](http://www.china-qiao.com/ql16/szql/szql547.htm) | 石拱桥（单孔） | — | 元 | 全国重点文物保护单位（第六批） |
@@ -135,7 +135,7 @@
 | <nobr>19</nobr> | <nobr>台州市</nobr> | <nobr>临海市</nobr> | <nobr>—</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | — | <nobr>省级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>上海市</nobr> | <nobr>青浦区</nobr> | <nobr>朱家角镇</nobr> | 放生桥 [?](http://www.china-qiao.com/ql02/shql274.htm) | 石拱桥（五孔） | 70.8米 | 明隆庆五年（1571）始建，清嘉庆十七年（1812）重建 | <nobr>市级文物保护单位</nobr> |
 
-只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 551 座中排序，大部分桥还没有长度数据。
+只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 544 座中排序，大部分桥还没有长度数据。
 
 ## 本项目收录范围内桥身刻字最早的前 20 名
 
@@ -152,7 +152,7 @@
 | <nobr>9</nobr> | <nobr>杭州市</nobr> | <nobr>西湖区</nobr> | <nobr>留下街道</nobr> | [忠义桥](文保名录/杭州市/云端档案/33_忠义桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 石拱桥（单孔） | 1218 | [拱板题记“嘉定戊寅”](http://www.china-qiao.com/ql15/hz_ql/hzvql233.htm) | 南宋嘉定十一年（1218）建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>湖州市</nobr> | <nobr>长兴县</nobr> | <nobr>吕山乡</nobr> | 钮店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 石梁桥（四墩五孔） | 1219 | [排柱刻“岁次嘉定十二年……罗氏十二娘重建”](http://www.china-qiao.com/ql15/hzql/hzql346.htm) | 清 | <nobr>县级文物保护点</nobr> |
 | <nobr>11</nobr> | <nobr>湖州市</nobr> | <nobr>德清县</nobr> | <nobr>武康街道</nobr> | 僧家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql563.htm) | 石梁桥（三孔） | 1226 | [中孔桥柱刻“皇宋宝庆二年季夏上旬吉日重建”](http://www.china-qiao.com/ql15/hzql/hzql563.htm) | 宋、元、清；南宋宝庆二年（1226）重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>12</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥 | 绍定年间（1228—1233） | [中跨梁石侧面刻“绍定”二字](http://www.china-qiao.com/ql16/szql/szql418.htm) | 南宋绍定年间建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>苏州市</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 东庙桥 [?](http://www.china-qiao.com/ql16/szql/szql418.htm) | 石梁桥（三孔） | 绍定年间（1228—1233） | [中跨梁石侧面刻“绍定”二字](http://www.china-qiao.com/ql16/szql/szql418.htm) | 南宋绍定年间建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>13</nobr> | <nobr>湖州市</nobr> | <nobr>南浔区</nobr> | <nobr>菱湖镇</nobr> | 宝蓄桥 [?](http://www.china-qiao.com/ql15/hzql/hzql444.htm) | — | 淳祐年间（1241—1252） | [有南宋淳祐、明正统的纪年题刻](http://www.china-qiao.com/ql15/hzql/hzql444.htm) | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>14</nobr> | <nobr>杭州市</nobr> | <nobr>建德市</nobr> | <nobr>乾潭镇</nobr> | [西山桥](文保名录/杭州市/云端档案/44_西山桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql329.htm) | 石拱桥（条石折边单拱） | 1265 | [桥面边石刻题记“咸淳岁在乙丑”](http://www.china-qiao.com/ql15/hz_ql/hzvql329.htm) | 南宋 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>15</nobr> | <nobr>上海市</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 1267 | [拱石镌刻“咸淳三年”](http://www.china-qiao.com/ql02/shql291.htm) | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
