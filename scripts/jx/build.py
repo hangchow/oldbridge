@@ -107,6 +107,11 @@ def rank(r): return next((i for i, k in enumerate(ORDER) if r['level'].startswit
 def imgbase(r, rs):
     n = core(r['name']); same = [x for x in rs if core(x['name']) == n]
     return (r['town'] + n) if len(same) > 1 else n
+# 政府原件（文保名录/，build/official.py 提取）里有、上面没收的桥
+for o in (json.load(open(S + '/build/official.json')).get('嘉兴市', []) if os.path.exists(S + '/build/official.json') else []):
+    if any(x['dist'] == o['dist'] and core(x['name']) == core(o['name']) for x in R): continue
+    u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]
+    e(o['dist'], o['town'], o['name'], o['era'], o['loc'], o['lvtxt'], o['doc'], u)
 # 不在文保名录、老百晓集桥收录的古桥（尚未定级，待核实；build/unlisted.py）
 for u in (json.load(open(S + '/build/unlisted.json')).get('嘉兴市', []) if os.path.exists(S + '/build/unlisted.json') else []):
     if not any(x['dist'] == u['dist'] and re.sub(r'（.*?）', '', x['name']) == u['name'] for x in R): R.append(dict(u, struct='—', len='—'))
