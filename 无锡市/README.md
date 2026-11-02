@@ -27,28 +27,28 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 鲸塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql226.htm) | 石拱桥（三孔） | 52米 | 明、清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>江阴市</nobr> | <nobr>夏港镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql154.htm) | 石梁桥（三孔） | 50.7米 | 宋至清；清顺治十四年（1657）建成 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 张泽桥 [?](http://www.china-qiao.com/ql16/wxql/wxql274.htm) | 石拱桥（三孔） | 45.95米 | 明、清；清康熙五十四年（1715）重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>梁溪区</nobr> | <nobr>—</nobr> | 清名桥 [?](http://www.china-qiao.com/ql16/wxql/wxql050.htm) | 石拱桥（单孔） | 43.2米 | — | <nobr>省级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 画溪桥 [?](http://www.china-qiao.com/ql16/wxql/wxql264.htm) | 石拱桥（三孔） | 34.94米 | 清康熙四十四年（1705）易木为石 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 福田桥 [?](http://www.china-qiao.com/ql16/wxql/wxql219.htm) | 石拱桥（单孔） | 34.6米 | 明、清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>江阴市</nobr> | <nobr>青阳镇</nobr> | 三元桥 [?](http://www.china-qiao.com/ql16/wxql/wxql165.htm) | — | 34.5米 | 明嘉靖六年（1527）建，民国八年（1919）重建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>8</nobr> | <nobr>江阴市</nobr> | <nobr>—</nobr> | 马镇大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql172.htm) | — | 32.5米 | 明至民国；民国年间重修 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>9</nobr> | <nobr>江阴市</nobr> | <nobr>桐岐镇</nobr> | 桐岐万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql167.htm) | 石拱桥（单孔） | 32米 | 清光绪二十七年（1901）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 新桥 [?](http://www.china-qiao.com/ql16/wxql/wxql202.htm) | 石拱桥（单孔） | 31.30米 | 明、清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>11</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 东仓桥 [?](http://www.china-qiao.com/ql16/wxql/wxql195.htm) | 石拱桥（单孔） | 30米 | 明、清；清咸丰年间重修 | <nobr>省级文物保护单位</nobr> |
-| <nobr>12</nobr> | <nobr>宜兴市</nobr> | <nobr>官林镇</nobr> | 大虞桥 [?](http://www.china-qiao.com/ql16/wxql/wxql232.htm) | 石梁桥（单孔） | 29.20米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>13</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 大浦桥 [?](http://www.china-qiao.com/ql16/wxql/wxql265.htm) | 石拱桥（单孔） | 27.2米 | 明成化四年（1468）建，清康熙四年（1665）重修 | <nobr>省级文物保护单位</nobr> |
-| <nobr>14</nobr> | <nobr>梁溪区</nobr> | <nobr>南禅寺街道</nobr> | 耕读桥 [?](http://www.china-qiao.com/ql16/wxql/wxql133.htm) | 石拱桥（单孔） | 27米 | 清光绪二十三年（1897）重建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>15</nobr> | <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 承先桥 [?](http://www.china-qiao.com/ql16/wxql/wxql186.htm) | — | 25米 | 明代 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>16</nobr> | <nobr>梁溪区</nobr> | <nobr>迎龙桥街道</nobr> | 迎龙桥 [?](http://www.china-qiao.com/ql16/wxql/wxql128.htm) | 石拱桥（单孔） | 23.5米 | 清乾隆三年（1738）始建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 中阳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql263.htm) | 石梁桥（三孔） | 22.84米 | 民国十年（1921） | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>江阴市</nobr> | <nobr>青阳镇</nobr> | 芦经桥 [?](http://www.china-qiao.com/ql16/wxql/wxql170.htm) | — | 22.4米 | 民国二十四年（1935） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>19</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 阳溪桥 [?](http://www.china-qiao.com/ql16/wxql/wxql233.htm) | 石梁桥（单孔） | 22.10米 | 明嘉靖三十一年（1552）建，清宣统元年（1909）重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>梁溪区</nobr> | <nobr>惠山街道</nobr> | 兴隆桥 [?](http://www.china-qiao.com/ql16/wxql/wxql127.htm) | 石拱桥（单孔） | 21.6米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>滨湖区</nobr> | <nobr>—</nobr> | 宝界桥 [?](http://www.china-qiao.com/ql16/wxql/wxql092.htm) | 石梁桥（六十孔） | 375米 | 1934年 | <nobr>省级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 鲸塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql226.htm) | 石拱桥（三孔） | 52米 | 明、清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>江阴市</nobr> | <nobr>夏港镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql154.htm) | 石梁桥（三孔） | 50.7米 | 宋至清；清顺治十四年（1657）建成 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 张泽桥 [?](http://www.china-qiao.com/ql16/wxql/wxql274.htm) | 石拱桥（三孔） | 45.95米 | 明、清；清康熙五十四年（1715）重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>梁溪区</nobr> | <nobr>—</nobr> | 清名桥 [?](http://www.china-qiao.com/ql16/wxql/wxql050.htm) | 石拱桥（单孔） | 43.2米 | — | <nobr>省级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 画溪桥 [?](http://www.china-qiao.com/ql16/wxql/wxql264.htm) | 石拱桥（三孔） | 34.94米 | 清康熙四十四年（1705）易木为石 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 福田桥 [?](http://www.china-qiao.com/ql16/wxql/wxql219.htm) | 石拱桥（单孔） | 34.6米 | 明、清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>江阴市</nobr> | <nobr>青阳镇</nobr> | 三元桥 [?](http://www.china-qiao.com/ql16/wxql/wxql165.htm) | — | 34.5米 | 明嘉靖六年（1527）建，民国八年（1919）重建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>9</nobr> | <nobr>江阴市</nobr> | <nobr>—</nobr> | 马镇大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql172.htm) | — | 32.5米 | 明至民国；民国年间重修 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>江阴市</nobr> | <nobr>桐岐镇</nobr> | 桐岐万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql167.htm) | 石拱桥（单孔） | 32米 | 清光绪二十七年（1901）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 新桥 [?](http://www.china-qiao.com/ql16/wxql/wxql202.htm) | 石拱桥（单孔） | 31.30米 | 明、清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 东仓桥 [?](http://www.china-qiao.com/ql16/wxql/wxql195.htm) | 石拱桥（单孔） | 30米 | 明、清；清咸丰年间重修 | <nobr>省级文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>宜兴市</nobr> | <nobr>官林镇</nobr> | 大虞桥 [?](http://www.china-qiao.com/ql16/wxql/wxql232.htm) | 石梁桥（单孔） | 29.20米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 大浦桥 [?](http://www.china-qiao.com/ql16/wxql/wxql265.htm) | 石拱桥（单孔） | 27.2米 | 明成化四年（1468）建，清康熙四年（1665）重修 | <nobr>省级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>梁溪区</nobr> | <nobr>南禅寺街道</nobr> | 耕读桥 [?](http://www.china-qiao.com/ql16/wxql/wxql133.htm) | 石拱桥（单孔） | 27米 | 清光绪二十三年（1897）重建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 承先桥 [?](http://www.china-qiao.com/ql16/wxql/wxql186.htm) | — | 25米 | 明代 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>梁溪区</nobr> | <nobr>迎龙桥街道</nobr> | 迎龙桥 [?](http://www.china-qiao.com/ql16/wxql/wxql128.htm) | 石拱桥（单孔） | 23.5米 | 清乾隆三年（1738）始建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 中阳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql263.htm) | 石梁桥（三孔） | 22.84米 | 民国十年（1921） | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>江阴市</nobr> | <nobr>青阳镇</nobr> | 芦经桥 [?](http://www.china-qiao.com/ql16/wxql/wxql170.htm) | — | 22.4米 | 民国二十四年（1935） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>20</nobr> | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 阳溪桥 [?](http://www.china-qiao.com/ql16/wxql/wxql233.htm) | 石梁桥（单孔） | 22.10米 | 明嘉靖三十一年（1552）建，清宣统元年（1909）重建 | <nobr>省级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 48 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 49 座中排序。
 
 ## 无锡市桥身刻字最早的前 20 名
 
@@ -62,7 +62,7 @@
 |---|---|---|---|---|---|---|
 | <nobr>梁溪区</nobr> | <nobr>—</nobr> | 清名桥 [?](http://www.china-qiao.com/ql16/wxql/wxql050.htm) | 石拱桥（单孔） | 43.2米 | — | 江苏省文物保护单位（“清名桥及沿河建筑”组成部分） |
 | <nobr>滨湖区</nobr> | <nobr>—</nobr> | 扬名大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql140.htm) | — | — | 清代 | 江苏省文物保护单位（610） |
-| <nobr>滨湖区</nobr> | <nobr>—</nobr> | 宝界桥 | — | — | 1934年 | 江苏省文物保护单位（785） |
+| <nobr>滨湖区</nobr> | <nobr>—</nobr> | 宝界桥 [?](http://www.china-qiao.com/ql16/wxql/wxql092.htm) | 石梁桥（六十孔） | 375米 | 1934年 | 江苏省文物保护单位（785） |
 | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 步龙桥 [?](http://www.china-qiao.com/ql16/wxql/wxql225.htm) | 石拱桥（单孔） | 19米 | 明、清；明万历元年（1573）建 | 江苏省文物保护单位（“宜兴古桥梁”组成部分，580） |
 | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 大浦桥 [?](http://www.china-qiao.com/ql16/wxql/wxql265.htm) | 石拱桥（单孔） | 27.2米 | 明成化四年（1468）建，清康熙四年（1665）重修 | 江苏省文物保护单位（“宜兴古桥梁”组成部分，580） |
 | <nobr>宜兴市</nobr> | <nobr>—</nobr> | 东仓桥 [?](http://www.china-qiao.com/ql16/wxql/wxql195.htm) | 石拱桥（单孔） | 30米 | 明、清；清咸丰年间重修 | 江苏省文物保护单位（“宜兴古桥梁”组成部分，580） |

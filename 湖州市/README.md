@@ -144,7 +144,7 @@
 | <nobr>吴兴区</nobr> | <nobr>织里镇</nobr> | 太平桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
 | <nobr>吴兴区</nobr> | <nobr>八里店镇</nobr> | 湧苍桥 [?](http://www.china-qiao.com/ql15/hzql/hzql512.htm) | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
 | <nobr>吴兴区</nobr> | <nobr>高新区</nobr> | 戴步桥 [?](http://www.china-qiao.com/ql15/hzql/hzql882.htm) | — | — | 清光绪十年（1884）重建 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>吴兴区</nobr> | <nobr>滨湖街道</nobr> | 至大桥 | — | — | 元 | 湖州市文物保护单位（第八批，2015年） |
+| <nobr>吴兴区</nobr> | <nobr>滨湖街道</nobr> | 至大桥 [?](http://www.china-qiao.com/ql15/hzql/hzql776.htm) | — | — | 元 | 湖州市文物保护单位（第八批，2015年） |
 | <nobr>吴兴区</nobr> | <nobr>滨湖街道</nobr> | 毓秀桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
 | <nobr>吴兴区</nobr> | <nobr>东林镇</nobr> | 迎福桥 | — | — | 元 | 湖州市文物保护单位（第八批，2015年） |
 | <nobr>吴兴区</nobr> | <nobr>东林镇</nobr> | 宁远桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
@@ -238,7 +238,7 @@
 | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 咸宁桥 | — | — | 清 | 德清县文物保护单位（第三批，2010年） |
 | <nobr>安吉县</nobr> | <nobr>杭垓镇</nobr> | 长丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql371.htm) | 石拱桥（单孔） | 35米 | 清乾隆五十四年（1789）重建 | 安吉县文物保护单位（第三批，1997年） |
 | <nobr>安吉县</nobr> | <nobr>递铺街道</nobr> | 李王桥 [?](http://www.china-qiao.com/ql15/hzql/hzql403.htm) | 石拱桥（单孔） | 28米 | 清 | 安吉县文物保护单位（第四批，2005年） |
-| <nobr>安吉县</nobr> | <nobr>梅溪镇</nobr> | 长安桥 | — | — | 清 | 安吉县文物保护单位（第四批，2005年） |
+| <nobr>安吉县</nobr> | <nobr>梅溪镇</nobr> | 长安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql357.htm) | 石拱桥（单孔） | — | 清 | 安吉县文物保护单位（第四批，2005年） |
 | <nobr>安吉县</nobr> | <nobr>梅溪镇</nobr> | 浮塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql376.htm) | 石梁桥（七孔） | — | 清 | 安吉县文物保护单位（第四批，2005年） |
 | <nobr>安吉县</nobr> | <nobr>杭垓镇</nobr> | 永安桥 | — | — | 清 | 安吉县文物保护单位（第四批，2005年） |
 | <nobr>安吉县</nobr> | <nobr>章村镇</nobr> | 凤仪桥 [?](http://www.china-qiao.com/ql15/hzql/hzql408.htm) | 石拱桥（单孔） | 11.1米 | 明清 | 安吉县文物保护单位（第四批，2005年） |

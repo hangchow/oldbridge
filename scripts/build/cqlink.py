@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # 生成 老百晓集桥 链接表：城市|区县|乡镇|桥名 -> 网页地址（匹配规则与 dl_cq.py / cq2/match.py 相同，唯一匹配才采用）
 import os
-import json, re
+import json, re, collections
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 OUT = {}
 # 杭州
@@ -43,6 +43,11 @@ core2 = lambda n: re.sub(r'（.*?）|\(.*?\)|\s|^重建', '', n)
 short = lambda x: re.sub(r'(新区|街道|镇|乡|区|县|市)$', '', x)
 ALLD = sorted({d for cf in json.load(open(S + '/zj/cities.json')).values() for d in cf['dists']} | set('吴兴区 南浔区 德清县 长兴县 安吉县 南湖区 秀洲区 嘉善县 平湖市 海盐县 海宁市 桐乡市 姑苏区 虎丘区 吴中区 相城区 吴江区 常熟市 张家港市 昆山市 太仓市 婺城区 金东区 兰溪市 东阳市 义乌市 永康市 浦江县 武义县 磐安县'.split()))
 ODIST = lambda t, d: any(x in t for x in ALLD if x != d and not d.startswith(x[:-1]))   # 标题写了别的区县（如“惠山区”不能配“梁溪区惠山街道”）
+# 标题只写市名的页面一般是市中心城区的桥
+CORE = {'南京市': ('秦淮区', '玄武区', '鼓楼区', '建邺区'), '苏州市': ('姑苏区',), '无锡市': ('梁溪区', '滨湖区'), '常州市': ('天宁区', '钟楼区'),
+        '镇江市': ('京口区', '润州区'), '宁波市': ('海曙区', '江北区', '鄞州区'), '湖州市': ('吴兴区',), '嘉兴市': ('南湖区', '秀洲区'),
+        '绍兴市': ('越城区',), '金华市': ('婺城区', '金东区'), '衢州市': ('柯城区', '衢江区'), '台州市': ('椒江区', '黄岩区', '路桥区'),
+        '温州市': ('鹿城区', '龙湾区', '瓯海区'), '丽水市': ('莲都区',), '舟山市': ('定海区', '普陀区'), '上海市': ('黄浦区', '静安区', '虹口区', '徐汇区')}
 for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh'), ('苏州市', 'sz'), ('金华市', 'jh'), ('绍兴市', 'sx'), ('宁波市', 'nb'), ('衢州市', 'qz'), ('台州市', 'tz'), ('温州市', 'wz'), ('丽水市', 'ls'), ('舟山市', 'zs'), ('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs')]:
     BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz', 'wx', 'nj', 'cz', 'zjs') else 'ql15/')
     if key == 'sh':
@@ -51,7 +56,8 @@ for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh')
     elif key in ('sz', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
     elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
     else: I = json.load(open(f'{S}/cq2/idx.json'))
-    for r in json.load(open(f'{S}/{key}/rows.json')):
+    RS = json.load(open(f'{S}/{key}/rows.json')); NC = collections.Counter(core2(x['name']) for x in RS)
+    for r in RS:
         n = core2(r['name'])
         if '、' in n or len(n) < 2: continue
         vill = [v[:-1] for v in re.findall(r'[一-龥]{2,4}?村', r['loc'] or '')]
@@ -61,6 +67,8 @@ for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh')
             if len(c) > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]
         else:
             c = [(p, t) for p, t in I.items() if t.endswith(n) and short(r['dist']) in t and any(x and x in t for x in ctx)]
+        if not c and NC[n] == 1 and r['dist'] in CORE.get(city, ()):   # 标题只写市名（如“南京市七桥瓮”）：桥名在本市名录唯一、目录里也唯一才认
+            c = [(p, t) for p, t in I.items() if re.sub(r'^.*?——', '', t) in (city + n, city[:-1] + n)]
         if len(c) == 1: OUT[f"{city}|{r['dist']}|{r['town']}|{r['name']}"] = BASE + c[0][0]
 # 国保、省保逐座人工核对过的页面（名称或乡镇写法不同，自动匹配不到）
 B = 'http://www.china-qiao.com/'
