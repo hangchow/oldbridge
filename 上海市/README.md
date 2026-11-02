@@ -1,6 +1,6 @@
 # 上海市古桥
 
-共收录 308 座桥。
+共收录 314 座桥。
 
 ## 按级别统计
 
@@ -9,19 +9,19 @@
 | <nobr>市级文物保护单位</nobr> | <nobr>6</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>89</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>49</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>164</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>170</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[奉贤区](奉贤区/奉贤区古桥.md)</nobr> | <nobr>105</nobr> |
-| <nobr>[金山区](金山区/金山区古桥.md)</nobr> | <nobr>58</nobr> |
-| <nobr>[青浦区](青浦区/青浦区古桥.md)</nobr> | <nobr>44</nobr> |
+| <nobr>[奉贤区](奉贤区/奉贤区古桥.md)</nobr> | <nobr>107</nobr> |
+| <nobr>[金山区](金山区/金山区古桥.md)</nobr> | <nobr>59</nobr> |
+| <nobr>[青浦区](青浦区/青浦区古桥.md)</nobr> | <nobr>46</nobr> |
 | <nobr>[嘉定区](嘉定区/嘉定区古桥.md)</nobr> | <nobr>31</nobr> |
 | <nobr>[闵行区](闵行区/闵行区古桥.md)</nobr> | <nobr>28</nobr> |
+| <nobr>[浦东新区](浦东新区/浦东新区古桥.md)</nobr> | <nobr>16</nobr> |
 | <nobr>[松江区](松江区/松江区古桥.md)</nobr> | <nobr>15</nobr> |
-| <nobr>[浦东新区](浦东新区/浦东新区古桥.md)</nobr> | <nobr>15</nobr> |
 | <nobr>[宝山区](宝山区/宝山区古桥.md)</nobr> | <nobr>7</nobr> |
 | <nobr>[黄浦区](黄浦区/黄浦区古桥.md)</nobr> | <nobr>2</nobr> |
 | <nobr>[静安区](静安区/静安区古桥.md)</nobr> | <nobr>1</nobr> |
@@ -177,6 +177,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（164 座）
+### 尚未定级（待核实）（170 座）
 
 数量较多，见各区县文件。

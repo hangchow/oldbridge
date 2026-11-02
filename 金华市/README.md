@@ -1,6 +1,6 @@
 # 金华市古桥
 
-共收录 124 座桥。
+共收录 129 座桥。
 
 ## 按级别统计
 
@@ -10,7 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>11</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>15</nobr> |
 | <nobr>市级文物保护点</nobr> | <nobr>69</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>27</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>32</nobr> |
 
 ## 各区县桥梁数量（降序）
 
@@ -18,11 +18,11 @@
 |---|---|
 | <nobr>[永康市](永康市/永康市古桥.md)</nobr> | <nobr>30</nobr> |
 | <nobr>[义乌市](义乌市/义乌市古桥.md)</nobr> | <nobr>20</nobr> |
-| <nobr>[武义县](武义县/武义县古桥.md)</nobr> | <nobr>18</nobr> |
+| <nobr>[武义县](武义县/武义县古桥.md)</nobr> | <nobr>19</nobr> |
+| <nobr>[金东区](金东区/金东区古桥.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[东阳市](东阳市/东阳市古桥.md)</nobr> | <nobr>13</nobr> |
-| <nobr>[金东区](金东区/金东区古桥.md)</nobr> | <nobr>11</nobr> |
 | <nobr>[兰溪市](兰溪市/兰溪市古桥.md)</nobr> | <nobr>10</nobr> |
-| <nobr>[婺城区](婺城区/婺城区古桥.md)</nobr> | <nobr>8</nobr> |
+| <nobr>[婺城区](婺城区/婺城区古桥.md)</nobr> | <nobr>10</nobr> |
 | <nobr>[浦江县](浦江县/浦江县古桥.md)</nobr> | <nobr>7</nobr> |
 | <nobr>[磐安县](磐安县/磐安县古桥.md)</nobr> | <nobr>7</nobr> |
 
@@ -35,23 +35,23 @@
 | <nobr>3</nobr> | <nobr>兰溪市</nobr> | <nobr>梅江镇</nobr> | 通洲桥 [?](http://www.china-qiao.com/ql15/jhql/jhql037.htm) | 石拱木梁廊桥（五孔） | 84.8米 | 清道光三年（1823）重修 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 萧家小龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql191.htm) | 石梁桥（多孔，孔数待查） | 75.3米 | — | <nobr>省级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>浦江县</nobr> | <nobr>杭坪镇</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/jhql/jhql120.htm) | 石拱桥（五孔） | 64.6米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 席场桥 [?](http://www.china-qiao.com/ql15/jhql/jhql122.htm) | 石梁桥（四孔） | 54.14米 | 南宋宝庆三年（1227）始建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>7</nobr> | <nobr>义乌市</nobr> | <nobr>上溪镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql062.htm) | 石拱桥（三孔） | 52.2米 | 清嘉庆二十年（1815） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>8</nobr> | <nobr>武义县</nobr> | <nobr>俞源乡</nobr> | 安济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql260.htm) | 石拱桥（三孔） | 51.96米 | 清光绪二十四年（1898） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>9</nobr> | <nobr>磐安县</nobr> | <nobr>冷水镇</nobr> | 蹬步桥 [?](http://www.china-qiao.com/ql15/jhql/jhql138.htm) | — | 49米 | 明 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>10</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/jhql/jhql032.htm) | 石拱桥（单孔） | 36.90米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>11</nobr> | <nobr>义乌市</nobr> | <nobr>赤岸镇</nobr> | 古月桥 [?](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 石拱桥（单孔） | 31.20米 | 南宋嘉定六年（1213） | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>12</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql031.htm) | — | 30米 | 清道光年间建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>13</nobr> | <nobr>义乌市</nobr> | <nobr>佛堂镇</nobr> | 小六石太平桥 [?](http://www.china-qiao.com/ql15/jhql/jhql160.htm) | 石梁桥（四孔） | 28.3米 | 清 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>14</nobr> | <nobr>武义县</nobr> | <nobr>熟溪街道</nobr> | 回龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql107.htm) | — | 28米 | 明隆庆年间重建，后屡毁屡修 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>15</nobr> | <nobr>金东区</nobr> | <nobr>傅村镇</nobr> | 仁寿桥 [?](http://www.china-qiao.com/ql15/jhql/jhql208.htm) | 石梁桥（三孔） | 24.1米 | 清 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>16</nobr> | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql121.htm) | 石拱桥（单孔） | 23米 | 清乾隆四十五年（1780）始建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>磐安县</nobr> | <nobr>尚湖镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/jhql/jhql137.htm) | 石拱桥（单孔） | 22.2米 | 清道光年间建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>19</nobr> | <nobr>东阳市</nobr> | <nobr>巍山镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql211.htm) | 石拱桥（单孔） | 21米 | 民国重建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>20</nobr> | <nobr>兰溪市</nobr> | <nobr>—</nobr> | 赤溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql176.htm) | 石拱桥（双孔） | 20.5米 | 明万历八年（1580） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>6</nobr> | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 高义桥 [?](http://www.china-qiao.com/ql15/jhql/jhql195.htm) | 石梁桥（九孔） | 60.80米 | 民国十三年（1924） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>7</nobr> | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 席场桥 [?](http://www.china-qiao.com/ql15/jhql/jhql122.htm) | 石梁桥（四孔） | 54.14米 | 南宋宝庆三年（1227）始建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>8</nobr> | <nobr>义乌市</nobr> | <nobr>上溪镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql062.htm) | 石拱桥（三孔） | 52.2米 | 清嘉庆二十年（1815） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>9</nobr> | <nobr>武义县</nobr> | <nobr>俞源乡</nobr> | 安济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql260.htm) | 石拱桥（三孔） | 51.96米 | 清光绪二十四年（1898） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>10</nobr> | <nobr>磐安县</nobr> | <nobr>冷水镇</nobr> | 蹬步桥 [?](http://www.china-qiao.com/ql15/jhql/jhql138.htm) | — | 49米 | 明 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>11</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/jhql/jhql032.htm) | 石拱桥（单孔） | 36.90米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>12</nobr> | <nobr>义乌市</nobr> | <nobr>赤岸镇</nobr> | 古月桥 [?](http://www.china-qiao.com/ql15/jhql/jhql059.htm) | 石拱桥（单孔） | 31.20米 | 南宋嘉定六年（1213） | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql031.htm) | — | 30米 | 清道光年间建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>义乌市</nobr> | <nobr>佛堂镇</nobr> | 小六石太平桥 [?](http://www.china-qiao.com/ql15/jhql/jhql160.htm) | 石梁桥（四孔） | 28.3米 | 清 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>15</nobr> | <nobr>武义县</nobr> | <nobr>熟溪街道</nobr> | 回龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql107.htm) | — | 28米 | 明隆庆年间重建，后屡毁屡修 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>16</nobr> | <nobr>金东区</nobr> | <nobr>傅村镇</nobr> | 仁寿桥 [?](http://www.china-qiao.com/ql15/jhql/jhql208.htm) | 石梁桥（三孔） | 24.1米 | 清 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>17</nobr> | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql121.htm) | 石拱桥（单孔） | 23米 | 清乾隆四十五年（1780）始建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | <nobr>省级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>磐安县</nobr> | <nobr>尚湖镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/jhql/jhql137.htm) | 石拱桥（单孔） | 22.2米 | 清道光年间建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>20</nobr> | <nobr>东阳市</nobr> | <nobr>巍山镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql211.htm) | 石拱桥（单孔） | 21米 | 民国重建 | <nobr>尚未定级（待核实）</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 30 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 31 座中排序。
 
 ## 金华市桥身刻字最早的前 20 名
 
@@ -113,6 +113,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（27 座）
+### 尚未定级（待核实）（32 座）
 
 数量较多，见各区县文件。

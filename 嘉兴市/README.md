@@ -1,6 +1,6 @@
 # 嘉兴市古桥
 
-共收录 370 座桥。
+共收录 378 座桥。
 
 ## 按级别统计
 
@@ -12,18 +12,18 @@
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>93</nobr> |
 | <nobr>市级文物保护点</nobr> | <nobr>53</nobr> |
 | <nobr>县级文物保护点</nobr> | <nobr>160</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>44</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>52</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[桐乡市](桐乡市/桐乡市古桥.md)</nobr> | <nobr>139</nobr> |
-| <nobr>[平湖市](平湖市/平湖市古桥.md)</nobr> | <nobr>61</nobr> |
-| <nobr>[秀洲区](秀洲区/秀洲区古桥.md)</nobr> | <nobr>40</nobr> |
+| <nobr>[桐乡市](桐乡市/桐乡市古桥.md)</nobr> | <nobr>141</nobr> |
+| <nobr>[平湖市](平湖市/平湖市古桥.md)</nobr> | <nobr>65</nobr> |
+| <nobr>[秀洲区](秀洲区/秀洲区古桥.md)</nobr> | <nobr>41</nobr> |
 | <nobr>[海盐县](海盐县/海盐县古桥.md)</nobr> | <nobr>40</nobr> |
 | <nobr>[海宁市](海宁市/海宁市古桥.md)</nobr> | <nobr>36</nobr> |
-| <nobr>[南湖区](南湖区/南湖区古桥.md)</nobr> | <nobr>32</nobr> |
+| <nobr>[南湖区](南湖区/南湖区古桥.md)</nobr> | <nobr>33</nobr> |
 | <nobr>[嘉善县](嘉善县/嘉善县古桥.md)</nobr> | <nobr>22</nobr> |
 
 ## 嘉兴市石木桥桥长前 20 名
@@ -51,7 +51,7 @@
 | <nobr>19</nobr> | <nobr>桐乡市</nobr> | <nobr>洲泉镇</nobr> | 万年桥 [?](http://www.china-qiao.com/ql15/jxql/jxql251.htm) | 石拱桥（单孔） | 23.4米 | 清雍正七年（1729）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 67 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 68 座中排序。
 
 ## 嘉兴市桥身刻字最早的前 20 名
 
@@ -173,7 +173,7 @@
 | <nobr>桐乡市</nobr> | <nobr>乌镇镇</nobr> | 种德桥 [?](http://www.china-qiao.com/ql15/jxql/jxql257.htm) | 石拱桥（单孔） | 27.4米 | 民国二年（1913） | 桐乡市文物保护单位 |
 | <nobr>平湖市</nobr> | <nobr>曹桥街道</nobr> | 丁店桥 | — | — | 明隆庆二年（1568） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 钟南仁寿桥 [?](http://www.china-qiao.com/ql15/jxql/jxql099.htm) | 石梁桥（五孔） | — | 清乾隆元年（1736） | 平湖市文物保护单位（第八批，2015年） |
-| <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 利生桥 | — | — | 清嘉庆四年（1799） | 平湖市文物保护单位（第八批，2015年） |
+| <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 利生桥 [?](http://www.china-qiao.com/ql15/jxql/jxql095.htm) | 石拱桥（单孔） | — | 清嘉庆四年（1799） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>新仓镇</nobr> | 成美桥 [?](http://www.china-qiao.com/ql15/jxql/jxql125.htm) | — | 23米 | 清光绪二十五年（1899） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>海盐县</nobr> | <nobr>武原街道</nobr> | 胥溪桥 | — | — | 元至清 | 海盐县文物保护单位 |
 | <nobr>海盐县</nobr> | <nobr>武原街道</nobr> | 东黄桥 [?](http://www.china-qiao.com/ql15/jxql/jxql440.htm) | 石梁桥（五孔） | 18.12米 | 清乾隆十九年（1754）重建 | 海盐县文物保护单位 |
@@ -206,6 +206,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（44 座）
+### 尚未定级（待核实）（52 座）
 
 数量较多，见各区县文件。
