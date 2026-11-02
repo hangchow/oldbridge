@@ -55,7 +55,7 @@
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
 | <nobr>婺城区</nobr> | <nobr>长山乡</nobr> | 东村桥 [?](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 石梁桥 | — | — | 浙江省文物保护单位（第五批，5-37） |
-| <nobr>婺城区</nobr> | <nobr>—</nobr> | 金华通济桥 | — | — | — | 浙江省文物保护单位（第六批，6-186） |
+| <nobr>婺城区</nobr> | <nobr>—</nobr> | 金华通济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql001.htm) | — | — | — | 浙江省文物保护单位（第六批，6-186） |
 | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 萧家小龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql191.htm) | — | 75.3米 | — | 浙江省文物保护单位（第七批，7-135） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/jhql/jhql032.htm) | 石拱桥 | 36.90米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
@@ -64,7 +64,7 @@
 | <nobr>武义县</nobr> | <nobr>壶山街道</nobr> | 熟溪桥 [?](http://www.china-qiao.com/ql15/jhql/jhql103.htm) | 廊桥 | 140米 | 南宋始建，清重修 | 浙江省文物保护单位（第三批，3-73） |
 | <nobr>浦江县</nobr> | <nobr>大畈乡</nobr> | 广安桥 | — | — | 清 | 浙江省文物保护单位（第七批，7-156） |
 | <nobr>磐安县</nobr> | <nobr>—</nobr> | 道德桥 [?](http://www.china-qiao.com/ql15/jhql/jhql123.htm) | 石拱桥 | 35.53米 | — | 浙江省文物保护单位（第六批，6-329） |
-| <nobr>磐安县</nobr> | <nobr>—</nobr> | 宅口承志桥 | — | — | — | 浙江省文物保护单位（第七批，7-157） |
+| <nobr>磐安县</nobr> | <nobr>—</nobr> | 宅口承志桥 [?](http://www.china-qiao.com/ql15/jhql/jhql135.htm) | — | — | — | 浙江省文物保护单位（第七批，7-157） |
 
 ### 县（区）级文物保护单位（15 座）
 
