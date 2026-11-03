@@ -237,6 +237,11 @@ def doc(title, rs, folder, with_town=False, extra_notes=()):
 
 def main():
     R = rows()
+    # 一般不可移动文物 / 四普新发现是最后并入的，也按人工结构表补（build/cq_struct.json）
+    CQS2 = json.load(open(S + '/build/cq_struct.json'))
+    for r in R:
+        k = f"{r['dist']}|{r['town']}|{r['name']}"
+        if (r.get('struct') or '—') == '—' and k in CQS2: r['struct'] = CQS2[k]
     # 结构为“—”或只写桥型、没有孔数的，按老百晓集桥页面补桥型和孔数（build/cqholes.py）
     HOLES = json.load(open(S + '/build/cq_holes.json')) if os.path.exists(S + '/build/cq_holes.json') else {}
     LENF = json.load(open(S + '/build/cq_len_fill.json')) if os.path.exists(S + '/build/cq_len_fill.json') else {}
