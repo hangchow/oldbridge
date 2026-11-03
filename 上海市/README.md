@@ -1,27 +1,27 @@
 # 上海市古桥
 
-共收录 314 座桥。
+共收录 329 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>市级文物保护单位</nobr> | <nobr>6</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>89</nobr> |
-| <nobr>一般不可移动文物</nobr> | <nobr>49</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>170</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>90</nobr> |
+| <nobr>一般不可移动文物</nobr> | <nobr>64</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>169</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[奉贤区](奉贤区/README.md)</nobr> | <nobr>107</nobr> |
-| <nobr>[金山区](金山区/README.md)</nobr> | <nobr>59</nobr> |
+| <nobr>[金山区](金山区/README.md)</nobr> | <nobr>73</nobr> |
 | <nobr>[青浦区](青浦区/README.md)</nobr> | <nobr>46</nobr> |
 | <nobr>[嘉定区](嘉定区/README.md)</nobr> | <nobr>31</nobr> |
 | <nobr>[闵行区](闵行区/README.md)</nobr> | <nobr>28</nobr> |
+| <nobr>[松江区](松江区/README.md)</nobr> | <nobr>16</nobr> |
 | <nobr>[浦东新区](浦东新区/README.md)</nobr> | <nobr>16</nobr> |
-| <nobr>[松江区](松江区/README.md)</nobr> | <nobr>15</nobr> |
 | <nobr>[宝山区](宝山区/README.md)</nobr> | <nobr>7</nobr> |
 | <nobr>[黄浦区](黄浦区/README.md)</nobr> | <nobr>2</nobr> |
 | <nobr>[静安区](静安区/README.md)</nobr> | <nobr>1</nobr> |
@@ -53,7 +53,7 @@
 | <nobr>19</nobr> | <nobr>奉贤区</nobr> | <nobr>青村镇</nobr> | 三祝桥 [?](http://www.china-qiao.com/ql02/shql418.htm) | 石梁桥（三孔） | 24.1米 | 明永乐年间建 | <nobr>一般不可移动文物</nobr> |
 | <nobr>20</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 登嬴桥 [?](http://www.china-qiao.com/ql02/shql130.htm) | 石拱桥（单孔） | 24米 | 明成化十二年（1476）重建 | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 122 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 125 座中排序。
 
 ## 上海市桥身刻字最早的前 20 名
 
@@ -79,7 +79,7 @@
 | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | 上海市文物保护单位（第四批） |
 | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 迎祥桥 [?](http://www.china-qiao.com/ql02/shql292.htm) | 石梁桥（五孔） | 34米 | 明天顺六年（1462） | 上海市文物保护单位（第八批） |
 
-### 县（区）级文物保护单位（89 座）
+### 县（区）级文物保护单位（90 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | <nobr>松江区</nobr> | <nobr>车墩镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql02/shql266.htm) | — | 20米 | — | 区级文物保护单位 |
 | <nobr>松江区</nobr> | <nobr>车墩镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql02/shql268.htm) | — | 20米 | — | 区级文物保护单位 |
 | <nobr>松江区</nobr> | <nobr>车墩镇</nobr> | 大通桥 | — | — | — | 区级文物保护单位 |
+| <nobr>松江区</nobr> | <nobr>中山街道</nobr> | 杜公祠桥 | — | — | — | 区级文物保护单位 |
 | <nobr>松江区</nobr> | <nobr>—</nobr> | 秀南桥 | — | — | — | 区级文物保护单位 |
 | <nobr>松江区</nobr> | <nobr>—</nobr> | 年丰人寿桥 | — | — | — | 区级文物保护单位 |
 | <nobr>浦东新区</nobr> | <nobr>唐镇</nobr> | 洪德桥 [?](http://www.china-qiao.com/ql02/shql569.htm) | — | — | 清雍正年间建，清道光十年（1830）重修 | 区级文物保护单位 |
@@ -173,10 +174,10 @@
 | <nobr>徐汇区</nobr> | <nobr>—</nobr> | 宾贤桥 | — | — | — | 区级文物保护单位 |
 | <nobr>杨浦区</nobr> | <nobr>—</nobr> | 定海路桥 | — | — | — | 区级文物保护单位 |
 
-### 一般不可移动文物（49 座）
+### 一般不可移动文物（64 座）
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（170 座）
+### 尚未定级（待核实）（169 座）
 
 数量较多，见各区县文件。

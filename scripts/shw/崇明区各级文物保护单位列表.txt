@@ -1,0 +1,87 @@
+以下为上海市[[崇明区]]的各级文物保护单位:
+
+==全国重点文物保护单位==
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地
+!时代
+!公布时间
+!图片
+|- 
+! colspan="8" |
+|-
+|}
+
+==上海市文物保护单位==
+{| class="wikitable sortable"
+|- 
+! width=20%|文物保护单位名称
+! width=5%|批次
+! width=10%|公布日期
+! width=10%|街道镇乡
+! width=20%|地点
+! width=10%|年代
+! width=20%|类别
+!照片
+|-
+|[[崇明学宫]]
+|第三批
+|1984.5.4
+|城桥镇
+|鳌山路669号
+|明、清
+|古建筑
+|style="padding:0" |[[File:Confucian temple statues.jpg|125px]]
+|-
+|[[唐一岑墓]]
+|第六批
+|1962、1992.6.1
+|城桥镇
+|鳌山路
+|明嘉靖三十三年(1554年)
+|古墓葬
+|style="padding:0" |[[File:Tangyicen Mu.JPG|125px]]
+|}
+
+==崇明区文物保护单位==
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[金鳌山]]
+|城桥镇老滧港东北300米
+|1981.5
+|
+|-
+|[[寿安寺]]
+|城桥镇老滧港东北301米
+|1981.5
+|
+|-
+|[[黄家花园 (崇明区)|黄家花园]]
+|城桥镇南门港街25号
+|2006.10.31
+|style="padding:0" |[[File:Huang's Garden.JPG|125px]]
+|-
+|[[杜少如旧居]]
+|堡镇正大街122号
+|2006.10.31
+|style="padding:0" |[[File:Dushaoru Jiuju.JPG|125px]]
+|-
+|[[陈干青旧居]]
+|港西镇团结村998号
+|2006.10.31
+|
+|}
+==参考==
+{{reflist}}
+*{{cite web|language =|publisher =上海市文化广播影视管理局|title =崇明区县级文物保护单位、登记不可移动文物|url =http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75607.html|author =市文广影视局|date =2011-10-28|accessdate =}}{{dead link|date=2017年12月 |bot=InternetArchiveBot |fix-attempted=yes }}
+{{上海各级文物保护单位}}
+[[Category:上海市境内的文物保护单位]]
+[[Category:崇明区建筑物]]

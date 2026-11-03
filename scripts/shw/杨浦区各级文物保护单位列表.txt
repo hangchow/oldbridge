@@ -1,0 +1,236 @@
+以下为上海市[[杨浦区]]的各级文物保护单位:
+
+==全国重点文物保护单位==
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地
+!时代
+!公布时间
+!图片
+|- 
+! colspan="8" |第三批
+|-
+|[[杨树浦水厂]]
+|7-1694
+|近现代重要史迹及代表性建筑
+|[[杨浦区]]平凉路街道杨树浦路830号
+|1883年
+|1989.9.25第五批省保<br>2013国保
+|style="padding:0" |[[File:杨树浦水厂.jpg|250px]] 
+|-
+|[[沪江大学|沪江大学近代建筑]]
+|8-0566
+|近现代重要史迹及代表性建筑
+|[[杨浦区]]长白新村街道军工路516号
+|1906~1948年
+|2004.2.25区保<br>2014.4.4第八批省保<br>2019国保
+|style="padding:0" |[[File:上海理工大学4.jpg|250px]][[File:Hu-chiang University.JPG|250px]]
+|-
+|}
+
+==上海市文物保护单位==
+{| class="wikitable sortable"
+|-
+!colspan="2" width=20%|文物保护单位名称
+! width=5%|批次
+! width=10%|公布日期
+! width=10%|街道镇乡
+! width=20%|地点
+! width=10%|年代
+! width=20%|类别
+!照片
+|-
+|colspan="2"|[[中华民国上海市政府大厦|旧上海特别市政府]]
+|第五批<ref>2014年4月4日被归并入“‘大上海计划’公共建筑群”</ref>
+|1989.9.25
+|长海路街道
+|清源环路650号
+|1931年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:上海市政府·上海体育学院·航拍.jpg|250px]]
+|-
+|colspan="2"|[[江湾体育中心|江湾体育场]]
+|第五批<ref>2014年4月4日并入“‘大上海计划’公共建筑群”</ref>
+|1989.9.25
+|五角场街道
+|国和路346号
+|1919年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Main Entrance of Jiangwan Stadium.jpg|250px]]
+
+|-
+|colspan="2"|[[中国航空协会大楼|飞机楼]]
+|第八批
+|2004.2.25区保<br>2014.4.4市保
+|长海路街道
+|长海路174号
+|1936年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:中國航空協會舊址.jpg|250px]]
+
+|-
+|colspan="2"|[[陈望道旧居]]
+|第八批
+|2011.2.21区保<br>2014.4.4市保
+|五角场街道
+|国福路51号
+|1952年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Residence of Chen Wangdao.jpg|250px]]
+
+|-
+|colspan="2"|[[杨树浦发电厂|上海工部局电气处新厂旧址]]
+|
+|2004.2.25区保<br>2014.4.4第八批市保
+|定海路街道
+|杨树浦路2800号
+|1913年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Shanghai Gongbuju Dianqichu Xinchang Jiuzhi.JPG|250px]]
+|-
+|rowspan="2" colspan="2"|[[上海煤气公司杨树浦工场旧址]]
+|rowspan="2"|
+|rowspan="2"|2004.2.25区保<br>2014.4.4第八批市保
+|rowspan="2"|定海路街道
+|rowspan="2"|杨树浦路2524号
+|rowspan="2"|1934年
+|rowspan="2"|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Office Building of River Gas Plant.JPG|250px]]
+|-
+|style="padding:0" |[[File:Residence of senior staff of River Gas Plant.JPG|250px]]
+
+|-
+|colspan="2"|[[裕丰纺织株式会社旧址]]
+|
+|2004.2.25区登记不可移动文物<br>2014.4.4第八批市保
+|定海路街道
+|杨树浦路2866号
+|1922年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Yufeng Fangzhi Zhushihuishe Jiuzhi.JPG|250px]]
+
+|-
+|rowspan="2" colspan="2"|[[东区污水处理厂旧址]]
+|rowspan="2"|
+|rowspan="2"|2004.2.25区保<br>2014.4.4第八批
+|rowspan="2"|定海路街道
+|rowspan="2"|河间路1283号
+|rowspan="2"|1926年
+|rowspan="2"|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Office Building of East District Sewage Treatment Plant.JPG|250px]]
+|-
+|style="padding:0" |[[File:Pump Station of East District Sewage Treatment Plant.JPG|250px]]
+
+|-
+|colspan="2"|[[密丰绒线厂旧址]]
+|
+|2004.2.25区登记不可移动文物<br>2014.4.4第八批
+|定海路街道
+|波阳路400号
+|1934年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:蜜丰绒线厂.jpg|250px]]
+
+|-
+|rowspan="4"|[[大上海计划|“大上海计划”公共建筑群]]
+|[[上海市立图书馆|旧上海市图书馆]]
+|第八批归并<ref name="#1">2014年4月4日与原市级文物保护单位“江湾体育场”、“旧上海市政府大楼” 合并为“‘大上海计划’公共建筑群”</ref>
+|2004.2.25区保<br>2014.4.4市保
+|长海路街道
+|黑山路181号
+|1936年
+|rowspan="4"|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Former Shanghai Library.jpg|250px]]  
+|-
+|[[上海市立博物馆|旧上海市博物馆]]
+|第八批归并<ref name="#1"/>
+|2004.2.25区保<br>2014.4.4市保
+|长海路街道
+|长海路174号
+|1936年
+|style="padding:0" |[[File:Shanghai City Museum.jpg|250px]]
+|-
+|rowspan="2"|[[上海市立医院|旧上海市立医院]]、<br/>[[上海市立卫生研究所]]
+|rowspan="2"|
+|rowspan="2"|2004.2.25区登记不可移动文物<br>2014.4.4第八批归并<ref name="#1"/>
+|rowspan="2"|长海路街道
+|rowspan="2"|长海路174号、<br/>中原路32弄
+|rowspan="2"|1936年
+|style="padding:0" |[[File:上海市立医院·长海医院·航拍正立面.jpg|250px]]
+|-
+|style="padding:0" |[[File:上海市立卫生研究所·居民楼·航拍.jpg|250px]]
+|}
+
+==杨浦区文物保护单位==
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[国立音乐专科学校]]
+|长海路街道民京路918号
+|2004.2.25
+|
+|-
+|rowspan="2"|[[闸北水厂老办公楼、水塔、出水泵房]]
+|rowspan="2"|殷行街道闸殷路65号
+|rowspan="2"|2004.2.25
+|style="padding:0" |[[File:Zhabei Shuichang Laobangonglou.JPG|125px]]
+|-
+|style="padding:0" |[[File:Zhabeishuichang Shuita Chushuibengfang.jpg|125px]]
+|-
+|rowspan="2"|[[复旦大学]][[复旦大学邯郸校区|数学楼、校史馆、相辉堂]]
+|rowspan="2"|五角场街道邯郸路220号
+|rowspan="2"|2004.2.25
+|style="padding:0" |[[File:ZibinYuan.jpg|125px]]
+|-
+|style="padding:0" |[[File:Fudan-xianghuitang.jpg|125px]]
+|-
+|[[圣心医院]]
+|大桥街道杭州路349号
+|2004.2.25
+|style="padding:0" |[[File:圣心医院.jpg|125px]]
+|-
+|[[叶家花园]]
+|五角场街道政民路507号
+|2011.2.21
+|style="padding:0" |[[File:Yeh's Garden (White Hall).JPG|125px]]
+
+|-
+|[[上海国歌展示馆|《义勇军进行曲》纪念地]]
+|平凉路街道大连路长阳路（大连绿地）
+|2011.2.21
+|style="padding:0" |[[File:"Yiyongjun Jinxingqu" Jiniandi.JPG|125px]]
+|-
+|[[王根英#纪念|王根英烈士故居遗址]]
+|江浦路街道周家嘴路1888号瀚海明玉大酒店内
+|2011.2.21
+|style="padding:0" |[[File:Wanggenying Lieshi Guju Yizhi.jpg|125px]]
+|-
+|[[黄浦码头旧址]]
+|秦皇岛路32号
+|2022.9
+|
+|-
+|[[永安栈房旧址]]
+|杨树浦路1578号
+|2022.9
+|
+|-
+|[[毛麻仓库旧址]]
+|杨树浦路468号
+|2022.9
+|
+|}
+== 注释 ==
+{{Reflist|group=lower-alpha}}
+
+{{reflist}}
+
+{{上海各级文物保护单位}}
+[[Category:杨浦区建筑物]]

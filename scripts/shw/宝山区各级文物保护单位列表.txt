@@ -1,0 +1,159 @@
+以下为上海市[[黄浦区]]的各级文物保护单位:
+
+==全国重点文物保护单位==
+
+==上海市文物保护单位==
+
+{| class="wikitable sortable"
+|- 
+! width=20%|文物保护单位名称
+! width=5%|批次
+! width=10%|公布日期
+! width=10%|街道镇乡
+! width=20%|地点
+! width=10%|年代
+! width=20%|类别
+!照片
+|-
+|[[吳淞炮台#北炮台|吴淞炮台抗日遗址]]
+|<small>日本帝国主义侵略上海遗址纪念地</small><ref name="#1">"2014调整"</ref>
+|1984.3.19
+|友谊路街道
+|宝山一村居委塘后路109号
+|1932年
+|近现代重要史迹及代表性建筑
+|
+|-
+|[[无名英雄纪念墓|无名英雄纪念墓遗址]]
+|<small>日本帝国主义侵略上海遗址纪念地</small><ref name="#1"/>
+|1984.3.19
+|庙行镇
+|泗塘二中内
+|1936年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Site of Memorial Graveyard for Anonymous Heroes.jpg|125px]]
+|-
+|[[侵华日军小川沙登陆地点]]
+|<small>日本帝国主义侵略上海遗址纪念地</small><ref name="#1"/>
+|1984.3.19
+|罗泾镇
+|罗泾工业园区川纪路158号
+|1937年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Qinhuarijun Xiaochuansha Denglu Didian.JPG|125px]]
+|-
+|[[罗店红十字纪念碑]]
+|<small>日本帝国主义侵略上海遗址纪念地</small><ref name="#1"/>
+|1984.3.19
+|罗店镇
+|罗太路352弄15号陈伯吹中学内
+|1946年
+|近现代重要史迹及代表性建筑
+|
+|-
+|[[吳淞炮台#西炮台|吴淞炮台遗址]]
+|<small>纪念地点</small><ref name="#1"/>
+|1992.6.1
+|吴淞街道
+|海江新村居委塘后支路27号内
+|1874年
+|近现代重要史迹及代表性建筑
+|
+|-
+|[[山海工学团遗址]]
+|<small>纪念地点</small><ref name="#1"/>
+|1992.6.1
+|大场镇
+|沪太路行知路
+|1932年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Shanhai Gongxuetuan Yizhi.JPG|125px]]
+|-
+|[[姚子青营抗日牺牲处]]
+|<small>纪念地点</small><ref name="#1"/>
+|1992.6.1
+|友谊路街道
+|友谊路1号临江公园内
+|1937年
+|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Yaoziqing-Ying Kangri Xishengchu.jpg|125px]]
+|-
+|[[宝山文庙|孔庙大成殿]]
+|第七批
+|2002.4.27
+|友谊路街道
+|友谊路1号
+|清乾隆十二年（1747年）
+|古建筑
+|style="padding:0" |[[File:Kongmiao Dachengdian.jpg|125px]]
+|-
+|rowspan="4"|[[大中华纱厂]]及[[华丰纱厂]]旧址
+|rowspan="4"|第八批
+|rowspan="4"|2014.4.4
+|rowspan="4"|吴淞街道
+|rowspan="4"|淞兴西路258号
+|rowspan="4"|1919－1932年
+|rowspan="4"|近现代重要史迹及代表性建筑
+|style="padding:0" |[[File:Senior Executives Office Building of the Wing On Textile Mfg. Co., Ltd. (No. 2 Mill).JPG|125px]]
+|-
+|style="padding:0" |[[File:Residence and Rest Place of "Number One".JPG|125px]]
+|-
+|style="padding:0" |[[File:General Office Building.JPG|125px]]
+|-
+|style="padding:0" |[[File:Dazhonghua Shachang Fadiansuo.jpg|125px]]
+|}
+
+==宝山区文物保护单位==
+
+{| class="wikitable sortable"
+|- 
+!文物保护单位名称
+!地址
+!公布日期
+!照片
+|-
+|[[梵王宫]]
+|罗店镇塘西街桥北
+|1992.7.22
+|
+|-
+|[[丰德桥]]
+|罗店镇新桥居委布长街南端
+|1992.7.22
+|style="padding:0" |[[File:Fengdeqiao.JPG|125px]]
+|-
+|[[大通桥]]
+|罗店镇新桥居委亭前街弄口
+|1992.7.22
+|style="padding:0" |[[File:Datongqiao.JPG|125px]]
+|-
+|[[錢世楨|钱世桢墓]]
+|罗店镇毛家弄村三树南路以东
+|1992.7.22
+|
+|-
+|[[上海少年村旧址]]
+|大场镇东街居委少年村路500号
+|2002.11.12
+|
+|-
+|[[宝山城墙|宝山城墙遗址]]
+|友谊路街道友谊路1号
+|2002.11.12
+|style="padding:0" |[[File:Baoshanchengqiang Yizhi.jpg|125px]]
+|-
+|[[行知育才学校旧址]]
+|大场镇行知路180号（上海市行知实验中学内）
+|2017.6.29
+|
+|}
+
+==参考文献==
+*{{cite web|language =|publisher =上海市文化广播影视管理局|title =宝山区县级文物保护单位、登记不可移动文物|url =http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75605.html|author =市文广影视局|date =2011-10-28|accessdate =|deadurl =yes|archiveurl =https://web.archive.org/web/20140202092411/http://wgj.sh.gov.cn/wgj/node1257/node1264/u1a75605.html|archivedate =2014-02-02}}
+*《吴淞区志》>>第二十篇文化>>四、古迹文物及雕塑
+*《宝山县志》>>卷二十七文化志>>第四章文物胜迹
+*《话说上海·宝山卷》
+
+{{上海各级文物保护单位}}
+[[Category:上海市境内的文物保护单位]]
+[[Category:宝山区建筑物]]
