@@ -45,7 +45,7 @@
 | <nobr>4</nobr> | <nobr>临安区</nobr> | <nobr>昌化镇</nobr> | [联盟久安桥](../文保名录/杭州市/云端档案/365_联盟久安桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql353.htm) | 石拱桥（三孔） | 88.4米 | 清光绪二十八年（1902） | <nobr>市级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>萧山区</nobr> | <nobr>新塘街道</nobr> | 戴家桥及螺峰亭 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql675.htm) | 石梁桥（三孔） | 67米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>6</nobr> | <nobr>萧山区</nobr> | <nobr>河上镇</nobr> | [星拱桥](../文保名录/杭州市/云端档案/311_星拱桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql273.htm) | 石拱桥（七孔） | 65米 | 民国十四年（1925） | <nobr>市级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>拱墅区</nobr> | <nobr>长庆街道</nobr> | 坝子桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql077.htm) | 石拱廊桥（三孔，半圆形拱） | 59.5米 | 清 | <nobr>文物保护点</nobr> |
+| <nobr>7</nobr> | <nobr>拱墅区</nobr> | <nobr>长庆街道</nobr> | 坝子桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql077.htm) | 石拱桥（三孔） | 59.5米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>8</nobr> | <nobr>富阳区</nobr> | <nobr>富春街道</nobr> | [恩波桥](../文保名录/杭州市/云端档案/140_恩波桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql319.htm) | 石拱桥（三孔） | 57米 | 明 | <nobr>省级文物保护单位</nobr> |
 | <nobr>9</nobr> | <nobr>临安区</nobr> | <nobr>清凉峰镇</nobr> | [清凉峰永安桥](../文保名录/杭州市/云端档案/385_清凉峰永安桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql580.htm) | 石拱桥（三孔） | 54米 | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>10</nobr> | <nobr>临安区</nobr> | <nobr>於潜镇</nobr> | [南山长安桥](../文保名录/杭州市/云端档案/378_南山长安桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql405.htm) | 石拱桥（三孔） | 51.1米 | 清 | <nobr>市级文物保护单位</nobr> |

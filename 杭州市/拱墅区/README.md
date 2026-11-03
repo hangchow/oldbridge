@@ -49,7 +49,7 @@
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|
-| <nobr>长庆街道</nobr> | 坝子桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql077.htm) | 石拱廊桥（三孔，半圆形拱） | 59.5米 | 清 | 杭州市文物保护点 |
+| <nobr>长庆街道</nobr> | 坝子桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql077.htm) | 石拱桥（三孔） | 59.5米 | 清 | 杭州市文物保护点 |
 | <nobr>长庆街道</nobr> | 广安新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql079.htm) | 石拱桥（单孔） | 46.5米 | 清 | 杭州市文物保护点 |
 | <nobr>和睦街道</nobr> | 和睦桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql531.htm) | 石拱桥（单孔） | 20米 | 清 | 杭州市文物保护点 |
 | <nobr>祥符街道</nobr> | 福寿长桥 | 石梁桥（五孔） | — | 清 | 杭州市文物保护点 |
