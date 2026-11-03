@@ -294,7 +294,7 @@
 | [永嘉桥1.jpg](永嘉桥1.jpg) | [老百晓集桥：越城区东湖街道大皋埠村永嘉桥](http://www.china-qiao.com/ql15/sxql/sxql103.htm) |
 | [永安桥1.jpg](永安桥1.jpg) | [老百晓集桥：越城区斗门街道永安桥](http://www.china-qiao.com/ql15/sxql/sxql448.htm) |
 | [泗龙桥1.jpg](泗龙桥1.jpg) | [老百晓集桥：绍兴市越城区泗龙桥](http://www.china-qiao.com/ql15/sxql/sxql088.htm) |
-| [泾口大桥1.jpg](泾口大桥1.jpg) | [老百晓集桥：绍兴市越城区陶堰街道新泾口大桥](http://www.china-qiao.com/ql15/sxql/sxql756.htm) |
+| [泾口大桥1.jpg](泾口大桥1.jpg) | [老百晓集桥：绍兴市越城区泾口大桥](http://www.china-qiao.com/ql15/sxql/sxql121.htm) |
 | [灵芝桥1.jpg](灵芝桥1.jpg) | [老百晓集桥：绍兴市越城区灵芝桥](http://www.china-qiao.com/ql15/sxql/sxql568.htm) |
 | [福庆桥1.jpg](福庆桥1.jpg) | [老百晓集桥：越城区鉴湖街道王家葑村福庆桥](http://www.china-qiao.com/ql15/sxql/sxql101.htm) |
 | [花浦桥1.jpg](花浦桥1.jpg) | [老百晓集桥：越城区斗门街道花浦桥](http://www.china-qiao.com/ql15/sxql/sxql450.htm) |
