@@ -1,6 +1,6 @@
 # 宁波市古桥
 
-共收录 328 座桥。
+共收录 337 座桥。
 
 ## 按级别统计
 
@@ -11,20 +11,20 @@
 | <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>51</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>143</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>116</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>125</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[鄞州区](鄞州区/README.md)</nobr> | <nobr>68</nobr> |
-| <nobr>[海曙区](海曙区/README.md)</nobr> | <nobr>55</nobr> |
-| <nobr>[慈溪市](慈溪市/README.md)</nobr> | <nobr>47</nobr> |
-| <nobr>[余姚市](余姚市/README.md)</nobr> | <nobr>44</nobr> |
+| <nobr>[海曙区](海曙区/README.md)</nobr> | <nobr>57</nobr> |
+| <nobr>[慈溪市](慈溪市/README.md)</nobr> | <nobr>49</nobr> |
+| <nobr>[余姚市](余姚市/README.md)</nobr> | <nobr>46</nobr> |
 | <nobr>[宁海县](宁海县/README.md)</nobr> | <nobr>32</nobr> |
-| <nobr>[奉化区](奉化区/README.md)</nobr> | <nobr>24</nobr> |
+| <nobr>[奉化区](奉化区/README.md)</nobr> | <nobr>25</nobr> |
 | <nobr>[江北区](江北区/README.md)</nobr> | <nobr>19</nobr> |
-| <nobr>[镇海区](镇海区/README.md)</nobr> | <nobr>17</nobr> |
+| <nobr>[镇海区](镇海区/README.md)</nobr> | <nobr>19</nobr> |
 | <nobr>[象山县](象山县/README.md)</nobr> | <nobr>12</nobr> |
 | <nobr>[北仑区](北仑区/README.md)</nobr> | <nobr>10</nobr> |
 
@@ -53,7 +53,7 @@
 | <nobr>19</nobr> | <nobr>余姚市</nobr> | <nobr>凤山街道</nobr> | 余姚通济桥 [?](http://www.china-qiao.com/ql15/nbql/nbql165.htm) | 石拱桥（三孔） | 43.4米 | 清 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>宁海县</nobr> | <nobr>深甽镇</nobr> | 甲子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql349.htm) | 石拱桥（三孔） | 42.5米 | 清同治三年（1864）建 | <nobr>文物保护点</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 146 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 150 座中排序。
 
 ## 宁波市桥身刻字最早的前 20 名
 
@@ -154,6 +154,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（116 座）
+### 尚未定级（待核实）（125 座）
 
 数量较多，见各区县文件。

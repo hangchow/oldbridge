@@ -593,5 +593,59 @@
   "town": "织里镇",
   "name": "万翠桥",
   "cand": []
+ },
+ "ql15/nbql/nbql095.htm": {
+  "dist": "镇海区",
+  "town": "庄市街道",
+  "name": "永兴桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql099.htm": {
+  "dist": "镇海区",
+  "town": "九龙湖镇",
+  "name": "蟹蛏桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql137.htm": {
+  "dist": "海曙区",
+  "town": "横街镇",
+  "name": "南塘桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql141.htm": {
+  "dist": "海曙区",
+  "town": "古林镇",
+  "name": "五港桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql193.htm": {
+  "dist": "余姚市",
+  "town": "河姆渡镇",
+  "name": "童家聚源桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql214.htm": {
+  "dist": "余姚市",
+  "town": "朗霞街道",
+  "name": "小蓬闸桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql245.htm": {
+  "dist": "慈溪市",
+  "town": "观海卫镇",
+  "name": "陡塘桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql247.htm": {
+  "dist": "慈溪市",
+  "town": "观海卫镇",
+  "name": "运河桥",
+  "cand": []
+ },
+ "ql15/nbql/nbql440.htm": {
+  "dist": "奉化区",
+  "town": "裘村镇",
+  "name": "维新桥",
+  "cand": []
  }
 }
