@@ -1,6 +1,6 @@
 # 杭州市古桥
 
-共收录 513 座桥。
+共收录 514 座桥。
 
 ## 按级别统计
 
@@ -14,7 +14,7 @@
 | <nobr>历史建筑</nobr> | <nobr>6</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>197</nobr> |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>44</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>37</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>38</nobr> |
 
 ## 各区县桥梁数量（降序）
 
@@ -24,7 +24,7 @@
 | <nobr>[临平区](临平区/README.md)</nobr> | <nobr>107</nobr> |
 | <nobr>[临安区](临安区/README.md)</nobr> | <nobr>58（另有跨区的日新桥，计入富阳区）</nobr> |
 | <nobr>[萧山区](萧山区/README.md)</nobr> | <nobr>57</nobr> |
-| <nobr>[西湖区](西湖区/README.md)</nobr> | <nobr>48</nobr> |
+| <nobr>[西湖区](西湖区/README.md)</nobr> | <nobr>49</nobr> |
 | <nobr>[建德市](建德市/README.md)</nobr> | <nobr>24</nobr> |
 | <nobr>[富阳区](富阳区/README.md)</nobr> | <nobr>20</nobr> |
 | <nobr>[拱墅区](拱墅区/README.md)</nobr> | <nobr>19</nobr> |
@@ -229,6 +229,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（37 座）
+### 尚未定级（待核实）（38 座）
 
 数量较多，见各区县文件。

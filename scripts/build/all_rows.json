@@ -2693,6 +2693,23 @@
   "len": "—"
  },
  {
+  "dist": "西湖区",
+  "town": "蒋村街道",
+  "name": "长春桥",
+  "era": "清道光二十三年（1843）",
+  "loc": "西溪国家湿地公园内",
+  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "doc": "—",
+  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql144.htm",
+  "struct": "石梁桥（三孔）",
+  "note": "二墩三孔排柱墩式石梁桥，桥柱有联；街道按西溪湿地位置推定",
+  "commons": null,
+  "srcs": [
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql144.htm"
+  ],
+  "len": "—"
+ },
+ {
   "dist": "上城区",
   "town": "清波街道",
   "name": "肖公桥",
