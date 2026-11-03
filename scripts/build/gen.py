@@ -294,6 +294,10 @@ def main():
         if f.get('struct') and not re.search('孔|跨', r.get('struct') or '') and not re.search('钢|混凝土|水泥|铁|廊', r.get('struct') or ''): r['struct'] = f['struct']; got.append('结构')
         if f.get('len') and (r.get('len') or '—') in ('—', ''): r['len'] = f['len']; got.append('长度')
         if got: r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '、'.join(got) + '据云端档案保护图则'
+        if f.get('len') and r.get('len') not in ('—', '') and re.fullmatch(r'[\d.]+米', r.get('len') or '') and float(r['len'][:-1]) != float(f['len'][:-1]) and '长度' not in got: r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f"云端档案保护图则另记长度为{f['len']}"
+    for r in R:
+        if (r['dist'], r['town'], r['name']) == ('萧山区', '衙前镇', '巽龙桥'):
+            r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '长度按云端档案保护图则（“桥身由两块长条石构成，长5.3米”），百度百科记“全长约13米”'
     # 余杭区良渚街道谢尚书庙桥即拱墅区福寿长桥，只在拱墅区列一次
     R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('余杭区', '良渚街道', '谢尚书庙桥')]
     by = {}
