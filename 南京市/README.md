@@ -1,13 +1,13 @@
 # 南京市古桥
 
-共收录 61 座桥。
+共收录 62 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>5</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>6</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>23</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>19</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>2</nobr> |
@@ -25,8 +25,8 @@
 | <nobr>[栖霞区](栖霞区/栖霞区古桥.md)</nobr> | <nobr>4</nobr> |
 | <nobr>[浦口区](浦口区/浦口区古桥.md)</nobr> | <nobr>3</nobr> |
 | <nobr>[六合区](六合区/六合区古桥.md)</nobr> | <nobr>3</nobr> |
+| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>2</nobr> |
 | <nobr>[雨花台区](雨花台区/雨花台区古桥.md)</nobr> | <nobr>1</nobr> |
-| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>1</nobr> |
 | <nobr>[建邺区](建邺区/建邺区古桥.md)</nobr> | <nobr>1</nobr> |
 
 ## 南京市石木桥桥长前 20 名
@@ -69,10 +69,11 @@
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>红花街道</nobr> | 七桥瓮 [?](http://www.china-qiao.com/ql16/njql/njql026.htm) | 石拱桥（七孔） | 89.6米 | 明 | 全国重点文物保护单位 |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>洪蓝街道</nobr> | 蒲塘桥 [?](http://www.china-qiao.com/ql16/njql/njql140.htm) | 石拱桥（九孔） | 91.3米 | 明 | 全国重点文物保护单位 |
 
-### 省级文物保护单位（5 座）
+### 省级文物保护单位（6 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>下关街道</nobr> | 下关浦口铁路轮渡桥 | — | — | 1933年 | 江苏省文物保护单位 |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>洪蓝街道</nobr> | 天生桥 [?](http://www.china-qiao.com/ql16/njql/njql190.htm) | — | 34米 | 明代 | 江苏省文物保护单位（胭脂河与天生桥） |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>东屏街道</nobr> | 长乐桥 [?](http://www.china-qiao.com/ql16/njql/njql138.htm) | 石拱桥（三孔） | 36米 | 明代 | 江苏省文物保护单位 |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>—</nobr> | 胭脂河桥 | — | — | 明代 | 江苏省文物保护单位（“胭脂河与天生桥”组成部分，294） |
