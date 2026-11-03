@@ -1,13 +1,13 @@
 # 嘉兴市桐乡市古桥
 
-共收录 146 座桥。
+共收录 148 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>10</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>47</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>49</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>79</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>10</nobr> |
 
@@ -19,10 +19,10 @@
 | <nobr>洲泉镇</nobr> | <nobr>24</nobr> |
 | <nobr>濮院镇</nobr> | <nobr>15</nobr> |
 | <nobr>石门镇</nobr> | <nobr>11</nobr> |
+| <nobr>大麻镇</nobr> | <nobr>10</nobr> |
 | <nobr>开发区(高桥街道)</nobr> | <nobr>10</nobr> |
-| <nobr>大麻镇</nobr> | <nobr>9</nobr> |
 | <nobr>崇福镇</nobr> | <nobr>7</nobr> |
-| <nobr>凤鸣街道</nobr> | <nobr>6</nobr> |
+| <nobr>凤鸣街道</nobr> | <nobr>7</nobr> |
 | <nobr>高桥街道</nobr> | <nobr>4</nobr> |
 | <nobr>屠甸镇</nobr> | <nobr>3</nobr> |
 | <nobr>高桥镇</nobr> | <nobr>3</nobr> |
@@ -48,7 +48,7 @@
 | <nobr>濮院镇</nobr> | 定泉桥 [?](http://www.china-qiao.com/ql15/jxql/jxql187.htm) | 石拱桥（单孔） | — | 清、民国；清乾隆六十年（1795）重建 | 浙江省文物保护单位（第六批，“濮院古桥群”组成部分） | [1](定泉桥1.jpg) |
 | <nobr>濮院镇</nobr> | 秀桐桥 [?](http://www.china-qiao.com/ql15/jxql/jxql186.htm) | 石梁桥（三孔） | — | 清、民国 | 浙江省文物保护单位（第六批，“濮院古桥群”组成部分） | [1](秀桐桥1.jpg) |
 
-### 县（区）级文物保护单位（47 座）
+### 县（区）级文物保护单位（49 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -97,8 +97,10 @@
 | <nobr>大麻镇</nobr> | 永顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql194.htm) | 石梁桥（七孔） | 40.3米 | 清光绪十二年（1886）始建 | 桐乡市文物保护单位 | [1](大麻镇永顺桥1.jpg) |
 | <nobr>大麻镇</nobr> | 雨社永宁桥 | — | — | 清 | 桐乡市文物保护单位 | 暂无 |
 | <nobr>大麻镇</nobr> | 大洋桥 [?](http://www.china-qiao.com/ql15/jxql/jxql193.htm) | 石梁桥（七孔） | 35米 | 清道光十年（1830）重建 | 桐乡市文物保护单位 | 暂无 |
+| <nobr>大麻镇</nobr> | 南社永宁桥 | — | — | 清 | 桐乡市文物保护单位（2010年）（据博雅地名网（tcmap）汇编，待核对政府原件） | 暂无 |
 | <nobr>濮院镇</nobr> | 重建双贤桥 | — | — | 清光绪十五年 | 桐乡市文物保护单位 | 暂无 |
 | <nobr>濮院镇</nobr> | 重建升平桥 [?](http://www.china-qiao.com/ql15/jxql/jxql188.htm) | 石拱桥（单孔） | — | 民国十四年 | 桐乡市文物保护单位 | [1](升平桥1.jpg) |
+| <nobr>凤鸣街道</nobr> | 福严寺桥 | — | — | 清 | 桐乡市文物保护单位（2010年）（据博雅地名网（tcmap）汇编，待核对政府原件） | 暂无 |
 
 ### 文物保护点（79 座）
 
@@ -212,8 +214,10 @@
 - 定泉桥：具体年代据老百晓集桥（名录原写“清、民国”）。
 - 通济桥：具体年代据老百晓集桥（名录原写“清”）。
 - 仁济桥：具体年代据老百晓集桥（名录原写“清同治年间”）。
+- 福严寺桥：级别、年代据博雅地名网汇编。
 - 永顺桥：具体年代据老百晓集桥（名录原写“清光绪十二年”）。
 - 大洋桥：具体年代据老百晓集桥（名录原写“清”）。
+- 南社永宁桥：级别、年代据博雅地名网汇编。
 - 聚宝桥：具体年代据老百晓集桥（名录原写“清”）。
 - 万年桥：具体年代据老百晓集桥（名录原写“清”）。
 - 镇逢源双桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
@@ -236,6 +240,7 @@
 
 - [维基百科：浙江省文物保护单位](https://zh.wikipedia.org/wiki/浙江省文物保护单位)
 - [维基百科：桐乡市各级文物保护单位列表](https://zh.wikipedia.org/wiki/桐乡市各级文物保护单位列表)
+- [http://www.tcmap.com.cn/view/wenwu/gi5w378_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w378_list.html)
 - [老百晓集桥：jxql163.htm](http://www.china-qiao.com/ql15/jxql/jxql163.htm)
 - [老百晓集桥：jxql177.htm](http://www.china-qiao.com/ql15/jxql/jxql177.htm)
 - [浙江省《全省文物保护点》统计表（嘉兴市文物保护点）](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx)

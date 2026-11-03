@@ -1,6 +1,6 @@
 # 丽水市古桥
 
-共收录 250 座桥。
+共收录 253 座桥。
 
 ## 按级别统计
 
@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>22</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>12</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>40</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>43</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>104</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>71</nobr> |
 
@@ -20,8 +20,8 @@
 | <nobr>[庆元县](庆元县/README.md)</nobr> | <nobr>65</nobr> |
 | <nobr>[松阳县](松阳县/README.md)</nobr> | <nobr>36</nobr> |
 | <nobr>[缙云县](缙云县/README.md)</nobr> | <nobr>29</nobr> |
+| <nobr>[景宁畲族自治县](景宁畲族自治县/README.md)</nobr> | <nobr>29</nobr> |
 | <nobr>[青田县](青田县/README.md)</nobr> | <nobr>26</nobr> |
-| <nobr>[景宁畲族自治县](景宁畲族自治县/README.md)</nobr> | <nobr>26</nobr> |
 | <nobr>[龙泉市](龙泉市/README.md)</nobr> | <nobr>21</nobr> |
 | <nobr>[云和县](云和县/README.md)</nobr> | <nobr>18</nobr> |
 | <nobr>[遂昌县](遂昌县/README.md)</nobr> | <nobr>16</nobr> |
@@ -116,7 +116,7 @@
 |---|---|---|---|---|---|---|
 | <nobr>莲都区</nobr> | <nobr>—</nobr> | 万年桥 [?](http://www.china-qiao.com/ql15/lsql/lsql241.htm) | 石梁桥（单孔） | — | 清道光十三年（1833）建 | 丽水市文物保护单位 |
 
-### 县（区）级文物保护单位（40 座）
+### 县（区）级文物保护单位（43 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -160,6 +160,9 @@
 | <nobr>景宁畲族自治县</nobr> | <nobr>大漈乡</nobr> | 胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 清康熙 | 景宁畲族自治县文物保护单位 |
 | <nobr>景宁畲族自治县</nobr> | <nobr>红星街道</nobr> | 徐山永镇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql170.htm) | — | 42米 | 清同治三年（1864）建 | 景宁畲族自治县文物保护单位 |
 | <nobr>景宁畲族自治县</nobr> | <nobr>家地乡</nobr> | 芎岱岭脚桥 [?](http://www.china-qiao.com/ql15/lsql/lsql205.htm) | — | 38米 | 清同治九年（1870）建 | 景宁畲族自治县文物保护单位 |
+| <nobr>景宁畲族自治县</nobr> | <nobr>东坑镇</nobr> | 杨斜石枧坑桥 | — | — | 清嘉庆十四年（1809） | 景宁县文物保护单位（第七批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>景宁畲族自治县</nobr> | <nobr>东坑镇</nobr> | 章坑杨春桥 | — | — | 清 | 景宁县文物保护单位（第七批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>景宁畲族自治县</nobr> | <nobr>东坑镇</nobr> | 北溪桥 | — | — | 民国十二年（1923） | 景宁县文物保护单位（第七批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
 
 ### 文物保护点（104 座）
 

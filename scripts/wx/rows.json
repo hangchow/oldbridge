@@ -884,6 +884,32 @@
 "note": "级别、年代据博雅地名网江阴县级文保列表"
 },
 {
+"dist": "宜兴市",
+"name": "巷大桥",
+"era": "清",
+"loc": "屺亭街道文庄村",
+"src": "http://www.tcmap.com.cn/view/wenwu/gi5w239_list.html",
+"town": "屺亭街道",
+"doc": "—",
+"level": "宜兴市文物保护单位（2003年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+"struct": "石拱桥（单孔）",
+"len": "12.50米",
+"note": "级别、年代据博雅地名网汇编"
+},
+{
+"dist": "滨湖区",
+"name": "刘塘桥",
+"era": "清光绪三年（1877）重建",
+"loc": "胡埭镇刘塘村",
+"src": "http://www.tcmap.com.cn/view/wenwu/gi5w239_list.html",
+"town": "胡埭镇",
+"doc": "—",
+"level": "滨湖区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+"struct": "—",
+"len": "—",
+"note": "级别、年代据博雅地名网汇编"
+},
+{
 "dist": "梁溪区",
 "name": "清名桥",
 "era": "—",

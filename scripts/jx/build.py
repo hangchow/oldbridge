@@ -108,6 +108,9 @@ def imgbase(r, rs):
     n = core(r['name']); same = [x for x in rs if core(x['name']) == n]
     return (r['town'] + n) if len(same) > 1 else n
 # 政府原件（文保名录/，build/official.py 提取）里有、上面没收的桥
+# 名录之外、人工查到出处的桥（build/extra.json）
+for o in (json.load(open(S + '/build/extra.json')).get('嘉兴市', []) if os.path.exists(S + '/build/extra.json') else []):
+    if not any(r['dist'] == o['dist'] and core(r['name']) == core(o['name']) for r in R): e(o['dist'], o['town'], o['name'], o['era'], o['loc'], o['lvtxt'], '—', o['src'], o.get('note', ''))
 for o in (json.load(open(S + '/build/official.json')).get('嘉兴市', []) if os.path.exists(S + '/build/official.json') else []):
     if any(x['dist'] == o['dist'] and core(x['name']) == core(o['name']) for x in R): continue
     u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]

@@ -1,22 +1,24 @@
 # 泰州市古桥
 
-共收录 9 座桥。
+共收录 16 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>1</nobr> |
-| <nobr>市级文物保护单位</nobr> | <nobr>2</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>6</nobr> |
+| <nobr>市级文物保护单位</nobr> | <nobr>8</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>7</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[兴化市](兴化市/README.md)</nobr> | <nobr>4</nobr> |
-| <nobr>[海陵区](海陵区/README.md)</nobr> | <nobr>2</nobr> |
-| <nobr>[泰兴市](泰兴市/README.md)</nobr> | <nobr>2</nobr> |
+| <nobr>[海陵区](海陵区/README.md)</nobr> | <nobr>4</nobr> |
+| <nobr>[姜堰区](姜堰区/README.md)</nobr> | <nobr>3</nobr> |
+| <nobr>[泰兴市](泰兴市/README.md)</nobr> | <nobr>3</nobr> |
+| <nobr>[高港区](高港区/README.md)</nobr> | <nobr>1</nobr> |
 | <nobr>[靖江市](靖江市/README.md)</nobr> | <nobr>1</nobr> |
 
 ## 泰州市石木桥桥长前 20 名
@@ -40,20 +42,27 @@
 |---|---|---|---|---|---|---|
 | <nobr>兴化市</nobr> | <nobr>荻垛镇</nobr> | 万盛桥 | — | — | 清 | 江苏省文物保护单位 |
 
-### 市级文物保护单位（2 座）
+### 市级文物保护单位（8 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>海陵区</nobr> | <nobr>城北街道</nobr> | 渔行板桥 | — | — | 清、民国 | 泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>海陵区</nobr> | <nobr>城北街道</nobr> | 徐家桥 [?](http://www.china-qiao.com/ql16/tzql/tzql013.htm) | — | — | 明、清 | 泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
 | <nobr>海陵区</nobr> | <nobr>—</nobr> | 孙家桥 [?](http://www.china-qiao.com/ql16/tzql/tzql036.htm) | 石拱桥（单孔） | — | 明 | 泰州市文物保护单位 |
 | <nobr>海陵区</nobr> | <nobr>—</nobr> | 泰山桥 | — | — | 清 | 泰州市文物保护单位 |
+| <nobr>姜堰区</nobr> | <nobr>俞垛镇</nobr> | 南野积善桥 | — | — | 清 | 泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>姜堰区</nobr> | <nobr>溱潼镇</nobr> | 湖南村桥 | — | — | 清 | 泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>姜堰区</nobr> | <nobr>淤溪镇</nobr> | 潘庄南桥 | — | — | 清 | 泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>高港区</nobr> | <nobr>口岸街道</nobr> | 洗觉桥 | — | — | 清 | 泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
 
-### 县（区）级文物保护单位（6 座）
+### 县（区）级文物保护单位（7 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>泰兴市</nobr> | <nobr>虹桥镇</nobr> | 七圩老石桥 | — | — | 清 | 泰兴市文物保护单位（第五批）（据博雅地名网（tcmap）汇编，待核对政府原件） |
+| <nobr>泰兴市</nobr> | <nobr>济川街道</nobr> | 大生桥 | — | — | 明 | 泰兴市文物保护单位 |
+| <nobr>泰兴市</nobr> | <nobr>黄桥镇</nobr> | 致富桥 [?](http://www.china-qiao.com/ql16/tzql/tzql065.htm) | — | — | 明清 | 泰兴市文物保护单位 |
 | <nobr>兴化市</nobr> | <nobr>沙沟镇</nobr> | 虹桥 [?](http://www.china-qiao.com/ql16/tzql/tzql077.htm) | — | 15米 | 明 | 兴化市文物保护单位 |
 | <nobr>兴化市</nobr> | <nobr>沙沟镇</nobr> | 迎新桥 [?](http://www.china-qiao.com/ql16/tzql/tzql097.htm) | 石拱桥（单孔） | 15.8米 | 清 | 兴化市文物保护单位 |
 | <nobr>兴化市</nobr> | <nobr>张郭镇</nobr> | 福星桥 | — | — | 清 | 兴化市文物保护单位 |
 | <nobr>靖江市</nobr> | <nobr>—</nobr> | 旧志五桥 | — | — | 清 | 靖江市文物保护单位 |
-| <nobr>泰兴市</nobr> | <nobr>济川街道</nobr> | 大生桥 | — | — | 明 | 泰兴市文物保护单位 |
-| <nobr>泰兴市</nobr> | <nobr>黄桥镇</nobr> | 致富桥 [?](http://www.china-qiao.com/ql16/tzql/tzql065.htm) | — | — | 明清 | 泰兴市文物保护单位 |

@@ -1,13 +1,13 @@
 # 金华市磐安县古桥
 
-共收录 8 座桥。
+共收录 9 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>2</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>2</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>3</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>1</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>3</nobr> |
 
@@ -16,6 +16,7 @@
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>—</nobr> | <nobr>2</nobr> |
+| <nobr>仁川镇</nobr> | <nobr>1</nobr> |
 | <nobr>尚湖镇</nobr> | <nobr>1</nobr> |
 | <nobr>玉山镇</nobr> | <nobr>1</nobr> |
 | <nobr>新渥街道</nobr> | <nobr>1</nobr> |
@@ -32,10 +33,11 @@
 | <nobr>—</nobr> | 道德桥 [?](http://www.china-qiao.com/ql15/jhql/jhql123.htm) | 钢筋混凝土拱桥（单孔） | 35.53米 | 民国十七年（1928） | 浙江省文物保护单位（第六批，6-329） | [1](道德桥1.jpg) |
 | <nobr>—</nobr> | 宅口承志桥 [?](http://www.china-qiao.com/ql15/jhql/jhql135.htm) | 石拱桥（单孔） | 18.6米 | — | 浙江省文物保护单位（第七批，7-157） | 暂无 |
 
-### 县（区）级文物保护单位（2 座）
+### 县（区）级文物保护单位（3 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
+| <nobr>仁川镇</nobr> | 修金桥 | — | — | 清道光二十八年（1848） | 磐安县文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件） | 暂无 |
 | <nobr>尚湖镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/jhql/jhql137.htm) | 石拱桥（单孔） | 22.2米 | 清道光年间建 | 磐安县文物保护单位（第七批） | [1](永兴桥1.jpg) |
 | <nobr>玉山镇</nobr> | 石屏桥 | — | — | 清 | 磐安县文物保护单位（第七批） | 暂无 |
 
@@ -57,6 +59,7 @@
 ## 说明
 
 - 道德桥：结构、年代据老百晓集桥：县城现存最古老的拱桥，钢筋混凝土独拱桥，长35.53米。
+- 修金桥：单孔折边石拱桥；级别、年代据博雅地名网汇编。
 - 蹬步桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 永言桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 永德桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
@@ -68,6 +71,7 @@
 ## 来源
 
 - [维基百科：浙江省文物保护单位](https://zh.wikipedia.org/wiki/浙江省文物保护单位)
+- [http://www.tcmap.com.cn/view/wenwu/gi5w384_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w384_list.html)
 - [老百晓集桥：jhql138.htm](http://www.china-qiao.com/ql15/jhql/jhql138.htm)
 - [老百晓集桥：jhql139.htm](http://www.china-qiao.com/ql15/jhql/jhql139.htm)
 - [老百晓集桥：jhql144.htm](http://www.china-qiao.com/ql15/jhql/jhql144.htm)

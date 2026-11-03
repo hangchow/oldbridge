@@ -11,5 +11,31 @@
 "struct": "石拱桥（三孔）",
 "len": "35米",
 "note": ""
+},
+{
+"dist": "赣榆区",
+"name": "门楼河东桥",
+"era": "清光绪十七年（1891）",
+"loc": "门河镇柳沟村东",
+"src": "http://www.tcmap.com.cn/view/wenwu/gi4w371_list.html",
+"town": "门河镇",
+"doc": "—",
+"level": "连云港市文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+"struct": "—",
+"len": "—",
+"note": "级别、年代据博雅地名网汇编"
+},
+{
+"dist": "海州区",
+"name": "谢小楼桥",
+"era": "晚清",
+"loc": "朐阳街道网疃村朐阳门东侧",
+"src": "http://www.tcmap.com.cn/view/wenwu/gi4w371_list.html",
+"town": "朐阳街道",
+"doc": "—",
+"level": "连云港市文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+"struct": "—",
+"len": "—",
+"note": "级别、年代据博雅地名网汇编"
 }
 ]

@@ -51,7 +51,31 @@
   ],
   "townfix": {
    "衢江区|下金大桥": "峡川镇"
-  }
+  },
+  "extra": [
+   {
+    "dist": "开化县",
+    "town": "中村乡",
+    "name": "汪岭桥",
+    "era": "—",
+    "loc": "中村乡茅岗村皇林",
+    "lv": "xian",
+    "lvtxt": "开化县文物保护单位（第四批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w385_list.html",
+    "note": "单孔石拱桥，全长27米；级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "开化县",
+    "town": "大溪边乡",
+    "name": "登云桥",
+    "era": "民国二十一年（1932）",
+    "loc": "大溪边乡阳坑村",
+    "lv": "xian",
+    "lvtxt": "开化县文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w385_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   }
+  ]
  },
  "台州市": {
   "key": "tz",
@@ -72,7 +96,20 @@
    "温岭市|金清大桥": "新河镇",
    "仙居县|下各东桥": "下各镇",
    "温岭市|李婆桥": "箬横镇"
-  }
+  },
+  "extra": [
+   {
+    "dist": "温岭市",
+    "town": "城东街道",
+    "name": "月洞桥",
+    "era": "清",
+    "loc": "城东街道横湖桥村",
+    "lv": "xian",
+    "lvtxt": "温岭市文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w381_list.html",
+    "note": "俗称横湖桥，单孔石拱桥，全长13.85米；级别、年代据博雅地名网汇编"
+   }
+  ]
  },
  "温州市": {
   "key": "wz",
@@ -327,7 +364,42 @@
    "景宁畲族自治县|东坑上桥": "东杭镇",
    "景宁畲族自治县|环胜桥": "梧桐乡",
    "景宁畲族自治县|护关桥": "大漈乡"
-  }
+  },
+  "extra": [
+   {
+    "dist": "景宁畲族自治县",
+    "town": "东坑镇",
+    "name": "杨斜石枧坑桥",
+    "era": "清嘉庆十四年（1809）",
+    "loc": "东坑镇杨斜村半岭村西侧",
+    "lv": "xian",
+    "lvtxt": "景宁县文物保护单位（第七批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w383_list.html",
+    "note": "木拱廊桥；级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "景宁畲族自治县",
+    "town": "东坑镇",
+    "name": "章坑杨春桥",
+    "era": "清",
+    "loc": "东坑镇章坑村西北侧",
+    "lv": "xian",
+    "lvtxt": "景宁县文物保护单位（第七批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w383_list.html",
+    "note": "石拱桥；级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "景宁畲族自治县",
+    "town": "东坑镇",
+    "name": "北溪桥",
+    "era": "民国十二年（1923）",
+    "loc": "东坑镇汤北村北溪自然村",
+    "lv": "xian",
+    "lvtxt": "景宁县文物保护单位（第七批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w383_list.html",
+    "note": "木拱廊桥；级别、年代据博雅地名网汇编"
+   }
+  ]
  },
  "舟山市": {
   "key": "zs",
@@ -403,6 +475,28 @@
     "lvtxt": "江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件）",
     "src": "http://www.tcmap.com.cn/view/wenwu/gi5w1140_list.html",
     "note": "级别、年代据博雅地名网江阴县级文保列表"
+   },
+   {
+    "dist": "宜兴市",
+    "town": "屺亭街道",
+    "name": "巷大桥",
+    "era": "清",
+    "loc": "屺亭街道文庄村",
+    "lv": "xian",
+    "lvtxt": "宜兴市文物保护单位（2003年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w239_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "滨湖区",
+    "town": "胡埭镇",
+    "name": "刘塘桥",
+    "era": "清光绪三年（1877）重建",
+    "loc": "胡埭镇刘塘村",
+    "lv": "xian",
+    "lvtxt": "滨湖区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w239_list.html",
+    "note": "级别、年代据博雅地名网汇编"
    }
   ]
  },
@@ -426,7 +520,53 @@
   "townfix": {
    "溧水区|天生桥": "洪蓝街道",
    "高淳区|江夏桥": "古柏镇"
-  }
+  },
+  "extra": [
+   {
+    "dist": "江宁区",
+    "town": "淳化街道",
+    "name": "上合村西边桥",
+    "era": "清康熙四十六年（1707）",
+    "loc": "淳化街道茶岗社区上合村西约150米",
+    "lv": "xian",
+    "lvtxt": "江宁区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w238_list.html",
+    "note": "桥面后加水泥板；级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "江宁区",
+    "town": "淳化街道",
+    "name": "徐盖村东边桥",
+    "era": "—",
+    "loc": "淳化街道青山社区徐盖村东",
+    "lv": "xian",
+    "lvtxt": "江宁区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w238_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "江宁区",
+    "town": "秣陵街道",
+    "name": "八公桥",
+    "era": "—",
+    "loc": "秣陵街道王墅社区药科大学东北",
+    "lv": "xian",
+    "lvtxt": "江宁区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w238_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "江宁区",
+    "town": "湖熟街道",
+    "name": "西河里村平角桥",
+    "era": "—",
+    "loc": "湖熟街道湖熟社区西河里村东约100米",
+    "lv": "xian",
+    "lvtxt": "江宁区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w238_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   }
+  ]
  },
  "常州市": {
   "key": "cz",
@@ -516,6 +656,30 @@
    "东海县",
    "灌云县",
    "灌南县"
+  ],
+  "extra": [
+   {
+    "dist": "赣榆区",
+    "town": "门河镇",
+    "name": "门楼河东桥",
+    "era": "清光绪十七年（1891）",
+    "loc": "门河镇柳沟村东",
+    "lv": "shi",
+    "lvtxt": "连云港市文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w371_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "海州区",
+    "town": "朐阳街道",
+    "name": "谢小楼桥",
+    "era": "晚清",
+    "loc": "朐阳街道网疃村朐阳门东侧",
+    "lv": "shi",
+    "lvtxt": "连云港市文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w371_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   }
   ]
  },
  "淮安市": {
@@ -568,7 +732,86 @@
   ],
   "townfix": {
    "泰兴市|大生桥": "济川街道"
-  }
+  },
+  "extra": [
+   {
+    "dist": "海陵区",
+    "town": "城北街道",
+    "name": "渔行板桥",
+    "era": "清、民国",
+    "loc": "城北街道渔行社区",
+    "lv": "shi",
+    "lvtxt": "泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "海陵区",
+    "town": "城北街道",
+    "name": "徐家桥",
+    "era": "明、清",
+    "loc": "城北街道彩衣社区",
+    "lv": "shi",
+    "lvtxt": "泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "姜堰区",
+    "town": "俞垛镇",
+    "name": "南野积善桥",
+    "era": "清",
+    "loc": "俞垛镇南野村",
+    "lv": "shi",
+    "lvtxt": "泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "姜堰区",
+    "town": "溱潼镇",
+    "name": "湖南村桥",
+    "era": "清",
+    "loc": "溱潼镇湖南村",
+    "lv": "shi",
+    "lvtxt": "泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "姜堰区",
+    "town": "淤溪镇",
+    "name": "潘庄南桥",
+    "era": "清",
+    "loc": "淤溪镇潘甸村",
+    "lv": "shi",
+    "lvtxt": "泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "高港区",
+    "town": "口岸街道",
+    "name": "洗觉桥",
+    "era": "清",
+    "loc": "口岸街道引江村",
+    "lv": "shi",
+    "lvtxt": "泰州市文物保护单位（第二批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   },
+   {
+    "dist": "泰兴市",
+    "town": "虹桥镇",
+    "name": "七圩老石桥",
+    "era": "清",
+    "loc": "虹桥镇七圩村",
+    "lv": "xian",
+    "lvtxt": "泰兴市文物保护单位（第五批）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi5w377_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   }
+  ]
  },
  "南通市": {
   "key": "nt",
@@ -594,6 +837,19 @@
    "沭阳县",
    "泗阳县",
    "泗洪县"
+  ],
+  "extra": [
+   {
+    "dist": "宿城区",
+    "town": "—",
+    "name": "通运桥",
+    "era": "—",
+    "loc": "马陵河文曲沟中段",
+    "lv": "shi",
+    "lvtxt": "宿迁市文物保护单位（第二批，2005年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+    "src": "http://www.tcmap.com.cn/view/wenwu/gi4w372_list.html",
+    "note": "级别、年代据博雅地名网汇编"
+   }
   ]
  }
 }

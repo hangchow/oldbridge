@@ -1,6 +1,6 @@
 # 嘉兴市古桥
 
-共收录 394 座桥。
+共收录 396 座桥。
 
 ## 按级别统计
 
@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>16</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>3</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>95</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>97</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>213</nobr> |
 | <nobr>历史建筑</nobr> | <nobr>5</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>61</nobr> |
@@ -18,7 +18,7 @@
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[桐乡市](桐乡市/README.md)</nobr> | <nobr>146</nobr> |
+| <nobr>[桐乡市](桐乡市/README.md)</nobr> | <nobr>148</nobr> |
 | <nobr>[平湖市](平湖市/README.md)</nobr> | <nobr>66</nobr> |
 | <nobr>[秀洲区](秀洲区/README.md)</nobr> | <nobr>44</nobr> |
 | <nobr>[海盐县](海盐县/README.md)</nobr> | <nobr>40</nobr> |
@@ -100,7 +100,7 @@
 | <nobr>秀洲区</nobr> | <nobr>油车港镇</nobr> | 长生桥 [?](http://www.china-qiao.com/ql15/jxql/jxql347.htm) | — | 22米 | 清乾隆五十五年（1790）建 | 嘉兴市文物保护单位（第四批，2009年） |
 | <nobr>南湖区</nobr> | <nobr>新城街道</nobr> | 里仁桥 | — | — | 清 | 嘉兴市文物保护单位（第四批，2009年） |
 
-### 县（区）级文物保护单位（95 座）
+### 县（区）级文物保护单位（97 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -169,8 +169,10 @@
 | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 永顺桥 [?](http://www.china-qiao.com/ql15/jxql/jxql194.htm) | 石梁桥（七孔） | 40.3米 | 清光绪十二年（1886）始建 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 雨社永宁桥 | — | — | 清 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 大洋桥 [?](http://www.china-qiao.com/ql15/jxql/jxql193.htm) | 石梁桥（七孔） | 35米 | 清道光十年（1830）重建 | 桐乡市文物保护单位 |
+| <nobr>桐乡市</nobr> | <nobr>大麻镇</nobr> | 南社永宁桥 | — | — | 清 | 桐乡市文物保护单位（2010年）（据博雅地名网（tcmap）汇编，待核对政府原件） |
 | <nobr>桐乡市</nobr> | <nobr>濮院镇</nobr> | 重建双贤桥 | — | — | 清光绪十五年 | 桐乡市文物保护单位 |
 | <nobr>桐乡市</nobr> | <nobr>濮院镇</nobr> | 重建升平桥 [?](http://www.china-qiao.com/ql15/jxql/jxql188.htm) | 石拱桥（单孔） | — | 民国十四年 | 桐乡市文物保护单位 |
+| <nobr>桐乡市</nobr> | <nobr>凤鸣街道</nobr> | 福严寺桥 | — | — | 清 | 桐乡市文物保护单位（2010年）（据博雅地名网（tcmap）汇编，待核对政府原件） |
 | <nobr>平湖市</nobr> | <nobr>曹桥街道</nobr> | 丁店桥 | — | — | 明隆庆二年（1568） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 钟南仁寿桥 [?](http://www.china-qiao.com/ql15/jxql/jxql099.htm) | 石梁桥（五孔） | 24米 | 清乾隆元年（1736） | 平湖市文物保护单位（第八批，2015年） |
 | <nobr>平湖市</nobr> | <nobr>钟埭街道</nobr> | 利生桥 [?](http://www.china-qiao.com/ql15/jxql/jxql095.htm) | 石拱桥（单孔） | 12米 | 清嘉庆四年（1799） | 平湖市文物保护单位（第八批，2015年） |

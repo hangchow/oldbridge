@@ -1,0 +1,50 @@
+{
+ "嘉兴市": [
+  {
+   "dist": "桐乡市",
+   "town": "凤鸣街道",
+   "name": "福严寺桥",
+   "era": "清",
+   "loc": "凤鸣街道合星村福严禅寺前",
+   "lv": "xian",
+   "lvtxt": "桐乡市文物保护单位（2010年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+   "src": "http://www.tcmap.com.cn/view/wenwu/gi5w378_list.html",
+   "note": "级别、年代据博雅地名网汇编"
+  },
+  {
+   "dist": "桐乡市",
+   "town": "大麻镇",
+   "name": "南社永宁桥",
+   "era": "清",
+   "loc": "海华村卖叶桥小组",
+   "lv": "xian",
+   "lvtxt": "桐乡市文物保护单位（2010年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+   "src": "http://www.tcmap.com.cn/view/wenwu/gi5w378_list.html",
+   "note": "级别、年代据博雅地名网汇编"
+  }
+ ],
+ "金华市": [
+  {
+   "dist": "磐安县",
+   "town": "仁川镇",
+   "name": "修金桥",
+   "era": "清道光二十八年（1848）",
+   "loc": "仁川镇荣坑口村东南约200米",
+   "lv": "xian",
+   "lvtxt": "磐安县文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+   "src": "http://www.tcmap.com.cn/view/wenwu/gi5w384_list.html",
+   "note": "单孔折边石拱桥；级别、年代据博雅地名网汇编"
+  },
+  {
+   "dist": "金东区",
+   "town": "赤松镇",
+   "name": "庆济桥",
+   "era": "—",
+   "loc": "赤松镇西前路村",
+   "lv": "shi",
+   "lvtxt": "金华市文物保护单位（第三批，2010年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+   "src": "http://www.tcmap.com.cn/view/wenwu/gi4w384_list.html",
+   "note": "级别、年代据博雅地名网汇编"
+  }
+ ]
+}

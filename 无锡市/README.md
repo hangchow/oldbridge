@@ -1,6 +1,6 @@
 # 无锡市古桥
 
-共收录 162 座桥。
+共收录 164 座桥。
 
 ## 按级别统计
 
@@ -8,7 +8,7 @@
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>14</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>63</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>65</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>37</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>2</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>39</nobr> |
@@ -17,13 +17,13 @@
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[宜兴市](宜兴市/README.md)</nobr> | <nobr>100</nobr> |
+| <nobr>[宜兴市](宜兴市/README.md)</nobr> | <nobr>101</nobr> |
 | <nobr>[江阴市](江阴市/README.md)</nobr> | <nobr>30</nobr> |
 | <nobr>[新吴区](新吴区/README.md)</nobr> | <nobr>10</nobr> |
 | <nobr>[梁溪区](梁溪区/README.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[锡山区](锡山区/README.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[惠山区](惠山区/README.md)</nobr> | <nobr>6</nobr> |
-| <nobr>[滨湖区](滨湖区/README.md)</nobr> | <nobr>4</nobr> |
+| <nobr>[滨湖区](滨湖区/README.md)</nobr> | <nobr>5</nobr> |
 
 ## 无锡市石木桥桥长前 20 名
 
@@ -50,7 +50,7 @@
 | <nobr>19</nobr> | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 中阳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql263.htm) | 石梁桥（三孔） | 22.84米 | 民国十年（1921） | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>江阴市</nobr> | <nobr>青阳镇</nobr> | 芦经桥 [?](http://www.china-qiao.com/ql16/wxql/wxql170.htm) | — | 22.4米 | 民国二十四年（1935） | <nobr>尚未定级（待核实）</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 52 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 53 座中排序。
 
 ## 无锡市桥身刻字最早的前 20 名
 
@@ -89,7 +89,7 @@
 | <nobr>滨湖区</nobr> | <nobr>华庄街道</nobr> | 张桥 | — | — | 清 | 无锡市文物保护单位 |
 | <nobr>新吴区</nobr> | <nobr>鸿山街道</nobr> | 钱公桥 [?](http://www.china-qiao.com/ql16/wxql/wxql142.htm) | — | — | 清 | 无锡市文物保护单位 |
 
-### 县（区）级文物保护单位（63 座）
+### 县（区）级文物保护单位（65 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | <nobr>宜兴市</nobr> | <nobr>新街街道</nobr> | 永思桥 [?](http://www.china-qiao.com/ql16/wxql/wxql203.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位（第五批） |
 | <nobr>宜兴市</nobr> | <nobr>新街街道</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql204.htm) | 石拱桥（单孔） | — | 民国六年（1917）建，民国七年（1918）重建 | 宜兴市文物保护单位（第五批） |
 | <nobr>宜兴市</nobr> | <nobr>屺亭街道</nobr> | 后亭桥 [?](http://www.china-qiao.com/ql16/wxql/wxql200.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位（第五批） |
+| <nobr>宜兴市</nobr> | <nobr>屺亭街道</nobr> | 巷大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql199.htm) | 石拱桥（单孔） | 12.50米 | 清 | 宜兴市文物保护单位（2003年）（据博雅地名网（tcmap）汇编，待核对政府原件） |
 | <nobr>宜兴市</nobr> | <nobr>芳桥街道</nobr> | 夏芳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql221.htm) | 石梁桥（四孔） | — | 清 | 宜兴市文物保护单位（第五批） |
 | <nobr>宜兴市</nobr> | <nobr>芳桥街道</nobr> | 梅前永兴桥 [?](http://www.china-qiao.com/ql16/wxql/wxql218.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位（第五批） |
 | <nobr>宜兴市</nobr> | <nobr>芳桥街道</nobr> | 下裴桥 [?](http://www.china-qiao.com/ql16/wxql/wxql217.htm) | 石拱桥（单孔） | 16.90米 | 民国十二年（1923） | 宜兴市文物保护单位 |
@@ -156,6 +157,7 @@
 | <nobr>江阴市</nobr> | <nobr>南闸街道</nobr> | 紫金桥 [?](http://www.china-qiao.com/ql16/wxql/wxql151.htm) | — | 6.0米 | 宋代 | 江阴市文物保护单位 |
 | <nobr>江阴市</nobr> | <nobr>夏港镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql154.htm) | 石梁桥（三孔） | 50.7米 | 宋至清；清顺治十四年（1657）建成 | 江阴市文物保护单位 |
 | <nobr>江阴市</nobr> | <nobr>原石庄镇</nobr> | 新桥 [?](http://www.china-qiao.com/ql16/wxql/wxql157.htm) | 石拱桥（单孔） | — | 明崇祯年间始建 | 江阴市文物保护单位 |
+| <nobr>滨湖区</nobr> | <nobr>胡埭镇</nobr> | 刘塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql395.htm) | — | — | 清光绪三年（1877）重建 | 滨湖区文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件） |
 
 ### 文物保护点（37 座）
 

@@ -1,6 +1,6 @@
 # 台州市温岭市古桥
 
-共收录 9 座桥。
+共收录 10 座桥。
 
 ## 按级别统计
 
@@ -8,6 +8,7 @@
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>2</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>1</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>4</nobr> |
 
@@ -15,11 +16,11 @@
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
+| <nobr>城东街道</nobr> | <nobr>2</nobr> |
 | <nobr>—</nobr> | <nobr>2</nobr> |
 | <nobr>新河镇</nobr> | <nobr>2</nobr> |
 | <nobr>箬横镇</nobr> | <nobr>1</nobr> |
 | <nobr>温峤镇</nobr> | <nobr>1</nobr> |
-| <nobr>城东街道</nobr> | <nobr>1</nobr> |
 | <nobr>城北街道</nobr> | <nobr>1</nobr> |
 | <nobr>泽国镇</nobr> | <nobr>1</nobr> |
 
@@ -39,6 +40,12 @@
 | <nobr>新河镇</nobr> | 糠桥头桥 | — | — | 南宋 | 浙江省文物保护单位（8-33） | 暂无 |
 | <nobr>箬横镇</nobr> | 李婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql047.htm) | 钢筋混凝土拱桥（单孔） | 14米 | — | 浙江省文物保护单位（8-117） | [1](李婆桥1.jpg) |
 
+### 县（区）级文物保护单位（1 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>城东街道</nobr> | 月洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql035.htm) | 石拱桥（单孔） | 17米 | 清 | 温岭市文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件） | 暂无 |
+
 ### 文物保护点（1 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
@@ -57,6 +64,7 @@
 
 ## 说明
 
+- 月洞桥：俗称横湖桥，单孔石拱桥，全长13.85米；级别、年代据博雅地名网汇编。
 - 肖溪四都涧桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 琅岙桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 联树桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“清嘉庆年间始建，1914年重修”）。
@@ -70,6 +78,7 @@
 
 - [维基百科：温岭市各级文物保护单位列表](https://zh.wikipedia.org/wiki/温岭市各级文物保护单位列表)
 - [维基百科：浙江省文物保护单位](https://zh.wikipedia.org/wiki/浙江省文物保护单位)
+- [http://www.tcmap.com.cn/view/wenwu/gi5w381_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w381_list.html)
 - [浙江省文物局：全省文物保护点统计表（台州市文物保护点，本项目 文保名录/浙江省/ 有原件）](http://wwj.zj.gov.cn/)
 - [老百晓集桥：tzql039.htm](http://www.china-qiao.com/ql15/tzql/tzql039.htm)
 - [老百晓集桥：tzql040.htm](http://www.china-qiao.com/ql15/tzql/tzql040.htm)

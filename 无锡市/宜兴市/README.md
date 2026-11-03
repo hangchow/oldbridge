@@ -1,13 +1,13 @@
 # 无锡市宜兴市古桥
 
-共收录 100 座桥。
+共收录 101 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>11</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>44</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>45</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>30</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>15</nobr> |
 
@@ -21,8 +21,8 @@
 | <nobr>官林镇</nobr> | <nobr>8</nobr> |
 | <nobr>和桥镇</nobr> | <nobr>8</nobr> |
 | <nobr>徐舍镇</nobr> | <nobr>7</nobr> |
+| <nobr>屺亭街道</nobr> | <nobr>6</nobr> |
 | <nobr>芳桥街道</nobr> | <nobr>6</nobr> |
-| <nobr>屺亭街道</nobr> | <nobr>5</nobr> |
 | <nobr>杨巷镇</nobr> | <nobr>5</nobr> |
 | <nobr>周铁镇</nobr> | <nobr>5</nobr> |
 | <nobr>张渚镇</nobr> | <nobr>5</nobr> |
@@ -49,7 +49,7 @@
 | <nobr>新街街道</nobr> | 新桥 [?](http://www.china-qiao.com/ql16/wxql/wxql202.htm) | 石拱桥（单孔） | 31.30米 | 明、清 | 江苏省文物保护单位（“宜兴古桥梁”组成部分，580） | 暂无 |
 | <nobr>杨巷镇</nobr> | 阳溪桥 [?](http://www.china-qiao.com/ql16/wxql/wxql233.htm) | 石梁桥（单孔） | 22.10米 | 明嘉靖三十一年（1552）建，清宣统元年（1909）重建 | 江苏省文物保护单位（“宜兴古桥梁”组成部分，580） | 暂无 |
 
-### 县（区）级文物保护单位（44 座）
+### 县（区）级文物保护单位（45 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | <nobr>新街街道</nobr> | 永思桥 [?](http://www.china-qiao.com/ql16/wxql/wxql203.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位（第五批） | 暂无 |
 | <nobr>新街街道</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql204.htm) | 石拱桥（单孔） | — | 民国六年（1917）建，民国七年（1918）重建 | 宜兴市文物保护单位（第五批） | 暂无 |
 | <nobr>屺亭街道</nobr> | 后亭桥 [?](http://www.china-qiao.com/ql16/wxql/wxql200.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位（第五批） | 暂无 |
+| <nobr>屺亭街道</nobr> | 巷大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql199.htm) | 石拱桥（单孔） | 12.50米 | 清 | 宜兴市文物保护单位（2003年）（据博雅地名网（tcmap）汇编，待核对政府原件） | 暂无 |
 | <nobr>芳桥街道</nobr> | 夏芳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql221.htm) | 石梁桥（四孔） | — | 清 | 宜兴市文物保护单位（第五批） | 暂无 |
 | <nobr>芳桥街道</nobr> | 梅前永兴桥 [?](http://www.china-qiao.com/ql16/wxql/wxql218.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位（第五批） | 暂无 |
 | <nobr>芳桥街道</nobr> | 下裴桥 [?](http://www.china-qiao.com/ql16/wxql/wxql217.htm) | 石拱桥（单孔） | 16.90米 | 民国十二年（1923） | 宜兴市文物保护单位 | 暂无 |
@@ -173,6 +174,7 @@
 - 官林桥：据老百晓集桥页面：2003年宜兴市人民政府公布为市级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
 - 戈庄双桥：据老百晓集桥页面：2003年宜兴市人民政府公布为市级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
 - 谢桥：据老百晓集桥页面：1996年宜兴市人民政府公布为市级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
+- 巷大桥：级别、年代据博雅地名网汇编。
 - 玉带桥：据老百晓集桥页面：1996年宜兴市人民政府公布为市级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
 - 金龙桥：据老百晓集桥页面：2003年宜兴市人民政府公布为市级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载；具体年代据老百晓集桥（名录原写“清同治年间”）。
 - 大塍太平桥：具体年代据老百晓集桥（名录原写“明”）。
@@ -223,6 +225,7 @@
 - [老百晓集桥：wxql230.htm](http://www.china-qiao.com/ql16/wxql/wxql230.htm)
 - [老百晓集桥：wxql231.htm](http://www.china-qiao.com/ql16/wxql/wxql231.htm)
 - [老百晓集桥：wxql196.htm](http://www.china-qiao.com/ql16/wxql/wxql196.htm)
+- [http://www.tcmap.com.cn/view/wenwu/gi5w239_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w239_list.html)
 - [老百晓集桥：wxql222.htm](http://www.china-qiao.com/ql16/wxql/wxql222.htm)
 - [老百晓集桥：wxql223.htm](http://www.china-qiao.com/ql16/wxql/wxql223.htm)
 - [老百晓集桥：wxql235.htm](http://www.china-qiao.com/ql16/wxql/wxql235.htm)

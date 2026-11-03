@@ -364,6 +364,32 @@
 "len": "—"
 },
 {
+"dist": "磐安县",
+"town": "仁川镇",
+"name": "修金桥",
+"era": "清道光二十八年（1848）",
+"loc": "仁川镇荣坑口村东南约200米",
+"level": "磐安县文物保护单位（据博雅地名网（tcmap）汇编，待核对政府原件）",
+"doc": "—",
+"src": "http://www.tcmap.com.cn/view/wenwu/gi5w384_list.html",
+"note": "单孔折边石拱桥；级别、年代据博雅地名网汇编",
+"struct": "—",
+"len": "—"
+},
+{
+"dist": "金东区",
+"town": "赤松镇",
+"name": "庆济桥",
+"era": "—",
+"loc": "赤松镇西前路村",
+"level": "金华市文物保护单位（第三批，2010年）（据博雅地名网（tcmap）汇编，待核对政府原件）",
+"doc": "—",
+"src": "http://www.tcmap.com.cn/view/wenwu/gi4w384_list.html",
+"note": "级别、年代据博雅地名网汇编",
+"struct": "—",
+"len": "—"
+},
+{
 "dist": "武义县",
 "town": "俞源乡",
 "name": "下杨安济桥",
