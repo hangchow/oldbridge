@@ -1,6 +1,6 @@
 # 丽水市古桥
 
-共收录 253 座桥。
+共收录 254 座桥。
 
 ## 按级别统计
 
@@ -10,7 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>14</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>48</nobr> |
-| <nobr>文物保护点</nobr> | <nobr>102</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>103</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>66</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -18,7 +18,7 @@
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[庆元县](庆元县/庆元县古桥.md)</nobr> | <nobr>66</nobr> |
-| <nobr>[松阳县](松阳县/松阳县古桥.md)</nobr> | <nobr>35</nobr> |
+| <nobr>[松阳县](松阳县/松阳县古桥.md)</nobr> | <nobr>36</nobr> |
 | <nobr>[景宁畲族自治县](景宁畲族自治县/景宁畲族自治县古桥.md)</nobr> | <nobr>29</nobr> |
 | <nobr>[缙云县](缙云县/缙云县古桥.md)</nobr> | <nobr>28</nobr> |
 | <nobr>[青田县](青田县/青田县古桥.md)</nobr> | <nobr>26</nobr> |
@@ -171,7 +171,7 @@
 | <nobr>[莲都区](莲都区/莲都区古桥.md)</nobr> | <nobr>大港头镇</nobr> | 公起桥 [?](http://www.china-qiao.com/ql15/lsql/lsql324.htm) | — | 22.8米 | 清嘉庆三年（1798） | 莲都区文物保护单位（莲政发〔2011〕17号） |
 | <nobr>[莲都区](莲都区/莲都区古桥.md)</nobr> | <nobr>峰源乡</nobr> | 复兴桥 [?](http://www.china-qiao.com/ql15/lsql/lsql323.htm) | — | 31.5米 | 清 | 莲都区文物保护单位（莲政发〔2011〕17号） |
 
-### 文物保护点（102 座）
+### 文物保护点（103 座）
 
 数量较多，见各区县文件。
 

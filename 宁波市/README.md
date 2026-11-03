@@ -1,6 +1,6 @@
 # 宁波市古桥
 
-共收录 338 座桥。
+共收录 341 座桥。
 
 ## 按级别统计
 
@@ -10,15 +10,15 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>10</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>51</nobr> |
-| <nobr>文物保护点</nobr> | <nobr>143</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>146</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>125</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[鄞州区](鄞州区/鄞州区古桥.md)</nobr> | <nobr>66</nobr> |
-| <nobr>[海曙区](海曙区/海曙区古桥.md)</nobr> | <nobr>59</nobr> |
+| <nobr>[鄞州区](鄞州区/鄞州区古桥.md)</nobr> | <nobr>68</nobr> |
+| <nobr>[海曙区](海曙区/海曙区古桥.md)</nobr> | <nobr>60</nobr> |
 | <nobr>[慈溪市](慈溪市/慈溪市古桥.md)</nobr> | <nobr>49</nobr> |
 | <nobr>[余姚市](余姚市/余姚市古桥.md)</nobr> | <nobr>47</nobr> |
 | <nobr>[宁海县](宁海县/宁海县古桥.md)</nobr> | <nobr>32</nobr> |
@@ -151,7 +151,7 @@
 | <nobr>[象山县](象山县/象山县古桥.md)</nobr> | <nobr>墙头镇</nobr> | 瑞安桥 [?](http://www.china-qiao.com/ql15/nbql/nbql320.htm) | 石拱桥（单孔） | 62.5米 | 清 | 象山县文物保护单位（象政发〔2007〕131号） |
 | <nobr>[象山县](象山县/象山县古桥.md)</nobr> | <nobr>定塘镇</nobr> | 保安桥 | — | — | 民国 | 象山县文物保护单位（象政发〔2011〕44号） |
 
-### 文物保护点（143 座）
+### 文物保护点（146 座）
 
 数量较多，见各区县文件。
 

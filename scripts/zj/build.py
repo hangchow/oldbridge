@@ -29,7 +29,7 @@ LV = {'gb': 0, 'sb': 1, 'shi': 2, 'xian': 3, 'wbd': 4, 'dj': 5}
 R = []
 def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote='', lvtxt=''):
     if dist not in DISTS or not name: return
-    if re.search(r'碑|亭', name) and not re.search(r'桥(（.*?）)?$', name): return   # “七星桥抗战纪念碑、亭”之类不是桥
+    if re.search(r'纪念碑|碑记|桥碑', name) and not re.search(r'桥(及|、|和)', name): return   # “延芳桥碑”“七星桥抗战纪念碑、亭”之类是碑不是桥；“洗马桥及碑”照收
     name = re.sub(r'\s+', '', name)   # 统计表单元格里的换行（“福泉山下水溪\n石拱桥”）
     era = era or '—'
     if lv == 'dj' and re.match(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return   # 1949年后修建的：文保单位（点）、历史建筑照收，未定级的不收
