@@ -1,6 +1,6 @@
 # 嘉兴市桐乡市古桥
 
-共收录 141 座桥。
+共收录 146 座桥。
 
 ## 按级别统计
 
@@ -9,24 +9,24 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>10</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>47</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>79</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>5</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>10</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>乌镇镇</nobr> | <nobr>45</nobr> |
-| <nobr>洲泉镇</nobr> | <nobr>23</nobr> |
+| <nobr>乌镇镇</nobr> | <nobr>46</nobr> |
+| <nobr>洲泉镇</nobr> | <nobr>24</nobr> |
 | <nobr>濮院镇</nobr> | <nobr>15</nobr> |
 | <nobr>石门镇</nobr> | <nobr>11</nobr> |
 | <nobr>开发区(高桥街道)</nobr> | <nobr>10</nobr> |
-| <nobr>大麻镇</nobr> | <nobr>8</nobr> |
-| <nobr>崇福镇</nobr> | <nobr>6</nobr> |
+| <nobr>大麻镇</nobr> | <nobr>9</nobr> |
+| <nobr>崇福镇</nobr> | <nobr>7</nobr> |
 | <nobr>凤鸣街道</nobr> | <nobr>6</nobr> |
+| <nobr>高桥街道</nobr> | <nobr>4</nobr> |
 | <nobr>屠甸镇</nobr> | <nobr>3</nobr> |
 | <nobr>高桥镇</nobr> | <nobr>3</nobr> |
 | <nobr>梧桐街道</nobr> | <nobr>3</nobr> |
-| <nobr>高桥街道</nobr> | <nobr>3</nobr> |
 | <nobr>河山镇</nobr> | <nobr>2</nobr> |
 | <nobr>乌镇</nobr> | <nobr>2</nobr> |
 | <nobr>龙翔街道</nobr> | <nobr>1</nobr> |
@@ -184,15 +184,20 @@
 | <nobr>洲泉镇</nobr> | 游槎桥 | — | — | 民国 | 桐乡市文物保护点 | 暂无 |
 | <nobr>洲泉镇</nobr> | 总管桥 | — | — | 1921年 | 桐乡市文物保护点 | 暂无 |
 
-### 尚未定级（待核实）（5 座）
+### 尚未定级（待核实）（10 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
 | <nobr>高桥街道</nobr> | 万富桥 [?](http://www.china-qiao.com/ql15/jxql/jxql363.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>高桥街道</nobr> | 塔石桥 [?](http://www.china-qiao.com/ql15/jxql/jxql362.htm) | 石梁桥（三孔） | — | 清道光十七年（1837） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](塔石桥1.jpg) |
 | <nobr>高桥街道</nobr> | 王家桥 [?](http://www.china-qiao.com/ql15/jxql/jxql366.htm) | 石梁桥（三孔） | — | 民国十一年（1922）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](王家桥1.jpg) |
+| <nobr>高桥街道</nobr> | 殷家木桥 [?](http://www.china-qiao.com/ql15/jxql/jxql367.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>乌镇</nobr> | 镇逢源双桥 [?](http://www.china-qiao.com/ql15/jxql/jxql163.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>乌镇</nobr> | 镇明庆高桥 [?](http://www.china-qiao.com/ql15/jxql/jxql177.htm) | 石拱桥（单孔） | — | 清同治六年（1867）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](镇明庆高桥1.jpg) |
+| <nobr>崇福镇</nobr> | 大通新桥 [?](http://www.china-qiao.com/ql15/jxql/jxql196.htm) | 石拱桥（单孔） | — | 明宣德年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>洲泉镇</nobr> | 中塘桥 [?](http://www.china-qiao.com/ql15/jxql/jxql256.htm) | 石拱桥（单孔） | 34.5米 | 清光绪六年（1880）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>大麻镇</nobr> | 望仙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql368.htm) | 石拱桥（单孔） | — | 明成化三年（1467）始建，清光绪元年（1875）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>乌镇镇</nobr> | 南塘桥 [?](http://www.china-qiao.com/ql15/jxql/jxql165.htm) | 石梁桥（五孔） | 28.2米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
 
 ## 说明
@@ -215,9 +220,14 @@
 - 镇明庆高桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 景行桥：具体年代据老百晓集桥（名录原写“清”）。
 - 通安桥：具体年代据老百晓集桥（名录原写“清”）。
+- 南塘桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
+- 望仙桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实；具体年代据老百晓集桥（名录原写“—”）。
+- 大通新桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“明宣德年间”）。
+- 中塘桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 万富桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 塔石桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 王家桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 殷家木桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 乡镇一列照录名录原文；省保名录只写到区县的，乡镇标“—”。
 - 同一座桥在多级名录中出现时，按最高等级记录一次。
 - 结构、长度标“—”的，是没有查到可靠资料。
@@ -229,9 +239,14 @@
 - [老百晓集桥：jxql163.htm](http://www.china-qiao.com/ql15/jxql/jxql163.htm)
 - [老百晓集桥：jxql177.htm](http://www.china-qiao.com/ql15/jxql/jxql177.htm)
 - [浙江省《全省文物保护点》统计表（嘉兴市文物保护点）](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx)
+- [老百晓集桥：jxql165.htm](http://www.china-qiao.com/ql15/jxql/jxql165.htm)
+- [老百晓集桥：jxql368.htm](http://www.china-qiao.com/ql15/jxql/jxql368.htm)
+- [老百晓集桥：jxql196.htm](http://www.china-qiao.com/ql15/jxql/jxql196.htm)
+- [老百晓集桥：jxql256.htm](http://www.china-qiao.com/ql15/jxql/jxql256.htm)
 - [老百晓集桥：jxql363.htm](http://www.china-qiao.com/ql15/jxql/jxql363.htm)
 - [老百晓集桥：jxql362.htm](http://www.china-qiao.com/ql15/jxql/jxql362.htm)
 - [老百晓集桥：jxql366.htm](http://www.china-qiao.com/ql15/jxql/jxql366.htm)
+- [老百晓集桥：jxql367.htm](http://www.china-qiao.com/ql15/jxql/jxql367.htm)
 
 ## 图片来源
 

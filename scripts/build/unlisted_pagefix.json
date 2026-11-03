@@ -239,5 +239,65 @@
   "town": "浣东街道",
   "name": "乐善桥",
   "cand": []
+ },
+ "ql15/jxql/jxql029.htm": {
+  "dist": "南湖区",
+  "town": "—",
+  "name": "外月河桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql049.htm": {
+  "dist": "秀洲区",
+  "town": "洪合镇",
+  "name": "国界桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql196.htm": {
+  "dist": "桐乡市",
+  "town": "崇福镇",
+  "name": "大通新桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql198.htm": {
+  "dist": "嘉善县",
+  "town": "魏塘街道",
+  "name": "三官塘桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql227.htm": {
+  "dist": "嘉善县",
+  "town": "天凝镇",
+  "name": "三里塘桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql256.htm": {
+  "dist": "桐乡市",
+  "town": "洲泉镇",
+  "name": "中塘桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql368.htm": {
+  "dist": "桐乡市",
+  "town": "大麻镇",
+  "name": "望仙桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql165.htm": {
+  "dist": "桐乡市",
+  "town": "乌镇镇",
+  "name": "南塘桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql433.htm": {
+  "dist": "秀洲区",
+  "town": "—",
+  "name": "马路桥",
+  "cand": []
+ },
+ "ql15/jxql/jxql367.htm": {
+  "dist": "桐乡市",
+  "town": "高桥街道",
+  "name": "殷家木桥",
+  "cand": []
  }
 }
