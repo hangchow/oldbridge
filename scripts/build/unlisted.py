@@ -49,12 +49,13 @@ for city, rows in OUT.items():
         v = dd.get(f"{r['dist']}|{r['town']}|{r['name']}", dd.get(f"{r['dist']}|{r['name']}"))
         if isinstance(v, str) and v.startswith('DROP'): continue
         if isinstance(v, dict):   # 改名、改乡镇、页面写明的文保等级
-            for kk in ('dist', 'name', 'town', 'lv', 'lvnote'):
+            for kk in ('dist', 'name', 'town', 'lv', 'lvnote', 'loc'):
                 if kk in v: r[kk] = v[kk]
             v = v.get('era')
         if v is not None: r['era'] = v
         if city in DEC: r['note'] = ('不在文保名录中，' if r.get('lv', 'dj') == 'dj' else '维基百科名单未收，') + '据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面' + ('' if v is None or v == '—' else '中本桥的记载') + ('，等级待核实' if r.get('lv', 'dj') == 'dj' else '')
         if r['name'].startswith('街道') and r['town'].endswith('镇'): r['town'] += '街道'; r['name'] = r['name'][2:]   # “嘉定镇街道宾兴桥”拆分有误
+        if r.get('loc', '—') not in ('—', '') and '，' in r['loc']: r['note'] += '。位置：' + r['loc']   # 人工补的位置说明（如跨两镇的桥）
         keep.append(r)
     OUT[city] = keep
 json.dump(OUT, open(S + '/build/unlisted.json', 'w'), ensure_ascii=False, indent=0)
