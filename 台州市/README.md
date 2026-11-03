@@ -1,6 +1,6 @@
 # 台州市古桥
 
-共收录 93 座桥。
+共收录 96 座桥。
 
 ## 按级别统计
 
@@ -10,6 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>9</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>4</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>18</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>3</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>60</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -17,13 +18,13 @@
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[仙居县](仙居县/README.md)</nobr> | <nobr>23</nobr> |
+| <nobr>[椒江区](椒江区/README.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[天台县](天台县/README.md)</nobr> | <nobr>13</nobr> |
-| <nobr>[椒江区](椒江区/README.md)</nobr> | <nobr>11</nobr> |
 | <nobr>[黄岩区](黄岩区/README.md)</nobr> | <nobr>11</nobr> |
 | <nobr>[临海市](临海市/README.md)</nobr> | <nobr>11</nobr> |
 | <nobr>[温岭市](温岭市/README.md)</nobr> | <nobr>9</nobr> |
+| <nobr>[路桥区](路桥区/README.md)</nobr> | <nobr>7</nobr> |
 | <nobr>[三门县](三门县/README.md)</nobr> | <nobr>7</nobr> |
-| <nobr>[路桥区](路桥区/README.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[玉环市](玉环市/README.md)</nobr> | <nobr>2</nobr> |
 
 ## 台州市石木桥桥长前 20 名
@@ -90,6 +91,10 @@
 | <nobr>椒江区</nobr> | <nobr>下陈街道</nobr> | 涌福桥 | — | — | 清嘉庆二十三年（1818） | 椒江区文物保护单位 |
 
 ### 文物保护点（18 座）
+
+数量较多，见各区县文件。
+
+### 历史建筑（3 座）
 
 数量较多，见各区县文件。
 
