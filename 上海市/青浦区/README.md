@@ -1,13 +1,13 @@
 # 上海市青浦区古桥
 
-共收录 46 座桥。
+共收录 47 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>市级文物保护单位</nobr> | <nobr>3</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>27</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>28</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>1</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>15</nobr> |
 
@@ -16,8 +16,8 @@
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>朱家角镇</nobr> | <nobr>9</nobr> |
+| <nobr>练塘镇</nobr> | <nobr>9</nobr> |
 | <nobr>金泽镇</nobr> | <nobr>8</nobr> |
-| <nobr>练塘镇</nobr> | <nobr>8</nobr> |
 | <nobr>白鹤镇</nobr> | <nobr>5</nobr> |
 | <nobr>重固镇</nobr> | <nobr>4</nobr> |
 | <nobr>香花桥街道</nobr> | <nobr>4</nobr> |
@@ -37,7 +37,7 @@
 | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | 上海市文物保护单位（第四批） | [1](普济桥1.jpg) |
 | <nobr>金泽镇</nobr> | 迎祥桥 [?](http://www.china-qiao.com/ql02/shql292.htm) | 石梁桥（五孔） | 34米 | 明天顺六年（1462） | 上海市文物保护单位（第八批） | [1](迎祥桥1.jpg) |
 
-### 县（区）级文物保护单位（27 座）
+### 县（区）级文物保护单位（28 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | <nobr>练塘镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql02/shql290.htm) | 石拱桥（单孔） | — | — | 区级文物保护单位 | [1](永兴桥1.jpg) |
 | <nobr>练塘镇</nobr> | 瑞龙桥 | — | — | — | 区级文物保护单位 | 暂无 |
 | <nobr>练塘镇</nobr> | 馀庆桥 | — | — | — | 区级文物保护单位 | 暂无 |
+| <nobr>练塘镇</nobr> | 李华泾桥 | — | — | 清乾隆四十一年（1776） | 区级文物保护单位（据博雅地名网“上海市县级文物保护单位”列表，待核对原件） | 暂无 |
 | <nobr>白鹤镇</nobr> | 塘湾桥(庆泽桥) [?](http://www.china-qiao.com/ql02/shql308.htm) | 石拱桥（单孔） | — | 明万历二十三年（1595）建 | 区级文物保护单位 | [1](塘湾桥1.jpg) |
 | <nobr>白鹤镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql02/shql307.htm) | — | 19.2米 | — | 区级文物保护单位 | [1](青龙桥1.jpg) |
 | <nobr>白鹤镇</nobr> | 继善桥 [?](http://www.china-qiao.com/ql02/shql306.htm) | — | — | — | 区级文物保护单位 | [1](继善桥1.jpg) |
@@ -130,6 +131,7 @@
 
 - [维基百科：上海市文物保护单位](https://zh.wikipedia.org/wiki/上海市文物保护单位)
 - [维基百科：青浦区文物保护单位](https://zh.wikipedia.org/wiki/青浦区文物保护单位)
+- [http://www.tcmap.com.cn/view/wenwu/gi5w117_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w117_list.html)
 - [老百晓集桥：shql598.htm](http://www.china-qiao.com/ql02/shql598.htm)
 - [老百晓集桥：shql597.htm](http://www.china-qiao.com/ql02/shql597.htm)
 - [老百晓集桥：shql600.htm](http://www.china-qiao.com/ql02/shql600.htm)

@@ -1,15 +1,16 @@
 # 上海市古桥
 
-共收录 329 座桥。
+共收录 340 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>市级文物保护单位</nobr> | <nobr>6</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>90</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>91</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>13</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>64</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>169</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>166</nobr> |
 
 ## 各区县桥梁数量（降序）
 
@@ -17,8 +18,8 @@
 |---|---|
 | <nobr>[奉贤区](奉贤区/README.md)</nobr> | <nobr>107</nobr> |
 | <nobr>[金山区](金山区/README.md)</nobr> | <nobr>73</nobr> |
-| <nobr>[青浦区](青浦区/README.md)</nobr> | <nobr>46</nobr> |
-| <nobr>[嘉定区](嘉定区/README.md)</nobr> | <nobr>31</nobr> |
+| <nobr>[青浦区](青浦区/README.md)</nobr> | <nobr>47</nobr> |
+| <nobr>[嘉定区](嘉定区/README.md)</nobr> | <nobr>41</nobr> |
 | <nobr>[闵行区](闵行区/README.md)</nobr> | <nobr>28</nobr> |
 | <nobr>[松江区](松江区/README.md)</nobr> | <nobr>16</nobr> |
 | <nobr>[浦东新区](浦东新区/README.md)</nobr> | <nobr>16</nobr> |
@@ -79,7 +80,7 @@
 | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | 上海市文物保护单位（第四批） |
 | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 迎祥桥 [?](http://www.china-qiao.com/ql02/shql292.htm) | 石梁桥（五孔） | 34米 | 明天顺六年（1462） | 上海市文物保护单位（第八批） |
 
-### 县（区）级文物保护单位（90 座）
+### 县（区）级文物保护单位（91 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -155,6 +156,7 @@
 | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql02/shql290.htm) | 石拱桥（单孔） | — | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 瑞龙桥 | — | — | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 馀庆桥 | — | — | — | 区级文物保护单位 |
+| <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 李华泾桥 | — | — | 清乾隆四十一年（1776） | 区级文物保护单位（据博雅地名网“上海市县级文物保护单位”列表，待核对原件） |
 | <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 塘湾桥(庆泽桥) [?](http://www.china-qiao.com/ql02/shql308.htm) | 石拱桥（单孔） | — | 明万历二十三年（1595）建 | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql02/shql307.htm) | — | 19.2米 | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 继善桥 [?](http://www.china-qiao.com/ql02/shql306.htm) | — | — | — | 区级文物保护单位 |
@@ -174,10 +176,14 @@
 | <nobr>徐汇区</nobr> | <nobr>—</nobr> | 宾贤桥 | — | — | — | 区级文物保护单位 |
 | <nobr>杨浦区</nobr> | <nobr>—</nobr> | 定海路桥 | — | — | — | 区级文物保护单位 |
 
+### 文物保护点（13 座）
+
+数量较多，见各区县文件。
+
 ### 一般不可移动文物（64 座）
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（169 座）
+### 尚未定级（待核实）（166 座）
 
 数量较多，见各区县文件。
