@@ -266,7 +266,7 @@
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
   ],
-  "len": "—",
+  "len": "14米",
   "singdo": "http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=168",
   "sdl": "文保名录/杭州市/云端档案/168_中河南段古桥及古泉.html"
  },
@@ -285,7 +285,7 @@
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
   ],
-  "len": "—",
+  "len": "18.3米",
   "singdo": "http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=168",
   "sdl": "文保名录/杭州市/云端档案/168_中河南段古桥及古泉.html"
  },
@@ -304,7 +304,7 @@
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
   ],
-  "len": "—",
+  "len": "28.6米",
   "singdo": "http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=168",
   "sdl": "文保名录/杭州市/云端档案/168_中河南段古桥及古泉.html"
  },
@@ -323,7 +323,7 @@
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
   ],
-  "len": "—",
+  "len": "21.05米",
   "singdo": "http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=168",
   "sdl": "文保名录/杭州市/云端档案/168_中河南段古桥及古泉.html"
  },
@@ -342,7 +342,7 @@
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
   ],
-  "len": "—",
+  "len": "19.6米",
   "singdo": "http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=168",
   "sdl": "文保名录/杭州市/云端档案/168_中河南段古桥及古泉.html"
  },
@@ -503,7 +503,7 @@
   "level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
   "doc": "—（2004年7月22日增补）",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "石拱桥",
+  "struct": "石拱桥（单孔）",
   "note": "“西湖三堤”整体列为市保，本桥是苏堤6桥之一",
   "commons": null,
   "srcs": [
@@ -522,7 +522,7 @@
   "level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
   "doc": "—（2004年7月22日增补）",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "石拱桥",
+  "struct": "石拱桥（单孔）",
   "note": "“西湖三堤”整体列为市保，本桥是苏堤6桥之一",
   "commons": null,
   "srcs": [
@@ -541,7 +541,7 @@
   "level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
   "doc": "—（2004年7月22日增补）",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "石拱桥",
+  "struct": "石拱桥（单孔）",
   "note": "“西湖三堤”整体列为市保，本桥是苏堤6桥之一",
   "commons": null,
   "srcs": [
@@ -560,7 +560,7 @@
   "level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
   "doc": "—（2004年7月22日增补）",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "石拱桥",
+  "struct": "石拱桥（单孔）",
   "note": "“西湖三堤”整体列为市保，本桥是苏堤6桥之一；具体年代据老百晓集桥（名录原写“—”）",
   "commons": null,
   "srcs": [
@@ -579,7 +579,7 @@
   "level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
   "doc": "—（2004年7月22日增补）",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "石拱桥",
+  "struct": "石拱桥（单孔）",
   "note": "“西湖三堤”整体列为市保，本桥是苏堤6桥之一",
   "commons": null,
   "srcs": [
@@ -598,7 +598,7 @@
   "level": "杭州市文物保护单位（西湖三堤·苏堤组成部分）",
   "doc": "—（2004年7月22日增补）",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "石拱桥",
+  "struct": "石拱桥（单孔）",
   "note": "“西湖三堤”整体列为市保，本桥是苏堤6桥之一",
   "commons": null,
   "srcs": [
@@ -889,7 +889,7 @@
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
   ],
-  "len": "—",
+  "len": "16.6米",
   "singdo": "http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=208",
   "sdl": "文保名录/杭州市/云端档案/208_瓜沥通济桥.html"
  },
@@ -1111,7 +1111,7 @@
   "level": "杭州市文物保护单位（第五批）",
   "doc": "杭政函〔2013〕174号",
   "src": "http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html",
-  "struct": "钢筋混凝土拱桥",
+  "struct": "钢筋混凝土拱桥（单孔）",
   "note": "",
   "commons": null,
   "srcs": [
@@ -1320,8 +1320,8 @@
   "level": "杭州市文物保护单位（第五批增补）",
   "doc": "—",
   "src": "https://zh.wikipedia.org/wiki/杭州市文物保护单位",
-  "struct": "廊桥",
-  "note": "具体年代据杭州市文物遗产与历史建筑保护中心云端档案（名录原写“明”）",
+  "struct": "木梁廊桥（单跨）",
+  "note": "据老百晓集桥：十根大树横铺为桥梁，上建四开间木屋；具体年代据杭州市文物遗产与历史建筑保护中心云端档案（名录原写“明”）",
   "commons": null,
   "srcs": [
    "https://zh.wikipedia.org/wiki/杭州市文物保护单位"
