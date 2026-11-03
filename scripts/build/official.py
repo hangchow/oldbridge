@@ -36,7 +36,7 @@ def put(city, **r):
             loc = ts[i] if len(ts) == len(n.split('、')) else r['loc']
             put(city, **dict(r, name=x, loc=loc, town=re.sub(r'^.*?(?:县|市|区)', '', loc) if len(ts) > 1 else r['town']))
         return
-    if not isbridge(n) or '遗址' in n or '群' in n or not re.search(r'桥(（.*?）)?$', n): return
+    if '遗址' in n or '群' in n or not re.search(r'桥(（.*?）)?$', n) or len(n) > 16: return   # 名称以“桥”结尾才收（“寺前桥”这类也算）
     OUT.setdefault(city, []).append(r)
 
 # 常州市第五、六、八批市级文物保护单位（列：序号、编号、名称、时代、地址）
@@ -114,6 +114,24 @@ for pre, rows in tables('金华市/武义县各级文物保护单位名录（202
         put('金华市', dist='武义县', town=town_of(addr.replace('武义县', ''), ['武义县']), name=name, era=era, loc=addr, lv=lv,
             lvtxt={'gb': '全国重点文物保护单位', 'sb': '浙江省文物保护单位', 'xian': '武义县文物保护单位', 'wbd': '武义县文物保护点'}[lv],
             doc=note or '—', src='金华市/武义县各级文物保护单位名录（2022）.html')
+
+# 镇江市各级文物保护单位名录（三份 xls，已转成 scripts/zjs/official_xls.json）
+ZJD = CF['镇江市']['dists']; RNZ = {'老西门桥': '宝成桥（老西门桥）'}
+for x in json.load(open(S + '/zjs/official_xls.json')):
+    n = x['name'].split('——')[-1].split('--')[-1]
+    if not n.endswith('桥') or '遗址' in n: continue
+    a = x['addr']; d = x['dist']
+    if d in ('新区', '镇江市'):
+        KW = [('云阳', '丹阳市'), ('丹阳', '丹阳市'), ('句容', '句容市'), ('茅山', '句容市'), ('扬中', '扬中市'), ('宝堰', '丹徒区'), ('润州', '润州区')]
+        d = next((z for k, z in KW if k in a), '京口区')
+        a = a.replace('云阳镇', '云阳街道')
+    if d not in ZJD: continue
+    lv = x['lv']
+    if lv == 'shi' and d in ('丹阳市', '句容市', '扬中市'): lv = 'xian'
+    txt = {'gb': '全国重点文物保护单位（“大运河”组成部分）' if '大运河' in x['name'] else '全国重点文物保护单位', 'sb': '江苏省文物保护单位',
+           'shi': '镇江市文物保护单位', 'xian': f'{d}文物保护单位'}[lv]
+    put('镇江市', dist=d, town=town_of(a.replace(d, ''), ZJD), name=RNZ.get(n, n), era=x['era'] or '—', loc=a, lv=lv, lvtxt=txt + f"（{x['date']}公布）",
+        doc=x['date'] + '公布', src='镇江市/' + x['file'])
 
 # 其他原件里有、项目原来缺的桥（逐条核对原件后录入）
 SXY = '绍兴市/绍兴市大运河世界文化遗产保护名录（2021）.html'

@@ -53,6 +53,7 @@ for d in DISTS:
     f = f'{S}/{K}/{d}各级文物保护单位列表.txt'
     if not os.path.exists(f) or os.path.getsize(f) < 300: continue
     for r in parse(open(f).read(), CITY):
+        if f"{d}|{r['name']}" in CF.get('skipwiki', []): continue   # 维基区县有误、以原件为准的条目
         add(d, r['name'], r['era'], r['addr'], r['lv'], r['num'], r['group'], r['batch'], W(d + '各级文物保护单位列表'))
 # 2) 浙江省文物保护单位总表（补区县列表里缺的省保）
 t = open(S + '/jx/浙江省文物保护单位.txt').read()
