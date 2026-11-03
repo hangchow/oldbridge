@@ -29,6 +29,7 @@ LV = {'gb': 0, 'sb': 1, 'shi': 2, 'xian': 3, 'wbd': 4, 'dj': 5}
 R = []
 def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote='', lvtxt=''):
     if dist not in DISTS or not name: return
+    name = re.sub(r'\s+', '', name)   # 统计表单元格里的换行（“福泉山下水溪\n石拱桥”）
     era = era or '—'
     if re.match(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return   # 只看建造年代开头，括号里的重修年份不算
     tw = town or town_of(addr)

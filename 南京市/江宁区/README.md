@@ -1,0 +1,114 @@
+# 南京市江宁区古桥
+
+共收录 17 座桥。
+
+## 按级别统计
+
+| <nobr>级别</nobr> | <nobr>数量</nobr> |
+|---|---|
+| <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>3</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>7</nobr> |
+
+## 各乡镇（街道）桥梁数量（降序）
+
+| <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
+|---|---|
+| <nobr>横溪街道</nobr> | <nobr>5</nobr> |
+| <nobr>东山街道</nobr> | <nobr>3</nobr> |
+| <nobr>淳化街道</nobr> | <nobr>3</nobr> |
+| <nobr>汤山街道</nobr> | <nobr>2</nobr> |
+| <nobr>麒麟街道</nobr> | <nobr>1</nobr> |
+| <nobr>秣陵街道</nobr> | <nobr>1</nobr> |
+| <nobr>谷里街道</nobr> | <nobr>1</nobr> |
+| <nobr>湖熟街道</nobr> | <nobr>1</nobr> |
+
+## 按级别列出
+
+### 市级文物保护单位（7 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
+|---|---|---|---|---|---|
+| <nobr>麒麟街道</nobr> | 建南和尚桥 [?](http://www.china-qiao.com/ql16/njql/njql134.htm) | 石拱桥（单孔） | 40米 | 清代 | 南京市文物保护单位 |
+| <nobr>横溪街道</nobr> | 踊跃油坊桥 [?](http://www.china-qiao.com/ql16/njql/njql133.htm) | 石拱桥（单孔） | 19.4米 | 清乾隆二十四年（1759）重建 | 南京市文物保护单位 |
+| <nobr>横溪街道</nobr> | 疏云桥 [?](http://www.china-qiao.com/ql16/njql/njql149.htm) | 石拱桥（单孔） | 14.2米 | 清 | 南京市文物保护单位 |
+| <nobr>东山街道</nobr> | 积善桥 [?](http://www.china-qiao.com/ql16/njql/njql127.htm) | — | 20米 | 清 | 南京市文物保护单位 |
+| <nobr>东山街道</nobr> | 仙惠桥 [?](http://www.china-qiao.com/ql16/njql/njql125.htm) | 石拱桥（单孔） | 20米 | 清宣统二年（1910）建 | 南京市文物保护单位 |
+| <nobr>东山街道</nobr> | 卢家桥 [?](http://www.china-qiao.com/ql16/njql/njql126.htm) | 石拱桥（单孔） | 15米 | 民国十四年（1925）重修 | 南京市文物保护单位 |
+| <nobr>秣陵街道</nobr> | 童男桥 [?](http://www.china-qiao.com/ql16/njql/njql130.htm) | 石拱桥（单孔） | 15.3米 | 清 | 南京市文物保护单位 |
+
+### 县（区）级文物保护单位（3 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
+|---|---|---|---|---|---|
+| <nobr>汤山街道</nobr> | 藏龙桥 [?](http://www.china-qiao.com/ql16/njql/njql213.htm) | 石拱桥（单孔） | 12米 | — | 江宁区文物保护单位 |
+| <nobr>横溪街道</nobr> | 横溪桥 [?](http://www.china-qiao.com/ql16/njql/njql132.htm) | 石拱桥（单孔） | 10.2米 | —（明清风格） | 江宁区文物保护单位 |
+| <nobr>湖熟街道</nobr> | 杜桂石拱桥 [?](http://www.china-qiao.com/ql16/njql/njql153.htm) | 石拱桥（单孔） | 17米 | 清 | 江宁区文物保护单位 |
+
+### 尚未定级（待核实）（7 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
+|---|---|---|---|---|---|
+| <nobr>淳化街道</nobr> | 苏庄村桥 [?](http://www.china-qiao.com/ql16/njql/njql215.htm) | 石拱桥（单孔） | 7.5米 | —（明清风格） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>淳化街道</nobr> | 老安桥 [?](http://www.china-qiao.com/ql16/njql/njql212.htm) | 石拱桥（单孔） | 16米 | 清康熙年间（传），民国重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>淳化街道</nobr> | 小仁桥 [?](http://www.china-qiao.com/ql16/njql/njql216.htm) | 石拱桥（单孔） | 11米 | 清（同治县志已载） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>横溪街道</nobr> | 寿心桥 [?](http://www.china-qiao.com/ql16/njql/njql217.htm) | 石拱桥（单孔） | 8米 | 清末 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>横溪街道</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql16/njql/njql218.htm) | 石拱桥（单孔） | 4.5米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>汤山街道</nobr> | 仙涧桥 [?](http://www.china-qiao.com/ql16/njql/njql128.htm) | 石拱桥（单孔） | 15米 | 清同治年间（2002年修缮时东侧加建一孔） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>谷里街道</nobr> | 张溪桥 [?](http://www.china-qiao.com/ql16/njql/njql214.htm) | 石拱桥（单孔） | 13米 | 民国八年（1919）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+
+## 详细表格（位置、公布文件、图片）
+
+| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
+|---|---|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>东山街道</nobr> | 积善桥 [?](http://www.china-qiao.com/ql16/njql/njql127.htm) | — | 20米 | 清 | 东山街道高桥社区潘村 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>2</nobr> | <nobr>东山街道</nobr> | 仙惠桥 [?](http://www.china-qiao.com/ql16/njql/njql125.htm) | 石拱桥（单孔） | 20米 | 清宣统二年（1910）建 | 东山街道高桥社区后潘村 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>3</nobr> | <nobr>东山街道</nobr> | 卢家桥 [?](http://www.china-qiao.com/ql16/njql/njql126.htm) | 石拱桥（单孔） | 15米 | 民国十四年（1925）重修 | 东山街道永安社区卢家桥村 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>4</nobr> | <nobr>横溪街道</nobr> | 踊跃油坊桥 [?](http://www.china-qiao.com/ql16/njql/njql133.htm) | 石拱桥（单孔） | 19.4米 | 清乾隆二十四年（1759）重建 | 横溪街道踊跃社区油坊桥村东南 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>5</nobr> | <nobr>横溪街道</nobr> | 疏云桥 [?](http://www.china-qiao.com/ql16/njql/njql149.htm) | 石拱桥（单孔） | 14.2米 | 清 | 横溪街道陶吴镇西街 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>6</nobr> | <nobr>秣陵街道</nobr> | 童男桥 [?](http://www.china-qiao.com/ql16/njql/njql130.htm) | 石拱桥（单孔） | 15.3米 | 清 | 秣陵街道霞晖庙社区钟家村北 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>7</nobr> | <nobr>麒麟街道</nobr> | 建南和尚桥 [?](http://www.china-qiao.com/ql16/njql/njql134.htm) | 石拱桥（单孔） | 40米 | 清代 | 麒麟街道建南社区窑上村北 | 南京市文物保护单位 | — | 暂无 |
+| <nobr>8</nobr> | <nobr>横溪街道</nobr> | 横溪桥 [?](http://www.china-qiao.com/ql16/njql/njql132.htm) | 石拱桥（单孔） | 10.2米 | —（明清风格） | — | 江宁区文物保护单位 | — | 暂无 |
+| <nobr>9</nobr> | <nobr>汤山街道</nobr> | 藏龙桥 [?](http://www.china-qiao.com/ql16/njql/njql213.htm) | 石拱桥（单孔） | 12米 | — | — | 江宁区文物保护单位 | — | 暂无 |
+| <nobr>10</nobr> | <nobr>湖熟街道</nobr> | 杜桂石拱桥 [?](http://www.china-qiao.com/ql16/njql/njql153.htm) | 石拱桥（单孔） | 17米 | 清 | — | 江宁区文物保护单位 | — | 暂无 |
+| <nobr>11</nobr> | <nobr>横溪街道</nobr> | 寿心桥 [?](http://www.china-qiao.com/ql16/njql/njql217.htm) | 石拱桥（单孔） | 8米 | 清末 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>12</nobr> | <nobr>横溪街道</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql16/njql/njql218.htm) | 石拱桥（单孔） | 4.5米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>13</nobr> | <nobr>汤山街道</nobr> | 仙涧桥 [?](http://www.china-qiao.com/ql16/njql/njql128.htm) | 石拱桥（单孔） | 15米 | 清同治年间（2002年修缮时东侧加建一孔） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>14</nobr> | <nobr>淳化街道</nobr> | 苏庄村桥 [?](http://www.china-qiao.com/ql16/njql/njql215.htm) | 石拱桥（单孔） | 7.5米 | —（明清风格） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>15</nobr> | <nobr>淳化街道</nobr> | 老安桥 [?](http://www.china-qiao.com/ql16/njql/njql212.htm) | 石拱桥（单孔） | 16米 | 清康熙年间（传），民国重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>16</nobr> | <nobr>淳化街道</nobr> | 小仁桥 [?](http://www.china-qiao.com/ql16/njql/njql216.htm) | 石拱桥（单孔） | 11米 | 清（同治县志已载） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>17</nobr> | <nobr>谷里街道</nobr> | 张溪桥 [?](http://www.china-qiao.com/ql16/njql/njql214.htm) | 石拱桥（单孔） | 13米 | 民国八年（1919）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+
+## 说明
+
+- 仙惠桥：具体年代据老百晓集桥（名录原写“清”）。
+- 卢家桥：具体年代据老百晓集桥（名录原写“民国”）。
+- 踊跃油坊桥：具体年代据老百晓集桥（名录原写“清代”）。
+- 横溪桥：据老百晓集桥页面：1983年公布为区级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
+- 藏龙桥：据老百晓集桥页面：区级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面。
+- 杜桂石拱桥：据老百晓集桥页面：1983年公布为区级文物保护单位（维基百科名单未收，待核对政府原件）；维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
+- 寿心桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 万寿桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
+- 仙涧桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 苏庄村桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 老安桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 小仁桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 张溪桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实；具体年代据老百晓集桥（名录原写“—”）。
+- 江苏省没有找到公开的文物保护点统计表，未定级的古桥只收录了老百晓集桥上的（尚未定级，待核实）。
+- 国保、省保、市保、县保依据维基百科整理，还没有核对政府原件；市保、县保名单可能不完整。
+- 成组公布的文物（如古桥群）按单桥列出，组名写在文保等级里。
+- 乡镇、结构、长度标“—”的，是没有查到可靠资料；部分结构、长度、年代来自“老百晓集桥”网站。
+
+## 来源
+
+- [政府原件：南京市文物保护单位名录（397处404点）](../../文保名录/南京市/南京市文物保护单位名录（397处404点）.pdf)
+- [老百晓集桥：njql132.htm](http://www.china-qiao.com/ql16/njql/njql132.htm)
+- [老百晓集桥：njql213.htm](http://www.china-qiao.com/ql16/njql/njql213.htm)
+- [老百晓集桥：njql153.htm](http://www.china-qiao.com/ql16/njql/njql153.htm)
+- [老百晓集桥：njql217.htm](http://www.china-qiao.com/ql16/njql/njql217.htm)
+- [老百晓集桥：njql218.htm](http://www.china-qiao.com/ql16/njql/njql218.htm)
+- [老百晓集桥：njql128.htm](http://www.china-qiao.com/ql16/njql/njql128.htm)
+- [老百晓集桥：njql215.htm](http://www.china-qiao.com/ql16/njql/njql215.htm)
+- [老百晓集桥：njql212.htm](http://www.china-qiao.com/ql16/njql/njql212.htm)
+- [老百晓集桥：njql216.htm](http://www.china-qiao.com/ql16/njql/njql216.htm)
+- [老百晓集桥：njql214.htm](http://www.china-qiao.com/ql16/njql/njql214.htm)

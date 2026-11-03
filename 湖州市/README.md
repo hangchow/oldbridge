@@ -17,11 +17,11 @@
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[德清县](德清县/德清县古桥.md)</nobr> | <nobr>184</nobr> |
-| <nobr>[南浔区](南浔区/南浔区古桥.md)</nobr> | <nobr>168</nobr> |
-| <nobr>[长兴县](长兴县/长兴县古桥.md)</nobr> | <nobr>155</nobr> |
-| <nobr>[吴兴区](吴兴区/吴兴区古桥.md)</nobr> | <nobr>140</nobr> |
-| <nobr>[安吉县](安吉县/安吉县古桥.md)</nobr> | <nobr>51</nobr> |
+| <nobr>[德清县](德清县/README.md)</nobr> | <nobr>184</nobr> |
+| <nobr>[南浔区](南浔区/README.md)</nobr> | <nobr>168</nobr> |
+| <nobr>[长兴县](长兴县/README.md)</nobr> | <nobr>155</nobr> |
+| <nobr>[吴兴区](吴兴区/README.md)</nobr> | <nobr>140</nobr> |
+| <nobr>[安吉县](安吉县/README.md)</nobr> | <nobr>51</nobr> |
 
 ## 湖州市石木桥桥长前 20 名
 

@@ -144,6 +144,25 @@ for c in []:
 tot0 = {'杭州市': hrows, '湖州市': zrows, '嘉兴市': jrows, '上海市': srows, '苏州市': zsrows, '金华市': jhrows, '绍兴市': r_sx, '宁波市': r_nb, '衢州市': r_qz, '台州市': r_tz, '温州市': r_wz, '丽水市': r_ls, '舟山市': r_zs, **r_js}
 ORDER = ['杭州市', '湖州市', '嘉兴市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '上海市', '苏州市', '无锡市', '常州市', '南京市', '镇江市', '扬州市', '泰州市', '南通市', '盐城市', '淮安市', '宿迁市', '徐州市', '连云港市']   # 浙江、上海、江苏
 tot = {c: tot0[c] for c in ORDER}
+
+# 其余城市（及杭州桐庐、淳安、建德）的区县 README：格式同杭州市辖区，原“区县古桥.md”的表格和说明并在后面
+DONE = []
+for c in ORDER:
+    for d in sorted({r['dist'] for r in tot0[c]} | {x for x in os.listdir(f'{O}/{c}') if os.path.isdir(f'{O}/{c}/{x}')}):
+        if c == '杭州市' and d not in C3: continue
+        p = f'{O}/{c}/{d}'
+        if not os.path.isdir(p): continue
+        rs = [r for r in tot0[c] if r['dist'] == d]
+        t = collections.Counter(r['town'] for r in rs)
+        fp = f'{p}/{d}古桥.md'
+        body = open(fp, encoding='utf8').read().split('\n')[1:] if os.path.exists(fp) else []   # 原表格文件：去掉标题，整体并入 README
+        L = [f'# {c}{d}古桥', '', f'共收录 {len(rs)} 座桥。', '', '## 按级别统计', ''] + (level_table(rs) if rs else [x for x in body if x.strip()] or ['名录里没有桥梁。'])
+        if rs: L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| {k} | {n} |' for k, n in t.most_common()]
+        L += ['', '## 按级别列出'] + (level_lists(rs, True, False, p, c) if rs else ['', '无。'])
+        if rs and body: L += ['', '## 详细表格（位置、公布文件、图片）'] + body
+        open(f'{p}/README.md', 'w').write('\n'.join(L).rstrip('\n') + '\n')
+        DONE.append((c, d, len(rs), fp))
+        if os.path.exists(fp): os.remove(fp)   # 已并入 README，不再单独保留
 L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
 for k in CATS:
     v = [sum(1 for r in rs if cat(r['level']) == k) for rs in tot.values()]

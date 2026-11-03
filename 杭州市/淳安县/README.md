@@ -1,0 +1,82 @@
+# 杭州市淳安县古桥
+
+共收录 7 座桥。
+
+## 按级别统计
+
+| <nobr>级别</nobr> | <nobr>数量</nobr> |
+|---|---|
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>1</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>6</nobr> |
+
+## 各乡镇（街道）桥梁数量（降序）
+
+| <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
+|---|---|
+| <nobr>瑶山乡</nobr> | <nobr>1</nobr> |
+| <nobr>威坪镇</nobr> | <nobr>1</nobr> |
+| <nobr>姜家镇</nobr> | <nobr>1</nobr> |
+| <nobr>梓桐镇</nobr> | <nobr>1</nobr> |
+| <nobr>汾口镇</nobr> | <nobr>1</nobr> |
+| <nobr>临岐镇</nobr> | <nobr>1</nobr> |
+| <nobr>浪川乡</nobr> | <nobr>1</nobr> |
+
+## 按级别列出
+
+### 县（区）级文物保护单位（1 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
+|---|---|---|---|---|---|
+| <nobr>瑶山乡</nobr> | 云溪廊桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql386.htm) | 石墩廊桥（三孔） | 32.6米 | 明 | 淳安县文物保护单位（第六批） |
+
+### 尚未定级（待核实）（6 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
+|---|---|---|---|---|---|
+| <nobr>威坪镇</nobr> | 洞源桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm) | 石拱桥（单孔） | 12米 | 清乾隆四十八年（1783）始建，清嘉庆十二年（1807）重建，清光绪三十二年（1906）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>姜家镇</nobr> | 登瀛桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm) | 石拱桥（单孔） | 9米 | 宋始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>梓桐镇</nobr> | 茅庵桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm) | 石梁桥（双孔） | — | 明（相传） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>汾口镇</nobr> | 斗应桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm) | 石拱桥（单孔） | 15米 | 明嘉靖十七年（1538）有《斗应桥记》 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>临岐镇</nobr> | 白佛桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm) | 石拱桥（单孔） | 15米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>浪川乡</nobr> | 进德桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql567.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+
+## 详细表格（位置、公布文件、图片）
+
+| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
+|---|---|---|---|---|---|---|---|---|---|
+| <nobr>1</nobr> | <nobr>瑶山乡</nobr> | 云溪廊桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql386.htm) | 石墩廊桥（三孔） | 32.6米 | 明 | 何家村 | 淳安县文物保护单位（第六批） | 淳政〔2012〕33号 | [1](云溪廊桥1.jpg) [2](云溪廊桥2.jpg) |
+| <nobr>2</nobr> | <nobr>临岐镇</nobr> | 白佛桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm) | 石拱桥（单孔） | 15米 | — | 菖蒲村口，跨十都源 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>3</nobr> | <nobr>威坪镇</nobr> | 洞源桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm) | 石拱桥（单孔） | 12米 | 清乾隆四十八年（1783）始建，清嘉庆十二年（1807）重建，清光绪三十二年（1906）重修 | 茶合村南200米 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>4</nobr> | <nobr>姜家镇</nobr> | 登瀛桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm) | 石拱桥（单孔） | 9米 | 宋始建 | 胡宅村，瀛山北山脚下 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>5</nobr> | <nobr>梓桐镇</nobr> | 茅庵桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm) | 石梁桥（双孔） | — | 明（相传） | 卢家村脚 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>6</nobr> | <nobr>汾口镇</nobr> | 斗应桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm) | 石拱桥（单孔） | 15米 | 明嘉靖十七年（1538）有《斗应桥记》 | 赤川口村中，跨赤川溪 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+| <nobr>7</nobr> | <nobr>浪川乡</nobr> | 进德桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql567.htm) | — | — | — | 芹川村头，跨芹水溪 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
+
+## 说明
+
+- 白佛桥：单孔石拱桥，长15米，券面阳刻“白佛桥”。
+- 洞源桥：单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）。
+- 登瀛桥：单孔石拱桥，通往瀛山书院。
+- 茅庵桥：又称卢家桥；一墩两孔。
+- 斗应桥：单孔石拱桥，桥上有凉亭。
+- 进德桥：石拱廊桥。
+- 结构一列标“—”的，是没有查到可靠资料；部分结构来自“老百晓集桥”网站。
+
+## 来源
+
+- [淳安县文博单位名录（淳安县人民政府，2022）](https://www.qdh.gov.cn/art/2022/12/5/art_1229715686_59012851.html)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql567.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql567.htm)
+
+## 图片来源
+
+| 文件 | 来源 |
+|---|---|
+| [云溪廊桥1.jpg](云溪廊桥1.jpg) | [老百晓集桥：淳安县瑶山乡云溪廊桥](http://www.china-qiao.com/ql15/hz_ql/hzvql386.htm) |
+| [云溪廊桥2.jpg](云溪廊桥2.jpg) | 百度图片：《云溪廊桥,坐落于瑶山乡何家村云溪河上.》 |
+
+维基共享资源的图片按原许可协议使用；其他网站的图片版权归原作者。

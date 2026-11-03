@@ -15,11 +15,11 @@
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[广陵区](广陵区/广陵区古桥.md)</nobr> | <nobr>8</nobr> |
-| <nobr>[邗江区](邗江区/邗江区古桥.md)</nobr> | <nobr>7</nobr> |
-| <nobr>[宝应县](宝应县/宝应县古桥.md)</nobr> | <nobr>3</nobr> |
-| <nobr>[高邮市](高邮市/高邮市古桥.md)</nobr> | <nobr>3</nobr> |
-| <nobr>[仪征市](仪征市/仪征市古桥.md)</nobr> | <nobr>1</nobr> |
+| <nobr>[广陵区](广陵区/README.md)</nobr> | <nobr>8</nobr> |
+| <nobr>[邗江区](邗江区/README.md)</nobr> | <nobr>7</nobr> |
+| <nobr>[宝应县](宝应县/README.md)</nobr> | <nobr>3</nobr> |
+| <nobr>[高邮市](高邮市/README.md)</nobr> | <nobr>3</nobr> |
+| <nobr>[仪征市](仪征市/README.md)</nobr> | <nobr>1</nobr> |
 
 ## 扬州市石木桥桥长前 20 名
 
