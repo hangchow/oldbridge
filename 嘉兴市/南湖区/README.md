@@ -1,6 +1,6 @@
 # 嘉兴市南湖区古桥
 
-共收录 34 座桥。
+共收录 38 座桥。
 
 ## 按级别统计
 
@@ -9,13 +9,14 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>21</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>4</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>10</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>凤桥镇</nobr> | <nobr>8</nobr> |
+| <nobr>凤桥镇</nobr> | <nobr>11</nobr> |
 | <nobr>大桥镇</nobr> | <nobr>7</nobr> |
 | <nobr>—</nobr> | <nobr>6</nobr> |
 | <nobr>新嘉街道</nobr> | <nobr>3</nobr> |
@@ -26,6 +27,7 @@
 | <nobr>七星街道</nobr> | <nobr>1</nobr> |
 | <nobr>经开区城南街道</nobr> | <nobr>1</nobr> |
 | <nobr>经开区长水街道</nobr> | <nobr>1</nobr> |
+| <nobr>余新镇</nobr> | <nobr>1</nobr> |
 | <nobr>长水街道</nobr> | <nobr>1</nobr> |
 
 ## 按级别列出
@@ -69,6 +71,15 @@
 | <nobr>经开区城南街道</nobr> | 义圣王桥 [?](http://www.china-qiao.com/ql15/jxql/jxql258.htm) | 石梁桥（三孔） | — | 清 | 嘉兴市文物保护点 | 暂无 |
 | <nobr>经开区长水街道</nobr> | 五环洞桥 | — | — | 民国 | 嘉兴市文物保护点 | 暂无 |
 
+### 历史建筑（4 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>凤桥镇</nobr> | 东庄桥 | — | — | 清 | 嘉兴市区历史建筑（第三批，2019） | 暂无 |
+| <nobr>凤桥镇</nobr> | 石王庙桥 | — | — | 清光绪二十三年（1897） | 嘉兴市区历史建筑（第三批，2019） | 暂无 |
+| <nobr>凤桥镇</nobr> | 西河桥 | — | — | 清 | 嘉兴市区历史建筑（第三批，2019） | 暂无 |
+| <nobr>余新镇</nobr> | 六龙桥 | — | — | — | 嘉兴市区历史建筑（第五批，嘉政发〔2022〕2号） | 暂无 |
+
 ### 尚未定级（待核实）（10 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
@@ -108,6 +119,8 @@
 - [维基百科：浙江省文物保护单位](https://zh.wikipedia.org/wiki/浙江省文物保护单位)
 - [维基百科：嘉兴市文物保护单位](https://zh.wikipedia.org/wiki/嘉兴市文物保护单位)
 - [浙江省《全省文物保护点》统计表（嘉兴市文物保护点）](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx)
+- [政府原件：嘉兴市区第五批历史建筑名单（嘉政发〔2022〕2号）](../../文保名录/嘉兴市/嘉兴市区第五批历史建筑名单（嘉政发〔2022〕2号）.html)
+- [政府原件：嘉兴市区第三批历史建筑名单（2019）](../../文保名录/嘉兴市/嘉兴市区第三批历史建筑名单（2019）.html)
 - [老百晓集桥：jxql033.htm](http://www.china-qiao.com/ql15/jxql/jxql033.htm)
 - [老百晓集桥：jxql374.htm](http://www.china-qiao.com/ql15/jxql/jxql374.htm)
 - [老百晓集桥：jxql012.htm](http://www.china-qiao.com/ql15/jxql/jxql012.htm)

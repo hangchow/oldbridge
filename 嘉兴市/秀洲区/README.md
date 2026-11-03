@@ -1,6 +1,6 @@
 # 嘉兴市秀洲区古桥
 
-共收录 43 座桥。
+共收录 44 座桥。
 
 ## 按级别统计
 
@@ -10,6 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>32</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>1</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>7</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
@@ -20,8 +21,8 @@
 | <nobr>王江泾镇</nobr> | <nobr>10</nobr> |
 | <nobr>油车港镇</nobr> | <nobr>9</nobr> |
 | <nobr>王店镇</nobr> | <nobr>4</nobr> |
+| <nobr>洪合镇</nobr> | <nobr>3</nobr> |
 | <nobr>—</nobr> | <nobr>2</nobr> |
-| <nobr>洪合镇</nobr> | <nobr>2</nobr> |
 | <nobr>凤桥镇</nobr> | <nobr>1</nobr> |
 
 ## 按级别列出
@@ -82,6 +83,12 @@
 | <nobr>王店镇</nobr> | 三建村环桥 [?](http://www.china-qiao.com/ql15/jxql/jxql454.htm) | 石拱桥（单孔） | 11.85米 | 清乾隆年间建 | 嘉兴市文物保护点 | [1](三建村环桥1.jpg) |
 | <nobr>王店镇</nobr> | 三建村白云桥 | — | — | 清 | 嘉兴市文物保护点 | 暂无 |
 
+### 历史建筑（1 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>洪合镇</nobr> | 长寿桥 | — | — | — | 嘉兴市区历史建筑（第五批，嘉政发〔2022〕2号） | 暂无 |
+
 ### 尚未定级（待核实）（7 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
@@ -125,6 +132,7 @@
 - [老百晓集桥：jxql432.htm](http://www.china-qiao.com/ql15/jxql/jxql432.htm)
 - [老百晓集桥：jxql051.htm](http://www.china-qiao.com/ql15/jxql/jxql051.htm)
 - [老百晓集桥：jxql346.htm](http://www.china-qiao.com/ql15/jxql/jxql346.htm)
+- [政府原件：嘉兴市区第五批历史建筑名单（嘉政发〔2022〕2号）](../../文保名录/嘉兴市/嘉兴市区第五批历史建筑名单（嘉政发〔2022〕2号）.html)
 - [老百晓集桥：jxql049.htm](http://www.china-qiao.com/ql15/jxql/jxql049.htm)
 - [老百晓集桥：jxql467.htm](http://www.china-qiao.com/ql15/jxql/jxql467.htm)
 - [老百晓集桥：jxql376.htm](http://www.china-qiao.com/ql15/jxql/jxql376.htm)

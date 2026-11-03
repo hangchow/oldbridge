@@ -18,6 +18,7 @@ def era_of(h):
     return REIGN[m.group(2)]
 # 标题没写区县、或同名候选其实不是同一座桥的页面：人工补区县、乡镇，清掉候选
 PAGEFIX = json.load(open(S + '/build/unlisted_pagefix.json')) if os.path.exists(S + '/build/unlisted_pagefix.json') else {}
+JS = {c for c, cf in json.load(open(S + '/zj/cities.json')).items() if cf.get('prov') == '江苏省'} | {'苏州市'}
 OUT = {}
 for city, L in O.items():
     rows = []
@@ -56,6 +57,7 @@ for city, rows in OUT.items():
         if city in DEC: r['note'] = ('不在文保名录中，' if r.get('lv', 'dj') == 'dj' else '维基百科名单未收，') + '据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面' + ('' if v is None or v == '—' else '中本桥的记载') + ('，等级待核实' if r.get('lv', 'dj') == 'dj' else '')
         if r['name'].startswith('街道') and r['town'].endswith('镇'): r['town'] += '街道'; r['name'] = r['name'][2:]   # “嘉定镇街道宾兴桥”拆分有误
         if r.get('loc', '—') not in ('—', '') and '，' in r['loc']: r['note'] += '。位置：' + r['loc']   # 人工补的位置说明（如跨两镇的桥）
+        if r.get('lv') in ('xian', 'sb', 'shi'): r['level'] = {'xian': r['dist'] + '文物保护单位', 'shi': city + '文物保护单位', 'sb': ('江苏省' if city in JS else '浙江省') + '文物保护单位'}[r['lv']] + '（据老百晓集桥页面，待核对政府原件）'   # 页面写明的等级
         keep.append(r)
     OUT[city] = keep
 json.dump(OUT, open(S + '/build/unlisted.json', 'w'), ensure_ascii=False, indent=0)
