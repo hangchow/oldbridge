@@ -92,7 +92,7 @@ def city_readme(city, rows, sub):
     c = collections.Counter(r['dist'] for r in rows)
     L = [f'# {city}古桥', '', f'共收录 {len(rows)} 座桥。', '', '## 按级别统计', ''] + level_table(rows)
     L += ['', '## 各区县桥梁数量（降序）', '', '| 区县 | 数量 |', '|---|---|']
-    L += [f'| [{NB(d)}]({d}/{"README.md" if os.path.exists(f"{O}/{city}/{d}/README.md") else d + "古桥.md"}) | {n}' + ''.join(f'（另有跨区的{a}，计入{b}）' for a, b in extra.get(d, [])) + ' |' for d, n in c.most_common()]
+    L += [f'| [{NB(d)}]({d}/{d}古桥.md) | {n}' + ''.join(f'（另有跨区的{a}，计入{b}）' for a, b in extra.get(d, [])) + ' |' for d, n in c.most_common()]
     if extra: L += ['', '跨区的桥（钱塘江大桥跨西湖区、滨江区；日新桥跨富阳区、临安区）在两个区的文件里都有列出，但统计只算一次。']
     st = sorted([r for r in rows if re.match(r'^[0-9.]+米$', r.get('len') or '') and not re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or '') and (not r['level'].startswith('尚未定级') or '已逐座核对' in (r.get('note') or ''))], key=lambda r: -float(r['len'][:-1]))
     L += ['', f'## {city}石木桥桥长前 20 名', '', '| 名次 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|']
@@ -121,6 +121,7 @@ r_zs = city_readme('舟山市', json.load(open(S + '/zs/rows.json')), False)
 r_js = {c: city_readme(c, json.load(open(f'{S}/{k}/rows.json')), False) for c, k in [('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs'), ('扬州市', 'yz'), ('徐州市', 'xz'), ('连云港市', 'lyg'), ('淮安市', 'ha'), ('盐城市', 'yc'), ('泰州市', 'tzj'), ('南通市', 'nt'), ('宿迁市', 'sq')]}
 
 # 杭州各市辖区
+MK = '<!-- 区县汇总页（build/cityreadme.py 生成） -->'
 towns = json.load(open(S + '/hz/towns.json'))
 for d in towns:
     if d in C3: continue
@@ -130,7 +131,8 @@ for d in towns:
          '', '## 按级别统计', ''] + (level_table(rs) if rs else ['名录里没有桥梁。'])
     L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| [{k}]({k}/{k}古桥.md) | {n} |' for k, n in t.most_common()]
     L += ['', '## 按级别列出'] + (level_lists(rs, True, False, f'{O}/杭州市/{d}', '杭州市') if rs else ['', '无。'])
-    open(f'{O}/杭州市/{d}/README.md', 'w').write('\n'.join(L) + '\n')
+    open(f'{O}/杭州市/{d}/{d}古桥.md', 'w').write('\n'.join(L) + '\n' + MK + '\n')
+    if os.path.exists(f'{O}/杭州市/{d}/README.md'): os.remove(f'{O}/杭州市/{d}/README.md')   # 旧文件名
 
 # 其余城市
 for c in []:
@@ -155,7 +157,8 @@ for c in ORDER:
         rs = [r for r in tot0[c] if r['dist'] == d]
         t = collections.Counter(r['town'] for r in rs)
         fp = f'{p}/{d}古桥.md'
-        body = open(fp, encoding='utf8').read().split('\n')[1:] if os.path.exists(fp) else []   # 原表格文件：去掉标题，整体并入 README
+        body = open(fp, encoding='utf8').read() if os.path.exists(fp) else ''
+        body = [] if MK in body else body.split('\n')[1:]   # 原表格文件：去掉标题，整体并入；上一轮生成的汇总页不再并入
         L = [f'# {c}{d}古桥', '', f'共收录 {len(rs)} 座桥。', '', '## 按级别统计', ''] + (level_table(rs) if rs else [x for x in body if x.strip()] or ['名录里没有桥梁。'])
         if rs: L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| {k} | {n} |' for k, n in t.most_common()]
         # 原表格：取“图片”一列并到按级别列出里，表格后面的说明、来源、图片来源保留
@@ -173,9 +176,9 @@ for c in ORDER:
                 if not intab: rest.append(x)
         L += ['', '## 按级别列出'] + (level_lists(rs, True, False, p, c, imgs) if rs else ['', '无。'])
         if rs and body: L += rest
-        open(f'{p}/README.md', 'w').write('\n'.join(L).rstrip('\n') + '\n')
+        open(fp, 'w').write('\n'.join(L).rstrip('\n') + '\n' + MK + '\n')
         DONE.append((c, d, len(rs), fp))
-        if os.path.exists(fp): os.remove(fp)   # 已并入 README，不再单独保留
+        if os.path.exists(f'{p}/README.md'): os.remove(f'{p}/README.md')   # 旧文件名
 L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
 for k in CATS:
     v = [sum(1 for r in rs if cat(r['level']) == k) for rs in tot.values()]
