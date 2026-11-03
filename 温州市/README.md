@@ -1,23 +1,23 @@
 # 温州市古桥
 
-共收录 236 座桥。
+共收录 240 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>全国重点文物保护单位</nobr> | <nobr>17</nobr> |
+| <nobr>全国重点文物保护单位</nobr> | <nobr>19</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>13</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>24</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>40</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>91</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>91</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>77</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
+| <nobr>[苍南县](苍南县/README.md)</nobr> | <nobr>52</nobr> |
 | <nobr>[泰顺县](泰顺县/README.md)</nobr> | <nobr>48</nobr> |
-| <nobr>[苍南县](苍南县/README.md)</nobr> | <nobr>48</nobr> |
 | <nobr>[平阳县](平阳县/README.md)</nobr> | <nobr>25</nobr> |
 | <nobr>[瑞安市](瑞安市/README.md)</nobr> | <nobr>20</nobr> |
 | <nobr>[永嘉县](永嘉县/README.md)</nobr> | <nobr>20</nobr> |
@@ -49,11 +49,11 @@
 | <nobr>15</nobr> | <nobr>文成县</nobr> | <nobr>珊溪镇</nobr> | 仰山千秋桥 [?](http://www.china-qiao.com/ql15/wzql/wzql229.htm) | — | 34.31米 | 民国二十二年（1933） | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>16</nobr> | <nobr>泰顺县</nobr> | <nobr>三魁镇</nobr> | 永庆桥 [?](http://www.china-qiao.com/ql15/wzql/wzql182.htm) | 石墩木梁廊桥 | 33米 | 清嘉庆二年（1797）建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>17</nobr> | <nobr>永嘉县</nobr> | <nobr>岩坦镇</nobr> | 石拱桥 [?](http://www.china-qiao.com/ql15/wzql/wzql388.htm) | 石拱桥 | 30米 | 清道光年间重修，清道光二十四年（1844）重建 | <nobr>文物保护点</nobr> |
-| <nobr>18</nobr> | <nobr>苍南县</nobr> | <nobr>岱岭乡</nobr> | 利济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql135.htm) | 石梁桥（三孔） | 27.30米 | 清光绪三十年（1904） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>18</nobr> | <nobr>苍南县</nobr> | <nobr>岱岭乡</nobr> | 利济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql135.htm) | 石梁桥（三孔） | 27.30米 | 清光绪三十年（1904）建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>19</nobr> | <nobr>泰顺县</nobr> | <nobr>罗阳镇</nobr> | 泰福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql150.htm) | — | 27.01米 | — | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>20</nobr> | <nobr>苍南县</nobr> | <nobr>灵溪镇</nobr> | 下官堂桥 [?](http://www.china-qiao.com/ql15/wzql/wzql255.htm) | 石梁桥（八孔） | 27米 | 清始建，民国十六年（1927）重建；民国十六年（1927）重建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>20</nobr> | <nobr>苍南县</nobr> | <nobr>灵溪镇</nobr> | 下官堂桥 [?](http://www.china-qiao.com/ql15/wzql/wzql255.htm) | 石梁桥（八孔） | 27米 | 民国十六年（1927）重建 | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 102 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 103 座中排序。
 
 ## 温州市桥身刻字最早的前 20 名
 
@@ -69,10 +69,12 @@
 
 ## 按级别列出
 
-### 全国重点文物保护单位（17 座）
+### 全国重点文物保护单位（19 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>苍南县</nobr> | <nobr>赤溪镇</nobr> | 赤溪五洞桥 | — | — | 南宋咸淳三年（1267）重建 | 全国重点文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>望里镇</nobr> | 护法寺桥 [?](http://www.china-qiao.com/ql15/wzql/wzql122.htm) | 石梁桥（三孔） | 10.3米 | 北宋元祐三年（1088）始建 | 全国重点文物保护单位（“护法寺桥和塔”组成部分） |
 | <nobr>瑞安市</nobr> | <nobr>陶山镇</nobr> | 八卦桥 [?](http://www.china-qiao.com/ql15/wzql/wzql069.htm) | 石梁桥（五孔） | 25.4米 | 南宋淳熙年间建 | 全国重点文物保护单位（“八卦桥和河西桥”组成部分） |
 | <nobr>瑞安市</nobr> | <nobr>陶山镇</nobr> | 河西桥 [?](http://www.china-qiao.com/ql15/wzql/wzql227.htm) | 石梁桥（五孔） | 24.50米 | 宋 | 全国重点文物保护单位（“八卦桥和河西桥”组成部分） |
 | <nobr>泰顺县</nobr> | <nobr>泗溪镇</nobr> | 溪东桥 [?](http://www.china-qiao.com/ql15/wzql/wzql164.htm) | 木拱廊桥 | 41.7米 | 清道光七年（1827）重修 | 全国重点文物保护单位（“泰顺廊桥”组成部分） |
@@ -109,7 +111,7 @@
 | <nobr>永嘉县</nobr> | <nobr>岩头镇</nobr> | 含丽水桥 [?](http://www.china-qiao.com/ql15/wzql/wzql093.htm) | 石梁桥（三孔） | 12米 | 明 | 浙江省文物保护单位（“花亭（”组成部分，4-83） |
 | <nobr>永嘉县</nobr> | <nobr>枫林镇</nobr> | 枫林黄桥 [?](http://www.china-qiao.com/ql15/wzql/wzql390.htm) | — | 17米 | 明天启二年（1622）始建 | 浙江省文物保护单位（8-39） |
 
-### 县（区）级文物保护单位（24 座）
+### 县（区）级文物保护单位（40 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -117,6 +119,22 @@
 | <nobr>瑞安市</nobr> | <nobr>飞云街道</nobr> | 栏杆桥 | — | — | 南宋 | 瑞安市文物保护单位 |
 | <nobr>瑞安市</nobr> | <nobr>马屿镇</nobr> | 永乐桥 | — | — | 民国 | 瑞安市文物保护单位 |
 | <nobr>永嘉县</nobr> | <nobr>岩头镇</nobr> | 永度桥 | — | — | 南宋 | 永嘉县文物保护单位（第一批） |
+| <nobr>苍南县</nobr> | <nobr>藻溪镇</nobr> | 洞桥 [?](http://www.china-qiao.com/ql15/wzql/wzql131.htm) | 石梁桥（五孔） | 24.6米 | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>藻溪镇</nobr> | 昆原桥 | — | — | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>藻溪镇</nobr> | 藻溪陡门桥 | — | — | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>莒溪镇</nobr> | 蔚文桥 [?](http://www.china-qiao.com/ql15/wzql/wzql128.htm) | — | 14.50米 | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>钱库镇</nobr> | 大魁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql119.htm) | 石梁桥（五孔） | 22.3米 | 清嘉庆三年（1798）建 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>灵溪镇</nobr> | 八郎桥 [?](http://www.china-qiao.com/ql15/wzql/wzql113.htm) | 石拱桥（五孔） | 18.8米 | 宋 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>灵溪镇</nobr> | 渡龙宋桥 [?](http://www.china-qiao.com/ql15/wzql/wzql234.htm) | 石梁桥（单孔） | 4米 | 宋 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>灵溪镇</nobr> | 下官堂桥 [?](http://www.china-qiao.com/ql15/wzql/wzql255.htm) | 石梁桥（八孔） | 27米 | 民国十六年（1927）重建 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>灵溪镇</nobr> | 横浦桥 | — | — | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>赤溪镇</nobr> | 通福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql134.htm) | — | — | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>赤溪镇</nobr> | 安步桥 [?](http://www.china-qiao.com/ql15/wzql/wzql132.htm) | 石拱桥（单孔） | — | 清道光五年（1825）建 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>赤溪镇</nobr> | 稳步桥 [?](http://www.china-qiao.com/ql15/wzql/wzql207.htm) | 石拱桥（单孔） | — | 清 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>赤溪镇</nobr> | 圆通桥 [?](http://www.china-qiao.com/ql15/wzql/wzql133.htm) | 石拱桥（双孔） | 19.8米 | 民国 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>岱岭乡</nobr> | 利济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql135.htm) | 石梁桥（三孔） | 27.30米 | 清光绪三十年（1904）建 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>金乡镇</nobr> | 奈何桥 [?](http://www.china-qiao.com/ql15/wzql/wzql235.htm) | — | 3.8米 | 北宋崇宁三年（1104）建 | 苍南县文物保护单位 |
+| <nobr>苍南县</nobr> | <nobr>马站镇</nobr> | 丰桥 [?](http://www.china-qiao.com/ql15/wzql/wzql242.htm) | 石梁桥（单孔） | 5.45米 | 明崇祯十三年（1640）建 | 苍南县文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>白石街道</nobr> | 合湖桥 | — | — | 宋代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>北白象镇</nobr> | 赵镇桥 | — | — | 宋代 | 乐清市文物保护单位 |
 | <nobr>乐清市</nobr> | <nobr>淡溪镇</nobr> | 孝义桥 | — | — | 清代 | 乐清市文物保护单位 |
@@ -142,6 +160,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（91 座）
+### 尚未定级（待核实）（77 座）
 
 数量较多，见各区县文件。

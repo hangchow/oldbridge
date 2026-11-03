@@ -19,6 +19,8 @@ def era_of(h):
 # 标题没写区县、或同名候选其实不是同一座桥的页面：人工补区县、乡镇，清掉候选
 PAGEFIX = json.load(open(S + '/build/unlisted_pagefix.json')) if os.path.exists(S + '/build/unlisted_pagefix.json') else {}
 JS = {c for c, cf in json.load(open(S + '/zj/cities.json')).items() if cf.get('prov') == '江苏省'} | {'苏州市'}
+import glob
+KT = {r.get('town', '') for f in glob.glob(S + '/*/rows.json') + [S + '/build/all_rows.json'] for r in json.load(open(f)) if not r.get('level', '').startswith('尚未定级')} | set(re.findall(r'[一-龥]{1,3}乡镇', ''.join(r.get('loc', '') for f in glob.glob(S + '/*/rows.json') for r in json.load(open(f)))))
 OUT = {}
 for city, L in O.items():
     rows = []
@@ -29,6 +31,7 @@ for city, L in O.items():
         town = re.sub(r'^(县|市|区)', '', town)
         if town and not re.fullmatch(r'.{1,6}(街道|镇|乡)', town): town = ''
         nm = re.sub(r'^[^桥]{0,6}?(?:公园|景区|风景区)', '', re.sub('^' + o['dist'], '', o['name'])).strip()
+        if town.endswith('乡') and nm.startswith(('镇', '街道')) and (town + nm[:1 if nm[0] == '镇' else 2]) in KT: m0 = re.match(r'(镇|街道)', nm); town += m0.group(1); nm = nm[len(m0.group(1)):]   # “金乡镇奈何桥”不是“金乡”+“镇奈何桥”（“湫山乡镇安桥”不动）
         if not town:   # 名称里带了乡镇
             m2 = re.match(r'^(.{1,5}?(?:街道|镇|乡))(.+桥)$', re.sub('^' + o['dist'], '', nm))
             if m2: town, nm = m2.group(1), m2.group(2)

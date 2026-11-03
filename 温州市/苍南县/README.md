@@ -1,33 +1,62 @@
 # 温州市苍南县古桥
 
-共收录 48 座桥。
+共收录 52 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
+| <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>16</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>22</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>26</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>12</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>赤溪镇</nobr> | <nobr>9</nobr> |
-| <nobr>马站镇</nobr> | <nobr>8</nobr> |
-| <nobr>钱库镇</nobr> | <nobr>6</nobr> |
-| <nobr>灵溪镇</nobr> | <nobr>6</nobr> |
-| <nobr>金乡镇</nobr> | <nobr>4</nobr> |
-| <nobr>藻溪镇</nobr> | <nobr>4</nobr> |
-| <nobr>桥墩镇</nobr> | <nobr>3</nobr> |
-| <nobr>金乡</nobr> | <nobr>3</nobr> |
-| <nobr>南宋镇</nobr> | <nobr>1</nobr> |
-| <nobr>莒溪镇</nobr> | <nobr>1</nobr> |
-| <nobr>望里镇</nobr> | <nobr>1</nobr> |
-| <nobr>宜山镇</nobr> | <nobr>1</nobr> |
+| <nobr>马站镇</nobr> | <nobr>9</nobr> |
+| <nobr>藻溪镇</nobr> | <nobr>7</nobr> |
+| <nobr>灵溪镇</nobr> | <nobr>7</nobr> |
+| <nobr>金乡镇</nobr> | <nobr>6</nobr> |
+| <nobr>钱库镇</nobr> | <nobr>5</nobr> |
+| <nobr>望里镇</nobr> | <nobr>2</nobr> |
+| <nobr>莒溪镇</nobr> | <nobr>2</nobr> |
+| <nobr>桥墩镇</nobr> | <nobr>2</nobr> |
 | <nobr>岱岭乡</nobr> | <nobr>1</nobr> |
+| <nobr>南宋镇</nobr> | <nobr>1</nobr> |
+| <nobr>宜山镇</nobr> | <nobr>1</nobr> |
 
 ## 按级别列出
+
+### 全国重点文物保护单位（2 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>赤溪镇</nobr> | 赤溪五洞桥 | — | — | 南宋咸淳三年（1267）重建 | 全国重点文物保护单位 | 暂无 |
+| <nobr>望里镇</nobr> | 护法寺桥 [?](http://www.china-qiao.com/ql15/wzql/wzql122.htm) | 石梁桥（三孔） | 10.3米 | 北宋元祐三年（1088）始建 | 全国重点文物保护单位（“护法寺桥和塔”组成部分） | 暂无 |
+
+### 县（区）级文物保护单位（16 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>藻溪镇</nobr> | 洞桥 [?](http://www.china-qiao.com/ql15/wzql/wzql131.htm) | 石梁桥（五孔） | 24.6米 | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>藻溪镇</nobr> | 昆原桥 | — | — | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>藻溪镇</nobr> | 藻溪陡门桥 | — | — | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>莒溪镇</nobr> | 蔚文桥 [?](http://www.china-qiao.com/ql15/wzql/wzql128.htm) | — | 14.50米 | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>钱库镇</nobr> | 大魁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql119.htm) | 石梁桥（五孔） | 22.3米 | 清嘉庆三年（1798）建 | 苍南县文物保护单位 | 暂无 |
+| <nobr>灵溪镇</nobr> | 八郎桥 [?](http://www.china-qiao.com/ql15/wzql/wzql113.htm) | 石拱桥（五孔） | 18.8米 | 宋 | 苍南县文物保护单位 | 暂无 |
+| <nobr>灵溪镇</nobr> | 渡龙宋桥 [?](http://www.china-qiao.com/ql15/wzql/wzql234.htm) | 石梁桥（单孔） | 4米 | 宋 | 苍南县文物保护单位 | 暂无 |
+| <nobr>灵溪镇</nobr> | 下官堂桥 [?](http://www.china-qiao.com/ql15/wzql/wzql255.htm) | 石梁桥（八孔） | 27米 | 民国十六年（1927）重建 | 苍南县文物保护单位 | 暂无 |
+| <nobr>灵溪镇</nobr> | 横浦桥 | — | — | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>赤溪镇</nobr> | 通福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql134.htm) | — | — | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>赤溪镇</nobr> | 安步桥 [?](http://www.china-qiao.com/ql15/wzql/wzql132.htm) | 石拱桥（单孔） | — | 清道光五年（1825）建 | 苍南县文物保护单位 | 暂无 |
+| <nobr>赤溪镇</nobr> | 稳步桥 [?](http://www.china-qiao.com/ql15/wzql/wzql207.htm) | 石拱桥（单孔） | — | 清 | 苍南县文物保护单位 | 暂无 |
+| <nobr>赤溪镇</nobr> | 圆通桥 [?](http://www.china-qiao.com/ql15/wzql/wzql133.htm) | 石拱桥（双孔） | 19.8米 | 民国 | 苍南县文物保护单位 | 暂无 |
+| <nobr>岱岭乡</nobr> | 利济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql135.htm) | 石梁桥（三孔） | 27.30米 | 清光绪三十年（1904）建 | 苍南县文物保护单位 | 暂无 |
+| <nobr>金乡镇</nobr> | 奈何桥 [?](http://www.china-qiao.com/ql15/wzql/wzql235.htm) | — | 3.8米 | 北宋崇宁三年（1104）建 | 苍南县文物保护单位 | 暂无 |
+| <nobr>马站镇</nobr> | 丰桥 [?](http://www.china-qiao.com/ql15/wzql/wzql242.htm) | 石梁桥（单孔） | 5.45米 | 明崇祯十三年（1640）建 | 苍南县文物保护单位 | 暂无 |
 
 ### 文物保护点（22 座）
 
@@ -56,63 +85,42 @@
 | <nobr>灵溪镇</nobr> | 屿兜桥 | — | — | 不详 | 温州市文物保护点 | 暂无 |
 | <nobr>灵溪镇</nobr> | 北山下宋桥 [?](http://www.china-qiao.com/ql15/wzql/wzql381.htm) | 石梁桥（单孔） | 4.37米 | 北宋绍圣三年（1096）建 | 温州市文物保护点 | [1](北山下宋桥1.jpg) |
 
-### 尚未定级（待核实）（26 座）
+### 尚未定级（待核实）（12 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
 | <nobr>桥墩镇</nobr> | 坑口桥 [?](http://www.china-qiao.com/ql15/wzql/wzql127.htm) | 石梁桥（四孔） | 16.65米 | —（沉没于桥墩水库中） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>桥墩镇</nobr> | 蔚文桥 [?](http://www.china-qiao.com/ql15/wzql/wzql128.htm) | — | 14.50米 | 清乾隆年间 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>灵溪镇</nobr> | 八郎桥 [?](http://www.china-qiao.com/ql15/wzql/wzql113.htm) | 石拱桥（五孔） | 18.8米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>灵溪镇</nobr> | 渡龙宋桥 [?](http://www.china-qiao.com/ql15/wzql/wzql234.htm) | 石梁桥（单孔） | 4米 | 北宋熙宁六年（1073） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>灵溪镇</nobr> | 下官堂桥 [?](http://www.china-qiao.com/ql15/wzql/wzql255.htm) | 石梁桥（八孔） | 27米 | 清始建，民国十六年（1927）重建；民国十六年（1927）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>宜山镇</nobr> | 元祐桥 [?](http://www.china-qiao.com/ql15/wzql/wzql380.htm) | — | — | 北宋元祐二年（1087）（桥板刻字） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>钱库镇</nobr> | 大魁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql119.htm) | 石梁桥（五孔） | 22.3米 | 清嘉庆三年（1798） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>钱库镇</nobr> | 护法寺桥 [?](http://www.china-qiao.com/ql15/wzql/wzql122.htm) | 石梁桥（三孔） | 10.3米 | 北宋元祐三年（1088） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>钱库镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql241.htm) | 石拱桥（三孔） | 8米 | 明正德十二年（1517） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>钱库镇</nobr> | 砥柱桥 [?](http://www.china-qiao.com/ql15/wzql/wzql248.htm) | 石梁桥（三孔） | — | 清嘉庆七年（1802） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>藻溪镇</nobr> | 险口桥 [?](http://www.china-qiao.com/ql15/wzql/wzql130.htm) | 石拱桥（单孔） | 10米 | 清乾隆十六年（1751） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>金乡</nobr> | 镇奈何桥 [?](http://www.china-qiao.com/ql15/wzql/wzql235.htm) | — | 3.8米 | 北宋崇宁三年（1104） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>金乡</nobr> | 镇洗马桥 [?](http://www.china-qiao.com/ql15/wzql/wzql246.htm) | 石梁桥（七孔） | — | 明末 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>金乡</nobr> | 镇平桥 [?](http://www.china-qiao.com/ql15/wzql/wzql252.htm) | — | — | 清同治三年（1864） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>赤溪镇</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/wzql/wzql131.htm) | 石梁桥（五孔） | 24.6米 | 南宋咸淳三年（1267）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>赤溪镇</nobr> | 安步桥 [?](http://www.china-qiao.com/ql15/wzql/wzql132.htm) | 石拱桥（单孔） | — | 清道光五年（1825） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>赤溪镇</nobr> | 圆通桥 [?](http://www.china-qiao.com/ql15/wzql/wzql133.htm) | 石拱桥（双孔） | 19.8米 | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>赤溪镇</nobr> | 稳步桥 [?](http://www.china-qiao.com/ql15/wzql/wzql207.htm) | 石拱桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>赤溪镇</nobr> | 通福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql134.htm) | — | — | 清光绪十七年（1891） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>金乡镇</nobr> | 平桥 [?](http://www.china-qiao.com/ql15/wzql/wzql252.htm) | — | — | 清同治三年（1864）建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>马站镇</nobr> | 朱堡桥 [?](http://www.china-qiao.com/ql15/wzql/wzql123.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>马站镇</nobr> | 英坑桥 [?](http://www.china-qiao.com/ql15/wzql/wzql124.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>马站镇</nobr> | 棋盘溪头桥 [?](http://www.china-qiao.com/ql15/wzql/wzql236.htm) | 石梁桥（单孔） | — | 北宋政和元年（1111） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>马站镇</nobr> | 绮川桥 [?](http://www.china-qiao.com/ql15/wzql/wzql240.htm) | 石梁桥（单孔） | 7.8米 | 元至正十三年（1353）始建，明成化二十年（1484）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>马站镇</nobr> | 鱼井桥 [?](http://www.china-qiao.com/ql15/wzql/wzql250.htm) | — | 9.5米 | 清道光元年（1821） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>马站镇</nobr> | 十八孔桥 [?](http://www.china-qiao.com/ql15/wzql/wzql253.htm) | 石梁桥（十八孔） | — | 民国元年（1912） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>岱岭乡</nobr> | 利济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql135.htm) | 石梁桥（三孔） | 27.30米 | 清光绪三十年（1904） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
 
 ## 说明
 
+- 护法寺桥：具体年代据老百晓集桥（名录原写“宋”）。
+- 利济桥：具体年代据老百晓集桥（名录原写“清”）。
+- 下官堂桥：具体年代据老百晓集桥（名录原写“民国”）。
+- 安步桥：具体年代据老百晓集桥（名录原写“清”）。
+- 奈何桥：具体年代据老百晓集桥（名录原写“宋”）。
+- 大魁桥：具体年代据老百晓集桥（名录原写“清”）。
+- 丰桥：具体年代据老百晓集桥（名录原写“明”）。
 - 北山下宋桥：具体年代据老百晓集桥（名录原写“宋”）。
 - 安澜桥：具体年代据老百晓集桥（名录原写“清”）。
 - 中溪桥：具体年代据老百晓集桥（名录原写“清”）。
 - 永安桥：具体年代据老百晓集桥（名录原写“民国”）。
 - 项家桥：具体年代据老百晓集桥（名录原写“清”）。
 - 元祐桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 利济桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 坑口桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 蔚文桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 八郎桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
-- 渡龙宋桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 下官堂桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“清始建，民国十六年（1927）重建”）。
 - 险口桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 五洞桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 安步桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 圆通桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 稳步桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
-- 通福桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 镇奈何桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 镇洗马桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 镇平桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 大魁桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 护法寺桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 平桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实；具体年代据老百晓集桥（名录原写“清”）。
 - 永宁桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 砥柱桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 朱堡桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
@@ -128,25 +136,12 @@
 
 ## 来源
 
+- [维基百科：苍南县各级文物保护单位列表](https://zh.wikipedia.org/wiki/苍南县各级文物保护单位列表)
 - [浙江省文物局：全省文物保护点统计表（温州市文物保护点，本项目 文保名录/浙江省/ 有原件）](http://wwj.zj.gov.cn/)
 - [老百晓集桥：wzql380.htm](http://www.china-qiao.com/ql15/wzql/wzql380.htm)
-- [老百晓集桥：wzql135.htm](http://www.china-qiao.com/ql15/wzql/wzql135.htm)
 - [老百晓集桥：wzql127.htm](http://www.china-qiao.com/ql15/wzql/wzql127.htm)
-- [老百晓集桥：wzql128.htm](http://www.china-qiao.com/ql15/wzql/wzql128.htm)
-- [老百晓集桥：wzql113.htm](http://www.china-qiao.com/ql15/wzql/wzql113.htm)
-- [老百晓集桥：wzql234.htm](http://www.china-qiao.com/ql15/wzql/wzql234.htm)
-- [老百晓集桥：wzql255.htm](http://www.china-qiao.com/ql15/wzql/wzql255.htm)
 - [老百晓集桥：wzql130.htm](http://www.china-qiao.com/ql15/wzql/wzql130.htm)
-- [老百晓集桥：wzql131.htm](http://www.china-qiao.com/ql15/wzql/wzql131.htm)
-- [老百晓集桥：wzql132.htm](http://www.china-qiao.com/ql15/wzql/wzql132.htm)
-- [老百晓集桥：wzql133.htm](http://www.china-qiao.com/ql15/wzql/wzql133.htm)
-- [老百晓集桥：wzql207.htm](http://www.china-qiao.com/ql15/wzql/wzql207.htm)
-- [老百晓集桥：wzql134.htm](http://www.china-qiao.com/ql15/wzql/wzql134.htm)
-- [老百晓集桥：wzql235.htm](http://www.china-qiao.com/ql15/wzql/wzql235.htm)
-- [老百晓集桥：wzql246.htm](http://www.china-qiao.com/ql15/wzql/wzql246.htm)
 - [老百晓集桥：wzql252.htm](http://www.china-qiao.com/ql15/wzql/wzql252.htm)
-- [老百晓集桥：wzql119.htm](http://www.china-qiao.com/ql15/wzql/wzql119.htm)
-- [老百晓集桥：wzql122.htm](http://www.china-qiao.com/ql15/wzql/wzql122.htm)
 - [老百晓集桥：wzql241.htm](http://www.china-qiao.com/ql15/wzql/wzql241.htm)
 - [老百晓集桥：wzql248.htm](http://www.china-qiao.com/ql15/wzql/wzql248.htm)
 - [老百晓集桥：wzql123.htm](http://www.china-qiao.com/ql15/wzql/wzql123.htm)
