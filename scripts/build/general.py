@@ -46,9 +46,8 @@ def find_town(dist, addr):
 
 out = []
 def add(dist, town, name, era, loc, level, doc, src, note=''):
-    if post49(era): return
     if re.search(r'^(近)?现代$|不详', era or ''):
-        note = (note + '；' if note else '') + '名录只写“' + era + '”，具体年代待核实，如为1949年后修建则不在本项目范围'
+        note = (note + '；' if note else '') + '名录只写“' + era + '”，具体年代待核实'
     out.append(dict(dist=dist, town=town, name=name, era=era or '—', loc=loc, level=level, doc=doc, srcs=[src], struct='—', note=note, commons=None))
 
 # --- A. 余杭区三普名录（含今临平区）
@@ -93,7 +92,6 @@ def page_rows(url):
 for key, dist in [('xs1', '萧山区'), ('xs2', '萧山区'), ('fy', '富阳区'), ('la', '临安区'), ('jd', '建德市')]:
     for c in page_rows(U[key]):
         name, era, addr = c[1], c[2], c[4]
-        if '“毛主席万岁”' in name: continue  # 名称表明为1949年后修建
         if not is_bridge(name): continue
         town = find_town(dist, addr)
         if not town: print('NOTOWN', dist, name, addr); continue

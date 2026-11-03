@@ -1,6 +1,6 @@
 # 绍兴市古桥
 
-共收录 381 座桥。
+共收录 379 座桥。
 
 ## 按级别统计
 
@@ -10,7 +10,7 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>11</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>8</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>40</nobr> |
-| <nobr>文物保护点</nobr> | <nobr>85</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>83</nobr> |
 | <nobr>历史建筑</nobr> | <nobr>70</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>4</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>151</nobr> |
@@ -20,7 +20,7 @@
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[柯桥区](柯桥区/柯桥区古桥.md)</nobr> | <nobr>144</nobr> |
-| <nobr>[越城区](越城区/越城区古桥.md)</nobr> | <nobr>105</nobr> |
+| <nobr>[越城区](越城区/越城区古桥.md)</nobr> | <nobr>103</nobr> |
 | <nobr>[新昌县](新昌县/新昌县古桥.md)</nobr> | <nobr>39</nobr> |
 | <nobr>[嵊州市](嵊州市/嵊州市古桥.md)</nobr> | <nobr>33</nobr> |
 | <nobr>[上虞区](上虞区/上虞区古桥.md)</nobr> | <nobr>30</nobr> |
@@ -158,7 +158,7 @@
 | <nobr>[新昌县](新昌县/新昌县古桥.md)</nobr> | <nobr>沙溪镇</nobr> | 大庆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql380.htm) | 石拱桥（三孔） | 56米 | 清咸丰十一年（1861）建成 | 新昌县文物保护单位（新政发〔2002〕21号） |
 | <nobr>[新昌县](新昌县/新昌县古桥.md)</nobr> | <nobr>儒岙镇</nobr> | 乐取桥 [?](http://www.china-qiao.com/ql15/sxql/sxql397.htm) | — | — | 清 | 新昌县文物保护单位（新政发〔2006〕25号） |
 
-### 文物保护点（85 座）
+### 文物保护点（83 座）
 
 数量较多，见各区县文件。
 

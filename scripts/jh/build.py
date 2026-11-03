@@ -58,12 +58,10 @@ for o in (json.load(open(S + '/build/extra.json')).get('金华市', []) if os.pa
 for o in (json.load(open(S + '/build/official.json')).get('金华市', []) if os.path.exists(S + '/build/official.json') else []):
     if any(r['dist'] == o['dist'] and core(r['name']) == core(o['name']) for r in R): continue
     u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]
-    if re.match(r'(19[5-9]\d|20\d\d)', o['era']): continue
     e(o['dist'], o['town'], o['name'], o['era'], o['loc'], o['lvtxt'], o['doc'], u)
 # 金华市文物保护点（浙江省文物局统计表）
 for b in json.load(open(S + '/jh/xlsx_bridges.json')):
     d = b['dist']
-    if re.match(r'(19[5-9]\d|20\d\d)|现代|当代', b['era']): continue
     if any(r['dist'] == d and core(r['name']) == core(b['name']) for r in R): continue
     PRE = r'^(?:浙江省)?(?:金华市)?(?:' + '|'.join(DISTS) + r')?'
     t = re.sub(PRE, '', b['town'])

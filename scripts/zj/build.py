@@ -29,9 +29,10 @@ LV = {'gb': 0, 'sb': 1, 'shi': 2, 'xian': 3, 'wbd': 4, 'dj': 5}
 R = []
 def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None, doc='—', unote='', lvtxt=''):
     if dist not in DISTS or not name: return
+    if re.search(r'碑|亭', name) and not re.search(r'桥(（.*?）)?$', name): return   # “七星桥抗战纪念碑、亭”之类不是桥
     name = re.sub(r'\s+', '', name)   # 统计表单元格里的换行（“福泉山下水溪\n石拱桥”）
     era = era or '—'
-    if re.match(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return   # 只看建造年代开头，括号里的重修年份不算
+    if lv == 'dj' and re.match(r'(19[5-9]\d|20\d\d)|现代|当代|中华人民共和国', era): return   # 1949年后修建的：文保单位（点）、历史建筑照收，未定级的不收
     tw = town or town_of(addr)
     for r in R:
         if r['dist'] == dist and core(r['name']) == core(name):
@@ -100,7 +101,7 @@ for r in R:
     if r['group'] and core(r['group']) == core(r['name']): r['group'] = ''
     r['town'] = CF.get('townfix', {}).get(f"{r['dist']}|{r['name']}", r['town'])
     r['era'] = CF.get('erafix', {}).get(f"{r['dist']}|{r['name']}", r['era'])   # 名录没写年代、据资料补的
-R[:] = [r for r in R if not re.match(r'(19[5-9]\d|20\d\d)', r['era'])]   # 据资料补出的年代在1949年后的，也不收
+R[:] = [r for r in R if not (r['lvk'] == 'dj' and re.match(r'(19[5-9]\d|20\d\d)', r['era']))]   # 未定级的、据资料补出的年代在1949年后的不收
 # 组名只留名称本身；成组条目在已拆出单桥时去掉
 for r in R:
     if r['group']: r['group'] = re.split(r'共\d|其中|[，；,;]|含', r['group'])[0].strip()

@@ -46,7 +46,6 @@ for c, k in K.items():
             continue
         name = b['name'] if not b['vil'] or any(core(x['name']) == n for x in R if x['dist'] == b['dist']) is False else b['name']
         if b['vil'] and any(core(x['name']) == n and x['dist'] == b['dist'] for x in R + []): name = b['vil'] + b['name']
-        if re.match(r'(19[5-9]\d|20\d\d)|中华人民共和国|现代|当代', b['era'] or ''): continue   # 1949年以后修建的不收
         key = f"{c}|{b['dist']}|{bt}|{name}"
         R.append(dict(dist=b['dist'], town=bt, name=name, era=b['era'] or '—', loc=(b['vil'] + '，' if b['vil'] else '') + (b['loc'] or '—'),
                       src=SRC, doc=doc, level=lvtxt, struct=HOLES.get(key, '—'), len=LENF.get(key, '—'),

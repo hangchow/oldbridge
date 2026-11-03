@@ -1,13 +1,13 @@
 # 台州市古桥
 
-共收录 118 座桥。
+共收录 119 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>9</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>10</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>48</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>17</nobr> |
@@ -21,9 +21,9 @@
 | <nobr>[仙居县](仙居县/仙居县古桥.md)</nobr> | <nobr>24</nobr> |
 | <nobr>[临海市](临海市/临海市古桥.md)</nobr> | <nobr>19</nobr> |
 | <nobr>[天台县](天台县/天台县古桥.md)</nobr> | <nobr>15</nobr> |
+| <nobr>[温岭市](温岭市/温岭市古桥.md)</nobr> | <nobr>14</nobr> |
 | <nobr>[黄岩区](黄岩区/黄岩区古桥.md)</nobr> | <nobr>14</nobr> |
 | <nobr>[椒江区](椒江区/椒江区古桥.md)</nobr> | <nobr>13</nobr> |
-| <nobr>[温岭市](温岭市/温岭市古桥.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[路桥区](路桥区/路桥区古桥.md)</nobr> | <nobr>10</nobr> |
 | <nobr>[三门县](三门县/三门县古桥.md)</nobr> | <nobr>7</nobr> |
 | <nobr>[玉环市](玉环市/玉环市古桥.md)</nobr> | <nobr>3</nobr> |
@@ -68,7 +68,7 @@
 | <nobr>[温岭市](温岭市/温岭市古桥.md)</nobr> | <nobr>新河镇</nobr> | 金清大桥 [?](http://www.china-qiao.com/ql15/tzql/tzql049.htm) | 石拱桥（五孔） | 64米 | 清 | 全国重点文物保护单位 |
 | <nobr>[温岭市](温岭市/温岭市古桥.md)</nobr> | <nobr>—</nobr> | 新河闸桥群 | — | — | 宋至清 | 全国重点文物保护单位 |
 
-### 省级文物保护单位（9 座）
+### 省级文物保护单位（10 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | <nobr>[黄岩区](黄岩区/黄岩区古桥.md)</nobr> | <nobr>院桥镇</nobr> | 镇锁桥 [?](http://www.china-qiao.com/ql15/tzql/tzql020.htm) | 石梁桥（三孔） | 135米 | 清 | 浙江省文物保护单位（7-181） |
 | <nobr>[临海市](临海市/临海市古桥.md)</nobr> | <nobr>大洋街道</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/tzql/tzql067.htm) | 石拱桥（五孔） | 75米 | 清乾隆五十四年（1789）重建，清同治四年（1865）重修 | 浙江省文物保护单位（7-183） |
 | <nobr>[温岭市](温岭市/温岭市古桥.md)</nobr> | <nobr>新河镇</nobr> | 糠桥头桥 | — | — | 南宋 | 浙江省文物保护单位（8-33） |
+| <nobr>[温岭市](温岭市/温岭市古桥.md)</nobr> | <nobr>箬横镇</nobr> | 李婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql047.htm) | 钢筋混凝土拱桥（单孔） | 14米 | 1968年 | 浙江省文物保护单位（8-117） |
 | <nobr>[天台县](天台县/天台县古桥.md)</nobr> | <nobr>坦头镇</nobr> | 欢溪高桥 | — | — | 清 | 浙江省文物保护单位（8-70） |
 | <nobr>[天台县](天台县/天台县古桥.md)</nobr> | <nobr>—</nobr> | 九遮山牮桥群 | — | — | — | 浙江省文物保护单位（6-244） |
 | <nobr>[仙居县](仙居县/仙居县古桥.md)</nobr> | <nobr>下各镇</nobr> | 下各东桥 [?](http://www.china-qiao.com/ql15/tzql/tzql138.htm) | 石拱桥（单孔） | 26.55米 | 明万历年间建 | 浙江省文物保护单位（7-63） |

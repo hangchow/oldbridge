@@ -116,11 +116,10 @@ for x in json.load(open(S + '/huz/xlsx_bridges.json')):
     loc = re.sub(r'^' + re.escape(x['town']), '', loc).lstrip('，,') or x['loc']
     e(d, x['town'] or '—', n, x['era'], loc, PT[d], x['doc'].replace(' ', '').replace('〕]', '〕'), XLSX)
 # ---------- 过滤 1949 年后 ----------
-EXCL = {'红专桥', '创业桥'}
-R = [r for r in R if r['name'] not in EXCL and not re.search(r'中华人民共和国|19[5-9]\d|20\d\d', r['era'] or '')]
+R = [r for r in R if not (re.search(r'中华人民共和国|19[5-9]\d|20\d\d', r['era'] or '') and r['level'].startswith(('尚未定级',)))]   # 文保单位（点）、历史建筑里1949年后修建的照收
 for r in R:
     if re.search(r'^(近)?现代$|不详', r['era'] or ''):
-        r['note'] = (r['note'] + '；' if r['note'] else '') + f'名录只写“{r["era"]}”，具体年代待核实，如为1949年后修建则不在本项目范围'
+        r['note'] = (r['note'] + '；' if r['note'] else '') + f'名录只写“{r["era"]}”，具体年代待核实'
 ORDER = ['全国重点', '浙江省', '湖州市文物保护单位', '长兴县文物保护单位', '德清县文物保护单位', '安吉县文物保护单位', '湖州市文物保护点', '长兴县文物保护点', '德清县文物保护点', '安吉县文物保护点']
 def rank(r): return next((i for i, k in enumerate(ORDER) if r['level'].startswith(k)), 99)
 

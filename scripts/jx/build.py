@@ -98,10 +98,10 @@ for r in R:
     k = f"{r['dist']}|{r['town']}|{r['name']}"
     if r['struct'] == '—': r['struct'] = ST.get(k, '—')
     r['len'] = LN.get(k, r['len'])
-R = [r for r in R if not re.search(r'中华人民共和国|19[5-9]\d|20\d\d', r['era'] or '')]
+R = [r for r in R if not (re.search(r'中华人民共和国|19[5-9]\d|20\d\d', r['era'] or '') and r['level'].startswith(('尚未定级',)))]   # 文保单位（点）、历史建筑里1949年后修建的照收
 for r in R:
     if re.search(r'^(近)?现代$|不详', r['era'] or ''):
-        r['note'] = (r['note'] + '；' if r['note'] else '') + f'名录只写“{r["era"]}”，具体年代待核实，如为1949年后修建则不在本项目范围'
+        r['note'] = (r['note'] + '；' if r['note'] else '') + f'名录只写“{r["era"]}”，具体年代待核实'
 ORDER = ['全国重点', '浙江省', '嘉兴市文物保护单位', '海宁市文物保护单位', '桐乡市文物保护单位', '平湖市文物保护单位', '海盐县文物保护单位', '嘉善县文物保护单位', '嘉兴市文物保护点']
 def rank(r): return next((i for i, k in enumerate(ORDER) if r['level'].startswith(k)), 99)
 def imgbase(r, rs):

@@ -41,8 +41,6 @@ for c in json.load(open(S + '/sz/gov_rows.json')):
     no, name, lv, area, era, addr, batch, date = c[:8]
     if '桥' not in name or (NOTB.search(name) and not re.search(r'[^桥]桥$', name)): continue   # “张墓桥”“庵弄桥”是桥
     d = DM.get(area, area)
-    era_ok = not re.match(r'(19[5-9]\d|20\d\d)年', era)
-    if not era_ok: continue
     m = re.match(r'^(?:' + re.escape(d) + r'|' + re.escape(area) + r')?(.{1,5}?(?:镇|街道|乡))', addr)
     town = m.group(1) if m else TF.get(name, '—')
     level = LV[lv] + (f'（{batch}）' if batch else '')
