@@ -1,44 +1,48 @@
 # 无锡市江阴市古桥
 
-共收录 29 座桥。
+共收录 30 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>16</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>13</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>19</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>11</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>青阳镇</nobr> | <nobr>5</nobr> |
-| <nobr>徐霞客镇</nobr> | <nobr>3</nobr> |
 | <nobr>月城镇</nobr> | <nobr>3</nobr> |
+| <nobr>徐霞客镇</nobr> | <nobr>3</nobr> |
+| <nobr>祝塘镇</nobr> | <nobr>2</nobr> |
+| <nobr>华士镇</nobr> | <nobr>2</nobr> |
 | <nobr>澄江街道</nobr> | <nobr>2</nobr> |
 | <nobr>顾山镇</nobr> | <nobr>2</nobr> |
 | <nobr>桐岐镇</nobr> | <nobr>2</nobr> |
 | <nobr>南闸街道</nobr> | <nobr>2</nobr> |
 | <nobr>临港街道</nobr> | <nobr>2</nobr> |
 | <nobr>璜土镇</nobr> | <nobr>2</nobr> |
-| <nobr>华士镇</nobr> | <nobr>2</nobr> |
 | <nobr>新桥镇</nobr> | <nobr>1</nobr> |
-| <nobr>祝塘镇</nobr> | <nobr>1</nobr> |
 | <nobr>夏港镇</nobr> | <nobr>1</nobr> |
 | <nobr>原石庄镇</nobr> | <nobr>1</nobr> |
 
 ## 按级别列出
 
-### 县（区）级文物保护单位（16 座）
+### 县（区）级文物保护单位（19 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
+| <nobr>祝塘镇</nobr> | 安乐塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql174.htm) | — | 25米 | 明崇祯年间始建（清乾隆八年、同治九年重修）；明崇祯年间建 | 江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件） | 暂无 |
+| <nobr>祝塘镇</nobr> | 承先桥 [?](http://www.china-qiao.com/ql16/wxql/wxql186.htm) | — | 25米 | 明代 | 江阴市文物保护单位 | 暂无 |
+| <nobr>月城镇</nobr> | 惠济桥 [?](http://www.china-qiao.com/ql16/wxql/wxql162.htm) | 石梁桥（三孔） | — | 清道光以前 | 江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件） | 暂无 |
+| <nobr>月城镇</nobr> | 双桥 [?](http://www.china-qiao.com/ql16/wxql/wxql164.htm) | — | — | 明天顺七年（1463）建 | 江阴市文物保护单位 | 暂无 |
+| <nobr>华士镇</nobr> | 何彦桥 [?](http://www.china-qiao.com/ql16/wxql/wxql177.htm) | 石梁桥（三孔） | — | 明景泰年间重建（清同治年间重修） | 江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件） | 暂无 |
 | <nobr>澄江街道</nobr> | 五云桥 [?](http://www.china-qiao.com/ql16/wxql/wxql149.htm) | — | — | 清同治十年（1871）重修 | 江阴市文物保护单位 | 暂无 |
 | <nobr>新桥镇</nobr> | 苏墅桥 [?](http://www.china-qiao.com/ql16/wxql/wxql179.htm) | — | — | 清顺治五年（1648）建 | 江阴市文物保护单位 | 暂无 |
 | <nobr>顾山镇</nobr> | 犀带桥 [?](http://www.china-qiao.com/ql16/wxql/wxql182.htm) | 石拱桥（单孔） | 16.9米 | 清乾隆年间始建，清嘉庆十年（1805）重建，清光绪二十五年（1899）重建 | 江阴市文物保护单位 | 暂无 |
 | <nobr>顾山镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql183.htm) | 石梁桥（三孔） | — | 清乾隆三十三年（1768）建 | 江阴市文物保护单位 | 暂无 |
-| <nobr>祝塘镇</nobr> | 承先桥 [?](http://www.china-qiao.com/ql16/wxql/wxql186.htm) | — | 25米 | 明代 | 江阴市文物保护单位 | 暂无 |
 | <nobr>徐霞客镇</nobr> | 胜水桥 [?](http://www.china-qiao.com/ql16/wxql/wxql175.htm) | — | 19.4米 | 明至民国；民国十三年（1924）重建 | 江阴市文物保护单位 | 暂无 |
 | <nobr>徐霞客镇</nobr> | 马镇大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql172.htm) | — | 32.5米 | 明至民国；民国年间重修 | 江阴市文物保护单位 | 暂无 |
 | <nobr>徐霞客镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql16/wxql/wxql173.htm) | — | — | 清代 | 江阴市文物保护单位 | 暂无 |
@@ -46,12 +50,11 @@
 | <nobr>青阳镇</nobr> | 北新桥 | — | — | 明代 | 江阴市文物保护单位 | 暂无 |
 | <nobr>桐岐镇</nobr> | 桐岐万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql167.htm) | 石拱桥（单孔） | 32米 | 清光绪二十七年（1901）重建 | 江阴市文物保护单位 | 暂无 |
 | <nobr>桐岐镇</nobr> | 广德桥 [?](http://www.china-qiao.com/ql16/wxql/wxql168.htm) | 石拱桥（单孔） | 18米 | 清雍正六年（1728）重建 | 江阴市文物保护单位 | 暂无 |
-| <nobr>月城镇</nobr> | 双桥 [?](http://www.china-qiao.com/ql16/wxql/wxql164.htm) | — | — | 明天顺七年（1463）建 | 江阴市文物保护单位 | 暂无 |
 | <nobr>南闸街道</nobr> | 紫金桥 [?](http://www.china-qiao.com/ql16/wxql/wxql151.htm) | — | 6.0米 | 宋代 | 江阴市文物保护单位 | 暂无 |
 | <nobr>夏港镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql154.htm) | 石梁桥（三孔） | 50.7米 | 宋至清；清顺治十四年（1657）建成 | 江阴市文物保护单位 | 暂无 |
 | <nobr>原石庄镇</nobr> | 新桥 [?](http://www.china-qiao.com/ql16/wxql/wxql157.htm) | 石拱桥（单孔） | — | 明崇祯年间始建 | 江阴市文物保护单位 | 暂无 |
 
-### 尚未定级（待核实）（13 座）
+### 尚未定级（待核实）（11 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -61,34 +64,33 @@
 | <nobr>南闸街道</nobr> | 司徒桥 [?](http://www.china-qiao.com/ql16/wxql/wxql153.htm) | — | — | 明万历三十三年（1605）建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>璜土镇</nobr> | 石庄桥 [?](http://www.china-qiao.com/ql16/wxql/wxql158.htm) | 石梁桥（三孔） | — | 宋始建（现桥有宋、明石材） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>璜土镇</nobr> | 西底桥 [?](http://www.china-qiao.com/ql16/wxql/wxql160.htm) | 石梁桥（三孔） | — | 清乾隆二十九年（1764） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>月城镇</nobr> | 惠济桥 [?](http://www.china-qiao.com/ql16/wxql/wxql162.htm) | 石梁桥（三孔） | — | 明始建，民国二十二年（1933）重建；民国二十二年（1933）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>月城镇</nobr> | 张公桥 [?](http://www.china-qiao.com/ql16/wxql/wxql163.htm) | — | — | 明天顺七年（1463）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>青阳镇</nobr> | 三元桥 [?](http://www.china-qiao.com/ql16/wxql/wxql165.htm) | — | 34.5米 | 明嘉靖六年（1527）建，民国八年（1919）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>青阳镇</nobr> | 迎秀桥 [?](http://www.china-qiao.com/ql16/wxql/wxql166.htm) | — | 21.4米 | 明嘉靖六年（1527） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>青阳镇</nobr> | 芦经桥 [?](http://www.china-qiao.com/ql16/wxql/wxql170.htm) | — | 22.4米 | 民国二十四年（1935） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>华士镇</nobr> | 太平桥 [?](http://www.china-qiao.com/ql16/wxql/wxql176.htm) | 石梁桥（三孔） | — | 明正统年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>华士镇</nobr> | 何彦桥 [?](http://www.china-qiao.com/ql16/wxql/wxql177.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
 
 ## 说明
 
+- 何彦桥：级别、年代据博雅地名网江阴县级文保列表。
 - 新桥：具体年代据老百晓集桥（名录原写“明代”）。
 - 万安桥：具体年代据老百晓集桥（名录原写“宋至清”）。
 - 胜水桥：具体年代据老百晓集桥（名录原写“明至民国”）。
 - 马镇大桥：具体年代据老百晓集桥（名录原写“明至民国”）。
 - 苏墅桥：具体年代据老百晓集桥（名录原写“清代”）。
+- 惠济桥：级别据博雅地名网江阴县级文保列表。
 - 双桥：具体年代据老百晓集桥（名录原写“明代”）。
 - 桐岐万安桥：具体年代据老百晓集桥（名录原写“清代”）。
 - 广德桥：具体年代据老百晓集桥（名录原写“清代”）。
 - 五云桥：具体年代据老百晓集桥（名录原写“清代”）。
+- 安乐塘桥：级别、年代据博雅地名网江阴县级文保列表；1954年乡民募资再修，现桥基、拱洞石大面积脱落；具体年代据老百晓集桥（名录原写“明崇祯年间始建（清乾隆八年、同治九年重修）”）。
 - 犀带桥：具体年代据老百晓集桥（名录原写“清代”）。
 - 永安桥：具体年代据老百晓集桥（名录原写“清代”）。
 - 张闸口桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 戴君桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 太平桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
-- 何彦桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 司徒桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实；具体年代据老百晓集桥（名录原写“—”）。
-- 惠济桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“明始建，民国二十二年（1933）重建”）。
 - 张公桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 泮桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实；具体年代据老百晓集桥（名录原写“—”）。
 - 石庄桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
@@ -103,13 +105,12 @@
 
 ## 来源
 
+- [http://www.tcmap.com.cn/view/wenwu/gi5w1140_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w1140_list.html)
 - [维基百科：江阴市各级文物保护单位列表](https://zh.wikipedia.org/wiki/江阴市各级文物保护单位列表)
 - [老百晓集桥：wxql155.htm](http://www.china-qiao.com/ql16/wxql/wxql155.htm)
 - [老百晓集桥：wxql156.htm](http://www.china-qiao.com/ql16/wxql/wxql156.htm)
 - [老百晓集桥：wxql176.htm](http://www.china-qiao.com/ql16/wxql/wxql176.htm)
-- [老百晓集桥：wxql177.htm](http://www.china-qiao.com/ql16/wxql/wxql177.htm)
 - [老百晓集桥：wxql153.htm](http://www.china-qiao.com/ql16/wxql/wxql153.htm)
-- [老百晓集桥：wxql162.htm](http://www.china-qiao.com/ql16/wxql/wxql162.htm)
 - [老百晓集桥：wxql163.htm](http://www.china-qiao.com/ql16/wxql/wxql163.htm)
 - [老百晓集桥：wxql150.htm](http://www.china-qiao.com/ql16/wxql/wxql150.htm)
 - [老百晓集桥：wxql158.htm](http://www.china-qiao.com/ql16/wxql/wxql158.htm)
