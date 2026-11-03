@@ -3072,10 +3072,10 @@
   "srcs": [
    "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
   ],
-  "struct": "廊桥（三孔）",
+  "struct": "石拱廊桥（三孔，半圆形拱）",
   "note": "",
   "commons": null,
-  "len": "—"
+  "len": "59.5米"
  },
  {
   "dist": "拱墅区",
@@ -3091,7 +3091,7 @@
   "struct": "石拱桥（单孔）",
   "note": "",
   "commons": null,
-  "len": "—"
+  "len": "46.5米"
  },
  {
   "dist": "拱墅区",
@@ -3120,7 +3120,7 @@
   "srcs": [
    "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
   ],
-  "struct": "—",
+  "struct": "石梁桥（五孔）",
   "note": "",
   "commons": null,
   "len": "—"
