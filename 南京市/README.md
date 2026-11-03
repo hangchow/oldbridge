@@ -1,6 +1,6 @@
 # 南京市古桥
 
-共收录 62 座桥。
+共收录 63 座桥。
 
 ## 按级别统计
 
@@ -8,7 +8,7 @@
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>6</nobr> |
-| <nobr>市级文物保护单位</nobr> | <nobr>23</nobr> |
+| <nobr>市级文物保护单位</nobr> | <nobr>24</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>19</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>2</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>10</nobr> |
@@ -23,9 +23,9 @@
 | <nobr>[玄武区](玄武区/玄武区古桥.md)</nobr> | <nobr>4</nobr> |
 | <nobr>[高淳区](高淳区/高淳区古桥.md)</nobr> | <nobr>4</nobr> |
 | <nobr>[栖霞区](栖霞区/栖霞区古桥.md)</nobr> | <nobr>4</nobr> |
+| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>3</nobr> |
 | <nobr>[浦口区](浦口区/浦口区古桥.md)</nobr> | <nobr>3</nobr> |
 | <nobr>[六合区](六合区/六合区古桥.md)</nobr> | <nobr>3</nobr> |
-| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>2</nobr> |
 | <nobr>[雨花台区](雨花台区/雨花台区古桥.md)</nobr> | <nobr>1</nobr> |
 | <nobr>[建邺区](建邺区/建邺区古桥.md)</nobr> | <nobr>1</nobr> |
 
@@ -73,17 +73,19 @@
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
-| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>下关街道</nobr> | 下关浦口铁路轮渡桥 | — | — | 1933年 | 江苏省文物保护单位 |
+| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>下关街道</nobr> | 下关浦口铁路轮渡桥 | — | — | 1933年 | 江苏省文物保护单位（第九批，2025年） |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>洪蓝街道</nobr> | 天生桥 [?](http://www.china-qiao.com/ql16/njql/njql190.htm) | — | 34米 | 明代 | 江苏省文物保护单位（胭脂河与天生桥） |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>东屏街道</nobr> | 长乐桥 [?](http://www.china-qiao.com/ql16/njql/njql138.htm) | 石拱桥（三孔） | 36米 | 明代 | 江苏省文物保护单位 |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>—</nobr> | 胭脂河桥 | — | — | 明代 | 江苏省文物保护单位（“胭脂河与天生桥”组成部分，294） |
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>—</nobr> | 玄津桥 [?](http://www.china-qiao.com/ql16/njql/njql073.htm) | 石拱桥（三孔） | — | 明代 | 江苏省文物保护单位 |
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>—</nobr> | 九龙桥 [?](http://www.china-qiao.com/ql16/njql/njql147.htm) | 石拱桥（五孔） | 51米 | 明 | 江苏省文物保护单位 |
 
-### 市级文物保护单位（23 座）
+### 市级文物保护单位（24 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>—</nobr> | 南京长江大桥 [?](http://www.china-qiao.com/ql16/njql/njql001.htm) | 公路铁路两用双层钢桁梁桥 | 4589米 | 1968年 | 南京市文物保护单位（第五批，2023年） |
+| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>—</nobr> | 大市桥 | — | — | 明代 | 南京市文物保护单位 |
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>洪武路街道</nobr> | 淮清桥 [?](http://www.china-qiao.com/ql16/njql/njql082.htm) | — | 17米 | 明 | 南京市文物保护单位 |
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>洪武路街道</nobr> | 大中桥 [?](http://www.china-qiao.com/ql16/njql/njql071.htm) | — | — | 明 | 南京市文物保护单位 |
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>夫子庙街道</nobr> | 文德桥 [?](http://www.china-qiao.com/ql16/njql/njql055.htm) | — | — | 明万历年间始建 | 南京市文物保护单位 |
@@ -105,7 +107,6 @@
 | <nobr>[江宁区](江宁区/江宁区古桥.md)</nobr> | <nobr>东山街道</nobr> | 仙惠桥 [?](http://www.china-qiao.com/ql16/njql/njql125.htm) | 石拱桥（单孔） | 20米 | 清宣统二年（1910）建 | 南京市文物保护单位 |
 | <nobr>[江宁区](江宁区/江宁区古桥.md)</nobr> | <nobr>东山街道</nobr> | 卢家桥 [?](http://www.china-qiao.com/ql16/njql/njql126.htm) | 石拱桥（单孔） | 15米 | 民国十四年（1925）重修 | 南京市文物保护单位 |
 | <nobr>[江宁区](江宁区/江宁区古桥.md)</nobr> | <nobr>秣陵街道</nobr> | 童男桥 [?](http://www.china-qiao.com/ql16/njql/njql130.htm) | 石拱桥（单孔） | 15.3米 | 清 | 南京市文物保护单位 |
-| <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>—</nobr> | 大市桥 | — | — | 明代 | 南京市文物保护单位 |
 | <nobr>[建邺区](建邺区/建邺区古桥.md)</nobr> | <nobr>南苑街道</nobr> | 赛虹桥 [?](http://www.china-qiao.com/ql16/njql/njql113.htm) | — | — | 明 | 南京市文物保护单位 |
 
 ### 县（区）级文物保护单位（19 座）
