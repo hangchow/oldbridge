@@ -266,6 +266,25 @@ def main():
             r['name'] = '福寿长桥（谢尚书庙桥）'; r['loc'] = '祥符街道总管堂社区'
             r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '拱墅区文博名录（2026年5月）记为福寿长桥，地址祥符街道总管堂社区，清代；2026年实地寻桥资料认为即余杭区三普登录的谢尚书庙桥（余杭区良渚街道），位于良渚、祥符交界，尚待官方确认；余杭区不再单列'
 
+    # 云端档案“历史建筑”库（singdo.org/libao/）的桥：已有的升为历史建筑并挂本地档案，没有的新增（build/libao.json，scripts/tools/libao.py）
+    LB = json.load(open(S + '/build/libao.json')); LBP = json.load(open(S + '/singdo/libao/bridges.json'))
+    LOW = ('一般不可移动文物', '尚未定级', '未定级')
+    for x in LB:
+        p = LBP[x['id']]; sdl = '文保名录/杭州市/' + p['local']
+        if x['op'] == 'up':
+            r = next((r for r in R if f"{r['dist']}|{r['town']}|{r['name']}" == x['key']), None)
+            if not r: print('LIBAO MISS', x['key']); continue
+            if r['level'].startswith(LOW):
+                old = r['level']; r['level'] = x['level']
+                r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'原为{old}'
+            elif '历史建筑' not in r['level']:
+                r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f"另列为{x['level']}"
+            if not r.get('sdl'): r['sdl'] = sdl
+        else:
+            R.append(dict(dist=x['dist'], town=x['town'], name=x['name'], era=x['era'], loc=x['loc'], level=x['level'], doc=x['doc'],
+                          src='http://www.singdo.org/libao/luelan_disp.php?luelan_id=' + x['id'], srcs=['http://www.singdo.org/libao/luelan_disp.php?luelan_id=' + x['id']],
+                          struct=x['struct'], len=x['len'], note=x['note'], sdl=sdl))
+            SRCNAME['http://www.singdo.org/libao/luelan_disp.php?luelan_id=' + x['id']] = f"杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：{x['name']}"
     # 余杭区良渚街道谢尚书庙桥即拱墅区福寿长桥，只在拱墅区列一次
     R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('余杭区', '良渚街道', '谢尚书庙桥')]
     by = {}

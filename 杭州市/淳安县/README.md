@@ -1,25 +1,28 @@
 # 杭州市淳安县古桥
 
-共收录 7 座桥。
+共收录 15 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>1</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>6</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>9</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>5</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
+| <nobr>威坪镇</nobr> | <nobr>7</nobr> |
 | <nobr>瑶山乡</nobr> | <nobr>1</nobr> |
-| <nobr>威坪镇</nobr> | <nobr>1</nobr> |
 | <nobr>姜家镇</nobr> | <nobr>1</nobr> |
 | <nobr>梓桐镇</nobr> | <nobr>1</nobr> |
 | <nobr>汾口镇</nobr> | <nobr>1</nobr> |
 | <nobr>临岐镇</nobr> | <nobr>1</nobr> |
 | <nobr>浪川乡</nobr> | <nobr>1</nobr> |
+| <nobr>安阳乡</nobr> | <nobr>1</nobr> |
+| <nobr>千岛湖镇</nobr> | <nobr>1</nobr> |
 
 ## 按级别列出
 
@@ -29,11 +32,24 @@
 |---|---|---|---|---|---|---|
 | <nobr>瑶山乡</nobr> | 云溪廊桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql386.htm) | 石墩廊桥（三孔） | 32.6米 | 明 | 淳安县文物保护单位（第六批） | [1](云溪廊桥1.jpg) [2](云溪廊桥2.jpg) |
 
-### 尚未定级（待核实）（6 座）
+### 历史建筑（9 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
-| <nobr>威坪镇</nobr> | 洞源桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm) | 石拱桥（单孔） | 12米 | 清乾隆四十八年（1783）始建，清嘉庆十二年（1807）重建，清光绪三十二年（1906）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>威坪镇</nobr> | [洞源桥](../../文保名录/杭州市/云端档案/历保1341_茶合村洞源桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm) | 石拱桥（单孔） | 12米 | 清乾隆四十八年（1783）始建，清嘉庆十二年（1807）重建，清光绪三十二年（1906）重修 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>威坪镇</nobr> | [厚屏村考般桥](../../文保名录/杭州市/云端档案/历保1365_厚屏村考般桥.html) | 石拱桥（单孔） | 7米 | 清 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>威坪镇</nobr> | [黄金村汪川桥](../../文保名录/杭州市/云端档案/历保1363_黄金村汪川桥.html) | 石拱桥（双孔） | — | 清末 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>威坪镇</nobr> | [蔗川村村头桥](../../文保名录/杭州市/云端档案/历保1355_蔗川村村头桥.html) | 石拱桥（单孔） | 10米 | 民国元年（1912） | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>威坪镇</nobr> | [新胜村王家桥](../../文保名录/杭州市/云端档案/历保1351_新胜村王家桥.html) | 石拱桥（单孔） | — | 明 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>威坪镇</nobr> | [新胜村通济桥](../../文保名录/杭州市/云端档案/历保1350_新胜村通济桥.html) | 石拱桥（单孔） | — | 明 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>威坪镇</nobr> | [琴溪村永安桥](../../文保名录/杭州市/云端档案/历保1348_琴溪村永安桥.html) | — | — | 民国三十二年（1943） | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>安阳乡</nobr> | [桐坑口村解麟桥](../../文保名录/杭州市/云端档案/历保1353_桐坑口村解麟桥.html) | 石拱桥（单孔） | 18米 | 民国 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+| <nobr>千岛湖镇</nobr> | [东汉村村口古桥](../../文保名录/杭州市/云端档案/历保1120_东汉村村口古桥.html) | 石拱桥（单孔） | 3.8米 | 清 | 杭州市历史建筑（淳安县第一批） | 暂无 |
+
+### 尚未定级（待核实）（5 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
 | <nobr>姜家镇</nobr> | 登瀛桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm) | 石拱桥（单孔） | 9米 | 宋始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>梓桐镇</nobr> | 茅庵桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm) | 石梁桥（双孔） | — | 明（相传） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>汾口镇</nobr> | 斗应桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm) | 石拱桥（单孔） | 15米 | 明嘉靖十七年（1538）有《斗应桥记》 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
@@ -43,8 +59,8 @@
 
 ## 说明
 
+- 洞源桥：单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）；原为尚未定级（待核实，老百晓集桥收录，不在文保名录中）。
 - 白佛桥：单孔石拱桥，长15米，券面阳刻“白佛桥”。
-- 洞源桥：单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）。
 - 登瀛桥：单孔石拱桥，通往瀛山书院。
 - 茅庵桥：又称卢家桥；一墩两孔。
 - 斗应桥：单孔石拱桥，桥上有凉亭。
@@ -54,8 +70,16 @@
 ## 来源
 
 - [淳安县文博单位名录（淳安县人民政府，2022）](https://www.qdh.gov.cn/art/2022/12/5/art_1229715686_59012851.html)
-- [http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：东汉村村口古桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1120)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：厚屏村考般桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1365)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：黄金村汪川桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1363)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：蔗川村村头桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1355)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：新胜村王家桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1351)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：新胜村通济桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1350)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：琴溪村永安桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1348)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：桐坑口村解麟桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1353)
+- [http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql584.htm)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm)

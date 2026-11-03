@@ -1,6 +1,6 @@
 # 杭州市古桥
 
-共收录 529 座桥。
+共收录 581 座桥。
 
 ## 按级别统计
 
@@ -11,10 +11,10 @@
 | <nobr>市级文物保护单位</nobr> | <nobr>74</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>21</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>118</nobr> |
-| <nobr>历史建筑</nobr> | <nobr>6</nobr> |
-| <nobr>一般不可移动文物</nobr> | <nobr>212</nobr> |
-| <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>44</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>38</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>97</nobr> |
+| <nobr>一般不可移动文物</nobr> | <nobr>175</nobr> |
+| <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>43</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>37</nobr> |
 
 ## 各区县桥梁数量（降序）
 
@@ -22,15 +22,15 @@
 |---|---|
 | <nobr>[余杭区](余杭区/README.md)</nobr> | <nobr>136</nobr> |
 | <nobr>[临平区](临平区/README.md)</nobr> | <nobr>107</nobr> |
+| <nobr>[临安区](临安区/README.md)</nobr> | <nobr>97（另有跨区的日新桥，计入富阳区）</nobr> |
 | <nobr>[萧山区](萧山区/README.md)</nobr> | <nobr>73</nobr> |
-| <nobr>[临安区](临安区/README.md)</nobr> | <nobr>58（另有跨区的日新桥，计入富阳区）</nobr> |
 | <nobr>[西湖区](西湖区/README.md)</nobr> | <nobr>49</nobr> |
-| <nobr>[建德市](建德市/README.md)</nobr> | <nobr>24</nobr> |
+| <nobr>[建德市](建德市/README.md)</nobr> | <nobr>26</nobr> |
+| <nobr>[拱墅区](拱墅区/README.md)</nobr> | <nobr>20</nobr> |
 | <nobr>[富阳区](富阳区/README.md)</nobr> | <nobr>20</nobr> |
-| <nobr>[拱墅区](拱墅区/README.md)</nobr> | <nobr>19</nobr> |
-| <nobr>[桐庐县](桐庐县/README.md)</nobr> | <nobr>17</nobr> |
-| <nobr>[上城区](上城区/README.md)</nobr> | <nobr>15</nobr> |
-| <nobr>[淳安县](淳安县/README.md)</nobr> | <nobr>7</nobr> |
+| <nobr>[桐庐县](桐庐县/README.md)</nobr> | <nobr>18</nobr> |
+| <nobr>[上城区](上城区/README.md)</nobr> | <nobr>16</nobr> |
+| <nobr>[淳安县](淳安县/README.md)</nobr> | <nobr>15</nobr> |
 | <nobr>[滨江区](滨江区/README.md)</nobr> | <nobr>4（另有跨区的钱塘江大桥，计入西湖区）</nobr> |
 
 跨区的桥（钱塘江大桥跨西湖区、滨江区；日新桥跨富阳区、临安区）在两个区的文件里都有列出，但统计只算一次。
@@ -57,10 +57,10 @@
 | <nobr>16</nobr> | <nobr>拱墅区</nobr> | <nobr>长庆街道</nobr> | 广安新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql079.htm) | 石拱桥（单孔） | 46.5米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>17</nobr> | <nobr>建德市</nobr> | <nobr>乾潭镇</nobr> | [乐善桥](../文保名录/杭州市/云端档案/641_乐善桥.html) | 石拱桥（三孔） | 36米 | — | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>18</nobr> | <nobr>余杭区</nobr> | <nobr>径山镇</nobr> | 福寿漕桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql310.htm) | 石梁桥（五孔） | 35.5米 | 清 | <nobr>文物保护点</nobr> |
-| <nobr>19</nobr> | <nobr>萧山区</nobr> | <nobr>楼塔镇</nobr> | [田村金钱桥](../文保名录/杭州市/云端档案/491_田村金钱桥.html) | 石梁桥（三孔） | 34米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>余杭区</nobr> | <nobr>良渚街道</nobr> | 五方兴隆桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql290.htm) | 石梁桥（三孔） | 32.8米 | 清 | <nobr>一般不可移动文物</nobr> |
+| <nobr>19</nobr> | <nobr>桐庐县</nobr> | <nobr>江南镇</nobr> | [青云桥](../文保名录/杭州市/云端档案/历保1177_青云桥.html) | 石梁桥（六孔） | 34.4米 | 清光绪八年（1882） | <nobr>历史建筑</nobr> |
+| <nobr>20</nobr> | <nobr>萧山区</nobr> | <nobr>楼塔镇</nobr> | [田村金钱桥](../文保名录/杭州市/云端档案/491_田村金钱桥.html) | 石梁桥（三孔） | 34米 | 清 | <nobr>市级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 123 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 134 座中排序。
 
 ## 杭州市桥身刻字最早的前 20 名
 
@@ -217,18 +217,18 @@
 
 数量较多，见各区县文件。
 
-### 历史建筑（6 座）
+### 历史建筑（97 座）
 
 数量较多，见各区县文件。
 
-### 一般不可移动文物（212 座）
+### 一般不可移动文物（175 座）
 
 数量较多，见各区县文件。
 
-### 未定级不可移动文物（四普新发现）（44 座）
+### 未定级不可移动文物（四普新发现）（43 座）
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（38 座）
+### 尚未定级（待核实）（37 座）
 
 数量较多，见各区县文件。

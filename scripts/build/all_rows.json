@@ -1639,13 +1639,14 @@
   "level": "杭州市历史建筑",
   "doc": "—",
   "src": "https://baijiahao.baidu.com/s?id=1709588752468179224",
-  "struct": "—",
+  "struct": "石拱桥（单孔）",
   "note": "",
   "commons": null,
   "srcs": [
    "https://baijiahao.baidu.com/s?id=1709588752468179224"
   ],
-  "len": "—"
+  "len": "10米",
+  "sdl": "文保名录/杭州市/云端档案/历保169_古楹春桥.html"
  },
  {
   "dist": "西湖区",
@@ -1662,7 +1663,8 @@
   "srcs": [
    "https://baijiahao.baidu.com/s?id=1709588752468179224"
   ],
-  "len": "—"
+  "len": "10.6米",
+  "sdl": "文保名录/杭州市/云端档案/历保168_古庆春桥.html"
  },
  {
   "dist": "西湖区",
@@ -1679,7 +1681,8 @@
   "srcs": [
    "https://baijiahao.baidu.com/s?id=1709588752468179224"
   ],
-  "len": "—"
+  "len": "12米",
+  "sdl": "文保名录/杭州市/云端档案/历保167_古灵慈桥.html"
  },
  {
   "dist": "西湖区",
@@ -2494,16 +2497,17 @@
   "name": "洞源桥",
   "era": "清乾隆四十八年（1783）始建，清嘉庆十二年（1807）重建，清光绪三十二年（1906）重修",
   "loc": "茶合村南200米",
-  "level": "尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
+  "level": "杭州市历史建筑（淳安县第一批）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）",
+  "note": "单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）；原为尚未定级（待核实，老百晓集桥收录，不在文保名录中）",
   "commons": null,
   "srcs": [
    "http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm"
   ],
-  "len": "12米"
+  "len": "12米",
+  "sdl": "文保名录/杭州市/云端档案/历保1341_茶合村洞源桥.html"
  },
  {
   "dist": "淳安县",
@@ -5012,14 +5016,15 @@
   "name": "秀才桥",
   "era": "清",
   "loc": "塘北村秀才桥头自然村和铁点河自然村西侧田畈交界处",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保917_秀才桥.html"
  },
  {
   "dist": "临平区",
@@ -5312,14 +5317,15 @@
   "name": "福来桥",
   "era": "清",
   "loc": "三星村廊下36号东南侧",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保918_福来桥.html"
  },
  {
   "dist": "余杭区",
@@ -5342,14 +5348,15 @@
   "name": "古城桥",
   "era": "清",
   "loc": "小古城村俞8组小古城61号叶惠良家东",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保922_古城桥.html"
  },
  {
   "dist": "余杭区",
@@ -5372,14 +5379,15 @@
   "name": "叶家桥",
   "era": "清",
   "loc": "潘板桥村招贤弄自然村东",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保923_叶家桥.html"
  },
  {
   "dist": "临平区",
@@ -5432,14 +5440,15 @@
   "name": "永泰村油车桥",
   "era": "清",
   "loc": "永泰村仁家斗与北坝儿村交界处",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保914_永泰村油车桥.html"
  },
  {
   "dist": "余杭区",
@@ -5447,14 +5456,15 @@
   "name": "永泰高桥",
   "era": "清",
   "loc": "永泰村永泰庙东北500米处，东西向跨南旺港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "石梁桥（五孔）",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保911_永泰高桥.html"
  },
  {
   "dist": "余杭区",
@@ -5462,14 +5472,15 @@
   "name": "小环桥",
   "era": "清",
   "loc": "东塘村小环桥14号民居东北侧，东西向跨村中小河",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保913_小环桥.html"
  },
  {
   "dist": "余杭区",
@@ -5507,14 +5518,15 @@
   "name": "万福新桥",
   "era": "清",
   "loc": "平宅村村委南侧，南北向跨平宅港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "石梁桥（三孔）",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保910_万福新桥.html"
  },
  {
   "dist": "余杭区",
@@ -5552,14 +5564,15 @@
   "name": "流翠桥",
   "era": "清",
   "loc": "云会村西山自然村北，南北向跨东山漾",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "石梁桥（三孔）",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保912_流翠桥.html"
  },
  {
   "dist": "余杭区",
@@ -5657,14 +5670,15 @@
   "name": "宝顺桥",
   "era": "清",
   "loc": "普宁村骧马桥2号民居西北，东西向跨骧马桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保915_宝顺桥.html"
  },
  {
   "dist": "余杭区",
@@ -5777,14 +5791,15 @@
   "name": "四平桥",
   "era": "清",
   "loc": "北庄村鱼池埂1号南侧",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保891_四平桥.html"
  },
  {
   "dist": "临平区",
@@ -5792,14 +5807,15 @@
   "name": "万善长生高桥",
   "era": "清",
   "loc": "沾桥村东丁家村8号南，东西向跨石前港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保888_万善长生高桥（净头桥）.html"
  },
  {
   "dist": "临平区",
@@ -5852,14 +5868,15 @@
   "name": "凤凰桥",
   "era": "清",
   "loc": "沿山村老鸦桥自然村北首，东西向跨沿山港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保887_凤凰桥.html"
  },
  {
   "dist": "临平区",
@@ -5867,14 +5884,15 @@
   "name": "南马桥",
   "era": "清",
   "loc": "沾桥村南马浜自然村东首，东西向跨北马桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保889_南马桥.html"
  },
  {
   "dist": "临平区",
@@ -5882,14 +5900,15 @@
   "name": "沾桥村九曲桥",
   "era": "清",
   "loc": "沾桥村丁家村南，南北向跨九曲港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保890_沾桥村九曲桥.html"
  },
  {
   "dist": "临平区",
@@ -5897,14 +5916,15 @@
   "name": "古斜桥",
   "era": "清",
   "loc": "龙旋村斜桥30号民居东北，东西向跨斜桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "石拱桥（单孔）",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保892_古斜桥.html"
  },
  {
   "dist": "临平区",
@@ -5942,14 +5962,15 @@
   "name": "七家桥",
   "era": "清",
   "loc": "戚家桥村周家里自然村西，东西向跨菩提庵西侧的河道",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "石板桥（三孔）",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保920_七家桥.html"
  },
  {
   "dist": "临平区",
@@ -6182,14 +6203,15 @@
   "name": "保善桥",
   "era": "清",
   "loc": "东湖社区菖蒲墩104号民居西南侧",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保905_保善桥.html"
  },
  {
   "dist": "临平区",
@@ -6227,14 +6249,15 @@
   "name": "平安桥",
   "era": "清",
   "loc": "万乐社区卜家桥48号民居西南侧，万乐桥东约130米处，南北向跨张桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保919_平安桥.html"
  },
  {
   "dist": "临平区",
@@ -6317,14 +6340,15 @@
   "name": "进龙桥",
   "era": "清",
   "loc": "联胜社区前木梳庄自然村北首，南北向跨木梳河",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保906_进龙桥.html"
  },
  {
   "dist": "临平区",
@@ -6662,14 +6686,15 @@
   "name": "众兴桥",
   "era": "清",
   "loc": "永乐村俞家桥自然村西",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保886_众兴桥.html"
  },
  {
   "dist": "余杭区",
@@ -6707,14 +6732,15 @@
   "name": "苕溪村青龙桥",
   "era": "明",
   "loc": "苕溪村马家村自然村北，南北向跨砂河港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保881_苕溪村青龙桥.html"
  },
  {
   "dist": "余杭区",
@@ -6722,14 +6748,15 @@
   "name": "百福桥",
   "era": "明",
   "loc": "苕溪村荷叶岭10号民居南，南北向跨村中无名小河",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保882_百福桥.html"
  },
  {
   "dist": "余杭区",
@@ -6827,14 +6854,15 @@
   "name": "隆庆桥",
   "era": "清",
   "loc": "灵源村林家斗8号民居南，南北向跨后横桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保884_隆庆桥.html"
  },
  {
   "dist": "余杭区",
@@ -6842,14 +6870,15 @@
   "name": "城后桥",
   "era": "清",
   "loc": "灵源村李家塘5号民居南，南北向跨李家塘河",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保885_城后桥.html"
  },
  {
   "dist": "余杭区",
@@ -6917,14 +6946,15 @@
   "name": "永盛桥",
   "era": "清",
   "loc": "东塘河村盛家兜自然村东南的农田中",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保895_永盛桥.html"
  },
  {
   "dist": "余杭区",
@@ -6977,14 +7007,15 @@
   "name": "南星桥",
   "era": "清",
   "loc": "大陆村15组南星自然村，南北向跨歌罗桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保896_南星桥.html"
  },
  {
   "dist": "余杭区",
@@ -7007,14 +7038,15 @@
   "name": "七贤桥村九曲桥",
   "era": "清",
   "loc": "七贤桥村九曲桥42号民居东北侧，南北向跨九曲港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保897_七贤桥村九曲桥.html"
  },
  {
   "dist": "余杭区",
@@ -7022,14 +7054,15 @@
   "name": "古县桥",
   "era": "清",
   "loc": "良渚村县桥头自然村，南北向跨县桥头港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保898_古县桥.html"
  },
  {
   "dist": "余杭区",
@@ -7098,14 +7131,15 @@
   "name": "施村桥",
   "era": "清",
   "loc": "大陆村施村桥1号民居旁，东西向跨施村桥河",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保899_施村桥.html"
  },
  {
   "dist": "余杭区",
@@ -7143,14 +7177,15 @@
   "name": "付家桥",
   "era": "清",
   "loc": "石桥村石桥头自然村南，南北向跨潭头洋",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保900_付家桥.html"
  },
  {
   "dist": "余杭区",
@@ -7158,14 +7193,15 @@
   "name": "后良桥",
   "era": "清",
   "loc": "石桥村大房桥55号民居东，东西向跨赵家漾",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保901_后良桥.html"
  },
  {
   "dist": "余杭区",
@@ -7188,14 +7224,15 @@
   "name": "求顺桥",
   "era": "清",
   "loc": "石桥村梁家村自然村北，南北向跨西塘河一支流",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保902_求顺桥.html"
  },
  {
   "dist": "余杭区",
@@ -7203,14 +7240,15 @@
   "name": "花园聚财桥",
   "era": "清",
   "loc": "纤石村花园桥10号民居南，南北向跨花园桥港",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保903_花园聚财桥.html"
  },
  {
   "dist": "临平区",
@@ -7293,14 +7331,15 @@
   "name": "报恩桥",
   "era": "清",
   "loc": "崇化村许家村南，南北向跨许家村河",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保908_报恩桥.html"
  },
  {
   "dist": "余杭区",
@@ -7638,14 +7677,15 @@
   "name": "荫孙桥",
   "era": "清",
   "loc": "原五常村，现西溪国家湿地公园西区",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保904_荫孙桥.html"
  },
  {
   "dist": "余杭区",
@@ -7699,14 +7739,15 @@
   "name": "新安里洞桥",
   "era": "清",
   "loc": "溪口村新安里16号民居东侧",
-  "level": "一般不可移动文物（三普登录）",
+  "level": "杭州市历史建筑（余杭区第一批）",
   "doc": "余政办〔2011〕317号",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
   ],
   "struct": "—",
-  "note": "",
-  "commons": null
+  "note": "原为一般不可移动文物（三普登录）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保880_新安里洞桥.html"
  },
  {
   "dist": "余杭区",
@@ -8119,14 +8160,15 @@
   "name": "上钱廊桥",
   "era": "清代",
   "loc": "上钱村上钱自然村横岭脚南部",
-  "level": "未定级不可移动文物（四普新发现）",
+  "level": "杭州市历史建筑（临安区第一批）",
   "doc": "2026年公示",
   "srcs": [
    "https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
   ],
   "struct": "廊桥",
-  "note": "",
-  "commons": null
+  "note": "原为未定级不可移动文物（四普新发现）",
+  "commons": null,
+  "sdl": "文保名录/杭州市/云端档案/历保543_上钱廊桥.html"
  },
  {
   "dist": "临安区",
@@ -8487,5 +8529,889 @@
   "struct": "—",
   "note": "",
   "commons": null
+ },
+ {
+  "dist": "拱墅区",
+  "town": "上塘街道",
+  "name": "莫婆桥",
+  "era": "清",
+  "loc": "瓜山社区，东西向跨莫婆河（档案地址：管家漾河上）",
+  "level": "杭州市历史建筑（主城区第六批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=237",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=237"
+  ],
+  "struct": "石梁桥（三孔）",
+  "len": "13米",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保237_莫婆桥.html"
+ },
+ {
+  "dist": "上城区",
+  "town": "笕桥街道",
+  "name": "姚斗门桥",
+  "era": "民国初期",
+  "loc": "枸桔弄东",
+  "level": "杭州市历史建筑（主城区第六批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=239",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=239"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "—",
+  "note": "档案简介写“建于清代”，概况栏写“民国初期”；桥面已改水泥",
+  "sdl": "文保名录/杭州市/云端档案/历保239_姚斗门桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "威坪镇",
+  "name": "厚屏村考般桥",
+  "era": "清",
+  "loc": "厚屏村朱家西侧800米处，跨考川溪",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1365",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1365"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1365_厚屏村考般桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "威坪镇",
+  "name": "黄金村汪川桥",
+  "era": "清末",
+  "loc": "黄金村黄金自然村村东，跨汪川溪",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1363",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1363"
+  ],
+  "struct": "石拱桥（双孔）",
+  "len": "—",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1363_黄金村汪川桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "威坪镇",
+  "name": "蔗川村村头桥",
+  "era": "民国元年（1912）",
+  "loc": "蔗川村西北部",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1355",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1355"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1355_蔗川村村头桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "安阳乡",
+  "name": "桐坑口村解麟桥",
+  "era": "民国",
+  "loc": "桐川村桐坑口自然村北侧约500米，跨六都源溪",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1353",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1353"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "18米",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1353_桐坑口村解麟桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "威坪镇",
+  "name": "新胜村王家桥",
+  "era": "明",
+  "loc": "五丰村朱陈自然村南部",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1351",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1351"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "—",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1351_新胜村王家桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "威坪镇",
+  "name": "新胜村通济桥",
+  "era": "明",
+  "loc": "横塘村新胜自然村南部村口",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1350",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1350"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "—",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1350_新胜村通济桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "威坪镇",
+  "name": "琴溪村永安桥",
+  "era": "民国三十二年（1943）",
+  "loc": "琴溪自然村东北部300米处",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1348",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1348"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1348_琴溪村永安桥.html"
+ },
+ {
+  "dist": "淳安县",
+  "town": "千岛湖镇",
+  "name": "东汉村村口古桥",
+  "era": "清",
+  "loc": "东汉村村口约300米处",
+  "level": "杭州市历史建筑（淳安县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1120",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1120"
+  ],
+  "struct": "石拱桥（单孔）",
+  "len": "3.8米",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1120_东汉村村口古桥.html"
+ },
+ {
+  "dist": "建德市",
+  "town": "梅城镇",
+  "name": "字民桥",
+  "era": "清",
+  "loc": "严陵社区市民路147号",
+  "level": "杭州市历史建筑（建德市第二批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=973",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=973"
+  ],
+  "struct": "石桥（原单孔，桥面已改水泥）",
+  "len": "5.2米",
+  "note": "后经改建，现桥下尚存一拱券",
+  "sdl": "文保名录/杭州市/云端档案/历保973_字民桥.html"
+ },
+ {
+  "dist": "建德市",
+  "town": "大慈岩镇",
+  "name": "长乐桥",
+  "era": "清咸丰三年（1853）",
+  "loc": "里叶村里叶自然村东，跨长乐溪",
+  "level": "杭州市历史建筑（建德市第三批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1099",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1099"
+  ],
+  "struct": "石拱桥（双孔）",
+  "len": "9.4米",
+  "note": "建德、兰溪两县的分界桥",
+  "sdl": "文保名录/杭州市/云端档案/历保1099_长乐桥.html"
+ },
+ {
+  "dist": "桐庐县",
+  "town": "江南镇",
+  "name": "青云桥",
+  "era": "清光绪八年（1882）",
+  "loc": "深澳村村东，跨应家溪",
+  "level": "杭州市历史建筑（桐庐县第一批）",
+  "doc": "—",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1177",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1177"
+  ],
+  "struct": "石梁桥（六孔）",
+  "len": "34.4米",
+  "note": "",
+  "sdl": "文保名录/杭州市/云端档案/历保1177_青云桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "白蛇坑石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=416",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=416"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保416_白蛇坑石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "上阴山石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=425",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=425"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保425_上阴山石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "新庄村石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=434",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=434"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保434_新庄村石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "山田大桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=435",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=435"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保435_山田大桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "双塔村童婆桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=442",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=442"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保442_双塔村童婆桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "白牛村铁索桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=447",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=447"
+  ],
+  "struct": "铁索桥",
+  "len": "—",
+  "note": "乡镇据三普、四普名录中的村名推定",
+  "sdl": "文保名录/杭州市/云端档案/历保447_白牛村铁索桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "双溪口万安桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=448",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=448"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保448_双溪口万安桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "河桥镇",
+  "name": "曹家村石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=454",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=454"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇据三普、四普名录中的村名推定",
+  "sdl": "文保名录/杭州市/云端档案/历保454_曹家村石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "万古桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=455",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=455"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保455_万古桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "永久桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=457",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=457"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保457_永久桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "万安桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=458",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=458"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保458_万安桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "陆家新桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=460",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=460"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保460_陆家新桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "五圣桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=461",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=461"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保461_五圣桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "峙坞口石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=465",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=465"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保465_峙坞口石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "永庆桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=467",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=467"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保467_永庆桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "傅家石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=468",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=468"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保468_傅家石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "正坞口保安桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=471",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=471"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保471_正坞口保安桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "凌口桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=472",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=472"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保472_凌口桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "阳安桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=474",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=474"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保474_阳安桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "景宁桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=475",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=475"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保475_景宁桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "塔山峰石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=476",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=476"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保476_塔山峰石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "里王家村永久桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=479",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=479"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保479_里王家村永久桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "里东山石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=484",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=484"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保484_里东山石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "潜庄桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=486",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=486"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保486_潜庄桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "鱼潭村石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=493",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=493"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保493_鱼潭村石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "夏村村盛村自然村坞石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=505",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=505"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇据三普、四普名录中的村名推定",
+  "sdl": "文保名录/杭州市/云端档案/历保505_夏村村盛村自然村坞石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "下峰凹桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=508",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=508"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名；名录（杭政函〔2019〕54号）第118项写作“龙新山石拱桥”",
+  "sdl": "文保名录/杭州市/云端档案/历保508_下峰凹桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "长青石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=509",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=509"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保509_长青石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "桥头村石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=518",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=518"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保518_桥头村石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "卦畈铜桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=519",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=519"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保519_卦畈铜桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "长春村石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=520",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=520"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保520_长春村石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "钱家庄石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=521",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=521"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保521_钱家庄石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "殷家山石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=522",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=522"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保522_殷家山石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "钱王铺村古桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=532",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=532"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇据三普、四普名录中的村名推定",
+  "sdl": "文保名录/杭州市/云端档案/历保532_钱王铺村古桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "弓背桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=535",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=535"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保535_弓背桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "挺生桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=536",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=536"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保536_挺生桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "杨家头石拱桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=537",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=537"
+  ],
+  "struct": "石拱桥",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保537_杨家头石拱桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "钱宅桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=546",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=546"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保546_钱宅桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "乡镇待查",
+  "name": "朱良坪白佛桥",
+  "era": "—",
+  "loc": "—",
+  "level": "杭州市历史建筑（临安区第一批）",
+  "doc": "杭政函〔2019〕54号",
+  "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=444",
+  "srcs": [
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=444"
+  ],
+  "struct": "—",
+  "len": "—",
+  "note": "乡镇待查：档案和名录（杭政函〔2019〕54号）都只有桥名",
+  "sdl": "文保名录/杭州市/云端档案/历保444_朱良坪白佛桥.html"
  }
 ]

@@ -1,12 +1,13 @@
 # 杭州市桐庐县古桥
 
-共收录 17 座桥。
+共收录 18 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>13</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>1</nobr> |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>3</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>1</nobr> |
 
@@ -15,10 +16,10 @@
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>新合乡</nobr> | <nobr>4</nobr> |
+| <nobr>江南镇</nobr> | <nobr>3</nobr> |
 | <nobr>莪山畲族乡</nobr> | <nobr>2</nobr> |
 | <nobr>分水镇</nobr> | <nobr>2</nobr> |
 | <nobr>富春江镇</nobr> | <nobr>2</nobr> |
-| <nobr>江南镇</nobr> | <nobr>2</nobr> |
 | <nobr>瑶琳镇</nobr> | <nobr>2</nobr> |
 | <nobr>百江镇</nobr> | <nobr>1</nobr> |
 | <nobr>合村乡</nobr> | <nobr>1</nobr> |
@@ -43,6 +44,12 @@
 | <nobr>新合乡</nobr> | [万春桥](../../文保名录/杭州市/云端档案/538_万春桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql543.htm) | 石梁桥 | 21.5米 | 清嘉庆年间始建 | 桐庐县文物保护单位 | [1](万春桥1.jpg) [2](万春桥2.jpg) |
 | <nobr>瑶琳镇</nobr> | [同人桥](../../文保名录/杭州市/云端档案/543_同人桥.html) | 石梁桥（三孔） | 21米 | 清乾隆十五年（1750）重建 | 桐庐县文物保护单位 | [1](同人桥1.jpg) |
 | <nobr>瑶琳镇</nobr> | [普安桥](../../文保名录/杭州市/云端档案/542_普安桥.html) | 石拱桥 | 24.5米 | 清道光六年（1826）建 | 桐庐县文物保护单位 | [1](普安桥1.jpg) [2](普安桥2.jpg) [3](普安桥3.jpg) |
+
+### 历史建筑（1 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>江南镇</nobr> | [青云桥](../../文保名录/杭州市/云端档案/历保1177_青云桥.html) | 石梁桥（六孔） | 34.4米 | 清光绪八年（1882） | 杭州市历史建筑（桐庐县第一批） | 暂无 |
 
 ### 未定级不可移动文物（四普新发现）（3 座）
 
@@ -85,6 +92,7 @@
 - [杭州市文物遗产与历史建筑保护中心云端档案：履坦桥](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=527)
 - [杭州市文物遗产与历史建筑保护中心云端档案：万春桥](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=538)
 - [杭州市文物遗产与历史建筑保护中心云端档案：善庆桥](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=541)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：青云桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1177)
 - [桐庐县第四次全国文物普查新发现不可移动文物公示](https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql542.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql542.htm)
 

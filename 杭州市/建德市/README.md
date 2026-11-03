@@ -1,6 +1,6 @@
 # 杭州市建德市古桥
 
-共收录 24 座桥。
+共收录 26 座桥。
 
 ## 按级别统计
 
@@ -9,6 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>3</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>7</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>2</nobr> |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>11</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>2</nobr> |
 
@@ -17,10 +18,10 @@
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>大同镇</nobr> | <nobr>7</nobr> |
-| <nobr>梅城镇</nobr> | <nobr>4</nobr> |
+| <nobr>梅城镇</nobr> | <nobr>5</nobr> |
+| <nobr>大慈岩镇</nobr> | <nobr>3</nobr> |
 | <nobr>寿昌镇</nobr> | <nobr>3</nobr> |
 | <nobr>乾潭镇</nobr> | <nobr>2</nobr> |
-| <nobr>大慈岩镇</nobr> | <nobr>2</nobr> |
 | <nobr>航头镇</nobr> | <nobr>1</nobr> |
 | <nobr>大洋镇</nobr> | <nobr>1</nobr> |
 | <nobr>三都镇</nobr> | <nobr>1</nobr> |
@@ -56,6 +57,13 @@
 | <nobr>大洋镇</nobr> | [青云桥](../../文保名录/杭州市/云端档案/640_青云桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql550.htm) | 石拱桥（单孔） | 14米 | — | 建德市文物保护单位（第九批） | [1](青云桥1.jpg) [2](青云桥2.jpg) [3](青云桥3.jpg) |
 | <nobr>乾潭镇</nobr> | [乐善桥](../../文保名录/杭州市/云端档案/641_乐善桥.html) | 石拱桥（三孔） | 36米 | — | 建德市文物保护单位（第九批） | [1](乐善桥1.jpg) [2](乐善桥2.jpg) |
 
+### 历史建筑（2 座）
+
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>梅城镇</nobr> | [字民桥](../../文保名录/杭州市/云端档案/历保973_字民桥.html) | 石桥（原单孔，桥面已改水泥） | 5.2米 | 清 | 杭州市历史建筑（建德市第二批） | 暂无 |
+| <nobr>大慈岩镇</nobr> | [长乐桥](../../文保名录/杭州市/云端档案/历保1099_长乐桥.html) | 石拱桥（双孔） | 9.4米 | 清咸丰三年（1853） | 杭州市历史建筑（建德市第三批） | 暂无 |
+
 ### 未定级不可移动文物（四普新发现）（11 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
@@ -87,6 +95,8 @@
 - 神仙桥：“新叶村乡土建筑”整体列为国保。
 - 南浦桥：2010年先列为县级市保。
 - 洋程虹桥：具体年代据老百晓集桥（名录原写“—”）。
+- 字民桥：后经改建，现桥下尚存一拱券。
+- 长乐桥：建德、兰溪两县的分界桥。
 - 团结桥：名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围。
 - 谭家口桥：名录只写“近现代”，具体年代待核实，如为1949年后修建则不在本项目范围。
 - 霞雾桥：又名下马桥；三孔石拱桥。
@@ -106,6 +116,8 @@
 - [杭州市文物遗产与历史建筑保护中心云端档案：曲斗桥](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=637)
 - [杭州市文物遗产与历史建筑保护中心云端档案：上马桥](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=580)
 - [杭州市文物遗产与历史建筑保护中心云端档案：镇源桥](http://www.singdo.org/wenbao/luelan_disp.php?luelan_id=638)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：字民桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=973)
+- [杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：长乐桥](http://www.singdo.org/libao/luelan_disp.php?luelan_id=1099)
 - [建德市第四次全国文物普查新发现不可移动文物公示](https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql335.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql335.htm)
 - [http://www.china-qiao.com/ql15/hz_ql/hzvql571.htm](http://www.china-qiao.com/ql15/hz_ql/hzvql571.htm)
