@@ -48,6 +48,9 @@ OFF = json.load(open(S + '/build/official.json')).get(CITY, []) if os.path.exist
 for o in OFF:
     u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]
     add(o['dist'], o['name'], o['era'], o['loc'], o['lv'], src=u, town=o['town'] if o['town'] != '—' else None, doc=o['doc'], lvtxt=o['lvtxt'])
+# 0.5) 名录之外、人工查到出处的桥（cities.json 的 extra）
+for e in CF.get('extra', []):
+    add(e['dist'], e['name'], e['era'], e.get('loc', ''), e['lv'], src=e.get('src', ''), town=e.get('town'), unote=e.get('note', ''), lvtxt=e.get('lvtxt', ''))
 # 1) 各区县列表
 for d in DISTS:
     f = f'{S}/{K}/{d}各级文物保护单位列表.txt'
