@@ -6,10 +6,10 @@
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>省级文物保护单位</nobr> | <nobr>13</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>14</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>60</nobr> |
-| <nobr>文物保护点</nobr> | <nobr>38</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>37</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>2</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>41</nobr> |
 
@@ -58,10 +58,11 @@
 
 ## 按级别列出
 
-### 省级文物保护单位（13 座）
+### 省级文物保护单位（14 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>宜兴市</nobr> | <nobr>高塍镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql16/wxql/wxql247.htm) | 石拱桥（单孔） | 11.5米 | 1917年 | 江苏省文物保护单位（“宜兴古桥梁”组成部分，580） |
 | <nobr>梁溪区</nobr> | <nobr>—</nobr> | 清名桥 [?](http://www.china-qiao.com/ql16/wxql/wxql050.htm) | 石拱桥（单孔） | 43.2米 | — | 江苏省文物保护单位（“清名桥及沿河建筑”组成部分） |
 | <nobr>滨湖区</nobr> | <nobr>太湖街道</nobr> | 扬名大桥 [?](http://www.china-qiao.com/ql16/wxql/wxql140.htm) | — | — | 清代 | 江苏省文物保护单位（610） |
 | <nobr>滨湖区</nobr> | <nobr>—</nobr> | 宝界桥 [?](http://www.china-qiao.com/ql16/wxql/wxql092.htm) | 钢筋混凝土梁桥（六十孔） | 375米 | 1934年 | 江苏省文物保护单位（785） |
@@ -153,7 +154,7 @@
 | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 施荡桥 [?](http://www.china-qiao.com/ql16/wxql/wxql270.htm) | 石拱桥（单孔） | 19.90米 | 清（现桥面上加架水泥平桥） | 宜兴市文物保护单位 |
 | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 雪窨桥（黄家桥） [?](http://www.china-qiao.com/ql16/wxql/wxql271.htm) | 石拱桥（单孔） | 13.24米 | 清光绪二十四年（1898） | 宜兴市文物保护单位 |
 
-### 文物保护点（38 座）
+### 文物保护点（37 座）
 
 数量较多，见各区县文件。
 

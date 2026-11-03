@@ -35,8 +35,8 @@ def add(dist, name, era, addr, lv, num='', group='', batch='', src='', town=None
     for r in R:
         if r['dist'] == dist and core(r['name']) == core(name):
             if r.get('lvtxt') and lvtxt and tw != '—' and r['town'] != '—' and tw != r['town']: continue   # 原件里同名不同乡镇的两座桥
-            if LV[lv] < LV[r['lvk']] and (lvtxt or not r.get('lvtxt')):
-                r.update(lvk=lv, num=num or r['num'], group=group or r['group'], batch=batch or r['batch'], src=src, lvtxt=lvtxt or r.get('lvtxt', ''), doc=doc if lvtxt else r['doc'])
+            if LV[lv] < LV[r['lvk']]:   # 等级高的来源优先
+                r.update(lvk=lv, num=num or r['num'], group=group or r['group'], batch=batch or r['batch'], src=src, lvtxt=lvtxt, doc=doc if lvtxt else r['doc'])
             if r['era'] in ('—', '') or (re.search('至', r['era']) and r['group']): r['era'] = era if era != '—' else r['era']
             if r['loc'] in ('—', ''): r['loc'] = addr or '—'
             if r['town'] == '—': r['town'] = town or town_of(addr)
