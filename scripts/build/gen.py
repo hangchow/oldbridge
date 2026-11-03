@@ -285,6 +285,15 @@ def main():
                           src='http://www.singdo.org/libao/luelan_disp.php?luelan_id=' + x['id'], srcs=['http://www.singdo.org/libao/luelan_disp.php?luelan_id=' + x['id']],
                           struct=x['struct'], len=x['len'], note=x['note'], sdl=sdl))
             SRCNAME['http://www.singdo.org/libao/luelan_disp.php?luelan_id=' + x['id']] = f"杭州市文物遗产与历史建筑保护中心云端档案（历史建筑）：{x['name']}"
+    # 云端档案保护范围图、历史建筑保护图则上的结构、长度（图片文字识别，build/ocr_fill.json）：只补缺的
+    OF = json.load(open(S + '/build/ocr_fill.json')) if os.path.exists(S + '/build/ocr_fill.json') else {}
+    for r in R:
+        f = OF.get(f"{r['dist']}|{r['town']}|{r['name']}")
+        if not f: continue
+        got = []
+        if f.get('struct') and not re.search('孔|跨', r.get('struct') or '') and not re.search('钢|混凝土|水泥|铁|廊', r.get('struct') or ''): r['struct'] = f['struct']; got.append('结构')
+        if f.get('len') and (r.get('len') or '—') in ('—', ''): r['len'] = f['len']; got.append('长度')
+        if got: r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '、'.join(got) + '据云端档案保护图则'
     # 余杭区良渚街道谢尚书庙桥即拱墅区福寿长桥，只在拱墅区列一次
     R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('余杭区', '良渚街道', '谢尚书庙桥')]
     by = {}
