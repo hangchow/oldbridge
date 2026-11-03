@@ -21,21 +21,13 @@
 
 ### 市级文物保护单位（4 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>阳江镇</nobr> | 襟湖桥 | — | — | 明 | 南京市文物保护单位 |
-| <nobr>漆桥街道</nobr> | 漆桥 [?](http://www.china-qiao.com/ql16/njql/njql144.htm) | 石拱桥（单孔） | 14米 | 清 | 南京市文物保护单位 |
-| <nobr>古柏镇</nobr> | 江夏桥 [?](http://www.china-qiao.com/ql16/njql/njql143.htm) | — | 44米 | 清 | 南京市文物保护单位 |
-| <nobr>东坝街道</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 南京市文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>阳江镇</nobr> | 襟湖桥 | — | — | 明 | 南京市文物保护单位 | 暂无 |
+| <nobr>漆桥街道</nobr> | 漆桥 [?](http://www.china-qiao.com/ql16/njql/njql144.htm) | 石拱桥（单孔） | 14米 | 清 | 南京市文物保护单位 | 暂无 |
+| <nobr>古柏镇</nobr> | 江夏桥 [?](http://www.china-qiao.com/ql16/njql/njql143.htm) | — | 44米 | 清 | 南京市文物保护单位 | 暂无 |
+| <nobr>东坝街道</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 南京市文物保护单位 | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>东坝街道</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 东坝街道沛桥村 | 南京市文物保护单位 | — | 暂无 |
-| <nobr>2</nobr> | <nobr>古柏镇</nobr> | 江夏桥 [?](http://www.china-qiao.com/ql16/njql/njql143.htm) | — | 44米 | 清 | 古柏街道戴西村 | 南京市文物保护单位 | — | 暂无 |
-| <nobr>3</nobr> | <nobr>漆桥街道</nobr> | 漆桥 [?](http://www.china-qiao.com/ql16/njql/njql144.htm) | 石拱桥（单孔） | 14米 | 清 | 漆桥街道漆桥村（与保平井合为一处） | 南京市文物保护单位 | — | 暂无 |
-| <nobr>4</nobr> | <nobr>阳江镇</nobr> | 襟湖桥 | — | — | 明 | 阳江镇下桥村东北，东西横跨官溪河 | 南京市文物保护单位 | — | 暂无 |
 
 ## 说明
 

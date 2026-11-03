@@ -19,34 +19,22 @@
 
 ### 市级文物保护单位（7 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>—</nobr> | 大东门桥 [?](http://www.china-qiao.com/ql16/yzql/yzql030.htm) | — | — | 明嘉靖年间始建 | 扬州市文物保护单位（III-42） |
-| <nobr>—</nobr> | 小虹桥 [?](http://www.china-qiao.com/ql16/yzql/yzql034.htm) | 石拱桥（单孔） | — | 明 | 扬州市文物保护单位（III-43） |
-| <nobr>—</nobr> | 如意桥 [?](http://www.china-qiao.com/ql16/yzql/yzql038.htm) | — | — | 清同治七年（1868）建 | 扬州市文物保护单位（III-44） |
-| <nobr>—</nobr> | 迎恩桥 [?](http://www.china-qiao.com/ql16/yzql/yzql075.htm) | — | 12.5米 | 清雍正五年（1727）重建 | 扬州市文物保护单位（III-45） |
-| <nobr>—</nobr> | 迎薰桥 [?](http://www.china-qiao.com/ql16/yzql/yzql068.htm) | — | — | 明 | 扬州市文物保护单位（III-46） |
-| <nobr>—</nobr> | 公园桥 [?](http://www.china-qiao.com/ql16/yzql/yzql036.htm) | — | 7.8米 | 民国七年（1918）始建 | 扬州市文物保护单位（IV-14） |
-| <nobr>—</nobr> | 洒金桥 [?](http://www.china-qiao.com/ql16/yzql/yzql069.htm) | 石拱桥（单孔） | 21.2米 | — | 扬州市文物保护单位（第五批） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>—</nobr> | 大东门桥 [?](http://www.china-qiao.com/ql16/yzql/yzql030.htm) | — | — | 明嘉靖年间始建 | 扬州市文物保护单位（III-42） | 暂无 |
+| <nobr>—</nobr> | 小虹桥 [?](http://www.china-qiao.com/ql16/yzql/yzql034.htm) | 石拱桥（单孔） | — | 明 | 扬州市文物保护单位（III-43） | 暂无 |
+| <nobr>—</nobr> | 如意桥 [?](http://www.china-qiao.com/ql16/yzql/yzql038.htm) | — | — | 清同治七年（1868）建 | 扬州市文物保护单位（III-44） | 暂无 |
+| <nobr>—</nobr> | 迎恩桥 [?](http://www.china-qiao.com/ql16/yzql/yzql075.htm) | — | 12.5米 | 清雍正五年（1727）重建 | 扬州市文物保护单位（III-45） | 暂无 |
+| <nobr>—</nobr> | 迎薰桥 [?](http://www.china-qiao.com/ql16/yzql/yzql068.htm) | — | — | 明 | 扬州市文物保护单位（III-46） | 暂无 |
+| <nobr>—</nobr> | 公园桥 [?](http://www.china-qiao.com/ql16/yzql/yzql036.htm) | — | 7.8米 | 民国七年（1918）始建 | 扬州市文物保护单位（IV-14） | 暂无 |
+| <nobr>—</nobr> | 洒金桥 [?](http://www.china-qiao.com/ql16/yzql/yzql069.htm) | 石拱桥（单孔） | 21.2米 | — | 扬州市文物保护单位（第五批） | 暂无 |
 
 ### 尚未定级（待核实）（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>—</nobr> | 响水桥 [?](http://www.china-qiao.com/ql16/yzql/yzql066.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>—</nobr> | 响水桥 [?](http://www.china-qiao.com/ql16/yzql/yzql066.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>—</nobr> | 大东门桥 [?](http://www.china-qiao.com/ql16/yzql/yzql030.htm) | — | — | 明嘉靖年间始建 | 市区小秦淮河上 | 扬州市文物保护单位（III-42） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>—</nobr> | 小虹桥 [?](http://www.china-qiao.com/ql16/yzql/yzql034.htm) | 石拱桥（单孔） | — | 明 | 市区小秦淮河上 | 扬州市文物保护单位（III-43） | — | 暂无 |
-| <nobr>3</nobr> | <nobr>—</nobr> | 如意桥 [?](http://www.china-qiao.com/ql16/yzql/yzql038.htm) | — | — | 清同治七年（1868）建 | 市区小秦淮河上 | 扬州市文物保护单位（III-44） | — | 暂无 |
-| <nobr>4</nobr> | <nobr>—</nobr> | 迎恩桥 [?](http://www.china-qiao.com/ql16/yzql/yzql075.htm) | — | 12.5米 | 清雍正五年（1727）重建 | 市区漕河上 | 扬州市文物保护单位（III-45） | — | 暂无 |
-| <nobr>5</nobr> | <nobr>—</nobr> | 迎薰桥 [?](http://www.china-qiao.com/ql16/yzql/yzql068.htm) | — | — | 明 | 市区南门外街护城河上 | 扬州市文物保护单位（III-46） | — | 暂无 |
-| <nobr>6</nobr> | <nobr>—</nobr> | 公园桥 [?](http://www.china-qiao.com/ql16/yzql/yzql036.htm) | — | 7.8米 | 民国七年（1918）始建 | 市区小秦淮河上 | 扬州市文物保护单位（IV-14） | — | 暂无 |
-| <nobr>7</nobr> | <nobr>—</nobr> | 洒金桥 [?](http://www.china-qiao.com/ql16/yzql/yzql069.htm) | 石拱桥（单孔） | 21.2米 | — | 广陵区汶河路南首 | 扬州市文物保护单位（第五批） | — | 暂无 |
-| <nobr>8</nobr> | <nobr>—</nobr> | 响水桥 [?](http://www.china-qiao.com/ql16/yzql/yzql066.htm) | — | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

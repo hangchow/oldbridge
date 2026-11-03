@@ -29,75 +29,45 @@
 
 ### 全国重点文物保护单位（8 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>大均乡</nobr> | 大赤坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql194.htm) | — | 36.4米 | 明至民国；民国十二年（1923）建 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>东杭镇</nobr> | 东坑上桥 [?](http://www.china-qiao.com/ql15/lsql/lsql174.htm) | — | 23.7米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>梧桐乡</nobr> | 环胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql200.htm) | — | 35米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>大漈乡</nobr> | 护关桥 [?](http://www.china-qiao.com/ql15/lsql/lsql198.htm) | 廊桥（双孔） | 27米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>—</nobr> | 东坑下桥 | — | 24.31米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>—</nobr> | 莲川大地桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>—</nobr> | 梅歧桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
-| <nobr>—</nobr> | 接龙桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>大均乡</nobr> | 大赤坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql194.htm) | — | 36.4米 | 明至民国；民国十二年（1923）建 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>东杭镇</nobr> | 东坑上桥 [?](http://www.china-qiao.com/ql15/lsql/lsql174.htm) | — | 23.7米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>梧桐乡</nobr> | 环胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql200.htm) | — | 35米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>大漈乡</nobr> | 护关桥 [?](http://www.china-qiao.com/ql15/lsql/lsql198.htm) | 廊桥（双孔） | 27米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>—</nobr> | 东坑下桥 | — | 24.31米 | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>—</nobr> | 莲川大地桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>—</nobr> | 梅歧桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
+| <nobr>—</nobr> | 接龙桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） | 暂无 |
 
 ### 县（区）级文物保护单位（3 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>大漈乡</nobr> | 胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 清康熙 | 景宁畲族自治县文物保护单位 |
-| <nobr>红星街道</nobr> | 徐山永镇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql170.htm) | — | 42米 | 清同治三年（1864）建 | 景宁畲族自治县文物保护单位 |
-| <nobr>家地乡</nobr> | 芎岱岭脚桥 [?](http://www.china-qiao.com/ql15/lsql/lsql205.htm) | — | 38米 | 清同治九年（1870）建 | 景宁畲族自治县文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>大漈乡</nobr> | 胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 清康熙 | 景宁畲族自治县文物保护单位 | 暂无 |
+| <nobr>红星街道</nobr> | 徐山永镇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql170.htm) | — | 42米 | 清同治三年（1864）建 | 景宁畲族自治县文物保护单位 | 暂无 |
+| <nobr>家地乡</nobr> | 芎岱岭脚桥 [?](http://www.china-qiao.com/ql15/lsql/lsql205.htm) | — | 38米 | 清同治九年（1870）建 | 景宁畲族自治县文物保护单位 | 暂无 |
 
 ### 尚未定级（待核实）（15 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>梧桐乡</nobr> | 上坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql203.htm) | 石拱桥（单孔） | 16.5米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>梧桐乡</nobr> | 回龙桥 [?](http://www.china-qiao.com/ql15/lsql/lsql202.htm) | — | 21米 | 清乾隆年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 章坑安庆桥 [?](http://www.china-qiao.com/ql15/lsql/lsql176.htm) | — | 51米 | 民国六年（1917） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 怀胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql177.htm) | — | 28米 | 清光绪元年（1875） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 樟下桥 [?](http://www.china-qiao.com/ql15/lsql/lsql179.htm) | — | — | 民国元年（1912） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 永平桥 [?](http://www.china-qiao.com/ql15/lsql/lsql180.htm) | — | 22.60米 | 清光绪年间始建，民国二十年（1931）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 徐垄桥 [?](http://www.china-qiao.com/ql15/lsql/lsql181.htm) | — | 13.2米 | 清光绪四年（1878） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 汤北廊桥 [?](http://www.china-qiao.com/ql15/lsql/lsql182.htm) | — | 35米 | 民国三年（1914） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 龙潭桥 [?](http://www.china-qiao.com/ql15/lsql/lsql185.htm) | — | — | 民国十八年（1929）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东坑镇</nobr> | 白鹤桥 [?](http://www.china-qiao.com/ql15/lsql/lsql186.htm) | — | 32.3米 | 清光绪十四年（1888）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>英川镇</nobr> | 梅崇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql188.htm) | — | 39米 | 清嘉庆七年（1802） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>英川镇</nobr> | 石漴廊桥 [?](http://www.china-qiao.com/ql15/lsql/lsql242.htm) | 廊桥（单孔） | 24.6米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>梅岐乡</nobr> | 梅岐桥 [?](http://www.china-qiao.com/ql15/lsql/lsql196.htm) | — | 35米 | 民国二年（1913）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>大漈乡</nobr> | 大漈村胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>家地乡</nobr> | 梅坞水尾风水桥 [?](http://www.china-qiao.com/ql15/lsql/lsql206.htm) | — | 23米 | 民国六年（1917）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>梧桐乡</nobr> | 上坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql203.htm) | 石拱桥（单孔） | 16.5米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>梧桐乡</nobr> | 回龙桥 [?](http://www.china-qiao.com/ql15/lsql/lsql202.htm) | — | 21米 | 清乾隆年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 章坑安庆桥 [?](http://www.china-qiao.com/ql15/lsql/lsql176.htm) | — | 51米 | 民国六年（1917） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 怀胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql177.htm) | — | 28米 | 清光绪元年（1875） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 樟下桥 [?](http://www.china-qiao.com/ql15/lsql/lsql179.htm) | — | — | 民国元年（1912） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 永平桥 [?](http://www.china-qiao.com/ql15/lsql/lsql180.htm) | — | 22.60米 | 清光绪年间始建，民国二十年（1931）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 徐垄桥 [?](http://www.china-qiao.com/ql15/lsql/lsql181.htm) | — | 13.2米 | 清光绪四年（1878） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 汤北廊桥 [?](http://www.china-qiao.com/ql15/lsql/lsql182.htm) | — | 35米 | 民国三年（1914） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 龙潭桥 [?](http://www.china-qiao.com/ql15/lsql/lsql185.htm) | — | — | 民国十八年（1929）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东坑镇</nobr> | 白鹤桥 [?](http://www.china-qiao.com/ql15/lsql/lsql186.htm) | — | 32.3米 | 清光绪十四年（1888）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>英川镇</nobr> | 梅崇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql188.htm) | — | 39米 | 清嘉庆七年（1802） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>英川镇</nobr> | 石漴廊桥 [?](http://www.china-qiao.com/ql15/lsql/lsql242.htm) | 廊桥（单孔） | 24.6米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>梅岐乡</nobr> | 梅岐桥 [?](http://www.china-qiao.com/ql15/lsql/lsql196.htm) | — | 35米 | 民国二年（1913）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>大漈乡</nobr> | 大漈村胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>家地乡</nobr> | 梅坞水尾风水桥 [?](http://www.china-qiao.com/ql15/lsql/lsql206.htm) | — | 23米 | 民国六年（1917）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>东杭镇</nobr> | 东坑上桥 [?](http://www.china-qiao.com/ql15/lsql/lsql174.htm) | — | 23.7米 | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>大均乡</nobr> | 大赤坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql194.htm) | — | 36.4米 | 明至民国；民国十二年（1923）建 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>3</nobr> | <nobr>大漈乡</nobr> | 护关桥 [?](http://www.china-qiao.com/ql15/lsql/lsql198.htm) | 廊桥（双孔） | 27米 | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>4</nobr> | <nobr>梧桐乡</nobr> | 环胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql200.htm) | — | 35米 | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>5</nobr> | <nobr>—</nobr> | 东坑下桥 | — | 24.31米 | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>6</nobr> | <nobr>—</nobr> | 莲川大地桥 | — | — | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>7</nobr> | <nobr>—</nobr> | 梅歧桥 | — | — | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>8</nobr> | <nobr>—</nobr> | 接龙桥 | — | — | 明至民国 | 景宁畲族自治县 | 全国重点文物保护单位（“处州廊桥”组成部分） | — | 暂无 |
-| <nobr>9</nobr> | <nobr>大漈乡</nobr> | 胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 清康熙 | 大漈乡大漈村中心 | 景宁畲族自治县文物保护单位 | 景政〔1987〕167号 | 暂无 |
-| <nobr>10</nobr> | <nobr>家地乡</nobr> | 芎岱岭脚桥 [?](http://www.china-qiao.com/ql15/lsql/lsql205.htm) | — | 38米 | 清同治九年（1870）建 | 家地乡芎岱村 | 景宁畲族自治县文物保护单位 | 景政〔2004〕19号 | 暂无 |
-| <nobr>11</nobr> | <nobr>红星街道</nobr> | 徐山永镇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql170.htm) | — | 42米 | 清同治三年（1864）建 | 红星街道徐山村 | 景宁畲族自治县文物保护单位 | 景政〔2004〕19号 | 暂无 |
-| <nobr>12</nobr> | <nobr>东坑镇</nobr> | 章坑安庆桥 [?](http://www.china-qiao.com/ql15/lsql/lsql176.htm) | — | 51米 | 民国六年（1917） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>13</nobr> | <nobr>东坑镇</nobr> | 怀胜桥 [?](http://www.china-qiao.com/ql15/lsql/lsql177.htm) | — | 28米 | 清光绪元年（1875） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>14</nobr> | <nobr>东坑镇</nobr> | 樟下桥 [?](http://www.china-qiao.com/ql15/lsql/lsql179.htm) | — | — | 民国元年（1912） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>15</nobr> | <nobr>东坑镇</nobr> | 永平桥 [?](http://www.china-qiao.com/ql15/lsql/lsql180.htm) | — | 22.60米 | 清光绪年间始建，民国二十年（1931）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>16</nobr> | <nobr>东坑镇</nobr> | 徐垄桥 [?](http://www.china-qiao.com/ql15/lsql/lsql181.htm) | — | 13.2米 | 清光绪四年（1878） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>17</nobr> | <nobr>东坑镇</nobr> | 汤北廊桥 [?](http://www.china-qiao.com/ql15/lsql/lsql182.htm) | — | 35米 | 民国三年（1914） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>18</nobr> | <nobr>东坑镇</nobr> | 龙潭桥 [?](http://www.china-qiao.com/ql15/lsql/lsql185.htm) | — | — | 民国十八年（1929）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>19</nobr> | <nobr>东坑镇</nobr> | 白鹤桥 [?](http://www.china-qiao.com/ql15/lsql/lsql186.htm) | — | 32.3米 | 清光绪十四年（1888）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>20</nobr> | <nobr>大漈乡</nobr> | 大漈村胡桥 [?](http://www.china-qiao.com/ql15/lsql/lsql197.htm) | — | 27米 | 明 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>21</nobr> | <nobr>家地乡</nobr> | 梅坞水尾风水桥 [?](http://www.china-qiao.com/ql15/lsql/lsql206.htm) | — | 23米 | 民国六年（1917）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>22</nobr> | <nobr>梅岐乡</nobr> | 梅岐桥 [?](http://www.china-qiao.com/ql15/lsql/lsql196.htm) | — | 35米 | 民国二年（1913）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>23</nobr> | <nobr>梧桐乡</nobr> | 上坑桥 [?](http://www.china-qiao.com/ql15/lsql/lsql203.htm) | 石拱桥（单孔） | 16.5米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>24</nobr> | <nobr>梧桐乡</nobr> | 回龙桥 [?](http://www.china-qiao.com/ql15/lsql/lsql202.htm) | — | 21米 | 清乾隆年间建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>25</nobr> | <nobr>英川镇</nobr> | 梅崇桥 [?](http://www.china-qiao.com/ql15/lsql/lsql188.htm) | — | 39米 | 清嘉庆七年（1802） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>26</nobr> | <nobr>英川镇</nobr> | 石漴廊桥 [?](http://www.china-qiao.com/ql15/lsql/lsql242.htm) | 廊桥（单孔） | 24.6米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

@@ -25,44 +25,27 @@
 
 ### 省级文物保护单位（2 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>坦头镇</nobr> | 欢溪高桥 | — | — | 清 | 浙江省文物保护单位（8-70） |
-| <nobr>—</nobr> | 九遮山牮桥群 | — | — | — | 浙江省文物保护单位（6-244） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>坦头镇</nobr> | 欢溪高桥 | — | — | 清 | 浙江省文物保护单位（8-70） | 暂无 |
+| <nobr>—</nobr> | 九遮山牮桥群 | — | — | — | 浙江省文物保护单位（6-244） | 暂无 |
 
 ### 尚未定级（待核实）（11 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>石梁镇</nobr> | 盼琼桥 [?](http://www.china-qiao.com/ql15/tzql/tzql124.htm) | — | 20米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>石梁镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/tzql/tzql125.htm) | 石拱桥（单孔） | 42.8米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>街头镇</nobr> | 道蓬岩牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql144.htm) | — | — | —（部分主梁改浇水泥） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>街头镇</nobr> | 同善桥 [?](http://www.china-qiao.com/ql15/tzql/tzql126.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>街头镇</nobr> | 亚父桥 [?](http://www.china-qiao.com/ql15/tzql/tzql146.htm) | 石拱桥（三孔） | — | 清光绪二十七年（1901）重修（据说） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>街头镇</nobr> | 明堂牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql141.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>街头镇</nobr> | 桐桥牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql142.htm) | — | — | 民国初期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>南屏乡</nobr> | 双孔石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql176.htm) | — | — | 清（约150年） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>三合镇</nobr> | 灵水桥 [?](http://www.china-qiao.com/ql15/tzql/tzql129.htm) | — | 26.8米 | 宋淳化三年（992）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>雷峰乡</nobr> | 桥棚廊桥 [?](http://www.china-qiao.com/ql15/tzql/tzql131.htm) | — | — | 清乾隆五十四年（1789）始建，光绪二十一年（1895）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>雷峰乡</nobr> | 绿情桥 [?](http://www.china-qiao.com/ql15/tzql/tzql192.htm) | — | — | 清道光年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>石梁镇</nobr> | 盼琼桥 [?](http://www.china-qiao.com/ql15/tzql/tzql124.htm) | — | 20米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>石梁镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/tzql/tzql125.htm) | 石拱桥（单孔） | 42.8米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>街头镇</nobr> | 道蓬岩牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql144.htm) | — | — | —（部分主梁改浇水泥） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>街头镇</nobr> | 同善桥 [?](http://www.china-qiao.com/ql15/tzql/tzql126.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>街头镇</nobr> | 亚父桥 [?](http://www.china-qiao.com/ql15/tzql/tzql146.htm) | 石拱桥（三孔） | — | 清光绪二十七年（1901）重修（据说） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>街头镇</nobr> | 明堂牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql141.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>街头镇</nobr> | 桐桥牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql142.htm) | — | — | 民国初期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>南屏乡</nobr> | 双孔石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql176.htm) | — | — | 清（约150年） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>三合镇</nobr> | 灵水桥 [?](http://www.china-qiao.com/ql15/tzql/tzql129.htm) | — | 26.8米 | 宋淳化三年（992）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>雷峰乡</nobr> | 桥棚廊桥 [?](http://www.china-qiao.com/ql15/tzql/tzql131.htm) | — | — | 清乾隆五十四年（1789）始建，光绪二十一年（1895）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>雷峰乡</nobr> | 绿情桥 [?](http://www.china-qiao.com/ql15/tzql/tzql192.htm) | — | — | 清道光年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>坦头镇</nobr> | 欢溪高桥 | — | — | 清 | 天台县坦头镇 | 浙江省文物保护单位（8-70） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>—</nobr> | 九遮山牮桥群 | — | — | — | — | 浙江省文物保护单位（6-244） | — | 暂无 |
-| <nobr>3</nobr> | <nobr>三合镇</nobr> | 灵水桥 [?](http://www.china-qiao.com/ql15/tzql/tzql129.htm) | — | 26.8米 | 宋淳化三年（992）始建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>4</nobr> | <nobr>南屏乡</nobr> | 双孔石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql176.htm) | — | — | 清（约150年） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>5</nobr> | <nobr>石梁镇</nobr> | 盼琼桥 [?](http://www.china-qiao.com/ql15/tzql/tzql124.htm) | — | 20米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>6</nobr> | <nobr>石梁镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/tzql/tzql125.htm) | 石拱桥（单孔） | 42.8米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>7</nobr> | <nobr>街头镇</nobr> | 道蓬岩牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql144.htm) | — | — | —（部分主梁改浇水泥） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>8</nobr> | <nobr>街头镇</nobr> | 同善桥 [?](http://www.china-qiao.com/ql15/tzql/tzql126.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>9</nobr> | <nobr>街头镇</nobr> | 亚父桥 [?](http://www.china-qiao.com/ql15/tzql/tzql146.htm) | 石拱桥（三孔） | — | 清光绪二十七年（1901）重修（据说） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>10</nobr> | <nobr>街头镇</nobr> | 明堂牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql141.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>11</nobr> | <nobr>街头镇</nobr> | 桐桥牮桥 [?](http://www.china-qiao.com/ql15/tzql/tzql142.htm) | — | — | 民国初期 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>12</nobr> | <nobr>雷峰乡</nobr> | 桥棚廊桥 [?](http://www.china-qiao.com/ql15/tzql/tzql131.htm) | — | — | 清乾隆五十四年（1789）始建，光绪二十一年（1895）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>13</nobr> | <nobr>雷峰乡</nobr> | 绿情桥 [?](http://www.china-qiao.com/ql15/tzql/tzql192.htm) | — | — | 清道光年间建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

@@ -18,17 +18,11 @@
 
 ### 省级文物保护单位（2 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>—</nobr> | 白家桥 [?](http://www.china-qiao.com/ql16/xzql/xzql029.htm) | 石拱桥（三孔） | 22米 | 元代 | 江苏省文物保护单位（570） |
-| <nobr>—</nobr> | 燕桥 [?](http://www.china-qiao.com/ql16/xzql/xzql028.htm) | 石拱桥（三孔） | 28米 | 明 | 江苏省文物保护单位（701） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>—</nobr> | 白家桥 [?](http://www.china-qiao.com/ql16/xzql/xzql029.htm) | 石拱桥（三孔） | 22米 | 元代 | 江苏省文物保护单位（570） | 暂无 |
+| <nobr>—</nobr> | 燕桥 [?](http://www.china-qiao.com/ql16/xzql/xzql028.htm) | 石拱桥（三孔） | 28米 | 明 | 江苏省文物保护单位（701） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>—</nobr> | 白家桥 [?](http://www.china-qiao.com/ql16/xzql/xzql029.htm) | 石拱桥（三孔） | 22米 | 元代 | — | 江苏省文物保护单位（570） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>—</nobr> | 燕桥 [?](http://www.china-qiao.com/ql16/xzql/xzql028.htm) | 石拱桥（三孔） | 28米 | 明 | — | 江苏省文物保护单位（701） | — | 暂无 |
 
 ## 说明
 

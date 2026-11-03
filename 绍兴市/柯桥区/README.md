@@ -36,224 +36,127 @@
 
 ### 全国重点文物保护单位（3 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>柯岩街道</nobr> | 太平桥 [?](http://www.china-qiao.com/ql15/sxql/sxql135.htm) | 石拱桥（单孔） | 40米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
-| <nobr>柯桥街道</nobr> | 接渡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql136.htm) | 石梁桥（单孔） | 55.45米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
-| <nobr>柯桥街道</nobr> | 融光桥 [?](http://www.china-qiao.com/ql15/sxql/sxql137.htm) | 石拱桥（单孔） | 17米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>柯岩街道</nobr> | 太平桥 [?](http://www.china-qiao.com/ql15/sxql/sxql135.htm) | 石拱桥（单孔） | 40米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | 暂无 |
+| <nobr>柯桥街道</nobr> | 接渡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql136.htm) | 石梁桥（单孔） | 55.45米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](接渡桥1.jpg) |
+| <nobr>柯桥街道</nobr> | 融光桥 [?](http://www.china-qiao.com/ql15/sxql/sxql137.htm) | 石拱桥（单孔） | 17米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](融光桥1.jpg) |
 
 ### 省级文物保护单位（3 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>湖塘街道</nobr> | 西跨湖桥 [?](http://www.china-qiao.com/ql15/sxql/sxql155.htm) | 石拱桥（单孔） | 5.40米 | 明万历二十八年（1600）重建 | 浙江省文物保护单位（6） |
-| <nobr>福全街道</nobr> | 虹明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql168.htm) | 石梁桥（五孔） | 58米 | 清嘉庆六年（1801）重建 | 浙江省文物保护单位（7-125） |
-| <nobr>柯岩街道</nobr> | 万安桥 | — | — | 清、民国 | 浙江省文物保护单位（“姚长子纪念碑与万安桥”组成部分，8-89） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>湖塘街道</nobr> | 西跨湖桥 [?](http://www.china-qiao.com/ql15/sxql/sxql155.htm) | 石拱桥（单孔） | 5.40米 | 明万历二十八年（1600）重建 | 浙江省文物保护单位（6） | [1](西跨湖桥1.jpg) |
+| <nobr>福全街道</nobr> | 虹明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql168.htm) | 石梁桥（五孔） | 58米 | 清嘉庆六年（1801）重建 | 浙江省文物保护单位（7-125） | [1](虹明桥1.jpg) |
+| <nobr>柯岩街道</nobr> | 万安桥 | — | — | 清、民国 | 浙江省文物保护单位（“姚长子纪念碑与万安桥”组成部分，8-89） | 暂无 |
 
 ### 县（区）级文物保护单位（9 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>华舍街道</nobr> | 云梯桥 [?](http://www.china-qiao.com/ql15/sxql/sxql150.htm) | 石梁桥（单孔） | 7.60米 | 明万历 | 柯桥区文物保护单位 |
-| <nobr>华舍街道</nobr> | 鼎新桥 | — | — | 明万历间建、民国六年重修 | 柯桥区文物保护单位 |
-| <nobr>华舍街道</nobr> | 后殿廊桥 [?](http://www.china-qiao.com/ql15/sxql/sxql503.htm) | 廊桥 | — | 清 | 柯桥区文物保护单位 |
-| <nobr>湖塘街道</nobr> | 观澜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql502.htm) | 石拱桥（单孔） | 5.5米 | 明 | 柯桥区文物保护单位 |
-| <nobr>柯岩街道</nobr> | 得胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql146.htm) | 石梁桥（三孔） | 56米 | 明 | 柯桥区文物保护单位 |
-| <nobr>漓渚镇</nobr> | 存德桥 [?](http://www.china-qiao.com/ql15/sxql/sxql223.htm) | 石拱桥（单孔） | 10米 | 清康熙六年（1667）建 | 柯桥区文物保护单位 |
-| <nobr>安昌街道</nobr> | 寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元代 | 柯桥区文物保护单位 |
-| <nobr>安昌街道</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql518.htm) | 石拱桥（单孔） | — | 明代 | 柯桥区文物保护单位 |
-| <nobr>稽东镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/sxql/sxql996.htm) | 石拱桥（单孔） | 20.00米 | 清乾隆二十一年（1756）建 | 柯桥区文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>华舍街道</nobr> | 云梯桥 [?](http://www.china-qiao.com/ql15/sxql/sxql150.htm) | 石梁桥（单孔） | 7.60米 | 明万历 | 柯桥区文物保护单位 | [1](云梯桥1.jpg) |
+| <nobr>华舍街道</nobr> | 鼎新桥 | — | — | 明万历间建、民国六年重修 | 柯桥区文物保护单位 | 暂无 |
+| <nobr>华舍街道</nobr> | 后殿廊桥 [?](http://www.china-qiao.com/ql15/sxql/sxql503.htm) | 廊桥 | — | 清 | 柯桥区文物保护单位 | [1](后殿廊桥1.jpg) |
+| <nobr>湖塘街道</nobr> | 观澜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql502.htm) | 石拱桥（单孔） | 5.5米 | 明 | 柯桥区文物保护单位 | [1](观澜桥1.jpg) |
+| <nobr>柯岩街道</nobr> | 得胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql146.htm) | 石梁桥（三孔） | 56米 | 明 | 柯桥区文物保护单位 | [1](得胜桥1.jpg) |
+| <nobr>漓渚镇</nobr> | 存德桥 [?](http://www.china-qiao.com/ql15/sxql/sxql223.htm) | 石拱桥（单孔） | 10米 | 清康熙六年（1667）建 | 柯桥区文物保护单位 | [1](存德桥1.jpg) |
+| <nobr>安昌街道</nobr> | 寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元代 | 柯桥区文物保护单位 | 暂无 |
+| <nobr>安昌街道</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql518.htm) | 石拱桥（单孔） | — | 明代 | 柯桥区文物保护单位 | [1](广济桥1.jpg) |
+| <nobr>稽东镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/sxql/sxql996.htm) | 石拱桥（单孔） | 20.00米 | 清乾隆二十一年（1756）建 | 柯桥区文物保护单位 | [1](镇东桥1.jpg) |
 
 ### 文物保护点（24 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>夏履镇</nobr> | 寨口桥 [?](http://www.china-qiao.com/ql15/sxql/sxql228.htm) | 石拱桥（单孔） | 30米 | 清光绪十二年（1886）建 | 绍兴市文物保护点 |
-| <nobr>夏履镇</nobr> | 双桥造纸作坊址遗址 | — | — | 清 | 绍兴市文物保护点 |
-| <nobr>钱清街道</nobr> | 广溪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql161.htm) | 石拱桥 | 2.7米 | 明 | 绍兴市文物保护点 |
-| <nobr>钱清街道</nobr> | 德胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql575.htm) | 石梁桥（单孔） | 8.20米 | 明 | 绍兴市文物保护点 |
-| <nobr>钱清街道</nobr> | 丰顺桥 | — | — | 明 | 绍兴市文物保护点 |
-| <nobr>平水镇</nobr> | 五云桥 | — | — | 清 | 绍兴市文物保护点 |
-| <nobr>马鞍街道</nobr> | 万里桥 [?](http://www.china-qiao.com/ql15/sxql/sxql175.htm) | 石拱桥（单孔） | 11.50米 | 明 | 绍兴市文物保护点 |
-| <nobr>安昌街道</nobr> | 朱公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql198.htm) | 石梁桥 | 51.4米 | 明 | 绍兴市文物保护点 |
-| <nobr>稽东镇</nobr> | 万缘桥 [?](http://www.china-qiao.com/ql15/sxql/sxql219.htm) | 石梁桥（六孔） | 26.5米 | 清光绪六年（1880）重建 | 绍兴市文物保护点 |
-| <nobr>稽东镇</nobr> | 进龙桥 | — | — | 明 | 绍兴市文物保护点 |
-| <nobr>稽东镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql216.htm) | 石梁桥 | 12米 | 明 | 绍兴市文物保护点 |
-| <nobr>柯岩街道</nobr> | 信公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql141.htm) | 石梁桥 | 6米 | 清 | 绍兴市文物保护点 |
-| <nobr>柯岩街道</nobr> | 外山桥 [?](http://www.china-qiao.com/ql15/sxql/sxql149.htm) | 石拱桥（单孔） | 10米 | 明 | 绍兴市文物保护点 |
-| <nobr>华舍街道</nobr> | 荷花桥 [?](http://www.china-qiao.com/ql15/sxql/sxql154.htm) | 石拱桥（单孔） | 23米 | 清 | 绍兴市文物保护点 |
-| <nobr>华舍街道</nobr> | 行二桥 | — | — | 清 | 绍兴市文物保护点 |
-| <nobr>齐贤街道</nobr> | 咸安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql159.htm) | 石拱桥 | 16米 | 清嘉庆五年（1800）建 | 绍兴市文物保护点 |
-| <nobr>齐贤街道</nobr> | 花洞桥 | — | — | 明 | 绍兴市文物保护点 |
-| <nobr>齐贤街道</nobr> | 八字桥[永宁桥、古小桥] | — | — | 清、民国 | 绍兴市文物保护点 |
-| <nobr>齐贤街道</nobr> | 周家桥 [?](http://www.china-qiao.com/ql15/sxql/sxql156.htm) | 石拱桥（单孔） | 13米 | 清 | 绍兴市文物保护点 |
-| <nobr>齐贤街道</nobr> | 咸宁桥 | — | — | 清 | 绍兴市文物保护点 |
-| <nobr>齐贤街道</nobr> | 月德桥 | — | — | 民国 | 绍兴市文物保护点 |
-| <nobr>王坛镇</nobr> | 奎元桥 [?](http://www.china-qiao.com/ql15/sxql/sxql212.htm) | 石梁桥 | 15米 | 清 | 绍兴市文物保护点 |
-| <nobr>王坛镇</nobr> | 复初桥 [?](http://www.china-qiao.com/ql15/sxql/sxql546.htm) | 石拱桥 | — | 清 | 绍兴市文物保护点 |
-| <nobr>柯桥街道</nobr> | 报恩桥 | — | — | 清 | 绍兴市文物保护点 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>夏履镇</nobr> | 寨口桥 [?](http://www.china-qiao.com/ql15/sxql/sxql228.htm) | 石拱桥（单孔） | 30米 | 清光绪十二年（1886）建 | 绍兴市文物保护点 | [1](寨口桥1.jpg) |
+| <nobr>夏履镇</nobr> | 双桥造纸作坊址遗址 | — | — | 清 | 绍兴市文物保护点 | 暂无 |
+| <nobr>钱清街道</nobr> | 广溪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql161.htm) | 石拱桥 | 2.7米 | 明 | 绍兴市文物保护点 | [1](广溪桥1.jpg) |
+| <nobr>钱清街道</nobr> | 德胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql575.htm) | 石梁桥（单孔） | 8.20米 | 明 | 绍兴市文物保护点 | [1](德胜桥1.jpg) |
+| <nobr>钱清街道</nobr> | 丰顺桥 | — | — | 明 | 绍兴市文物保护点 | 暂无 |
+| <nobr>平水镇</nobr> | 五云桥 | — | — | 清 | 绍兴市文物保护点 | 暂无 |
+| <nobr>马鞍街道</nobr> | 万里桥 [?](http://www.china-qiao.com/ql15/sxql/sxql175.htm) | 石拱桥（单孔） | 11.50米 | 明 | 绍兴市文物保护点 | [1](万里桥1.jpg) |
+| <nobr>安昌街道</nobr> | 朱公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql198.htm) | 石梁桥 | 51.4米 | 明 | 绍兴市文物保护点 | [1](朱公桥1.jpg) |
+| <nobr>稽东镇</nobr> | 万缘桥 [?](http://www.china-qiao.com/ql15/sxql/sxql219.htm) | 石梁桥（六孔） | 26.5米 | 清光绪六年（1880）重建 | 绍兴市文物保护点 | [1](万缘桥1.jpg) |
+| <nobr>稽东镇</nobr> | 进龙桥 | — | — | 明 | 绍兴市文物保护点 | 暂无 |
+| <nobr>稽东镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql216.htm) | 石梁桥 | 12米 | 明 | 绍兴市文物保护点 | [1](永济桥1.jpg) |
+| <nobr>柯岩街道</nobr> | 信公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql141.htm) | 石梁桥 | 6米 | 清 | 绍兴市文物保护点 | [1](信公桥1.jpg) |
+| <nobr>柯岩街道</nobr> | 外山桥 [?](http://www.china-qiao.com/ql15/sxql/sxql149.htm) | 石拱桥（单孔） | 10米 | 明 | 绍兴市文物保护点 | [1](外山桥1.jpg) |
+| <nobr>华舍街道</nobr> | 荷花桥 [?](http://www.china-qiao.com/ql15/sxql/sxql154.htm) | 石拱桥（单孔） | 23米 | 清 | 绍兴市文物保护点 | [1](荷花桥1.jpg) |
+| <nobr>华舍街道</nobr> | 行二桥 | — | — | 清 | 绍兴市文物保护点 | 暂无 |
+| <nobr>齐贤街道</nobr> | 咸安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql159.htm) | 石拱桥 | 16米 | 清嘉庆五年（1800）建 | 绍兴市文物保护点 | [1](咸安桥1.jpg) |
+| <nobr>齐贤街道</nobr> | 花洞桥 | — | — | 明 | 绍兴市文物保护点 | 暂无 |
+| <nobr>齐贤街道</nobr> | 八字桥[永宁桥、古小桥] | — | — | 清、民国 | 绍兴市文物保护点 | 暂无 |
+| <nobr>齐贤街道</nobr> | 周家桥 [?](http://www.china-qiao.com/ql15/sxql/sxql156.htm) | 石拱桥（单孔） | 13米 | 清 | 绍兴市文物保护点 | [1](周家桥1.jpg) |
+| <nobr>齐贤街道</nobr> | 咸宁桥 | — | — | 清 | 绍兴市文物保护点 | 暂无 |
+| <nobr>齐贤街道</nobr> | 月德桥 | — | — | 民国 | 绍兴市文物保护点 | 暂无 |
+| <nobr>王坛镇</nobr> | 奎元桥 [?](http://www.china-qiao.com/ql15/sxql/sxql212.htm) | 石梁桥 | 15米 | 清 | 绍兴市文物保护点 | [1](奎元桥1.jpg) |
+| <nobr>王坛镇</nobr> | 复初桥 [?](http://www.china-qiao.com/ql15/sxql/sxql546.htm) | 石拱桥 | — | 清 | 绍兴市文物保护点 | [1](复初桥1.jpg) |
+| <nobr>柯桥街道</nobr> | 报恩桥 | — | — | 清 | 绍兴市文物保护点 | 暂无 |
 
 ### 一般不可移动文物（2 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>柯桥街道</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql139.htm) | 石拱桥（单孔） | 10米 | 清 | 一般不可移动文物（三普登录，列入绍兴市大运河世界文化遗产保护名录） |
-| <nobr>柯桥街道</nobr> | 工农桥 [?](http://www.china-qiao.com/ql15/sxql/sxql525.htm) | 石梁桥（单孔） | — | 清 | 一般不可移动文物（三普登录，列入绍兴市大运河世界文化遗产保护名录） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>柯桥街道</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql139.htm) | 石拱桥（单孔） | 10米 | 清 | 一般不可移动文物（三普登录，列入绍兴市大运河世界文化遗产保护名录） | 暂无 |
+| <nobr>柯桥街道</nobr> | 工农桥 [?](http://www.china-qiao.com/ql15/sxql/sxql525.htm) | 石梁桥（单孔） | — | 清 | 一般不可移动文物（三普登录，列入绍兴市大运河世界文化遗产保护名录） | 暂无 |
 
 ### 尚未定级（待核实）（52 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>柯桥街道</nobr> | 中兴桥 [?](http://www.china-qiao.com/ql15/sxql/sxql142.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯桥街道</nobr> | 荫毓桥 [?](http://www.china-qiao.com/ql15/sxql/sxql144.htm) | 石拱桥（单孔） | 14.45米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯桥街道</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/sxql/sxql727.htm) | — | — | 明万历三十二年（1604） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯桥街道</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/sxql/sxql767.htm) | 石拱桥（单孔） | — | 清始建，民国三十三年（1944）重修；民国三十三年（1944）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>华舍街道</nobr> | 华春桥 [?](http://www.china-qiao.com/ql15/sxql/sxql151.htm) | 石拱桥（单孔） | 9米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>华舍街道</nobr> | 待驾桥 [?](http://www.china-qiao.com/ql15/sxql/sxql152.htm) | 石拱桥（单孔） | 20米 | 民国五年（1916）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>齐贤街道</nobr> | 凤林桥 [?](http://www.china-qiao.com/ql15/sxql/sxql158.htm) | 石梁桥（双孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>齐贤街道</nobr> | 沈家桥 [?](http://www.china-qiao.com/ql15/sxql/sxql157.htm) | 石拱桥（单孔） | 14米 | 明正德六年（1511） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 益寿庄桥 [?](http://www.china-qiao.com/ql15/sxql/sxql162.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 太安殿桥 [?](http://www.china-qiao.com/ql15/sxql/sxql164.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 崇福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql165.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 于会桥 [?](http://www.china-qiao.com/ql15/sxql/sxql166.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 烧饼桥 [?](http://www.china-qiao.com/ql15/sxql/sxql520.htm) | 石梁桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 渔后桥 [?](http://www.china-qiao.com/ql15/sxql/sxql167.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>钱清街道</nobr> | 渔中桥 [?](http://www.china-qiao.com/ql15/sxql/sxql863.htm) | 石梁桥（单孔） | 12.70米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>马鞍街道</nobr> | 众安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql176.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>马鞍街道</nobr> | 公安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql177.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql199.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 茶亭桥 [?](http://www.china-qiao.com/ql15/sxql/sxql203.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 半江庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql204.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 华封桥 [?](http://www.china-qiao.com/ql15/sxql/sxql205.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 华隆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql206.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇阳明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql514.htm) | 石梁桥（双孔） | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇弘治桥 [?](http://www.china-qiao.com/ql15/sxql/sxql190.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇瑞安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql191.htm) | 石梁桥（单孔） | — | 清雍正年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇安吉桥 [?](http://www.china-qiao.com/ql15/sxql/sxql194.htm) | 石拱桥（单孔） | — | 明代中叶 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇三板桥 [?](http://www.china-qiao.com/ql15/sxql/sxql195.htm) | 石梁桥（单孔） | — | 明代中叶始建，清嘉庆四年（1799）重修；清嘉庆四年（1799）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇庆安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql517.htm) | 石梁桥（单孔） | — | 明始建，清光绪年间重修；清光绪年间重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 安昌古镇宁安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql196.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安昌街道</nobr> | 兆嘉庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql200.htm) | 石梁桥（三孔） | 20.60米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>王坛镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/sxql/sxql209.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>稽东镇</nobr> | 廿里牌桥 [?](http://www.china-qiao.com/ql15/sxql/sxql217.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>稽东镇</nobr> | 花岩桥 [?](http://www.china-qiao.com/ql15/sxql/sxql998.htm) | 石梁桥（四孔） | 20.00米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>稽东镇</nobr> | 小溪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql995.htm) | 石梁桥（三孔） | 16.50米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>稽东镇</nobr> | 余清桥 [?](http://www.china-qiao.com/ql15/sxql/sxql999.htm) | 石梁桥（三孔） | 16.30米 | 清光绪七年（1881）建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>稽东镇</nobr> | 发祥桥 [?](http://www.china-qiao.com/ql15/sxql/sxql997.htm) | 石拱桥（单孔） | 4.90米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>漓渚镇</nobr> | 会元桥 [?](http://www.china-qiao.com/ql15/sxql/sxql224.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>漓渚镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql463.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>漓渚镇</nobr> | 申明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql225.htm) | 石梁桥（单孔） | 4.15米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯岩街道</nobr> | 浪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql147.htm) | 石梁桥（二十孔） | — | 清同治六年（1867）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯岩街道</nobr> | 阮社桥 [?](http://www.china-qiao.com/ql15/sxql/sxql148.htm) | — | 20米 | 宋嘉泰以前始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯岩街道</nobr> | 伦敦桥 [?](http://www.china-qiao.com/ql15/sxql/sxql582.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>柯岩街道</nobr> | 永富桥 [?](http://www.china-qiao.com/ql15/sxql/sxql1013.htm) | 石梁桥（单孔） | 8.70米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>湖塘街道</nobr> | 同堰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql504.htm) | 石梁桥（单孔） | 10.45米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>湖塘街道</nobr> | 永隆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql221.htm) | 石梁桥（单孔） | 12.00米 | 清光绪二十八年（1902）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>福全街道</nobr> | 庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql169.htm) | 石拱桥（单孔） | 12米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>福全街道</nobr> | 全福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql170.htm) | 石梁桥（单孔） | 14.3米 | 民国三十二年（1943） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>福全街道</nobr> | 五福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql171.htm) | — | — | 民国二十三年（1934） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>平水镇</nobr> | 福禄桥 [?](http://www.china-qiao.com/ql15/sxql/sxql642.htm) | 石拱桥（单孔） | 9.4米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>夏履镇</nobr> | 宣桥 [?](http://www.china-qiao.com/ql15/sxql/sxql226.htm) | 石拱桥（单孔） | 12米 | 清乾隆十九年（1754）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>夏履镇</nobr> | 新安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql229.htm) | 石拱桥（单孔） | 6米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>柯桥街道</nobr> | 中兴桥 [?](http://www.china-qiao.com/ql15/sxql/sxql142.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯桥街道</nobr> | 荫毓桥 [?](http://www.china-qiao.com/ql15/sxql/sxql144.htm) | 石拱桥（单孔） | 14.45米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯桥街道</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/sxql/sxql727.htm) | — | — | 明万历三十二年（1604） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯桥街道</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/sxql/sxql767.htm) | 石拱桥（单孔） | — | 清始建，民国三十三年（1944）重修；民国三十三年（1944）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>华舍街道</nobr> | 华春桥 [?](http://www.china-qiao.com/ql15/sxql/sxql151.htm) | 石拱桥（单孔） | 9米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>华舍街道</nobr> | 待驾桥 [?](http://www.china-qiao.com/ql15/sxql/sxql152.htm) | 石拱桥（单孔） | 20米 | 民国五年（1916）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>齐贤街道</nobr> | 凤林桥 [?](http://www.china-qiao.com/ql15/sxql/sxql158.htm) | 石梁桥（双孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>齐贤街道</nobr> | 沈家桥 [?](http://www.china-qiao.com/ql15/sxql/sxql157.htm) | 石拱桥（单孔） | 14米 | 明正德六年（1511） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 益寿庄桥 [?](http://www.china-qiao.com/ql15/sxql/sxql162.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 太安殿桥 [?](http://www.china-qiao.com/ql15/sxql/sxql164.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 崇福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql165.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 于会桥 [?](http://www.china-qiao.com/ql15/sxql/sxql166.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 烧饼桥 [?](http://www.china-qiao.com/ql15/sxql/sxql520.htm) | 石梁桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 渔后桥 [?](http://www.china-qiao.com/ql15/sxql/sxql167.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>钱清街道</nobr> | 渔中桥 [?](http://www.china-qiao.com/ql15/sxql/sxql863.htm) | 石梁桥（单孔） | 12.70米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>马鞍街道</nobr> | 众安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql176.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>马鞍街道</nobr> | 公安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql177.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql199.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 茶亭桥 [?](http://www.china-qiao.com/ql15/sxql/sxql203.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 半江庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql204.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 华封桥 [?](http://www.china-qiao.com/ql15/sxql/sxql205.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 华隆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql206.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇阳明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql514.htm) | 石梁桥（双孔） | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇弘治桥 [?](http://www.china-qiao.com/ql15/sxql/sxql190.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇瑞安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql191.htm) | 石梁桥（单孔） | — | 清雍正年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇安吉桥 [?](http://www.china-qiao.com/ql15/sxql/sxql194.htm) | 石拱桥（单孔） | — | 明代中叶 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇三板桥 [?](http://www.china-qiao.com/ql15/sxql/sxql195.htm) | 石梁桥（单孔） | — | 明代中叶始建，清嘉庆四年（1799）重修；清嘉庆四年（1799）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇庆安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql517.htm) | 石梁桥（单孔） | — | 明始建，清光绪年间重修；清光绪年间重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 安昌古镇宁安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql196.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安昌街道</nobr> | 兆嘉庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql200.htm) | 石梁桥（三孔） | 20.60米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>王坛镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/sxql/sxql209.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>稽东镇</nobr> | 廿里牌桥 [?](http://www.china-qiao.com/ql15/sxql/sxql217.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>稽东镇</nobr> | 花岩桥 [?](http://www.china-qiao.com/ql15/sxql/sxql998.htm) | 石梁桥（四孔） | 20.00米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>稽东镇</nobr> | 小溪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql995.htm) | 石梁桥（三孔） | 16.50米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>稽东镇</nobr> | 余清桥 [?](http://www.china-qiao.com/ql15/sxql/sxql999.htm) | 石梁桥（三孔） | 16.30米 | 清光绪七年（1881）建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>稽东镇</nobr> | 发祥桥 [?](http://www.china-qiao.com/ql15/sxql/sxql997.htm) | 石拱桥（单孔） | 4.90米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>漓渚镇</nobr> | 会元桥 [?](http://www.china-qiao.com/ql15/sxql/sxql224.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>漓渚镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql463.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>漓渚镇</nobr> | 申明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql225.htm) | 石梁桥（单孔） | 4.15米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯岩街道</nobr> | 浪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql147.htm) | 石梁桥（二十孔） | — | 清同治六年（1867）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯岩街道</nobr> | 阮社桥 [?](http://www.china-qiao.com/ql15/sxql/sxql148.htm) | — | 20米 | 宋嘉泰以前始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯岩街道</nobr> | 伦敦桥 [?](http://www.china-qiao.com/ql15/sxql/sxql582.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>柯岩街道</nobr> | 永富桥 [?](http://www.china-qiao.com/ql15/sxql/sxql1013.htm) | 石梁桥（单孔） | 8.70米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>湖塘街道</nobr> | 同堰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql504.htm) | 石梁桥（单孔） | 10.45米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>湖塘街道</nobr> | 永隆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql221.htm) | 石梁桥（单孔） | 12.00米 | 清光绪二十八年（1902）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>福全街道</nobr> | 庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql169.htm) | 石拱桥（单孔） | 12米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>福全街道</nobr> | 全福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql170.htm) | 石梁桥（单孔） | 14.3米 | 民国三十二年（1943） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>福全街道</nobr> | 五福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql171.htm) | — | — | 民国二十三年（1934） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>平水镇</nobr> | 福禄桥 [?](http://www.china-qiao.com/ql15/sxql/sxql642.htm) | 石拱桥（单孔） | 9.4米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>夏履镇</nobr> | 宣桥 [?](http://www.china-qiao.com/ql15/sxql/sxql226.htm) | 石拱桥（单孔） | 12米 | 清乾隆十九年（1754）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>夏履镇</nobr> | 新安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql229.htm) | 石拱桥（单孔） | 6米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>柯岩街道</nobr> | 太平桥 [?](http://www.china-qiao.com/ql15/sxql/sxql135.htm) | 石拱桥（单孔） | 40米 | 元至民国 | 柯岩街道阮四村 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>柯桥街道</nobr> | 接渡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql136.htm) | 石梁桥（单孔） | 55.45米 | 元至民国 | 柯桥街道中泽新景园小区（原中泽村）内 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | — | [1](接渡桥1.jpg) |
-| <nobr>3</nobr> | <nobr>柯桥街道</nobr> | 融光桥 [?](http://www.china-qiao.com/ql15/sxql/sxql137.htm) | 石拱桥（单孔） | 17米 | 元至民国 | 柯桥古镇镇中心 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | — | [1](融光桥1.jpg) |
-| <nobr>4</nobr> | <nobr>柯岩街道</nobr> | 万安桥 | — | — | 清、民国 | 柯桥区柯岩街道永进村 | 浙江省文物保护单位（“姚长子纪念碑与万安桥”组成部分，8-89） | — | 暂无 |
-| <nobr>5</nobr> | <nobr>湖塘街道</nobr> | 西跨湖桥 [?](http://www.china-qiao.com/ql15/sxql/sxql155.htm) | 石拱桥（单孔） | 5.40米 | 明万历二十八年（1600）重建 | 柯桥区湖塘街道湖塘村 | 浙江省文物保护单位（6） | — | [1](西跨湖桥1.jpg) |
-| <nobr>6</nobr> | <nobr>福全街道</nobr> | 虹明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql168.htm) | 石梁桥（五孔） | 58米 | 清嘉庆六年（1801）重建 | 柯桥区福全街道徐山村 | 浙江省文物保护单位（7-125） | — | [1](虹明桥1.jpg) |
-| <nobr>7</nobr> | <nobr>华舍街道</nobr> | 云梯桥 [?](http://www.china-qiao.com/ql15/sxql/sxql150.htm) | 石梁桥（单孔） | 7.60米 | 明万历 | 柯桥区华舍街道张溇村 | 柯桥区文物保护单位 | — | [1](云梯桥1.jpg) |
-| <nobr>8</nobr> | <nobr>华舍街道</nobr> | 鼎新桥 | — | — | 明万历间建、民国六年重修 | 柯桥区华舍街道人利村 | 柯桥区文物保护单位 | — | 暂无 |
-| <nobr>9</nobr> | <nobr>华舍街道</nobr> | 后殿廊桥 [?](http://www.china-qiao.com/ql15/sxql/sxql503.htm) | 廊桥 | — | 清 | 柯桥区华舍街道第三居委会 | 柯桥区文物保护单位 | — | [1](后殿廊桥1.jpg) |
-| <nobr>10</nobr> | <nobr>安昌街道</nobr> | 寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元代 | 安昌街道中街18号民居南侧 | 柯桥区文物保护单位 | — | 暂无 |
-| <nobr>11</nobr> | <nobr>安昌街道</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql518.htm) | 石拱桥（单孔） | — | 明代 | 安昌街道安昌社区西社庙南侧 | 柯桥区文物保护单位 | — | [1](广济桥1.jpg) |
-| <nobr>12</nobr> | <nobr>柯岩街道</nobr> | 得胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql146.htm) | 石梁桥（三孔） | 56米 | 明 | 柯桥区柯岩街道柯桥村 | 柯桥区文物保护单位 | — | [1](得胜桥1.jpg) |
-| <nobr>13</nobr> | <nobr>湖塘街道</nobr> | 观澜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql502.htm) | 石拱桥（单孔） | 5.5米 | 明 | 柯桥区湖塘街道型塘村 | 柯桥区文物保护单位 | — | [1](观澜桥1.jpg) |
-| <nobr>14</nobr> | <nobr>漓渚镇</nobr> | 存德桥 [?](http://www.china-qiao.com/ql15/sxql/sxql223.htm) | 石拱桥（单孔） | 10米 | 清康熙六年（1667）建 | 柯桥区漓渚镇洞桥下街 | 柯桥区文物保护单位 | — | [1](存德桥1.jpg) |
-| <nobr>15</nobr> | <nobr>稽东镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/sxql/sxql996.htm) | 石拱桥（单孔） | 20.00米 | 清乾隆二十一年（1756）建 | 稽东镇裘村村 | 柯桥区文物保护单位 | — | [1](镇东桥1.jpg) |
-| <nobr>16</nobr> | <nobr>华舍街道</nobr> | 荷花桥 [?](http://www.china-qiao.com/ql15/sxql/sxql154.htm) | 石拱桥（单孔） | 23米 | 清 | 大西庄村 | 绍兴市文物保护点 | 绍县文广新闻〔2006〕87号 | [1](荷花桥1.jpg) |
-| <nobr>17</nobr> | <nobr>华舍街道</nobr> | 行二桥 | — | — | 清 | 兴华社区老街77号民居北侧 | 绍兴市文物保护点 | 绍县文广新闻〔2011〕91号 | 暂无 |
-| <nobr>18</nobr> | <nobr>夏履镇</nobr> | 寨口桥 [?](http://www.china-qiao.com/ql15/sxql/sxql228.htm) | 石拱桥（单孔） | 30米 | 清光绪十二年（1886）建 | 莲增村 | 绍兴市文物保护点 | 绍县文广〔2002〕85号 | [1](寨口桥1.jpg) |
-| <nobr>19</nobr> | <nobr>夏履镇</nobr> | 双桥造纸作坊址遗址 | — | — | 清 | 双叶村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | 暂无 |
-| <nobr>20</nobr> | <nobr>安昌街道</nobr> | 朱公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql198.htm) | 石梁桥 | 51.4米 | 明 | 朱家畈村 | 绍兴市文物保护点 | 绍县文广〔2002〕85号 | [1](朱公桥1.jpg) |
-| <nobr>21</nobr> | <nobr>平水镇</nobr> | 五云桥 | — | — | 清 | 平江村 | 绍兴市文物保护点 | 绍县文广〔2002〕85号 | 暂无 |
-| <nobr>22</nobr> | <nobr>柯岩街道</nobr> | 信公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql141.htm) | 石梁桥 | 6米 | 清 | 阮三村 | 绍兴市文物保护点 | 绍县文广新闻〔2006〕87号 | [1](信公桥1.jpg) |
-| <nobr>23</nobr> | <nobr>柯岩街道</nobr> | 外山桥 [?](http://www.china-qiao.com/ql15/sxql/sxql149.htm) | 石拱桥（单孔） | 10米 | 明 | 丰项村丰二自然村 | 绍兴市文物保护点 | 绍县文广新闻〔2011〕91号 | [1](外山桥1.jpg) |
-| <nobr>24</nobr> | <nobr>柯桥街道</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql139.htm) | 石拱桥（单孔） | 10米 | 清 | 柯桥街道永丰桥河沿 | 一般不可移动文物（三普登录，列入绍兴市大运河世界文化遗产保护名录） | — | 暂无 |
-| <nobr>25</nobr> | <nobr>柯桥街道</nobr> | 工农桥 [?](http://www.china-qiao.com/ql15/sxql/sxql525.htm) | 石梁桥（单孔） | — | 清 | 柯桥街道大寺社区红木桥河沿5号 | 一般不可移动文物（三普登录，列入绍兴市大运河世界文化遗产保护名录） | — | 暂无 |
-| <nobr>26</nobr> | <nobr>柯桥街道</nobr> | 报恩桥 | — | — | 清 | 红升居委会 | 绍兴市文物保护点 | 绍县文广新闻〔2011〕91号 | 暂无 |
-| <nobr>27</nobr> | <nobr>王坛镇</nobr> | 奎元桥 [?](http://www.china-qiao.com/ql15/sxql/sxql212.htm) | 石梁桥 | 15米 | 清 | 越联村 | 绍兴市文物保护点 | 绍县文广新闻〔2009〕94号 | [1](奎元桥1.jpg) |
-| <nobr>28</nobr> | <nobr>王坛镇</nobr> | 复初桥 [?](http://www.china-qiao.com/ql15/sxql/sxql546.htm) | 石拱桥 | — | 清 | 上王村 | 绍兴市文物保护点 | 绍县文广新闻〔2013〕80号 | [1](复初桥1.jpg) |
-| <nobr>29</nobr> | <nobr>稽东镇</nobr> | 万缘桥 [?](http://www.china-qiao.com/ql15/sxql/sxql219.htm) | 石梁桥（六孔） | 26.5米 | 清光绪六年（1880）重建 | 顺利村 | 绍兴市文物保护点 | 绍县文广〔2004〕74号 | [1](万缘桥1.jpg) |
-| <nobr>30</nobr> | <nobr>稽东镇</nobr> | 进龙桥 | — | — | 明 | 石岙村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | 暂无 |
-| <nobr>31</nobr> | <nobr>稽东镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql216.htm) | 石梁桥 | 12米 | 明 | 金山村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | [1](永济桥1.jpg) |
-| <nobr>32</nobr> | <nobr>钱清街道</nobr> | 广溪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql161.htm) | 石拱桥 | 2.7米 | 明 | 久二村 | 绍兴市文物保护点 | 绍县文广〔2002〕85号 | [1](广溪桥1.jpg) |
-| <nobr>33</nobr> | <nobr>钱清街道</nobr> | 德胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql575.htm) | 石梁桥（单孔） | 8.20米 | 明 | 江墅村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | [1](德胜桥1.jpg) |
-| <nobr>34</nobr> | <nobr>钱清街道</nobr> | 丰顺桥 | — | — | 明 | 新甸村东甸自然村 | 绍兴市文物保护点 | 绍县文广新闻〔2011〕91号 | 暂无 |
-| <nobr>35</nobr> | <nobr>马鞍街道</nobr> | 万里桥 [?](http://www.china-qiao.com/ql15/sxql/sxql175.htm) | 石拱桥（单孔） | 11.50米 | 明 | 童家塔村 | 绍兴市文物保护点 | 绍县文广〔2002〕85号 | [1](万里桥1.jpg) |
-| <nobr>36</nobr> | <nobr>齐贤街道</nobr> | 咸安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql159.htm) | 石拱桥 | 16米 | 清嘉庆五年（1800）建 | 羊山村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | [1](咸安桥1.jpg) |
-| <nobr>37</nobr> | <nobr>齐贤街道</nobr> | 花洞桥 | — | — | 明 | 兴浦村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | 暂无 |
-| <nobr>38</nobr> | <nobr>齐贤街道</nobr> | 八字桥[永宁桥、古小桥] | — | — | 清、民国 | 八字桥村 | 绍兴市文物保护点 | 绍县文广新闻〔2008〕65号 | 暂无 |
-| <nobr>39</nobr> | <nobr>齐贤街道</nobr> | 周家桥 [?](http://www.china-qiao.com/ql15/sxql/sxql156.htm) | 石拱桥（单孔） | 13米 | 清 | 迎驾桥社区周家桥居委 | 绍兴市文物保护点 | 绍县文广新闻〔2009〕24号 | [1](周家桥1.jpg) |
-| <nobr>40</nobr> | <nobr>齐贤街道</nobr> | 咸宁桥 | — | — | 清 | 迎驾桥社区迎驾桥村 | 绍兴市文物保护点 | 绍县文广新闻〔2009〕24号 | 暂无 |
-| <nobr>41</nobr> | <nobr>齐贤街道</nobr> | 月德桥 | — | — | 民国 | 曙光居委会南孙自然村 | 绍兴市文物保护点 | 绍县文广新闻〔2011〕91号 | 暂无 |
-| <nobr>42</nobr> | <nobr>华舍街道</nobr> | 华春桥 [?](http://www.china-qiao.com/ql15/sxql/sxql151.htm) | 石拱桥（单孔） | 9米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>43</nobr> | <nobr>华舍街道</nobr> | 待驾桥 [?](http://www.china-qiao.com/ql15/sxql/sxql152.htm) | 石拱桥（单孔） | 20米 | 民国五年（1916）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>44</nobr> | <nobr>夏履镇</nobr> | 宣桥 [?](http://www.china-qiao.com/ql15/sxql/sxql226.htm) | 石拱桥（单孔） | 12米 | 清乾隆十九年（1754）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>45</nobr> | <nobr>夏履镇</nobr> | 新安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql229.htm) | 石拱桥（单孔） | 6米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>46</nobr> | <nobr>安昌街道</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql199.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>47</nobr> | <nobr>安昌街道</nobr> | 茶亭桥 [?](http://www.china-qiao.com/ql15/sxql/sxql203.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>48</nobr> | <nobr>安昌街道</nobr> | 半江庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql204.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>49</nobr> | <nobr>安昌街道</nobr> | 华封桥 [?](http://www.china-qiao.com/ql15/sxql/sxql205.htm) | 石梁桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>50</nobr> | <nobr>安昌街道</nobr> | 华隆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql206.htm) | 石梁桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>51</nobr> | <nobr>安昌街道</nobr> | 安昌古镇阳明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql514.htm) | 石梁桥（双孔） | — | 明 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>52</nobr> | <nobr>安昌街道</nobr> | 安昌古镇寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>53</nobr> | <nobr>安昌街道</nobr> | 安昌古镇弘治桥 [?](http://www.china-qiao.com/ql15/sxql/sxql190.htm) | — | — | 明 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>54</nobr> | <nobr>安昌街道</nobr> | 安昌古镇瑞安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql191.htm) | 石梁桥（单孔） | — | 清雍正年间建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>55</nobr> | <nobr>安昌街道</nobr> | 安昌古镇安吉桥 [?](http://www.china-qiao.com/ql15/sxql/sxql194.htm) | 石拱桥（单孔） | — | 明代中叶 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>56</nobr> | <nobr>安昌街道</nobr> | 安昌古镇三板桥 [?](http://www.china-qiao.com/ql15/sxql/sxql195.htm) | 石梁桥（单孔） | — | 明代中叶始建，清嘉庆四年（1799）重修；清嘉庆四年（1799）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>57</nobr> | <nobr>安昌街道</nobr> | 安昌古镇庆安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql517.htm) | 石梁桥（单孔） | — | 明始建，清光绪年间重修；清光绪年间重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>58</nobr> | <nobr>安昌街道</nobr> | 安昌古镇宁安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql196.htm) | 石梁桥（三孔） | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>59</nobr> | <nobr>安昌街道</nobr> | 兆嘉庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql200.htm) | 石梁桥（三孔） | 20.60米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>60</nobr> | <nobr>平水镇</nobr> | 福禄桥 [?](http://www.china-qiao.com/ql15/sxql/sxql642.htm) | 石拱桥（单孔） | 9.4米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>61</nobr> | <nobr>柯岩街道</nobr> | 浪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql147.htm) | 石梁桥（二十孔） | — | 清同治六年（1867）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>62</nobr> | <nobr>柯岩街道</nobr> | 阮社桥 [?](http://www.china-qiao.com/ql15/sxql/sxql148.htm) | — | 20米 | 宋嘉泰以前始建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>63</nobr> | <nobr>柯岩街道</nobr> | 伦敦桥 [?](http://www.china-qiao.com/ql15/sxql/sxql582.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>64</nobr> | <nobr>柯岩街道</nobr> | 永富桥 [?](http://www.china-qiao.com/ql15/sxql/sxql1013.htm) | 石梁桥（单孔） | 8.70米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>65</nobr> | <nobr>柯桥街道</nobr> | 中兴桥 [?](http://www.china-qiao.com/ql15/sxql/sxql142.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>66</nobr> | <nobr>柯桥街道</nobr> | 荫毓桥 [?](http://www.china-qiao.com/ql15/sxql/sxql144.htm) | 石拱桥（单孔） | 14.45米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>67</nobr> | <nobr>柯桥街道</nobr> | 长虹桥 [?](http://www.china-qiao.com/ql15/sxql/sxql727.htm) | — | — | 明万历三十二年（1604） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>68</nobr> | <nobr>柯桥街道</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/sxql/sxql767.htm) | 石拱桥（单孔） | — | 清始建，民国三十三年（1944）重修；民国三十三年（1944）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>69</nobr> | <nobr>湖塘街道</nobr> | 同堰桥 [?](http://www.china-qiao.com/ql15/sxql/sxql504.htm) | 石梁桥（单孔） | 10.45米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>70</nobr> | <nobr>湖塘街道</nobr> | 永隆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql221.htm) | 石梁桥（单孔） | 12.00米 | 清光绪二十八年（1902）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>71</nobr> | <nobr>漓渚镇</nobr> | 会元桥 [?](http://www.china-qiao.com/ql15/sxql/sxql224.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>72</nobr> | <nobr>漓渚镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql463.htm) | 石梁桥（三孔） | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>73</nobr> | <nobr>漓渚镇</nobr> | 申明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql225.htm) | 石梁桥（单孔） | 4.15米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>74</nobr> | <nobr>王坛镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/sxql/sxql209.htm) | 石梁桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>75</nobr> | <nobr>福全街道</nobr> | 庙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql169.htm) | 石拱桥（单孔） | 12米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>76</nobr> | <nobr>福全街道</nobr> | 全福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql170.htm) | 石梁桥（单孔） | 14.3米 | 民国三十二年（1943） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>77</nobr> | <nobr>福全街道</nobr> | 五福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql171.htm) | — | — | 民国二十三年（1934） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>78</nobr> | <nobr>稽东镇</nobr> | 廿里牌桥 [?](http://www.china-qiao.com/ql15/sxql/sxql217.htm) | 石梁桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>79</nobr> | <nobr>稽东镇</nobr> | 花岩桥 [?](http://www.china-qiao.com/ql15/sxql/sxql998.htm) | 石梁桥（四孔） | 20.00米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>80</nobr> | <nobr>稽东镇</nobr> | 小溪桥 [?](http://www.china-qiao.com/ql15/sxql/sxql995.htm) | 石梁桥（三孔） | 16.50米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>81</nobr> | <nobr>稽东镇</nobr> | 余清桥 [?](http://www.china-qiao.com/ql15/sxql/sxql999.htm) | 石梁桥（三孔） | 16.30米 | 清光绪七年（1881）建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>82</nobr> | <nobr>稽东镇</nobr> | 发祥桥 [?](http://www.china-qiao.com/ql15/sxql/sxql997.htm) | 石拱桥（单孔） | 4.90米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>83</nobr> | <nobr>钱清街道</nobr> | 益寿庄桥 [?](http://www.china-qiao.com/ql15/sxql/sxql162.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>84</nobr> | <nobr>钱清街道</nobr> | 太安殿桥 [?](http://www.china-qiao.com/ql15/sxql/sxql164.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>85</nobr> | <nobr>钱清街道</nobr> | 崇福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql165.htm) | 石梁桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>86</nobr> | <nobr>钱清街道</nobr> | 于会桥 [?](http://www.china-qiao.com/ql15/sxql/sxql166.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>87</nobr> | <nobr>钱清街道</nobr> | 烧饼桥 [?](http://www.china-qiao.com/ql15/sxql/sxql520.htm) | 石梁桥（单孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>88</nobr> | <nobr>钱清街道</nobr> | 渔后桥 [?](http://www.china-qiao.com/ql15/sxql/sxql167.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>89</nobr> | <nobr>钱清街道</nobr> | 渔中桥 [?](http://www.china-qiao.com/ql15/sxql/sxql863.htm) | 石梁桥（单孔） | 12.70米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>90</nobr> | <nobr>马鞍街道</nobr> | 众安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql176.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>91</nobr> | <nobr>马鞍街道</nobr> | 公安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql177.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>92</nobr> | <nobr>齐贤街道</nobr> | 凤林桥 [?](http://www.china-qiao.com/ql15/sxql/sxql158.htm) | 石梁桥（双孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>93</nobr> | <nobr>齐贤街道</nobr> | 沈家桥 [?](http://www.china-qiao.com/ql15/sxql/sxql157.htm) | 石拱桥（单孔） | 14米 | 明正德六年（1511） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

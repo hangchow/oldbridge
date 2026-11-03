@@ -35,69 +35,42 @@
 
 ### 省级文物保护单位（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>下各镇</nobr> | 下各东桥 [?](http://www.china-qiao.com/ql15/tzql/tzql138.htm) | 石拱桥（单孔） | 26.55米 | 明万历年间建 | 浙江省文物保护单位（7-63） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>下各镇</nobr> | 下各东桥 [?](http://www.china-qiao.com/ql15/tzql/tzql138.htm) | 石拱桥（单孔） | 26.55米 | 明万历年间建 | 浙江省文物保护单位（7-63） | [1](下各东桥1.jpg) |
 
 ### 文物保护点（5 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>福应街道</nobr> | 东门石桥 [?](http://www.china-qiao.com/ql15/tzql/tzql318.htm) | 石梁桥（2002年用钢筋混凝土修复，墩身、桥肋为混凝土） | 220米 | 民国 | 台州市文物保护点 |
-| <nobr>白塔镇</nobr> | 蛤蟆坑桥 | — | — | 清 | 台州市文物保护点 |
-| <nobr>上张乡</nobr> | 上张太平桥 | — | — | 清 | 台州市文物保护点 |
-| <nobr>步路乡</nobr> | 太师殿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql339.htm) | — | — | 民国 | 台州市文物保护点 |
-| <nobr>横溪镇</nobr> | 逢仙桥 | — | — | 清 | 台州市文物保护点 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>福应街道</nobr> | 东门石桥 [?](http://www.china-qiao.com/ql15/tzql/tzql318.htm) | 石梁桥（2002年用钢筋混凝土修复，墩身、桥肋为混凝土） | 220米 | 民国 | 台州市文物保护点 | [1](东门石桥1.jpg) |
+| <nobr>白塔镇</nobr> | 蛤蟆坑桥 | — | — | 清 | 台州市文物保护点 | 暂无 |
+| <nobr>上张乡</nobr> | 上张太平桥 | — | — | 清 | 台州市文物保护点 | 暂无 |
+| <nobr>步路乡</nobr> | 太师殿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql339.htm) | — | — | 民国 | 台州市文物保护点 | [1](太师殿桥1.jpg) |
+| <nobr>横溪镇</nobr> | 逢仙桥 | — | — | 清 | 台州市文物保护点 | 暂无 |
 
 ### 尚未定级（待核实）（17 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>朱溪镇</nobr> | 船岩桥 [?](http://www.china-qiao.com/ql15/tzql/tzql322.htm) | — | 5.6米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>溪港乡</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql314.htm) | 石拱桥（单孔） | 17.1米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>淡竹乡</nobr> | 油溪石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql324.htm) | 石拱桥（单孔） | 9.2米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>上张乡</nobr> | 过龙桥 [?](http://www.china-qiao.com/ql15/tzql/tzql319.htm) | 石拱桥（单孔） | 6.1米 | 晚清（据桥头碑记） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>广度乡</nobr> | 周家坑石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql336.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>广度乡</nobr> | 祖庙石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql320.htm) | 石拱桥（单孔） | 12米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>广度乡</nobr> | 万古桥 [?](http://www.china-qiao.com/ql15/tzql/tzql343.htm) | — | — | 清末 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>双庙乡</nobr> | 寺前石平桥 [?](http://www.china-qiao.com/ql15/tzql/tzql321.htm) | — | 8米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安洲街道</nobr> | 杜婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql317.htm) | 石梁桥（三孔） | 9米 | 清咸丰年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>横溪镇</nobr> | 坎下太平桥 [?](http://www.china-qiao.com/ql15/tzql/tzql311.htm) | 石拱桥（单孔） | 18米 | 清同治五年（1866）建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>埠头镇</nobr> | 兴市桥 [?](http://www.china-qiao.com/ql15/tzql/tzql316.htm) | 石拱桥（单孔） | 8.5米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>白塔镇</nobr> | 永镇桥 [?](http://www.china-qiao.com/ql15/tzql/tzql136.htm) | 石拱桥（三孔） | 31.5米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>田市镇</nobr> | 望星桥 [?](http://www.china-qiao.com/ql15/tzql/tzql137.htm) | 石拱桥（五孔） | 64米 | 民国二十七年（1938） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>田市镇</nobr> | 公盂桥 [?](http://www.china-qiao.com/ql15/tzql/tzql340.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安岭乡</nobr> | 进善桥 [?](http://www.china-qiao.com/ql15/tzql/tzql323.htm) | 石拱桥（单孔） | 9.3米 | 明末清初，民国十五年（1926）重修；民国十五年（1926）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>湫山乡</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/tzql/tzql313.htm) | 石拱桥（七孔） | 63米 | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>湫山乡</nobr> | 镇安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql342.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>朱溪镇</nobr> | 船岩桥 [?](http://www.china-qiao.com/ql15/tzql/tzql322.htm) | — | 5.6米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>溪港乡</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql314.htm) | 石拱桥（单孔） | 17.1米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>淡竹乡</nobr> | 油溪石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql324.htm) | 石拱桥（单孔） | 9.2米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>上张乡</nobr> | 过龙桥 [?](http://www.china-qiao.com/ql15/tzql/tzql319.htm) | 石拱桥（单孔） | 6.1米 | 晚清（据桥头碑记） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>广度乡</nobr> | 周家坑石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql336.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>广度乡</nobr> | 祖庙石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql320.htm) | 石拱桥（单孔） | 12米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>广度乡</nobr> | 万古桥 [?](http://www.china-qiao.com/ql15/tzql/tzql343.htm) | — | — | 清末 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>双庙乡</nobr> | 寺前石平桥 [?](http://www.china-qiao.com/ql15/tzql/tzql321.htm) | — | 8米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安洲街道</nobr> | 杜婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql317.htm) | 石梁桥（三孔） | 9米 | 清咸丰年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>横溪镇</nobr> | 坎下太平桥 [?](http://www.china-qiao.com/ql15/tzql/tzql311.htm) | 石拱桥（单孔） | 18米 | 清同治五年（1866）建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>埠头镇</nobr> | 兴市桥 [?](http://www.china-qiao.com/ql15/tzql/tzql316.htm) | 石拱桥（单孔） | 8.5米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>白塔镇</nobr> | 永镇桥 [?](http://www.china-qiao.com/ql15/tzql/tzql136.htm) | 石拱桥（三孔） | 31.5米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>田市镇</nobr> | 望星桥 [?](http://www.china-qiao.com/ql15/tzql/tzql137.htm) | 石拱桥（五孔） | 64米 | 民国二十七年（1938） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>田市镇</nobr> | 公盂桥 [?](http://www.china-qiao.com/ql15/tzql/tzql340.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安岭乡</nobr> | 进善桥 [?](http://www.china-qiao.com/ql15/tzql/tzql323.htm) | 石拱桥（单孔） | 9.3米 | 明末清初，民国十五年（1926）重修；民国十五年（1926）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>湫山乡</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/tzql/tzql313.htm) | 石拱桥（七孔） | 63米 | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>湫山乡</nobr> | 镇安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql342.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>下各镇</nobr> | 下各东桥 [?](http://www.china-qiao.com/ql15/tzql/tzql138.htm) | 石拱桥（单孔） | 26.55米 | 明万历年间建 | — | 浙江省文物保护单位（7-63） | — | [1](下各东桥1.jpg) |
-| <nobr>2</nobr> | <nobr>上张乡</nobr> | 上张太平桥 | — | — | 清 | 上张村汤口自然村 | 台州市文物保护点 | 仙文广新〔2009〕20号 | 暂无 |
-| <nobr>3</nobr> | <nobr>横溪镇</nobr> | 逢仙桥 | — | — | 清 | 逢仙桥村 | 台州市文物保护点 | 仙文广新〔2009〕56号 | 暂无 |
-| <nobr>4</nobr> | <nobr>步路乡</nobr> | 太师殿桥 [?](http://www.china-qiao.com/ql15/tzql/tzql339.htm) | — | — | 民国 | 湖山村太师殿自然村 | 台州市文物保护点 | 仙文广新〔2009〕20号 | [1](太师殿桥1.jpg) |
-| <nobr>5</nobr> | <nobr>白塔镇</nobr> | 蛤蟆坑桥 | — | — | 清 | 仙景村王户自然村 | 台州市文物保护点 | 仙文广新〔2009〕56号 | 暂无 |
-| <nobr>6</nobr> | <nobr>福应街道</nobr> | 东门石桥 [?](http://www.china-qiao.com/ql15/tzql/tzql318.htm) | 石梁桥（2002年用钢筋混凝土修复，墩身、桥肋为混凝土） | 220米 | 民国 | 东门社区 | 台州市文物保护点 | 仙文广新〔2013〕3号 | [1](东门石桥1.jpg) |
-| <nobr>7</nobr> | <nobr>上张乡</nobr> | 过龙桥 [?](http://www.china-qiao.com/ql15/tzql/tzql319.htm) | 石拱桥（单孔） | 6.1米 | 晚清（据桥头碑记） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>8</nobr> | <nobr>双庙乡</nobr> | 寺前石平桥 [?](http://www.china-qiao.com/ql15/tzql/tzql321.htm) | — | 8米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>9</nobr> | <nobr>埠头镇</nobr> | 兴市桥 [?](http://www.china-qiao.com/ql15/tzql/tzql316.htm) | 石拱桥（单孔） | 8.5米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>10</nobr> | <nobr>安岭乡</nobr> | 进善桥 [?](http://www.china-qiao.com/ql15/tzql/tzql323.htm) | 石拱桥（单孔） | 9.3米 | 明末清初，民国十五年（1926）重修；民国十五年（1926）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>11</nobr> | <nobr>安洲街道</nobr> | 杜婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql317.htm) | 石梁桥（三孔） | 9米 | 清咸丰年间建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>12</nobr> | <nobr>广度乡</nobr> | 周家坑石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql336.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>13</nobr> | <nobr>广度乡</nobr> | 祖庙石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql320.htm) | 石拱桥（单孔） | 12米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>14</nobr> | <nobr>广度乡</nobr> | 万古桥 [?](http://www.china-qiao.com/ql15/tzql/tzql343.htm) | — | — | 清末 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>15</nobr> | <nobr>朱溪镇</nobr> | 船岩桥 [?](http://www.china-qiao.com/ql15/tzql/tzql322.htm) | — | 5.6米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>16</nobr> | <nobr>横溪镇</nobr> | 坎下太平桥 [?](http://www.china-qiao.com/ql15/tzql/tzql311.htm) | 石拱桥（单孔） | 18米 | 清同治五年（1866）建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>17</nobr> | <nobr>淡竹乡</nobr> | 油溪石拱桥 [?](http://www.china-qiao.com/ql15/tzql/tzql324.htm) | 石拱桥（单孔） | 9.2米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>18</nobr> | <nobr>湫山乡</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/tzql/tzql313.htm) | 石拱桥（七孔） | 63米 | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>19</nobr> | <nobr>湫山乡</nobr> | 镇安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql342.htm) | — | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>20</nobr> | <nobr>溪港乡</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/tzql/tzql314.htm) | 石拱桥（单孔） | 17.1米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>21</nobr> | <nobr>田市镇</nobr> | 望星桥 [?](http://www.china-qiao.com/ql15/tzql/tzql137.htm) | 石拱桥（五孔） | 64米 | 民国二十七年（1938） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>22</nobr> | <nobr>田市镇</nobr> | 公盂桥 [?](http://www.china-qiao.com/ql15/tzql/tzql340.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>23</nobr> | <nobr>白塔镇</nobr> | 永镇桥 [?](http://www.china-qiao.com/ql15/tzql/tzql136.htm) | 石拱桥（三孔） | 31.5米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

@@ -52,7 +52,7 @@ def level_table(rows):
     c = collections.Counter(cat(r['level']) for r in rows)
     return ['| 级别 | 数量 |', '|---|---|'] + [f'| {k} | {c[k]} |' for k in CATS if c[k]]
 
-def level_lists(rows, full_all, with_dist, base=O, city=''):
+def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None):
     L = []
     for k in CATS:
         x = [r for r in rows if cat(r['level']) == k]
@@ -62,9 +62,9 @@ def level_lists(rows, full_all, with_dist, base=O, city=''):
         if not x: continue
         L += ['', f'### {k}（{len(x)} 座）', '']
         if full_all or k in LIST_FULL:
-            hdr = ('| 区县 ' if with_dist else '') + '| 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |'
-            L += [hdr, '|---' * (7 if with_dist else 6) + '|']
-            L += [('| ' + NB(r['dist']) + ' ' if with_dist else '') + f"| {r['town']} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" for r in x]
+            hdr = ('| 区县 ' if with_dist else '') + '| 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |' + (' 图片 |' if imgs is not None else '')
+            L += [hdr, '|---' * ((7 if with_dist else 6) + (imgs is not None)) + '|']
+            L += [('| ' + NB(r['dist']) + ' ' if with_dist else '') + f"| {r['town']} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" + (f" {imgs.get((r['town'], r['name']), '暂无')} |" if imgs is not None else '') for r in x]
         else:
             L += ['数量较多，见各区县文件。']
     return L
@@ -158,8 +158,21 @@ for c in ORDER:
         body = open(fp, encoding='utf8').read().split('\n')[1:] if os.path.exists(fp) else []   # 原表格文件：去掉标题，整体并入 README
         L = [f'# {c}{d}古桥', '', f'共收录 {len(rs)} 座桥。', '', '## 按级别统计', ''] + (level_table(rs) if rs else [x for x in body if x.strip()] or ['名录里没有桥梁。'])
         if rs: L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| {k} | {n} |' for k, n in t.most_common()]
-        L += ['', '## 按级别列出'] + (level_lists(rs, True, False, p, c) if rs else ['', '无。'])
-        if rs and body: L += ['', '## 详细表格（位置、公布文件、图片）'] + body
+        # 原表格：取“图片”一列并到按级别列出里，表格后面的说明、来源、图片来源保留
+        imgs, rest, intab, hdr = {}, [], False, []
+        for x in body:
+            if x.startswith('| ') and ('序号' in x or intab):
+                cs = [re.sub(r'</?nobr>', '', y).strip() for y in x.strip().strip('|').split(' | ')]
+                if '序号' in x: hdr = cs; intab = True; continue
+                if hdr and hdr[-1] == '图片' and len(cs) == len(hdr):
+                    nm = re.sub(r' \[\?\]\(.*?\)$', '', cs[2]); nm = re.sub(r'^\[(.*?)\]\(.*?\)$', r'\1', nm)
+                    imgs[(cs[1], nm)] = cs[-1]
+            elif x.startswith('|---') and intab: continue
+            else:
+                if intab and not x.strip(): intab = False
+                if not intab: rest.append(x)
+        L += ['', '## 按级别列出'] + (level_lists(rs, True, False, p, c, imgs) if rs else ['', '无。'])
+        if rs and body: L += rest
         open(f'{p}/README.md', 'w').write('\n'.join(L).rstrip('\n') + '\n')
         DONE.append((c, d, len(rs), fp))
         if os.path.exists(fp): os.remove(fp)   # 已并入 README，不再单独保留

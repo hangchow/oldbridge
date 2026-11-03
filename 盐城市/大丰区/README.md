@@ -19,21 +19,13 @@
 
 ### 尚未定级（待核实）（4 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>草堰镇</nobr> | 庆丰桥 [?](http://www.china-qiao.com/ql16/ycql/ycql013.htm) | 石拱桥 | 25米 | 南宋淳熙年间始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>草堰镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql16/ycql/ycql014.htm) | — | — | 明万历三十六年（1608） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>草堰镇</nobr> | 龙门桥 [?](http://www.china-qiao.com/ql16/ycql/ycql015.htm) | — | — | 民国二十五年（1936） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>刘庄镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql16/ycql/ycql016.htm) | — | — | 民国三年（1914）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>草堰镇</nobr> | 庆丰桥 [?](http://www.china-qiao.com/ql16/ycql/ycql013.htm) | 石拱桥 | 25米 | 南宋淳熙年间始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>草堰镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql16/ycql/ycql014.htm) | — | — | 明万历三十六年（1608） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>草堰镇</nobr> | 龙门桥 [?](http://www.china-qiao.com/ql16/ycql/ycql015.htm) | — | — | 民国二十五年（1936） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>刘庄镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql16/ycql/ycql016.htm) | — | — | 民国三年（1914）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>刘庄镇</nobr> | 万寿桥 [?](http://www.china-qiao.com/ql16/ycql/ycql016.htm) | — | — | 民国三年（1914）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>草堰镇</nobr> | 庆丰桥 [?](http://www.china-qiao.com/ql16/ycql/ycql013.htm) | 石拱桥 | 25米 | 南宋淳熙年间始建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>3</nobr> | <nobr>草堰镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql16/ycql/ycql014.htm) | — | — | 明万历三十六年（1608） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>4</nobr> | <nobr>草堰镇</nobr> | 龙门桥 [?](http://www.china-qiao.com/ql16/ycql/ycql015.htm) | — | — | 民国二十五年（1936） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

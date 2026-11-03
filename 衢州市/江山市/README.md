@@ -21,25 +21,15 @@
 
 ### 县（区）级文物保护单位（6 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>峡口镇</nobr> | 文昌桥 [?](http://www.china-qiao.com/ql15/qzql/qzql037.htm) | — | 17.5米 | 清乾隆年间建 | 江山市文物保护单位 |
-| <nobr>廿八都镇</nobr> | 水安桥 [?](http://www.china-qiao.com/ql15/qzql/qzql019.htm) | — | — | 清代 | 江山市文物保护单位 |
-| <nobr>廿八都镇</nobr> | 枫溪桥 [?](http://www.china-qiao.com/ql15/qzql/qzql018.htm) | — | — | 清代 | 江山市文物保护单位 |
-| <nobr>上余镇</nobr> | 石拱桥 | — | — | 清代 | 江山市文物保护单位 |
-| <nobr>上余镇</nobr> | 临江桥 | — | — | 清 | 江山市文物保护单位 |
-| <nobr>保安乡</nobr> | 慕仙桥 | — | — | 民国 | 江山市文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>峡口镇</nobr> | 文昌桥 [?](http://www.china-qiao.com/ql15/qzql/qzql037.htm) | — | 17.5米 | 清乾隆年间建 | 江山市文物保护单位 | [1](文昌桥1.jpg) |
+| <nobr>廿八都镇</nobr> | 水安桥 [?](http://www.china-qiao.com/ql15/qzql/qzql019.htm) | — | — | 清代 | 江山市文物保护单位 | [1](水安桥1.jpg) |
+| <nobr>廿八都镇</nobr> | 枫溪桥 [?](http://www.china-qiao.com/ql15/qzql/qzql018.htm) | — | — | 清代 | 江山市文物保护单位 | [1](枫溪桥1.jpg) |
+| <nobr>上余镇</nobr> | 石拱桥 | — | — | 清代 | 江山市文物保护单位 | 暂无 |
+| <nobr>上余镇</nobr> | 临江桥 | — | — | 清 | 江山市文物保护单位 | 暂无 |
+| <nobr>保安乡</nobr> | 慕仙桥 | — | — | 民国 | 江山市文物保护单位 | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>上余镇</nobr> | 石拱桥 | — | — | 清代 | 上余镇一都江村 | 江山市文物保护单位 | — | 暂无 |
-| <nobr>2</nobr> | <nobr>上余镇</nobr> | 临江桥 | — | — | 清 | 上余镇余航村 | 江山市文物保护单位 | — | 暂无 |
-| <nobr>3</nobr> | <nobr>保安乡</nobr> | 慕仙桥 | — | — | 民国 | 保安乡赵宅门村 | 江山市文物保护单位 | — | 暂无 |
-| <nobr>4</nobr> | <nobr>峡口镇</nobr> | 文昌桥 [?](http://www.china-qiao.com/ql15/qzql/qzql037.htm) | — | 17.5米 | 清乾隆年间建 | 峡口镇三卿口村 | 江山市文物保护单位 | — | [1](文昌桥1.jpg) |
-| <nobr>5</nobr> | <nobr>廿八都镇</nobr> | 水安桥 [?](http://www.china-qiao.com/ql15/qzql/qzql019.htm) | — | — | 清代 | 廿八都镇枫溪村 | 江山市文物保护单位 | — | [1](水安桥1.jpg) |
-| <nobr>6</nobr> | <nobr>廿八都镇</nobr> | 枫溪桥 [?](http://www.china-qiao.com/ql15/qzql/qzql018.htm) | — | — | 清代 | 廿八都镇枫溪村 | 江山市文物保护单位 | — | [1](枫溪桥1.jpg) |
 
 ## 说明
 

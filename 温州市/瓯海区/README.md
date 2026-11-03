@@ -24,34 +24,22 @@
 
 ### 省级文物保护单位（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>潘桥街道</nobr> | 陈庄金锁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql047.htm) | — | 10米 | 北宋崇宁三年（1104）建 | 浙江省文物保护单位（8-29） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>潘桥街道</nobr> | 陈庄金锁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql047.htm) | — | 10米 | 北宋崇宁三年（1104）建 | 浙江省文物保护单位（8-29） | 暂无 |
 
 ### 尚未定级（待核实）（7 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>娄桥街道</nobr> | 进利桥 [?](http://www.china-qiao.com/ql15/wzql/wzql200.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>梧田街道</nobr> | 庆安桥 [?](http://www.china-qiao.com/ql15/wzql/wzql040.htm) | — | — | 清嘉庆年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>郭溪街道</nobr> | 任桥 [?](http://www.china-qiao.com/ql15/wzql/wzql043.htm) | 石梁桥（四孔） | — | 宋始建（据桥柱刻字） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>郭溪街道</nobr> | 棚湖桥 [?](http://www.china-qiao.com/ql15/wzql/wzql044.htm) | 石梁桥（三孔） | — | 清道光二十二年（1842）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>雄溪街道</nobr> | 集福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql045.htm) | 石梁桥（三孔） | 14米 | 清乾隆五十八年（1793）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>潘桥街道</nobr> | 潘桥 [?](http://www.china-qiao.com/ql15/wzql/wzql046.htm) | 石梁桥（三孔） | — | 宋始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>泽雅镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql211.htm) | — | 24.8米 | 清光绪二十年（1894）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>娄桥街道</nobr> | 进利桥 [?](http://www.china-qiao.com/ql15/wzql/wzql200.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>梧田街道</nobr> | 庆安桥 [?](http://www.china-qiao.com/ql15/wzql/wzql040.htm) | — | — | 清嘉庆年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>郭溪街道</nobr> | 任桥 [?](http://www.china-qiao.com/ql15/wzql/wzql043.htm) | 石梁桥（四孔） | — | 宋始建（据桥柱刻字） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>郭溪街道</nobr> | 棚湖桥 [?](http://www.china-qiao.com/ql15/wzql/wzql044.htm) | 石梁桥（三孔） | — | 清道光二十二年（1842）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>雄溪街道</nobr> | 集福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql045.htm) | 石梁桥（三孔） | 14米 | 清乾隆五十八年（1793）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>潘桥街道</nobr> | 潘桥 [?](http://www.china-qiao.com/ql15/wzql/wzql046.htm) | 石梁桥（三孔） | — | 宋始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>泽雅镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql211.htm) | — | 24.8米 | 清光绪二十年（1894）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>潘桥街道</nobr> | 陈庄金锁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql047.htm) | — | 10米 | 北宋崇宁三年（1104）建 | 瓯海区潘桥街道 | 浙江省文物保护单位（8-29） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>娄桥街道</nobr> | 进利桥 [?](http://www.china-qiao.com/ql15/wzql/wzql200.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>3</nobr> | <nobr>梧田街道</nobr> | 庆安桥 [?](http://www.china-qiao.com/ql15/wzql/wzql040.htm) | — | — | 清嘉庆年间建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>4</nobr> | <nobr>泽雅镇</nobr> | 通济桥 [?](http://www.china-qiao.com/ql15/wzql/wzql211.htm) | — | 24.8米 | 清光绪二十年（1894）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>5</nobr> | <nobr>潘桥街道</nobr> | 潘桥 [?](http://www.china-qiao.com/ql15/wzql/wzql046.htm) | 石梁桥（三孔） | — | 宋始建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>6</nobr> | <nobr>郭溪街道</nobr> | 任桥 [?](http://www.china-qiao.com/ql15/wzql/wzql043.htm) | 石梁桥（四孔） | — | 宋始建（据桥柱刻字） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>7</nobr> | <nobr>郭溪街道</nobr> | 棚湖桥 [?](http://www.china-qiao.com/ql15/wzql/wzql044.htm) | 石梁桥（三孔） | — | 清道光二十二年（1842）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>8</nobr> | <nobr>雄溪街道</nobr> | 集福桥 [?](http://www.china-qiao.com/ql15/wzql/wzql045.htm) | 石梁桥（三孔） | 14米 | 清乾隆五十八年（1793）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

@@ -28,122 +28,71 @@
 
 ### 省级文物保护单位（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>横河镇</nobr> | 七星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql265.htm) | 石拱桥（三孔） | 25米 | 清道光年间重修 | 浙江省文物保护单位（8-59） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>横河镇</nobr> | 七星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql265.htm) | 石拱桥（三孔） | 25米 | 清道光年间重修 | 浙江省文物保护单位（8-59） | [1](七星桥1.jpg) |
 
 ### 县（区）级文物保护单位（6 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>掌起镇</nobr> | 古卧床桥 | — | — | 清 | 慈溪市文物保护单位 |
-| <nobr>掌起镇</nobr> | 金锁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql237.htm) | — | — | 清 | 慈溪市文物保护单位 |
-| <nobr>三北镇</nobr> | 达蓬桥 [?](http://www.china-qiao.com/ql15/nbql/nbql276.htm) | — | 6米 | 清乾隆四十九年（1784）建，清宣统元年（1909）重修 | 慈溪市文物保护单位 |
-| <nobr>观海卫镇</nobr> | 鸣鹤街河桥 | — | — | 清、民国 | 慈溪市文物保护单位 |
-| <nobr>观海卫镇</nobr> | 沈师桥 [?](http://www.china-qiao.com/ql15/nbql/nbql243.htm) | — | 7.6米 | 清同治十三年（1874）重建 | 慈溪市文物保护单位 |
-| <nobr>龙山镇</nobr> | 刺史桥 [?](http://www.china-qiao.com/ql15/nbql/nbql275.htm) | — | — | 清 | 慈溪市文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>掌起镇</nobr> | 古卧床桥 | — | — | 清 | 慈溪市文物保护单位 | 暂无 |
+| <nobr>掌起镇</nobr> | 金锁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql237.htm) | — | — | 清 | 慈溪市文物保护单位 | [1](金锁桥1.jpg) |
+| <nobr>三北镇</nobr> | 达蓬桥 [?](http://www.china-qiao.com/ql15/nbql/nbql276.htm) | — | 6米 | 清乾隆四十九年（1784）建，清宣统元年（1909）重修 | 慈溪市文物保护单位 | [1](达蓬桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 鸣鹤街河桥 | — | — | 清、民国 | 慈溪市文物保护单位 | 暂无 |
+| <nobr>观海卫镇</nobr> | 沈师桥 [?](http://www.china-qiao.com/ql15/nbql/nbql243.htm) | — | 7.6米 | 清同治十三年（1874）重建 | 慈溪市文物保护单位 | [1](沈师桥1.jpg) |
+| <nobr>龙山镇</nobr> | 刺史桥 [?](http://www.china-qiao.com/ql15/nbql/nbql275.htm) | — | — | 清 | 慈溪市文物保护单位 | [1](刺史桥1.jpg) |
 
 ### 文物保护点（13 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>观海卫镇</nobr> | 唐荔桥 [?](http://www.china-qiao.com/ql15/nbql/nbql242.htm) | 石拱桥（单孔） | 13米 | 清道光十一年（1831）重修 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 永凝桥 [?](http://www.china-qiao.com/ql15/nbql/nbql241.htm) | — | 13米 | 民国 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 典渡桥清节祠 | — | — | 清 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 隆兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql260.htm) | — | 5.02米 | 民国 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 锦堂学校第二学堂桥 | — | — | 清 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 义桥 [?](http://www.china-qiao.com/ql15/nbql/nbql255.htm) | — | 4.50米 | 民国二年（1913）重建 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 护隆桥 [?](http://www.china-qiao.com/ql15/nbql/nbql262.htm) | — | — | 民国 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 聚洄桥 [?](http://www.china-qiao.com/ql15/nbql/nbql256.htm) | — | 4.48米 | 民国六年（1917）重建 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 彩虹桥 [?](http://www.china-qiao.com/ql15/nbql/nbql259.htm) | — | 4.49米 | 民国 | 宁波市文物保护点 |
-| <nobr>观海卫镇</nobr> | 明镜桥 [?](http://www.china-qiao.com/ql15/nbql/nbql253.htm) | — | 4.50米 | 民国二十年（1931）重修 | 宁波市文物保护点 |
-| <nobr>掌起镇</nobr> | 竹山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql240.htm) | 石梁桥（单孔） | 5.06米 | 清 | 宁波市文物保护点 |
-| <nobr>掌起镇</nobr> | 迎阳桥 [?](http://www.china-qiao.com/ql15/nbql/nbql234.htm) | — | 5.03米 | 民国十九年（1930）重建 | 宁波市文物保护点 |
-| <nobr>观海卫镇、掌起镇</nobr> | 快船江古桥群 | — | — | 清、民国 | 宁波市文物保护点 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>观海卫镇</nobr> | 唐荔桥 [?](http://www.china-qiao.com/ql15/nbql/nbql242.htm) | 石拱桥（单孔） | 13米 | 清道光十一年（1831）重修 | 宁波市文物保护点 | [1](唐荔桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 永凝桥 [?](http://www.china-qiao.com/ql15/nbql/nbql241.htm) | — | 13米 | 民国 | 宁波市文物保护点 | [1](永凝桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 典渡桥清节祠 | — | — | 清 | 宁波市文物保护点 | 暂无 |
+| <nobr>观海卫镇</nobr> | 隆兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql260.htm) | — | 5.02米 | 民国 | 宁波市文物保护点 | [1](隆兴桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 锦堂学校第二学堂桥 | — | — | 清 | 宁波市文物保护点 | 暂无 |
+| <nobr>观海卫镇</nobr> | 义桥 [?](http://www.china-qiao.com/ql15/nbql/nbql255.htm) | — | 4.50米 | 民国二年（1913）重建 | 宁波市文物保护点 | [1](义桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 护隆桥 [?](http://www.china-qiao.com/ql15/nbql/nbql262.htm) | — | — | 民国 | 宁波市文物保护点 | [1](护隆桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 聚洄桥 [?](http://www.china-qiao.com/ql15/nbql/nbql256.htm) | — | 4.48米 | 民国六年（1917）重建 | 宁波市文物保护点 | [1](聚洄桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 彩虹桥 [?](http://www.china-qiao.com/ql15/nbql/nbql259.htm) | — | 4.49米 | 民国 | 宁波市文物保护点 | [1](彩虹桥1.jpg) |
+| <nobr>观海卫镇</nobr> | 明镜桥 [?](http://www.china-qiao.com/ql15/nbql/nbql253.htm) | — | 4.50米 | 民国二十年（1931）重修 | 宁波市文物保护点 | [1](明镜桥1.jpg) |
+| <nobr>掌起镇</nobr> | 竹山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql240.htm) | 石梁桥（单孔） | 5.06米 | 清 | 宁波市文物保护点 | [1](竹山桥1.jpg) |
+| <nobr>掌起镇</nobr> | 迎阳桥 [?](http://www.china-qiao.com/ql15/nbql/nbql234.htm) | — | 5.03米 | 民国十九年（1930）重建 | 宁波市文物保护点 | [1](迎阳桥1.jpg) |
+| <nobr>观海卫镇、掌起镇</nobr> | 快船江古桥群 | — | — | 清、民国 | 宁波市文物保护点 | 暂无 |
 
 ### 尚未定级（待核实）（27 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>观海卫镇</nobr> | 鸣鹤典当桥 [?](http://www.china-qiao.com/ql15/nbql/nbql250.htm) | 石梁桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 鸣鹤世德桥 [?](http://www.china-qiao.com/ql15/nbql/nbql246.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 鸣鹤沙滩桥 [?](http://www.china-qiao.com/ql15/nbql/nbql249.htm) | — | 11米 | 民国二十年（1931）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 鸣鹤椿萱桥 [?](http://www.china-qiao.com/ql15/nbql/nbql251.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 聚源桥 [?](http://www.china-qiao.com/ql15/nbql/nbql252.htm) | — | 3.84米 | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 东泽桥 [?](http://www.china-qiao.com/ql15/nbql/nbql254.htm) | — | 3.37米 | 民国三十六年（1947）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 东桥 [?](http://www.china-qiao.com/ql15/nbql/nbql257.htm) | — | 4.17米 | 民国八年（1919）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 西泽桥 [?](http://www.china-qiao.com/ql15/nbql/nbql258.htm) | — | 3.52米 | 民国十一年（1922） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>观海卫镇</nobr> | 后溪桥 [?](http://www.china-qiao.com/ql15/nbql/nbql261.htm) | — | 6.2米 | 唐五代至北宋（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 卧龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql268.htm) | — | — | 清（原地保留，河道已填） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 接龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql269.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql270.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 带霞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql271.htm) | — | 3.22米 | 民国二十年（1931）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 兰屿桥 [?](http://www.china-qiao.com/ql15/nbql/nbql273.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 上溪桥 [?](http://www.china-qiao.com/ql15/nbql/nbql274.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>龙山镇</nobr> | 官庄桥 [?](http://www.china-qiao.com/ql15/nbql/nbql277.htm) | — | 3.92米 | 清宣统二年（1910）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 护龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql227.htm) | — | 11米 | 清道光六年（1826）重建，清光绪三年（1877）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 狮子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql228.htm) | 石拱桥（单孔） | 12米 | 明始建，民国二十三年（1934）重建；民国二十三年（1934）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 三径桥 [?](http://www.china-qiao.com/ql15/nbql/nbql229.htm) | — | 10.80米 | 清道光二十三年（1843）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 怀德桥 [?](http://www.china-qiao.com/ql15/nbql/nbql231.htm) | — | 10.82米 | 清嘉庆十八年（1813）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 正阳桥 [?](http://www.china-qiao.com/ql15/nbql/nbql232.htm) | 石梁桥（单孔） | 5.03米 | 清光绪年间 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 雍穆桥 [?](http://www.china-qiao.com/ql15/nbql/nbql233.htm) | — | 5.27米 | 民国十八年（1929） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 彰和桥 [?](http://www.china-qiao.com/ql15/nbql/nbql236.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 扶风桥 [?](http://www.china-qiao.com/ql15/nbql/nbql239.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>掌起镇</nobr> | 仁美桥 [?](http://www.china-qiao.com/ql15/nbql/nbql370.htm) | 石梁桥（单孔） | — | 清乾隆至道光年间 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>桥头镇</nobr> | 德兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql263.htm) | — | 4.20米 | 民国十九年（1930） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>周巷镇</nobr> | 义元桥 [?](http://www.china-qiao.com/ql15/nbql/nbql267.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>观海卫镇</nobr> | 鸣鹤典当桥 [?](http://www.china-qiao.com/ql15/nbql/nbql250.htm) | 石梁桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 鸣鹤世德桥 [?](http://www.china-qiao.com/ql15/nbql/nbql246.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 鸣鹤沙滩桥 [?](http://www.china-qiao.com/ql15/nbql/nbql249.htm) | — | 11米 | 民国二十年（1931）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 鸣鹤椿萱桥 [?](http://www.china-qiao.com/ql15/nbql/nbql251.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 聚源桥 [?](http://www.china-qiao.com/ql15/nbql/nbql252.htm) | — | 3.84米 | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 东泽桥 [?](http://www.china-qiao.com/ql15/nbql/nbql254.htm) | — | 3.37米 | 民国三十六年（1947）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 东桥 [?](http://www.china-qiao.com/ql15/nbql/nbql257.htm) | — | 4.17米 | 民国八年（1919）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 西泽桥 [?](http://www.china-qiao.com/ql15/nbql/nbql258.htm) | — | 3.52米 | 民国十一年（1922） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>观海卫镇</nobr> | 后溪桥 [?](http://www.china-qiao.com/ql15/nbql/nbql261.htm) | — | 6.2米 | 唐五代至北宋（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 卧龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql268.htm) | — | — | 清（原地保留，河道已填） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 接龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql269.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql270.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 带霞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql271.htm) | — | 3.22米 | 民国二十年（1931）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 兰屿桥 [?](http://www.china-qiao.com/ql15/nbql/nbql273.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 上溪桥 [?](http://www.china-qiao.com/ql15/nbql/nbql274.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>龙山镇</nobr> | 官庄桥 [?](http://www.china-qiao.com/ql15/nbql/nbql277.htm) | — | 3.92米 | 清宣统二年（1910）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 护龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql227.htm) | — | 11米 | 清道光六年（1826）重建，清光绪三年（1877）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 狮子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql228.htm) | 石拱桥（单孔） | 12米 | 明始建，民国二十三年（1934）重建；民国二十三年（1934）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 三径桥 [?](http://www.china-qiao.com/ql15/nbql/nbql229.htm) | — | 10.80米 | 清道光二十三年（1843）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 怀德桥 [?](http://www.china-qiao.com/ql15/nbql/nbql231.htm) | — | 10.82米 | 清嘉庆十八年（1813）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 正阳桥 [?](http://www.china-qiao.com/ql15/nbql/nbql232.htm) | 石梁桥（单孔） | 5.03米 | 清光绪年间 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 雍穆桥 [?](http://www.china-qiao.com/ql15/nbql/nbql233.htm) | — | 5.27米 | 民国十八年（1929） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 彰和桥 [?](http://www.china-qiao.com/ql15/nbql/nbql236.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 扶风桥 [?](http://www.china-qiao.com/ql15/nbql/nbql239.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>掌起镇</nobr> | 仁美桥 [?](http://www.china-qiao.com/ql15/nbql/nbql370.htm) | 石梁桥（单孔） | — | 清乾隆至道光年间 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>桥头镇</nobr> | 德兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql263.htm) | — | 4.20米 | 民国十九年（1930） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>周巷镇</nobr> | 义元桥 [?](http://www.china-qiao.com/ql15/nbql/nbql267.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>横河镇</nobr> | 七星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql265.htm) | 石拱桥（三孔） | 25米 | 清道光年间重修 | 横河镇南街 | 浙江省文物保护单位（8-59） | — | [1](七星桥1.jpg) |
-| <nobr>2</nobr> | <nobr>三北镇</nobr> | 达蓬桥 [?](http://www.china-qiao.com/ql15/nbql/nbql276.htm) | — | 6米 | 清乾隆四十九年（1784）建，清宣统元年（1909）重修 | 三北镇达蓬村 | 慈溪市文物保护单位 | — | [1](达蓬桥1.jpg) |
-| <nobr>3</nobr> | <nobr>掌起镇</nobr> | 古卧床桥 | — | — | 清 | 掌起镇黄家村 | 慈溪市文物保护单位 | — | 暂无 |
-| <nobr>4</nobr> | <nobr>掌起镇</nobr> | 金锁桥 [?](http://www.china-qiao.com/ql15/nbql/nbql237.htm) | — | — | 清 | 掌起镇洪魏村 | 慈溪市文物保护单位 | — | [1](金锁桥1.jpg) |
-| <nobr>5</nobr> | <nobr>观海卫镇</nobr> | 鸣鹤街河桥 | — | — | 清、民国 | 观海卫镇鸣兴、双湖村 | 慈溪市文物保护单位 | — | 暂无 |
-| <nobr>6</nobr> | <nobr>观海卫镇</nobr> | 沈师桥 [?](http://www.china-qiao.com/ql15/nbql/nbql243.htm) | — | 7.6米 | 清同治十三年（1874）重建 | 观海卫镇沈师桥村大桥头自然村 | 慈溪市文物保护单位 | — | [1](沈师桥1.jpg) |
-| <nobr>7</nobr> | <nobr>龙山镇</nobr> | 刺史桥 [?](http://www.china-qiao.com/ql15/nbql/nbql275.htm) | — | — | 清 | 龙山镇伏龙山千丈岩西侧 | 慈溪市文物保护单位 | — | [1](刺史桥1.jpg) |
-| <nobr>8</nobr> | <nobr>掌起镇</nobr> | 竹山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql240.htm) | 石梁桥（单孔） | 5.06米 | 清 | 慈溪市掌起镇洪魏村村西北侧田畈中 | 宁波市文物保护点 | 慈政发〔2011〕1号 | [1](竹山桥1.jpg) |
-| <nobr>9</nobr> | <nobr>掌起镇</nobr> | 迎阳桥 [?](http://www.china-qiao.com/ql15/nbql/nbql234.htm) | — | 5.03米 | 民国十九年（1930）重建 | 慈溪市掌起镇柴家村柴家庙前弄2号南侧快船江上 | 宁波市文物保护点 | 慈政发〔2011〕1号 | [1](迎阳桥1.jpg) |
-| <nobr>10</nobr> | <nobr>观海卫镇</nobr> | 唐荔桥 [?](http://www.china-qiao.com/ql15/nbql/nbql242.htm) | 石拱桥（单孔） | 13米 | 清道光十一年（1831）重修 | 慈溪市观海卫镇洞桥村快船江与淹浦三岔口南约20米处江面上 | 宁波市文物保护点 | 慈政发〔2003〕82号 | [1](唐荔桥1.jpg) |
-| <nobr>11</nobr> | <nobr>观海卫镇</nobr> | 永凝桥 [?](http://www.china-qiao.com/ql15/nbql/nbql241.htm) | — | 13米 | 民国 | 慈溪市观海卫镇洞桥村虞家自然村快船江与淹浦三岔口北约60米 | 宁波市文物保护点 | 慈政发〔2003〕82号 | [1](永凝桥1.jpg) |
-| <nobr>12</nobr> | <nobr>观海卫镇</nobr> | 典渡桥清节祠 | — | — | 清 | 慈溪市观海卫镇湖东村典渡桥自然村原典渡桥小学 | 宁波市文物保护点 | 慈政发〔2011〕1号 | 暂无 |
-| <nobr>13</nobr> | <nobr>观海卫镇</nobr> | 隆兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql260.htm) | — | 5.02米 | 民国 | 慈溪市观海卫镇鸣兴村裘家路35号旁 | 宁波市文物保护点 | 慈文广〔2015〕40号 | [1](隆兴桥1.jpg) |
-| <nobr>14</nobr> | <nobr>观海卫镇</nobr> | 锦堂学校第二学堂桥 | — | — | 清 | 慈溪市观海卫镇锦堂村大塘小区1号旁 | 宁波市文物保护点 | 慈文广旅体〔2021〕45号 | 暂无 |
-| <nobr>15</nobr> | <nobr>观海卫镇</nobr> | 义桥 [?](http://www.china-qiao.com/ql15/nbql/nbql255.htm) | — | 4.50米 | 民国二年（1913）重建 | 慈溪市观海卫镇城隍庙社区义桥东街93号旁 | 宁波市文物保护点 | 慈文广旅体〔2021〕45号 | [1](义桥1.jpg) |
-| <nobr>16</nobr> | <nobr>观海卫镇</nobr> | 护隆桥 [?](http://www.china-qiao.com/ql15/nbql/nbql262.htm) | — | — | 民国 | 慈溪市观海卫镇昌明村宓家埭小学南 | 宁波市文物保护点 | 慈文广旅体〔2021〕45号 | [1](护隆桥1.jpg) |
-| <nobr>17</nobr> | <nobr>观海卫镇</nobr> | 聚洄桥 [?](http://www.china-qiao.com/ql15/nbql/nbql256.htm) | — | 4.48米 | 民国六年（1917）重建 | 慈溪市观海卫镇蒋家桥村蒋家东路20幢8号旁 | 宁波市文物保护点 | 慈文广旅体〔2021〕45号 | [1](聚洄桥1.jpg) |
-| <nobr>18</nobr> | <nobr>观海卫镇</nobr> | 彩虹桥 [?](http://www.china-qiao.com/ql15/nbql/nbql259.htm) | — | 4.49米 | 民国 | 慈溪市观海卫镇蒋家桥村蒋家路79幢3号旁 | 宁波市文物保护点 | 慈文广旅体〔2021〕45号 | [1](彩虹桥1.jpg) |
-| <nobr>19</nobr> | <nobr>观海卫镇</nobr> | 明镜桥 [?](http://www.china-qiao.com/ql15/nbql/nbql253.htm) | — | 4.50米 | 民国二十年（1931）重修 | 慈溪市观海卫镇蒋家桥村蒋家路58幢5号旁 | 宁波市文物保护点 | 慈文广旅体〔2021〕45号 | [1](明镜桥1.jpg) |
-| <nobr>20</nobr> | <nobr>观海卫镇、掌起镇</nobr> | 快船江古桥群 | — | — | 清、民国 | 慈溪市观海卫镇昭十三房村、掌起镇巴里村、裘家村、柴家村、陈家村、叶家村沿线快船江上 | 宁波市文物保护点 | 慈文广〔2015〕40号 | 暂无 |
-| <nobr>21</nobr> | <nobr>周巷镇</nobr> | 义元桥 [?](http://www.china-qiao.com/ql15/nbql/nbql267.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>22</nobr> | <nobr>掌起镇</nobr> | 护龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql227.htm) | — | 11米 | 清道光六年（1826）重建，清光绪三年（1877）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>23</nobr> | <nobr>掌起镇</nobr> | 狮子桥 [?](http://www.china-qiao.com/ql15/nbql/nbql228.htm) | 石拱桥（单孔） | 12米 | 明始建，民国二十三年（1934）重建；民国二十三年（1934）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>24</nobr> | <nobr>掌起镇</nobr> | 三径桥 [?](http://www.china-qiao.com/ql15/nbql/nbql229.htm) | — | 10.80米 | 清道光二十三年（1843）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>25</nobr> | <nobr>掌起镇</nobr> | 怀德桥 [?](http://www.china-qiao.com/ql15/nbql/nbql231.htm) | — | 10.82米 | 清嘉庆十八年（1813）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>26</nobr> | <nobr>掌起镇</nobr> | 正阳桥 [?](http://www.china-qiao.com/ql15/nbql/nbql232.htm) | 石梁桥（单孔） | 5.03米 | 清光绪年间 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>27</nobr> | <nobr>掌起镇</nobr> | 雍穆桥 [?](http://www.china-qiao.com/ql15/nbql/nbql233.htm) | — | 5.27米 | 民国十八年（1929） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>28</nobr> | <nobr>掌起镇</nobr> | 彰和桥 [?](http://www.china-qiao.com/ql15/nbql/nbql236.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>29</nobr> | <nobr>掌起镇</nobr> | 扶风桥 [?](http://www.china-qiao.com/ql15/nbql/nbql239.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>30</nobr> | <nobr>掌起镇</nobr> | 仁美桥 [?](http://www.china-qiao.com/ql15/nbql/nbql370.htm) | 石梁桥（单孔） | — | 清乾隆至道光年间 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>31</nobr> | <nobr>桥头镇</nobr> | 德兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql263.htm) | — | 4.20米 | 民国十九年（1930） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>32</nobr> | <nobr>观海卫镇</nobr> | 鸣鹤典当桥 [?](http://www.china-qiao.com/ql15/nbql/nbql250.htm) | 石梁桥（单孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>33</nobr> | <nobr>观海卫镇</nobr> | 鸣鹤世德桥 [?](http://www.china-qiao.com/ql15/nbql/nbql246.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>34</nobr> | <nobr>观海卫镇</nobr> | 鸣鹤沙滩桥 [?](http://www.china-qiao.com/ql15/nbql/nbql249.htm) | — | 11米 | 民国二十年（1931）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>35</nobr> | <nobr>观海卫镇</nobr> | 鸣鹤椿萱桥 [?](http://www.china-qiao.com/ql15/nbql/nbql251.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>36</nobr> | <nobr>观海卫镇</nobr> | 聚源桥 [?](http://www.china-qiao.com/ql15/nbql/nbql252.htm) | — | 3.84米 | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>37</nobr> | <nobr>观海卫镇</nobr> | 东泽桥 [?](http://www.china-qiao.com/ql15/nbql/nbql254.htm) | — | 3.37米 | 民国三十六年（1947）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>38</nobr> | <nobr>观海卫镇</nobr> | 东桥 [?](http://www.china-qiao.com/ql15/nbql/nbql257.htm) | — | 4.17米 | 民国八年（1919）重修 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>39</nobr> | <nobr>观海卫镇</nobr> | 西泽桥 [?](http://www.china-qiao.com/ql15/nbql/nbql258.htm) | — | 3.52米 | 民国十一年（1922） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>40</nobr> | <nobr>观海卫镇</nobr> | 后溪桥 [?](http://www.china-qiao.com/ql15/nbql/nbql261.htm) | — | 6.2米 | 唐五代至北宋（推断） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>41</nobr> | <nobr>龙山镇</nobr> | 卧龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql268.htm) | — | — | 清（原地保留，河道已填） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>42</nobr> | <nobr>龙山镇</nobr> | 接龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql269.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>43</nobr> | <nobr>龙山镇</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/nbql/nbql270.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>44</nobr> | <nobr>龙山镇</nobr> | 带霞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql271.htm) | — | 3.22米 | 民国二十年（1931）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>45</nobr> | <nobr>龙山镇</nobr> | 兰屿桥 [?](http://www.china-qiao.com/ql15/nbql/nbql273.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>46</nobr> | <nobr>龙山镇</nobr> | 上溪桥 [?](http://www.china-qiao.com/ql15/nbql/nbql274.htm) | — | — | 民国 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>47</nobr> | <nobr>龙山镇</nobr> | 官庄桥 [?](http://www.china-qiao.com/ql15/nbql/nbql277.htm) | — | 3.92米 | 清宣统二年（1910）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

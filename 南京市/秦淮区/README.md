@@ -27,64 +27,47 @@
 
 ### 全国重点文物保护单位（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>红花街道</nobr> | 七桥瓮 [?](http://www.china-qiao.com/ql16/njql/njql026.htm) | 石拱桥（七孔） | 89.6米 | 明 | 全国重点文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>红花街道</nobr> | 七桥瓮 [?](http://www.china-qiao.com/ql16/njql/njql026.htm) | 石拱桥（七孔） | 89.6米 | 明 | 全国重点文物保护单位 | 暂无 |
 
 ### 省级文物保护单位（2 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>—</nobr> | 玄津桥 [?](http://www.china-qiao.com/ql16/njql/njql073.htm) | 石拱桥（三孔） | — | 明代 | 江苏省文物保护单位 |
-| <nobr>—</nobr> | 九龙桥 [?](http://www.china-qiao.com/ql16/njql/njql147.htm) | 石拱桥（五孔） | 51米 | 明 | 江苏省文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>—</nobr> | 玄津桥 [?](http://www.china-qiao.com/ql16/njql/njql073.htm) | 石拱桥（三孔） | — | 明代 | 江苏省文物保护单位 | 暂无 |
+| <nobr>—</nobr> | 九龙桥 [?](http://www.china-qiao.com/ql16/njql/njql147.htm) | 石拱桥（五孔） | 51米 | 明 | 江苏省文物保护单位 | 暂无 |
 
 ### 市级文物保护单位（4 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>洪武路街道</nobr> | 淮清桥 [?](http://www.china-qiao.com/ql16/njql/njql082.htm) | — | 17米 | 明 | 南京市文物保护单位 |
-| <nobr>洪武路街道</nobr> | 大中桥 [?](http://www.china-qiao.com/ql16/njql/njql071.htm) | — | — | 明 | 南京市文物保护单位 |
-| <nobr>夫子庙街道</nobr> | 文德桥 [?](http://www.china-qiao.com/ql16/njql/njql055.htm) | — | — | 明万历年间始建 | 南京市文物保护单位 |
-| <nobr>—</nobr> | 内桥 [?](http://www.china-qiao.com/ql16/njql/njql084.htm) | — | — | 明 | 南京市文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>洪武路街道</nobr> | 淮清桥 [?](http://www.china-qiao.com/ql16/njql/njql082.htm) | — | 17米 | 明 | 南京市文物保护单位 | 暂无 |
+| <nobr>洪武路街道</nobr> | 大中桥 [?](http://www.china-qiao.com/ql16/njql/njql071.htm) | — | — | 明 | 南京市文物保护单位 | 暂无 |
+| <nobr>夫子庙街道</nobr> | 文德桥 [?](http://www.china-qiao.com/ql16/njql/njql055.htm) | — | — | 明万历年间始建 | 南京市文物保护单位 | 暂无 |
+| <nobr>—</nobr> | 内桥 [?](http://www.china-qiao.com/ql16/njql/njql084.htm) | — | — | 明 | 南京市文物保护单位 | 暂无 |
 
 ### 县（区）级文物保护单位（4 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>大光路街道</nobr> | 中和桥 [?](http://www.china-qiao.com/ql16/njql/njql025.htm) | — | — | 明 | 秦淮区文物保护单位 |
-| <nobr>—</nobr> | 来宾桥 | — | — | — | 秦淮区文物保护单位 |
-| <nobr>—</nobr> | 涧子桥 | — | — | — | 秦淮区文物保护单位 |
-| <nobr>—</nobr> | 逸仙桥 [?](http://www.china-qiao.com/ql16/njql/njql074.htm) | — | — | — | 秦淮区文物保护单位 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>大光路街道</nobr> | 中和桥 [?](http://www.china-qiao.com/ql16/njql/njql025.htm) | — | — | 明 | 秦淮区文物保护单位 | 暂无 |
+| <nobr>—</nobr> | 来宾桥 | — | — | — | 秦淮区文物保护单位 | 暂无 |
+| <nobr>—</nobr> | 涧子桥 | — | — | — | 秦淮区文物保护单位 | 暂无 |
+| <nobr>—</nobr> | 逸仙桥 [?](http://www.china-qiao.com/ql16/njql/njql074.htm) | — | — | — | 秦淮区文物保护单位 | 暂无 |
 
 ### 一般不可移动文物（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>夫子庙街道</nobr> | 武定桥 [?](http://www.china-qiao.com/ql16/njql/njql057.htm) | — | — | 明 | 一般不可移动文物（秦淮区第一批不可移动文物名录） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>夫子庙街道</nobr> | 武定桥 [?](http://www.china-qiao.com/ql16/njql/njql057.htm) | — | — | 明 | 一般不可移动文物（秦淮区第一批不可移动文物名录） | 暂无 |
 
 ### 尚未定级（待核实）（1 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>—</nobr> | 外五龙桥 [?](http://www.china-qiao.com/ql16/njql/njql095.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>—</nobr> | 外五龙桥 [?](http://www.china-qiao.com/ql16/njql/njql095.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>红花街道</nobr> | 七桥瓮 [?](http://www.china-qiao.com/ql16/njql/njql026.htm) | 石拱桥（七孔） | 89.6米 | 明 | 红花街道七桥村外秦淮河上 | 全国重点文物保护单位 | — | 暂无 |
-| <nobr>2</nobr> | <nobr>—</nobr> | 玄津桥 [?](http://www.china-qiao.com/ql16/njql/njql073.htm) | 石拱桥（三孔） | — | 明代 | 逸仙桥南侧 | 江苏省文物保护单位 | — | 暂无 |
-| <nobr>3</nobr> | <nobr>—</nobr> | 九龙桥 [?](http://www.china-qiao.com/ql16/njql/njql147.htm) | 石拱桥（五孔） | 51米 | 明 | 龙蟠中路通济门桥西侧秦淮河上 | 江苏省文物保护单位 | — | 暂无 |
-| <nobr>4</nobr> | <nobr>夫子庙街道</nobr> | 文德桥 [?](http://www.china-qiao.com/ql16/njql/njql055.htm) | — | — | 明万历年间始建 | 夫子庙泮池西 | 南京市文物保护单位 | — | 暂无 |
-| <nobr>5</nobr> | <nobr>洪武路街道</nobr> | 淮清桥 [?](http://www.china-qiao.com/ql16/njql/njql082.htm) | — | 17米 | 明 | 洪武路街道致和街社区建康路与长白街交汇处 | 南京市文物保护单位 | — | 暂无 |
-| <nobr>6</nobr> | <nobr>洪武路街道</nobr> | 大中桥 [?](http://www.china-qiao.com/ql16/njql/njql071.htm) | — | — | 明 | 洪武路街道棉鞋营社区白下路东 | 南京市文物保护单位 | — | 暂无 |
-| <nobr>7</nobr> | <nobr>—</nobr> | 内桥 [?](http://www.china-qiao.com/ql16/njql/njql084.htm) | — | — | 明 | 中华路北 | 南京市文物保护单位 | — | 暂无 |
-| <nobr>8</nobr> | <nobr>大光路街道</nobr> | 中和桥 [?](http://www.china-qiao.com/ql16/njql/njql025.htm) | — | — | 明 | 大光路街道象房村社区光华门外 | 秦淮区文物保护单位 | — | 暂无 |
-| <nobr>9</nobr> | <nobr>—</nobr> | 来宾桥 | — | — | — | — | 秦淮区文物保护单位 | — | 暂无 |
-| <nobr>10</nobr> | <nobr>—</nobr> | 涧子桥 | — | — | — | — | 秦淮区文物保护单位 | — | 暂无 |
-| <nobr>11</nobr> | <nobr>—</nobr> | 逸仙桥 [?](http://www.china-qiao.com/ql16/njql/njql074.htm) | — | — | — | — | 秦淮区文物保护单位 | — | 暂无 |
-| <nobr>12</nobr> | <nobr>夫子庙街道</nobr> | 武定桥 [?](http://www.china-qiao.com/ql16/njql/njql057.htm) | — | — | 明 | 夫子庙街道小西湖社区长乐路与内秦淮河交汇处 | 一般不可移动文物（秦淮区第一批不可移动文物名录） | — | 暂无 |
-| <nobr>13</nobr> | <nobr>—</nobr> | 外五龙桥 [?](http://www.china-qiao.com/ql16/njql/njql095.htm) | — | — | 明 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

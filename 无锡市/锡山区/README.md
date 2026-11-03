@@ -21,25 +21,15 @@
 
 ### 尚未定级（待核实）（6 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>云林街道</nobr> | 飞虹桥 [?](http://www.china-qiao.com/ql16/wxql/wxql136.htm) | — | 8.4米 | —（相传为祗陀寺遗物） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>鹅湖镇</nobr> | 荡口如意桥 [?](http://www.china-qiao.com/ql16/wxql/wxql311.htm) | 石拱桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>鹅湖镇</nobr> | 荡口通源桥 [?](http://www.china-qiao.com/ql16/wxql/wxql314.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>鹅湖镇</nobr> | 乐稼桥 [?](http://www.china-qiao.com/ql16/wxql/wxql137.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>安镇街道</nobr> | 大成桥 [?](http://www.china-qiao.com/ql16/wxql/wxql134.htm) | 石拱桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>—</nobr> | 迎福桥 [?](http://www.china-qiao.com/ql16/wxql/wxql104.htm) | — | 6.9米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>云林街道</nobr> | 飞虹桥 [?](http://www.china-qiao.com/ql16/wxql/wxql136.htm) | — | 8.4米 | —（相传为祗陀寺遗物） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>鹅湖镇</nobr> | 荡口如意桥 [?](http://www.china-qiao.com/ql16/wxql/wxql311.htm) | 石拱桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>鹅湖镇</nobr> | 荡口通源桥 [?](http://www.china-qiao.com/ql16/wxql/wxql314.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>鹅湖镇</nobr> | 乐稼桥 [?](http://www.china-qiao.com/ql16/wxql/wxql137.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>安镇街道</nobr> | 大成桥 [?](http://www.china-qiao.com/ql16/wxql/wxql134.htm) | 石拱桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>—</nobr> | 迎福桥 [?](http://www.china-qiao.com/ql16/wxql/wxql104.htm) | — | 6.9米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>云林街道</nobr> | 飞虹桥 [?](http://www.china-qiao.com/ql16/wxql/wxql136.htm) | — | 8.4米 | —（相传为祗陀寺遗物） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>2</nobr> | <nobr>安镇街道</nobr> | 大成桥 [?](http://www.china-qiao.com/ql16/wxql/wxql134.htm) | 石拱桥（单孔） | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>3</nobr> | <nobr>鹅湖镇</nobr> | 荡口如意桥 [?](http://www.china-qiao.com/ql16/wxql/wxql311.htm) | 石拱桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>4</nobr> | <nobr>鹅湖镇</nobr> | 荡口通源桥 [?](http://www.china-qiao.com/ql16/wxql/wxql314.htm) | — | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>5</nobr> | <nobr>鹅湖镇</nobr> | 乐稼桥 [?](http://www.china-qiao.com/ql16/wxql/wxql137.htm) | 石梁桥（三孔） | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>6</nobr> | <nobr>—</nobr> | 迎福桥 [?](http://www.china-qiao.com/ql16/wxql/wxql104.htm) | — | 6.9米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
 
 ## 说明
 

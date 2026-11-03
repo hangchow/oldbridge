@@ -35,313 +35,169 @@
 
 ### 全国重点文物保护单位（2 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>龙泉街道</nobr> | 潘公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql039.htm) | 石拱桥（三孔） | 57.5米 | 明万历十三年（1585）始建，清道光二十年（1840）重建 | 全国重点文物保护单位（第七批，“潘公桥及潘孝墓”） |
-| <nobr>朝阳街道</nobr> | 潮音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql038.htm) | 石拱桥（三孔） | 54.2米 | 明嘉靖年间重建 | 全国重点文物保护单位（第八批） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>龙泉街道</nobr> | 潘公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql039.htm) | 石拱桥（三孔） | 57.5米 | 明万历十三年（1585）始建，清道光二十年（1840）重建 | 全国重点文物保护单位（第七批，“潘公桥及潘孝墓”） | 暂无 |
+| <nobr>朝阳街道</nobr> | 潮音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql038.htm) | 石拱桥（三孔） | 54.2米 | 明嘉靖年间重建 | 全国重点文物保护单位（第八批） | 暂无 |
 
 ### 省级文物保护单位（3 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>朝阳街道</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql042.htm) | 石梁桥（三孔） | 18米 | 清乾隆年间始建，清光绪二十二年（1896）重建 | 浙江省文物保护单位（第五批，“钮氏状元厅”组成部分） |
-| <nobr>东林镇</nobr> | 源洪桥 [?](http://www.china-qiao.com/ql15/hzql/hzql422.htm) | 石拱桥（单孔） | 16米 | 宋 | 浙江省文物保护单位（第六批） |
-| <nobr>东林镇</nobr> | 妙济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql420.htm) | 石梁桥（五孔） | 27.2米 | 宋 | 浙江省文物保护单位（第七批） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>朝阳街道</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql042.htm) | 石梁桥（三孔） | 18米 | 清乾隆年间始建，清光绪二十二年（1896）重建 | 浙江省文物保护单位（第五批，“钮氏状元厅”组成部分） | 暂无 |
+| <nobr>东林镇</nobr> | 源洪桥 [?](http://www.china-qiao.com/ql15/hzql/hzql422.htm) | 石拱桥（单孔） | 16米 | 宋 | 浙江省文物保护单位（第六批） | [1](源洪桥1.jpg) |
+| <nobr>东林镇</nobr> | 妙济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql420.htm) | 石梁桥（五孔） | 27.2米 | 宋 | 浙江省文物保护单位（第七批） | [1](妙济桥1.jpg) |
 
 ### 市级文物保护单位（26 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>滨湖街道</nobr> | 白莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql501.htm) | — | — | 明 | 湖州市文物保护单位（第六批，2003年） |
-| <nobr>滨湖街道</nobr> | 至大桥 [?](http://www.china-qiao.com/ql15/hzql/hzql776.htm) | — | — | 元 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>滨湖街道</nobr> | 毓秀桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>环渚街道</nobr> | 永兴桥 | — | — | 清 | 湖州市文物保护单位（第六批，2003年） |
-| <nobr>八里店镇</nobr> | 路村四桥 | — | — | 清 | 湖州市文物保护单位（第六批，2003年） |
-| <nobr>八里店镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql525.htm) | — | — | 清 | 湖州市文物保护单位（第七批，2011年） |
-| <nobr>八里店镇</nobr> | 湧苍桥 [?](http://www.china-qiao.com/ql15/hzql/hzql512.htm) | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>八里店镇</nobr> | 移沿山永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql529.htm) | — | — | 清 | 湖州市文物保护单位（第九批，2021年） |
-| <nobr>妙西镇</nobr> | 杨富桥 [?](http://www.china-qiao.com/ql15/hzql/hzql061.htm) | 石拱桥（单孔） | — | 明 | 湖州市文物保护单位（第六批，2003年） |
-| <nobr>织里镇</nobr> | 张官桥 [?](http://www.china-qiao.com/ql15/hzql/hzql051.htm) | 石拱桥（三孔） | 20米 | 清 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>织里镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql397.htm) | 石拱桥（三孔） | — | 清 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>织里镇</nobr> | 太平桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>高新区</nobr> | 戴步桥 [?](http://www.china-qiao.com/ql15/hzql/hzql882.htm) | — | — | 清光绪十年（1884）重建 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>高新区</nobr> | 白龙塘桥 | — | — | 民国 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>高新区</nobr> | 大溇桥 | — | — | 清 | 湖州市文物保护单位（第九批，2021年） |
-| <nobr>东林镇</nobr> | 迎福桥 | — | — | 元 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>东林镇</nobr> | 宁远桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>东林镇</nobr> | 圣化桥 | — | — | 明 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>月河街道</nobr> | 苕梁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql027.htm) | 钢筋混凝土桥 | — | 民国 | 湖州市文物保护单位（第八批，2015年） |
-| <nobr>太湖溇港一带</nobr> | 安乐桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
-| <nobr>太湖溇港一带</nobr> | 陈溇塘桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
-| <nobr>太湖溇港一带</nobr> | 杨渎桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
-| <nobr>太湖溇港一带</nobr> | 诸溇桥 [?](http://www.china-qiao.com/ql15/hzql/hzql401.htm) | 石拱桥（单孔） | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
-| <nobr>太湖溇港一带</nobr> | 永济塘桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
-| <nobr>太湖溇港一带</nobr> | 尚义桥 [?](http://www.china-qiao.com/ql15/hzql/hzql689.htm) | — | — | 清至民国；清乾隆三十九年（1774）重建 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
-| <nobr>太湖溇港一带</nobr> | 述中桥 [?](http://www.china-qiao.com/ql15/hzql/hzql054.htm) | — | — | 清至民国；清光绪二十九年（1903）重建 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>滨湖街道</nobr> | 白莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql501.htm) | — | — | 明 | 湖州市文物保护单位（第六批，2003年） | [1](白莲桥1.jpg) |
+| <nobr>滨湖街道</nobr> | 至大桥 [?](http://www.china-qiao.com/ql15/hzql/hzql776.htm) | — | — | 元 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>滨湖街道</nobr> | 毓秀桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>环渚街道</nobr> | 永兴桥 | — | — | 清 | 湖州市文物保护单位（第六批，2003年） | 暂无 |
+| <nobr>八里店镇</nobr> | 路村四桥 | — | — | 清 | 湖州市文物保护单位（第六批，2003年） | 暂无 |
+| <nobr>八里店镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql525.htm) | — | — | 清 | 湖州市文物保护单位（第七批，2011年） | [1](永宁桥1.jpg) |
+| <nobr>八里店镇</nobr> | 湧苍桥 [?](http://www.china-qiao.com/ql15/hzql/hzql512.htm) | — | — | 清 | 湖州市文物保护单位（第八批，2015年） | [1](湧苍桥1.jpg) |
+| <nobr>八里店镇</nobr> | 移沿山永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql529.htm) | — | — | 清 | 湖州市文物保护单位（第九批，2021年） | 暂无 |
+| <nobr>妙西镇</nobr> | 杨富桥 [?](http://www.china-qiao.com/ql15/hzql/hzql061.htm) | 石拱桥（单孔） | — | 明 | 湖州市文物保护单位（第六批，2003年） | [1](杨富桥1.jpg) |
+| <nobr>织里镇</nobr> | 张官桥 [?](http://www.china-qiao.com/ql15/hzql/hzql051.htm) | 石拱桥（三孔） | 20米 | 清 | 湖州市文物保护单位（第八批，2015年） | [1](张官桥1.jpg) |
+| <nobr>织里镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql397.htm) | 石拱桥（三孔） | — | 清 | 湖州市文物保护单位（第八批，2015年） | [1](广济桥1.jpg) |
+| <nobr>织里镇</nobr> | 太平桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>高新区</nobr> | 戴步桥 [?](http://www.china-qiao.com/ql15/hzql/hzql882.htm) | — | — | 清光绪十年（1884）重建 | 湖州市文物保护单位（第八批，2015年） | [1](戴步桥1.jpg) |
+| <nobr>高新区</nobr> | 白龙塘桥 | — | — | 民国 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>高新区</nobr> | 大溇桥 | — | — | 清 | 湖州市文物保护单位（第九批，2021年） | 暂无 |
+| <nobr>东林镇</nobr> | 迎福桥 | — | — | 元 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>东林镇</nobr> | 宁远桥 | — | — | 清 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>东林镇</nobr> | 圣化桥 | — | — | 明 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>月河街道</nobr> | 苕梁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql027.htm) | 钢筋混凝土桥 | — | 民国 | 湖州市文物保护单位（第八批，2015年） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 安乐桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 陈溇塘桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 杨渎桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 诸溇桥 [?](http://www.china-qiao.com/ql15/hzql/hzql401.htm) | 石拱桥（单孔） | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 永济塘桥 | — | — | 清至民国 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 尚义桥 [?](http://www.china-qiao.com/ql15/hzql/hzql689.htm) | — | — | 清至民国；清乾隆三十九年（1774）重建 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
+| <nobr>太湖溇港一带</nobr> | 述中桥 [?](http://www.china-qiao.com/ql15/hzql/hzql054.htm) | — | — | 清至民国；清光绪二十九年（1903）重建 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | 暂无 |
 
 ### 文物保护点（17 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>杨家埠街道</nobr> | 通济桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>织里镇</nobr> | 迎晖桥 [?](http://www.china-qiao.com/ql15/hzql/hzql050.htm) | 石拱桥（单孔） | 14.9米 | 清 | 湖州市文物保护点 |
-| <nobr>高新区</nobr> | 永隆桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>八里店镇</nobr> | 东林高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql515.htm) | — | — | 清道光年间重修 | 湖州市文物保护点 |
-| <nobr>八里店镇</nobr> | 洗马桥 [?](http://www.china-qiao.com/ql15/hzql/hzql521.htm) | 石拱桥（单孔） | — | 清 | 湖州市文物保护点 |
-| <nobr>东林镇</nobr> | 连通桥 | — | — | 民国 | 湖州市文物保护点 |
-| <nobr>东林镇</nobr> | 回仙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql724.htm) | 石梁桥（三孔） | — | 清 | 湖州市文物保护点 |
-| <nobr>东林镇</nobr> | 迎锦桥（通锦桥） | — | — | 清 | 湖州市文物保护点 |
-| <nobr>东林镇</nobr> | 永安桥 | — | — | 明 | 湖州市文物保护点 |
-| <nobr>东林镇</nobr> | 大兴桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>埭溪镇</nobr> | 上强村太平桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>埭溪镇</nobr> | 罗家桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>埭溪镇</nobr> | 月映桥 [?](http://www.china-qiao.com/ql15/hzql/hzql428.htm) | — | — | 清 | 湖州市文物保护点 |
-| <nobr>埭溪镇</nobr> | 天桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>埭溪镇</nobr> | 洋水潭桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>埭溪镇</nobr> | 仙桥 | — | — | 清 | 湖州市文物保护点 |
-| <nobr>湖东街道</nobr> | 铁店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql763.htm) | 石拱桥（单孔） | — | 民国 | 湖州市文物保护点 |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>杨家埠街道</nobr> | 通济桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>织里镇</nobr> | 迎晖桥 [?](http://www.china-qiao.com/ql15/hzql/hzql050.htm) | 石拱桥（单孔） | 14.9米 | 清 | 湖州市文物保护点 | [1](迎晖桥1.jpg) |
+| <nobr>高新区</nobr> | 永隆桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>八里店镇</nobr> | 东林高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql515.htm) | — | — | 清道光年间重修 | 湖州市文物保护点 | [1](东林高桥1.jpg) |
+| <nobr>八里店镇</nobr> | 洗马桥 [?](http://www.china-qiao.com/ql15/hzql/hzql521.htm) | 石拱桥（单孔） | — | 清 | 湖州市文物保护点 | [1](洗马桥1.jpg) |
+| <nobr>东林镇</nobr> | 连通桥 | — | — | 民国 | 湖州市文物保护点 | 暂无 |
+| <nobr>东林镇</nobr> | 回仙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql724.htm) | 石梁桥（三孔） | — | 清 | 湖州市文物保护点 | [1](回仙桥1.jpg) |
+| <nobr>东林镇</nobr> | 迎锦桥（通锦桥） | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>东林镇</nobr> | 永安桥 | — | — | 明 | 湖州市文物保护点 | 暂无 |
+| <nobr>东林镇</nobr> | 大兴桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>埭溪镇</nobr> | 上强村太平桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>埭溪镇</nobr> | 罗家桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>埭溪镇</nobr> | 月映桥 [?](http://www.china-qiao.com/ql15/hzql/hzql428.htm) | — | — | 清 | 湖州市文物保护点 | [1](月映桥1.jpg) |
+| <nobr>埭溪镇</nobr> | 天桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>埭溪镇</nobr> | 洋水潭桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>埭溪镇</nobr> | 仙桥 | — | — | 清 | 湖州市文物保护点 | 暂无 |
+| <nobr>湖东街道</nobr> | 铁店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql763.htm) | 石拱桥（单孔） | — | 民国 | 湖州市文物保护点 | 暂无 |
 
 ### 尚未定级（待核实）（92 座）
 
-| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
-|---|---|---|---|---|---|
-| <nobr>滨湖街道</nobr> | 陆家圩桥 [?](http://www.china-qiao.com/ql15/hzql/hzql419.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 南旺石梁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql721.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 哑子桥 [?](http://www.china-qiao.com/ql15/hzql/hzql729.htm) | 石梁桥（单孔） | 10米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 鲤鱼桥 [?](http://www.china-qiao.com/ql15/hzql/hzql730.htm) | 石拱桥（单孔） | 8.2米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 聚福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql399.htm) | 石梁桥（单孔） | 15米 | 清嘉庆六年（1801） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 大顺桥 [?](http://www.china-qiao.com/ql15/hzql/hzql718.htm) | 石梁桥（五孔） | — | 清乾隆二十年（1755）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 通锦桥 [?](http://www.china-qiao.com/ql15/hzql/hzql719.htm) | 石梁桥（五孔） | — | 明重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 天顺桥 [?](http://www.china-qiao.com/ql15/hzql/hzql720.htm) | 石梁桥（三孔） | — | 清乾隆三十年（1765） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql723.htm) | 石梁桥（三孔） | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 挡月桥 [?](http://www.china-qiao.com/ql15/hzql/hzql725.htm) | 石梁桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 东老桥 [?](http://www.china-qiao.com/ql15/hzql/hzql726.htm) | 石梁桥（单孔） | — | 明重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 起隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql727.htm) | 石梁桥（单孔） | 11.5米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>东林镇</nobr> | 进禄高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql728.htm) | 石梁桥（单孔） | — | 民国八年（1919）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 轧村方桥 [?](http://www.china-qiao.com/ql15/hzql/hzql052.htm) | 石拱桥（三孔） | 30.5米 | 晚清重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 闵家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql536.htm) | — | — | 民国六年（1917） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 大溇村桥 [?](http://www.china-qiao.com/ql15/hzql/hzql691.htm) | — | — | 明始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 敦善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql390.htm) | — | — | 清光绪十二年（1886）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 双福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql848.htm) | — | — | 民国十一年（1922）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 东庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql800.htm) | — | — | 清同治年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 福绥桥 [?](http://www.china-qiao.com/ql15/hzql/hzql801.htm) | — | — | 清同治十一年（1872）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 鸾章桥 [?](http://www.china-qiao.com/ql15/hzql/hzql790.htm) | — | — | 清道光二十六年（1846）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 白云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql846.htm) | — | — | 清同治十三年（1874）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 打子桥 [?](http://www.china-qiao.com/ql15/hzql/hzql847.htm) | — | — | 民国二十六年（1937）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 约束桥 [?](http://www.china-qiao.com/ql15/hzql/hzql852.htm) | — | — | 民国十三年（1924） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 安云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql402.htm) | — | — | 民国十一年（1922）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 安农桥 [?](http://www.china-qiao.com/ql15/hzql/hzql845.htm) | — | — | 民国三十二年（1943）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 白龙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql049.htm) | 石拱桥（三孔） | 34.05米 | 明崇祯以前始建，民国十九年（1930）重建；民国十九年（1930）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 故县桥 [?](http://www.china-qiao.com/ql15/hzql/hzql795.htm) | — | — | 民国三十年代重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 太保桥 [?](http://www.china-qiao.com/ql15/hzql/hzql797.htm) | — | — | 清晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql809.htm) | — | — | 清光绪二十一年（1895）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 锡暇桥 [?](http://www.china-qiao.com/ql15/hzql/hzql810.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 邻睦桥 [?](http://www.china-qiao.com/ql15/hzql/hzql814.htm) | — | — | 清光绪二十五年（1899）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 观音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql394.htm) | — | — | 清光绪二十五年（1899）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 广平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql831.htm) | 石梁桥（三孔） | — | 明正德十一年（1516）重建（据桥墩刻字） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 里美桥 [?](http://www.china-qiao.com/ql15/hzql/hzql834.htm) | — | — | 清光绪十二年（1886）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 西庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql804.htm) | — | — | 清中晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 梅林桥 [?](http://www.china-qiao.com/ql15/hzql/hzql535.htm) | — | — | 清光绪六年（1880）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 咸兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql538.htm) | — | — | 民国十七年（1928）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 圣堂桥 [?](http://www.china-qiao.com/ql15/hzql/hzql805.htm) | — | — | 清末 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 郝家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql806.htm) | — | — | 民国十四年（1925）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 东章桥 [?](http://www.china-qiao.com/ql15/hzql/hzql830.htm) | — | — | 清中晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 俊秀桥 [?](http://www.china-qiao.com/ql15/hzql/hzql807.htm) | — | — | 民国重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 两家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql812.htm) | — | — | 民国三十七年（1948）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 晋寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql833.htm) | — | — | 清同治十一年（1872）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 宁祉桥 [?](http://www.china-qiao.com/ql15/hzql/hzql835.htm) | — | — | 清早中期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 石前桥 [?](http://www.china-qiao.com/ql15/hzql/hzql837.htm) | — | — | 清光绪十年（1884）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 仁寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql836.htm) | — | — | 清光绪十八年（1892）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 长庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql838.htm) | — | — | 清光绪二十一年（1895）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 庆安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql879.htm) | — | — | 清光绪二年（1876）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 丰登桥 [?](http://www.china-qiao.com/ql15/hzql/hzql391.htm) | — | — | 清道光二十七年（1847）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 丰和桥 [?](http://www.china-qiao.com/ql15/hzql/hzql803.htm) | — | — | 清康熙五十三年（1714）建，乾隆三十七年（1772）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 连绩桥 [?](http://www.china-qiao.com/ql15/hzql/hzql870.htm) | — | — | 清末民国（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 仁里桥 [?](http://www.china-qiao.com/ql15/hzql/hzql871.htm) | — | — | 清光绪十五年（1889）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 永福灞桥 [?](http://www.china-qiao.com/ql15/hzql/hzql877.htm) | — | — | 清咸丰九年（1859）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 永利桥 [?](http://www.china-qiao.com/ql15/hzql/hzql878.htm) | — | — | 清同治六年（1867）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql055.htm) | — | — | 清光绪二十年（1894）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 康泰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql815.htm) | — | — | 清同治年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 永安长桥 [?](http://www.china-qiao.com/ql15/hzql/hzql817.htm) | — | — | 民国十八年（1929）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 安隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql841.htm) | — | — | 清光绪二十二年（1896）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 塔影桥 [?](http://www.china-qiao.com/ql15/hzql/hzql872.htm) | — | — | 民国八年（1919）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 吴沙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql840.htm) | — | — | 清咸丰十年（1860）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 咸寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql874.htm) | — | — | 清光绪年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 大有桥 [?](http://www.china-qiao.com/ql15/hzql/hzql860.htm) | — | — | 清乾隆八年（1743）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 里仁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql862.htm) | — | — | 清乾隆四十二年（1777）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 朱家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql864.htm) | — | — | 清康熙年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 朱家庙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql821.htm) | — | — | 民国二十三年（1934）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 福善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql861.htm) | — | — | 民国二十三年（1934） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 绎喜桥 [?](http://www.china-qiao.com/ql15/hzql/hzql863.htm) | — | — | 民国二十三年（1934） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 丰乐桥 [?](http://www.china-qiao.com/ql15/hzql/hzql865.htm) | — | — | 民国三年（1914） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>织里镇</nobr> | 龙门桥 [?](http://www.china-qiao.com/ql15/hzql/hzql053.htm) | 石拱桥（单孔） | 16米 | 南宋嘉泰以前始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 起凤桥 [?](http://www.china-qiao.com/ql15/hzql/hzql466.htm) | 石拱桥（单孔） | 9.5米 | —（桥面水泥铺面） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/hzql/hzql468.htm) | 石拱桥（单孔） | 8.5米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 腾蛟桥 [?](http://www.china-qiao.com/ql15/hzql/hzql465.htm) | 石拱桥（单孔） | 15米 | 明始建，清重修；明正德二年（1507）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 化龙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql467.htm) | 石拱桥（单孔） | 12.2米 | 明正德三年（1508）始建，清道光元年（1821）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 复兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql518.htm) | — | — | 清光绪二十六年（1900）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 万兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql471.htm) | — | — | 清乾隆十五年（1750）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 天平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql472.htm) | — | — | 清咸丰七年（1857）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 乐稼桥 [?](http://www.china-qiao.com/ql15/hzql/hzql475.htm) | — | — | 清道光元年（1821）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 包家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql513.htm) | — | — | 清光绪十三年（1887）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 主公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql528.htm) | — | — | 宋元风格（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 多子昌桥 [?](http://www.china-qiao.com/ql15/hzql/hzql516.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 月明桥 [?](http://www.china-qiao.com/ql15/hzql/hzql527.htm) | — | — | 民国重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 福臻桥 [?](http://www.china-qiao.com/ql15/hzql/hzql517.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 中兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql530.htm) | — | — | 清光绪年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>八里店镇</nobr> | 余庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql526.htm) | — | — | 清重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>环渚街道</nobr> | 金锁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql476.htm) | 石拱桥（单孔） | — | 清嘉庆十二年（1807）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>环渚街道</nobr> | 交界桥 [?](http://www.china-qiao.com/ql15/hzql/hzql479.htm) | — | — | 清嘉庆七年（1802）建，光绪十三年（1887）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>环渚街道</nobr> | 秀墅桥 [?](http://www.china-qiao.com/ql15/hzql/hzql463.htm) | 石梁桥（三孔） | — | 清光绪二十年（1894）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>环渚街道</nobr> | 日晖桥 [?](http://www.china-qiao.com/ql15/hzql/hzql474.htm) | — | — | 清光绪十九年（1893）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>环渚街道</nobr> | 兴隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql470.htm) | 石梁桥（单孔） | — | 民国十年（1921）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>环渚街道</nobr> | 普安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql510.htm) | 石拱桥（单孔） | — | 明成化十年（1474）始建，清咸丰六年（1856）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
-| <nobr>埭溪镇</nobr> | 青莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql693.htm) | 石拱桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） |
+| <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
+|---|---|---|---|---|---|---|
+| <nobr>滨湖街道</nobr> | 陆家圩桥 [?](http://www.china-qiao.com/ql15/hzql/hzql419.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东林镇</nobr> | 南旺石梁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql721.htm) | 石梁桥（三孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东林镇</nobr> | 哑子桥 [?](http://www.china-qiao.com/ql15/hzql/hzql729.htm) | 石梁桥（单孔） | 10米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东林镇</nobr> | 鲤鱼桥 [?](http://www.china-qiao.com/ql15/hzql/hzql730.htm) | 石拱桥（单孔） | 8.2米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>东林镇</nobr> | 聚福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql399.htm) | 石梁桥（单孔） | 15米 | 清嘉庆六年（1801） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](聚福桥1.jpg) |
+| <nobr>东林镇</nobr> | 大顺桥 [?](http://www.china-qiao.com/ql15/hzql/hzql718.htm) | 石梁桥（五孔） | — | 清乾隆二十年（1755）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](大顺桥1.jpg) |
+| <nobr>东林镇</nobr> | 通锦桥 [?](http://www.china-qiao.com/ql15/hzql/hzql719.htm) | 石梁桥（五孔） | — | 明重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](通锦桥1.jpg) |
+| <nobr>东林镇</nobr> | 天顺桥 [?](http://www.china-qiao.com/ql15/hzql/hzql720.htm) | 石梁桥（三孔） | — | 清乾隆三十年（1765） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](天顺桥1.jpg) |
+| <nobr>东林镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql723.htm) | 石梁桥（三孔） | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](永福桥1.jpg) |
+| <nobr>东林镇</nobr> | 挡月桥 [?](http://www.china-qiao.com/ql15/hzql/hzql725.htm) | 石梁桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](挡月桥1.jpg) |
+| <nobr>东林镇</nobr> | 东老桥 [?](http://www.china-qiao.com/ql15/hzql/hzql726.htm) | 石梁桥（单孔） | — | 明重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](东老桥1.jpg) |
+| <nobr>东林镇</nobr> | 起隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql727.htm) | 石梁桥（单孔） | 11.5米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](起隆桥1.jpg) |
+| <nobr>东林镇</nobr> | 进禄高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql728.htm) | 石梁桥（单孔） | — | 民国八年（1919）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](进禄高桥1.jpg) |
+| <nobr>织里镇</nobr> | 轧村方桥 [?](http://www.china-qiao.com/ql15/hzql/hzql052.htm) | 石拱桥（三孔） | 30.5米 | 晚清重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>织里镇</nobr> | 闵家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql536.htm) | — | — | 民国六年（1917） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](闵家桥1.jpg) |
+| <nobr>织里镇</nobr> | 大溇村桥 [?](http://www.china-qiao.com/ql15/hzql/hzql691.htm) | — | — | 明始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](大溇村桥1.jpg) |
+| <nobr>织里镇</nobr> | 敦善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql390.htm) | — | — | 清光绪十二年（1886）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](敦善桥1.jpg) |
+| <nobr>织里镇</nobr> | 双福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql848.htm) | — | — | 民国十一年（1922）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](双福桥1.jpg) |
+| <nobr>织里镇</nobr> | 东庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql800.htm) | — | — | 清同治年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](东庆桥1.jpg) |
+| <nobr>织里镇</nobr> | 福绥桥 [?](http://www.china-qiao.com/ql15/hzql/hzql801.htm) | — | — | 清同治十一年（1872）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](福绥桥1.jpg) |
+| <nobr>织里镇</nobr> | 鸾章桥 [?](http://www.china-qiao.com/ql15/hzql/hzql790.htm) | — | — | 清道光二十六年（1846）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](鸾章桥1.jpg) |
+| <nobr>织里镇</nobr> | 白云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql846.htm) | — | — | 清同治十三年（1874）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](白云桥1.jpg) |
+| <nobr>织里镇</nobr> | 打子桥 [?](http://www.china-qiao.com/ql15/hzql/hzql847.htm) | — | — | 民国二十六年（1937）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>织里镇</nobr> | 约束桥 [?](http://www.china-qiao.com/ql15/hzql/hzql852.htm) | — | — | 民国十三年（1924） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](约束桥1.jpg) |
+| <nobr>织里镇</nobr> | 安云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql402.htm) | — | — | 民国十一年（1922）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](安云桥1.jpg) |
+| <nobr>织里镇</nobr> | 安农桥 [?](http://www.china-qiao.com/ql15/hzql/hzql845.htm) | — | — | 民国三十二年（1943）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](安农桥1.jpg) |
+| <nobr>织里镇</nobr> | 白龙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql049.htm) | 石拱桥（三孔） | 34.05米 | 明崇祯以前始建，民国十九年（1930）重建；民国十九年（1930）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](白龙桥1.jpg) |
+| <nobr>织里镇</nobr> | 故县桥 [?](http://www.china-qiao.com/ql15/hzql/hzql795.htm) | — | — | 民国三十年代重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](故县桥1.jpg) |
+| <nobr>织里镇</nobr> | 太保桥 [?](http://www.china-qiao.com/ql15/hzql/hzql797.htm) | — | — | 清晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](太保桥1.jpg) |
+| <nobr>织里镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql809.htm) | — | — | 清光绪二十一年（1895）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>织里镇</nobr> | 锡暇桥 [?](http://www.china-qiao.com/ql15/hzql/hzql810.htm) | — | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](锡暇桥1.jpg) |
+| <nobr>织里镇</nobr> | 邻睦桥 [?](http://www.china-qiao.com/ql15/hzql/hzql814.htm) | — | — | 清光绪二十五年（1899）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](邻睦桥1.jpg) |
+| <nobr>织里镇</nobr> | 观音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql394.htm) | — | — | 清光绪二十五年（1899）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>织里镇</nobr> | 广平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql831.htm) | 石梁桥（三孔） | — | 明正德十一年（1516）重建（据桥墩刻字） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](广平桥1.jpg) |
+| <nobr>织里镇</nobr> | 里美桥 [?](http://www.china-qiao.com/ql15/hzql/hzql834.htm) | — | — | 清光绪十二年（1886）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](里美桥1.jpg) |
+| <nobr>织里镇</nobr> | 西庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql804.htm) | — | — | 清中晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](西庆桥1.jpg) |
+| <nobr>织里镇</nobr> | 梅林桥 [?](http://www.china-qiao.com/ql15/hzql/hzql535.htm) | — | — | 清光绪六年（1880）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](梅林桥1.jpg) |
+| <nobr>织里镇</nobr> | 咸兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql538.htm) | — | — | 民国十七年（1928）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](咸兴桥1.jpg) |
+| <nobr>织里镇</nobr> | 圣堂桥 [?](http://www.china-qiao.com/ql15/hzql/hzql805.htm) | — | — | 清末 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](圣堂桥1.jpg) |
+| <nobr>织里镇</nobr> | 郝家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql806.htm) | — | — | 民国十四年（1925）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](郝家桥1.jpg) |
+| <nobr>织里镇</nobr> | 东章桥 [?](http://www.china-qiao.com/ql15/hzql/hzql830.htm) | — | — | 清中晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](东章桥1.jpg) |
+| <nobr>织里镇</nobr> | 俊秀桥 [?](http://www.china-qiao.com/ql15/hzql/hzql807.htm) | — | — | 民国重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](俊秀桥1.jpg) |
+| <nobr>织里镇</nobr> | 两家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql812.htm) | — | — | 民国三十七年（1948）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](两家桥1.jpg) |
+| <nobr>织里镇</nobr> | 晋寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql833.htm) | — | — | 清同治十一年（1872）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](晋寿桥1.jpg) |
+| <nobr>织里镇</nobr> | 宁祉桥 [?](http://www.china-qiao.com/ql15/hzql/hzql835.htm) | — | — | 清早中期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](宁祉桥1.jpg) |
+| <nobr>织里镇</nobr> | 石前桥 [?](http://www.china-qiao.com/ql15/hzql/hzql837.htm) | — | — | 清光绪十年（1884）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](石前桥1.jpg) |
+| <nobr>织里镇</nobr> | 仁寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql836.htm) | — | — | 清光绪十八年（1892）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](仁寿桥1.jpg) |
+| <nobr>织里镇</nobr> | 长庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql838.htm) | — | — | 清光绪二十一年（1895）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](长庆桥1.jpg) |
+| <nobr>织里镇</nobr> | 庆安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql879.htm) | — | — | 清光绪二年（1876）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](庆安桥1.jpg) |
+| <nobr>织里镇</nobr> | 丰登桥 [?](http://www.china-qiao.com/ql15/hzql/hzql391.htm) | — | — | 清道光二十七年（1847）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](丰登桥1.jpg) |
+| <nobr>织里镇</nobr> | 丰和桥 [?](http://www.china-qiao.com/ql15/hzql/hzql803.htm) | — | — | 清康熙五十三年（1714）建，乾隆三十七年（1772）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](丰和桥1.jpg) |
+| <nobr>织里镇</nobr> | 连绩桥 [?](http://www.china-qiao.com/ql15/hzql/hzql870.htm) | — | — | 清末民国（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](连绩桥1.jpg) |
+| <nobr>织里镇</nobr> | 仁里桥 [?](http://www.china-qiao.com/ql15/hzql/hzql871.htm) | — | — | 清光绪十五年（1889）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](仁里桥1.jpg) |
+| <nobr>织里镇</nobr> | 永福灞桥 [?](http://www.china-qiao.com/ql15/hzql/hzql877.htm) | — | — | 清咸丰九年（1859）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](永福灞桥1.jpg) |
+| <nobr>织里镇</nobr> | 永利桥 [?](http://www.china-qiao.com/ql15/hzql/hzql878.htm) | — | — | 清同治六年（1867）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](永利桥1.jpg) |
+| <nobr>织里镇</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql055.htm) | — | — | 清光绪二十年（1894）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](永丰桥1.jpg) |
+| <nobr>织里镇</nobr> | 康泰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql815.htm) | — | — | 清同治年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](康泰桥1.jpg) |
+| <nobr>织里镇</nobr> | 永安长桥 [?](http://www.china-qiao.com/ql15/hzql/hzql817.htm) | — | — | 民国十八年（1929）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](永安长桥1.jpg) |
+| <nobr>织里镇</nobr> | 安隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql841.htm) | — | — | 清光绪二十二年（1896）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](安隆桥1.jpg) |
+| <nobr>织里镇</nobr> | 塔影桥 [?](http://www.china-qiao.com/ql15/hzql/hzql872.htm) | — | — | 民国八年（1919）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](塔影桥1.jpg) |
+| <nobr>织里镇</nobr> | 吴沙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql840.htm) | — | — | 清咸丰十年（1860）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](吴沙桥1.jpg) |
+| <nobr>织里镇</nobr> | 咸寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql874.htm) | — | — | 清光绪年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](咸寿桥1.jpg) |
+| <nobr>织里镇</nobr> | 大有桥 [?](http://www.china-qiao.com/ql15/hzql/hzql860.htm) | — | — | 清乾隆八年（1743）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](大有桥1.jpg) |
+| <nobr>织里镇</nobr> | 里仁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql862.htm) | — | — | 清乾隆四十二年（1777）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](里仁桥1.jpg) |
+| <nobr>织里镇</nobr> | 朱家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql864.htm) | — | — | 清康熙年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](朱家桥1.jpg) |
+| <nobr>织里镇</nobr> | 朱家庙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql821.htm) | — | — | 民国二十三年（1934）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](朱家庙桥1.jpg) |
+| <nobr>织里镇</nobr> | 福善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql861.htm) | — | — | 民国二十三年（1934） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](福善桥1.jpg) |
+| <nobr>织里镇</nobr> | 绎喜桥 [?](http://www.china-qiao.com/ql15/hzql/hzql863.htm) | — | — | 民国二十三年（1934） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](绎喜桥1.jpg) |
+| <nobr>织里镇</nobr> | 丰乐桥 [?](http://www.china-qiao.com/ql15/hzql/hzql865.htm) | — | — | 民国三年（1914） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](丰乐桥1.jpg) |
+| <nobr>织里镇</nobr> | 龙门桥 [?](http://www.china-qiao.com/ql15/hzql/hzql053.htm) | 石拱桥（单孔） | 16米 | 南宋嘉泰以前始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](龙门桥1.jpg) |
+| <nobr>八里店镇</nobr> | 起凤桥 [?](http://www.china-qiao.com/ql15/hzql/hzql466.htm) | 石拱桥（单孔） | 9.5米 | —（桥面水泥铺面） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>八里店镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/hzql/hzql468.htm) | 石拱桥（单孔） | 8.5米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>八里店镇</nobr> | 腾蛟桥 [?](http://www.china-qiao.com/ql15/hzql/hzql465.htm) | 石拱桥（单孔） | 15米 | 明始建，清重修；明正德二年（1507）始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](腾蛟桥1.jpg) |
+| <nobr>八里店镇</nobr> | 化龙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql467.htm) | 石拱桥（单孔） | 12.2米 | 明正德三年（1508）始建，清道光元年（1821）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](化龙桥1.jpg) |
+| <nobr>八里店镇</nobr> | 复兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql518.htm) | — | — | 清光绪二十六年（1900）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](复兴桥1.jpg) |
+| <nobr>八里店镇</nobr> | 万兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql471.htm) | — | — | 清乾隆十五年（1750）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](万兴桥1.jpg) |
+| <nobr>八里店镇</nobr> | 天平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql472.htm) | — | — | 清咸丰七年（1857）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](天平桥1.jpg) |
+| <nobr>八里店镇</nobr> | 乐稼桥 [?](http://www.china-qiao.com/ql15/hzql/hzql475.htm) | — | — | 清道光元年（1821）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](乐稼桥1.jpg) |
+| <nobr>八里店镇</nobr> | 包家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql513.htm) | — | — | 清光绪十三年（1887）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](包家桥1.jpg) |
+| <nobr>八里店镇</nobr> | 主公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql528.htm) | — | — | 宋元风格（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](主公桥1.jpg) |
+| <nobr>八里店镇</nobr> | 多子昌桥 [?](http://www.china-qiao.com/ql15/hzql/hzql516.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](多子昌桥1.jpg) |
+| <nobr>八里店镇</nobr> | 月明桥 [?](http://www.china-qiao.com/ql15/hzql/hzql527.htm) | — | — | 民国重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](月明桥1.jpg) |
+| <nobr>八里店镇</nobr> | 福臻桥 [?](http://www.china-qiao.com/ql15/hzql/hzql517.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](福臻桥1.jpg) |
+| <nobr>八里店镇</nobr> | 中兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql530.htm) | — | — | 清光绪年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](中兴桥1.jpg) |
+| <nobr>八里店镇</nobr> | 余庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql526.htm) | — | — | 清重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](余庆桥1.jpg) |
+| <nobr>环渚街道</nobr> | 金锁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql476.htm) | 石拱桥（单孔） | — | 清嘉庆十二年（1807）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](金锁桥1.jpg) |
+| <nobr>环渚街道</nobr> | 交界桥 [?](http://www.china-qiao.com/ql15/hzql/hzql479.htm) | — | — | 清嘉庆七年（1802）建，光绪十三年（1887）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](交界桥1.jpg) |
+| <nobr>环渚街道</nobr> | 秀墅桥 [?](http://www.china-qiao.com/ql15/hzql/hzql463.htm) | 石梁桥（三孔） | — | 清光绪二十年（1894）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](秀墅桥1.jpg) |
+| <nobr>环渚街道</nobr> | 日晖桥 [?](http://www.china-qiao.com/ql15/hzql/hzql474.htm) | — | — | 清光绪十九年（1893）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](日晖桥1.jpg) |
+| <nobr>环渚街道</nobr> | 兴隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql470.htm) | 石梁桥（单孔） | — | 民国十年（1921）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](兴隆桥1.jpg) |
+| <nobr>环渚街道</nobr> | 普安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql510.htm) | 石拱桥（单孔） | — | 明成化十年（1474）始建，清咸丰六年（1856）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](普安桥1.jpg) |
+| <nobr>埭溪镇</nobr> | 青莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql693.htm) | 石拱桥（单孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](青莲桥1.jpg) |
 
-## 详细表格（位置、公布文件、图片）
-
-| <nobr>序号</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |
-|---|---|---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>朝阳街道</nobr> | 潮音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql038.htm) | 石拱桥（三孔） | 54.2米 | 明嘉靖年间重建 | 霅溪上 | 全国重点文物保护单位（第八批） | 国发〔2019〕22号 | 暂无 |
-| <nobr>2</nobr> | <nobr>龙泉街道</nobr> | 潘公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql039.htm) | 石拱桥（三孔） | 57.5米 | 明万历十三年（1585）始建，清道光二十年（1840）重建 | 苕溪、霅溪两溪汇合处 | 全国重点文物保护单位（第七批，“潘公桥及潘孝墓”） | 国发〔2013〕13号 | 暂无 |
-| <nobr>3</nobr> | <nobr>东林镇</nobr> | 源洪桥 [?](http://www.china-qiao.com/ql15/hzql/hzql422.htm) | 石拱桥（单孔） | 16米 | 宋 | 青联行政村新桥头自然村 | 浙江省文物保护单位（第六批） | 浙政发〔2011〕2号 | [1](源洪桥1.jpg) |
-| <nobr>4</nobr> | <nobr>东林镇</nobr> | 妙济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql420.htm) | 石梁桥（五孔） | 27.2米 | 宋 | 星敏行政村前骧自然村南坝港 | 浙江省文物保护单位（第七批） | 浙政发〔2017〕2号 | [1](妙济桥1.jpg) |
-| <nobr>5</nobr> | <nobr>朝阳街道</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql042.htm) | 石梁桥（三孔） | 18米 | 清乾隆年间始建，清光绪二十二年（1896）重建 | 市河上（钮氏状元厅附近） | 浙江省文物保护单位（第五批，“钮氏状元厅”组成部分） | — | 暂无 |
-| <nobr>6</nobr> | <nobr>东林镇</nobr> | 迎福桥 | — | — | 元 | 星敏村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>7</nobr> | <nobr>东林镇</nobr> | 宁远桥 | — | — | 清 | 泉心村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>8</nobr> | <nobr>东林镇</nobr> | 圣化桥 | — | — | 明 | 星敏村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>9</nobr> | <nobr>八里店镇</nobr> | 路村四桥 | — | — | 清 | 潞村行政村潞村自然村 | 湖州市文物保护单位（第六批，2003年） | — | 暂无 |
-| <nobr>10</nobr> | <nobr>八里店镇</nobr> | 永宁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql525.htm) | — | — | 清 | 移沿山村 | 湖州市文物保护单位（第七批，2011年） | — | [1](永宁桥1.jpg) |
-| <nobr>11</nobr> | <nobr>八里店镇</nobr> | 湧苍桥 [?](http://www.china-qiao.com/ql15/hzql/hzql512.htm) | — | — | 清 | 路村村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | [1](湧苍桥1.jpg) |
-| <nobr>12</nobr> | <nobr>八里店镇</nobr> | 移沿山永安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql529.htm) | — | — | 清 | 移沿山行政村 | 湖州市文物保护单位（第九批，2021年） | — | 暂无 |
-| <nobr>13</nobr> | <nobr>太湖溇港一带</nobr> | 安乐桥 | — | — | 清至民国 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>14</nobr> | <nobr>太湖溇港一带</nobr> | 陈溇塘桥 | — | — | 清至民国 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>15</nobr> | <nobr>太湖溇港一带</nobr> | 杨渎桥 | — | — | 清至民国 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>16</nobr> | <nobr>太湖溇港一带</nobr> | 诸溇桥 [?](http://www.china-qiao.com/ql15/hzql/hzql401.htm) | 石拱桥（单孔） | — | 清至民国 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>17</nobr> | <nobr>太湖溇港一带</nobr> | 永济塘桥 | — | — | 清至民国 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>18</nobr> | <nobr>太湖溇港一带</nobr> | 尚义桥 [?](http://www.china-qiao.com/ql15/hzql/hzql689.htm) | — | — | 清至民国；清乾隆三十九年（1774）重建 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>19</nobr> | <nobr>太湖溇港一带</nobr> | 述中桥 [?](http://www.china-qiao.com/ql15/hzql/hzql054.htm) | — | — | 清至民国；清光绪二十九年（1903）重建 | 頔塘以北太湖溇港 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） | — | 暂无 |
-| <nobr>20</nobr> | <nobr>妙西镇</nobr> | 杨富桥 [?](http://www.china-qiao.com/ql15/hzql/hzql061.htm) | 石拱桥（单孔） | — | 明 | 妙山行政村大树下自然村 | 湖州市文物保护单位（第六批，2003年） | — | [1](杨富桥1.jpg) |
-| <nobr>21</nobr> | <nobr>月河街道</nobr> | 苕梁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql027.htm) | 钢筋混凝土桥 | — | 民国 | 衣裳街历史文化街区 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>22</nobr> | <nobr>滨湖街道</nobr> | 白莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql501.htm) | — | — | 明 | 瑶阶坝村北坝自然村 | 湖州市文物保护单位（第六批，2003年） | — | [1](白莲桥1.jpg) |
-| <nobr>23</nobr> | <nobr>滨湖街道</nobr> | 至大桥 [?](http://www.china-qiao.com/ql15/hzql/hzql776.htm) | — | — | 元 | 红旗村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>24</nobr> | <nobr>滨湖街道</nobr> | 毓秀桥 | — | — | 清 | 塘甸村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>25</nobr> | <nobr>环渚街道</nobr> | 永兴桥 | — | — | 清 | 市陌路，横跨市陌港 | 湖州市文物保护单位（第六批，2003年） | — | 暂无 |
-| <nobr>26</nobr> | <nobr>织里镇</nobr> | 张官桥 [?](http://www.china-qiao.com/ql15/hzql/hzql051.htm) | 石拱桥（三孔） | 20米 | 清 | 汤溇村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | [1](张官桥1.jpg) |
-| <nobr>27</nobr> | <nobr>织里镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql397.htm) | 石拱桥（三孔） | — | 清 | 轧村村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | [1](广济桥1.jpg) |
-| <nobr>28</nobr> | <nobr>织里镇</nobr> | 太平桥 | — | — | 清 | 常乐村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>29</nobr> | <nobr>高新区</nobr> | 戴步桥 [?](http://www.china-qiao.com/ql15/hzql/hzql882.htm) | — | — | 清光绪十年（1884）重建 | 戴山村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | [1](戴步桥1.jpg) |
-| <nobr>30</nobr> | <nobr>高新区</nobr> | 白龙塘桥 | — | — | 民国 | 后林村 | 湖州市文物保护单位（第八批，2015年） | 湖州市人民政府 2015 年公布 | 暂无 |
-| <nobr>31</nobr> | <nobr>高新区</nobr> | 大溇桥 | — | — | 清 | 大溇行政村 | 湖州市文物保护单位（第九批，2021年） | — | 暂无 |
-| <nobr>32</nobr> | <nobr>东林镇</nobr> | 连通桥 | — | — | 民国 | 星火行政村鲁家埭自然村，锦山小学北侧 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>33</nobr> | <nobr>东林镇</nobr> | 回仙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql724.htm) | 石梁桥（三孔） | — | 清 | 东明行政村老市里自然村，横跨于老市河上 | 湖州市文物保护点 | 湖文物〔2003〕13号 | [1](回仙桥1.jpg) |
-| <nobr>34</nobr> | <nobr>东林镇</nobr> | 迎锦桥（通锦桥） | — | — | 清 | 东明行政村九百亩自然村，在该自然村南端的小河上。 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>35</nobr> | <nobr>东林镇</nobr> | 永安桥 | — | — | 明 | 青联行政村永年庵自然村，距104国道200米处，桥西南约500米为常照寺。 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>36</nobr> | <nobr>东林镇</nobr> | 大兴桥 | — | — | 清 | 泉益行政村胡家墩自然村村部旁 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>37</nobr> | <nobr>八里店镇</nobr> | 东林高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql515.htm) | — | — | 清道光年间重修 | 移沿山行政村独市自然村北宜兴塘港上 | 湖州市文物保护点 | 湖文物〔2003〕13号 | [1](东林高桥1.jpg) |
-| <nobr>38</nobr> | <nobr>八里店镇</nobr> | 洗马桥 [?](http://www.china-qiao.com/ql15/hzql/hzql521.htm) | 石拱桥（单孔） | — | 清 | 移沿山行政村庙前头自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | [1](洗马桥1.jpg) |
-| <nobr>39</nobr> | <nobr>埭溪镇</nobr> | 上强村太平桥 | — | — | 清 | 上强行政村油车湾自然村，居民点往西300米的河塘中。 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>40</nobr> | <nobr>埭溪镇</nobr> | 罗家桥 | — | — | 清 | 太平桥行政村贾介自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>41</nobr> | <nobr>埭溪镇</nobr> | 月映桥 [?](http://www.china-qiao.com/ql15/hzql/hzql428.htm) | — | — | 清 | 月映桥行政村月映桥自然村，位于进入该自然村的村级公路旁。 | 湖州市文物保护点 | 湖文物〔2003〕13号 | [1](月映桥1.jpg) |
-| <nobr>42</nobr> | <nobr>埭溪镇</nobr> | 天桥 | — | — | 清 | 红旗行政村镇水自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>43</nobr> | <nobr>埭溪镇</nobr> | 洋水潭桥 | — | — | 清 | 红旗行政村南坞自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>44</nobr> | <nobr>埭溪镇</nobr> | 仙桥 | — | — | 清 | 小羊山行政村下沈自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>45</nobr> | <nobr>杨家埠街道</nobr> | 通济桥 | — | — | 清 | 塘口自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>46</nobr> | <nobr>湖东街道</nobr> | 铁店桥 [?](http://www.china-qiao.com/ql15/hzql/hzql763.htm) | 石拱桥（单孔） | — | 民国 | 毗山行政村山东头自然村 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>47</nobr> | <nobr>织里镇</nobr> | 迎晖桥 [?](http://www.china-qiao.com/ql15/hzql/hzql050.htm) | 石拱桥（单孔） | 14.9米 | 清 | 陆家湾村陆家湾自然村村落东面 | 湖州市文物保护点 | 湖文物〔2003〕13号 | [1](迎晖桥1.jpg) |
-| <nobr>48</nobr> | <nobr>高新区</nobr> | 永隆桥 | — | — | 清 | 大溇村小斗自然村中 | 湖州市文物保护点 | 湖文物〔2003〕13号 | 暂无 |
-| <nobr>49</nobr> | <nobr>东林镇</nobr> | 南旺石梁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql721.htm) | 石梁桥（三孔） | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>50</nobr> | <nobr>东林镇</nobr> | 哑子桥 [?](http://www.china-qiao.com/ql15/hzql/hzql729.htm) | 石梁桥（单孔） | 10米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>51</nobr> | <nobr>东林镇</nobr> | 鲤鱼桥 [?](http://www.china-qiao.com/ql15/hzql/hzql730.htm) | 石拱桥（单孔） | 8.2米 | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>52</nobr> | <nobr>东林镇</nobr> | 聚福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql399.htm) | 石梁桥（单孔） | 15米 | 清嘉庆六年（1801） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](聚福桥1.jpg) |
-| <nobr>53</nobr> | <nobr>东林镇</nobr> | 大顺桥 [?](http://www.china-qiao.com/ql15/hzql/hzql718.htm) | 石梁桥（五孔） | — | 清乾隆二十年（1755）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](大顺桥1.jpg) |
-| <nobr>54</nobr> | <nobr>东林镇</nobr> | 通锦桥 [?](http://www.china-qiao.com/ql15/hzql/hzql719.htm) | 石梁桥（五孔） | — | 明重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](通锦桥1.jpg) |
-| <nobr>55</nobr> | <nobr>东林镇</nobr> | 天顺桥 [?](http://www.china-qiao.com/ql15/hzql/hzql720.htm) | 石梁桥（三孔） | — | 清乾隆三十年（1765） | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](天顺桥1.jpg) |
-| <nobr>56</nobr> | <nobr>东林镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql723.htm) | 石梁桥（三孔） | — | 明 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](永福桥1.jpg) |
-| <nobr>57</nobr> | <nobr>东林镇</nobr> | 挡月桥 [?](http://www.china-qiao.com/ql15/hzql/hzql725.htm) | 石梁桥（单孔） | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](挡月桥1.jpg) |
-| <nobr>58</nobr> | <nobr>东林镇</nobr> | 东老桥 [?](http://www.china-qiao.com/ql15/hzql/hzql726.htm) | 石梁桥（单孔） | — | 明重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](东老桥1.jpg) |
-| <nobr>59</nobr> | <nobr>东林镇</nobr> | 起隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql727.htm) | 石梁桥（单孔） | 11.5米 | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](起隆桥1.jpg) |
-| <nobr>60</nobr> | <nobr>东林镇</nobr> | 进禄高桥 [?](http://www.china-qiao.com/ql15/hzql/hzql728.htm) | 石梁桥（单孔） | — | 民国八年（1919）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](进禄高桥1.jpg) |
-| <nobr>61</nobr> | <nobr>八里店镇</nobr> | 起凤桥 [?](http://www.china-qiao.com/ql15/hzql/hzql466.htm) | 石拱桥（单孔） | 9.5米 | —（桥面水泥铺面） | 路村村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>62</nobr> | <nobr>八里店镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/hzql/hzql468.htm) | 石拱桥（单孔） | 8.5米 | — | 路村村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>63</nobr> | <nobr>八里店镇</nobr> | 腾蛟桥 [?](http://www.china-qiao.com/ql15/hzql/hzql465.htm) | 石拱桥（单孔） | 15米 | 明始建，清重修；明正德二年（1507）始建 | 路村村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](腾蛟桥1.jpg) |
-| <nobr>64</nobr> | <nobr>八里店镇</nobr> | 化龙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql467.htm) | 石拱桥（单孔） | 12.2米 | 明正德三年（1508）始建，清道光元年（1821）重建 | 路村村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](化龙桥1.jpg) |
-| <nobr>65</nobr> | <nobr>八里店镇</nobr> | 复兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql518.htm) | — | — | 清光绪二十六年（1900）重建 | 路村村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](复兴桥1.jpg) |
-| <nobr>66</nobr> | <nobr>八里店镇</nobr> | 万兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql471.htm) | — | — | 清乾隆十五年（1750）重建 | 欣安村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](万兴桥1.jpg) |
-| <nobr>67</nobr> | <nobr>八里店镇</nobr> | 天平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql472.htm) | — | — | 清咸丰七年（1857）重建 | 欣安村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](天平桥1.jpg) |
-| <nobr>68</nobr> | <nobr>八里店镇</nobr> | 乐稼桥 [?](http://www.china-qiao.com/ql15/hzql/hzql475.htm) | — | — | 清道光元年（1821）重建 | 欣安村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](乐稼桥1.jpg) |
-| <nobr>69</nobr> | <nobr>八里店镇</nobr> | 包家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql513.htm) | — | — | 清光绪十三年（1887）重建 | 紫金桥村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](包家桥1.jpg) |
-| <nobr>70</nobr> | <nobr>八里店镇</nobr> | 主公桥 [?](http://www.china-qiao.com/ql15/hzql/hzql528.htm) | — | — | 宋元风格（推断） | 紫金桥村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](主公桥1.jpg) |
-| <nobr>71</nobr> | <nobr>八里店镇</nobr> | 多子昌桥 [?](http://www.china-qiao.com/ql15/hzql/hzql516.htm) | — | — | 清 | 独市村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](多子昌桥1.jpg) |
-| <nobr>72</nobr> | <nobr>八里店镇</nobr> | 月明桥 [?](http://www.china-qiao.com/ql15/hzql/hzql527.htm) | — | — | 民国重建 | 独市村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](月明桥1.jpg) |
-| <nobr>73</nobr> | <nobr>八里店镇</nobr> | 福臻桥 [?](http://www.china-qiao.com/ql15/hzql/hzql517.htm) | — | — | 清 | 尹家圩村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](福臻桥1.jpg) |
-| <nobr>74</nobr> | <nobr>八里店镇</nobr> | 中兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql530.htm) | — | — | 清光绪年间重建 | 永福村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](中兴桥1.jpg) |
-| <nobr>75</nobr> | <nobr>八里店镇</nobr> | 余庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql526.htm) | — | — | 清重建 | 移沿山村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](余庆桥1.jpg) |
-| <nobr>76</nobr> | <nobr>埭溪镇</nobr> | 青莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql693.htm) | 石拱桥（单孔） | — | 清 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](青莲桥1.jpg) |
-| <nobr>77</nobr> | <nobr>滨湖街道</nobr> | 陆家圩桥 [?](http://www.china-qiao.com/ql15/hzql/hzql419.htm) | 石梁桥（三孔） | — | — | 塘甸村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>78</nobr> | <nobr>环渚街道</nobr> | 金锁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql476.htm) | 石拱桥（单孔） | — | 清嘉庆十二年（1807）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](金锁桥1.jpg) |
-| <nobr>79</nobr> | <nobr>环渚街道</nobr> | 交界桥 [?](http://www.china-qiao.com/ql15/hzql/hzql479.htm) | — | — | 清嘉庆七年（1802）建，光绪十三年（1887）重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](交界桥1.jpg) |
-| <nobr>80</nobr> | <nobr>环渚街道</nobr> | 秀墅桥 [?](http://www.china-qiao.com/ql15/hzql/hzql463.htm) | 石梁桥（三孔） | — | 清光绪二十年（1894）重建 | 瑶台村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](秀墅桥1.jpg) |
-| <nobr>81</nobr> | <nobr>环渚街道</nobr> | 日晖桥 [?](http://www.china-qiao.com/ql15/hzql/hzql474.htm) | — | — | 清光绪十九年（1893）重建 | 瑶台村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](日晖桥1.jpg) |
-| <nobr>82</nobr> | <nobr>环渚街道</nobr> | 兴隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql470.htm) | 石梁桥（单孔） | — | 民国十年（1921）重建 | 后庄村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](兴隆桥1.jpg) |
-| <nobr>83</nobr> | <nobr>环渚街道</nobr> | 普安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql510.htm) | 石拱桥（单孔） | — | 明成化十年（1474）始建，清咸丰六年（1856）重建 | 大钱村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](普安桥1.jpg) |
-| <nobr>84</nobr> | <nobr>织里镇</nobr> | 轧村方桥 [?](http://www.china-qiao.com/ql15/hzql/hzql052.htm) | 石拱桥（三孔） | 30.5米 | 晚清重建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>85</nobr> | <nobr>织里镇</nobr> | 闵家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql536.htm) | — | — | 民国六年（1917） | 大溇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](闵家桥1.jpg) |
-| <nobr>86</nobr> | <nobr>织里镇</nobr> | 大溇村桥 [?](http://www.china-qiao.com/ql15/hzql/hzql691.htm) | — | — | 明始建 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](大溇村桥1.jpg) |
-| <nobr>87</nobr> | <nobr>织里镇</nobr> | 敦善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql390.htm) | — | — | 清光绪十二年（1886）重建 | 大港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](敦善桥1.jpg) |
-| <nobr>88</nobr> | <nobr>织里镇</nobr> | 双福桥 [?](http://www.china-qiao.com/ql15/hzql/hzql848.htm) | — | — | 民国十一年（1922）重建 | 大港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](双福桥1.jpg) |
-| <nobr>89</nobr> | <nobr>织里镇</nobr> | 东庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql800.htm) | — | — | 清同治年间重建 | 晓河村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](东庆桥1.jpg) |
-| <nobr>90</nobr> | <nobr>织里镇</nobr> | 福绥桥 [?](http://www.china-qiao.com/ql15/hzql/hzql801.htm) | — | — | 清同治十一年（1872）重建 | 晓河村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](福绥桥1.jpg) |
-| <nobr>91</nobr> | <nobr>织里镇</nobr> | 鸾章桥 [?](http://www.china-qiao.com/ql15/hzql/hzql790.htm) | — | — | 清道光二十六年（1846）重建 | 清水兜村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](鸾章桥1.jpg) |
-| <nobr>92</nobr> | <nobr>织里镇</nobr> | 白云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql846.htm) | — | — | 清同治十三年（1874）重建 | 郑港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](白云桥1.jpg) |
-| <nobr>93</nobr> | <nobr>织里镇</nobr> | 打子桥 [?](http://www.china-qiao.com/ql15/hzql/hzql847.htm) | — | — | 民国二十六年（1937）重建 | 郑港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>94</nobr> | <nobr>织里镇</nobr> | 约束桥 [?](http://www.china-qiao.com/ql15/hzql/hzql852.htm) | — | — | 民国十三年（1924） | 郑港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](约束桥1.jpg) |
-| <nobr>95</nobr> | <nobr>织里镇</nobr> | 安云桥 [?](http://www.china-qiao.com/ql15/hzql/hzql402.htm) | — | — | 民国十一年（1922）重建 | 凌家汇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](安云桥1.jpg) |
-| <nobr>96</nobr> | <nobr>织里镇</nobr> | 安农桥 [?](http://www.china-qiao.com/ql15/hzql/hzql845.htm) | — | — | 民国三十二年（1943）重建 | 凌家汇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](安农桥1.jpg) |
-| <nobr>97</nobr> | <nobr>织里镇</nobr> | 白龙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql049.htm) | 石拱桥（三孔） | 34.05米 | 明崇祯以前始建，民国十九年（1930）重建；民国十九年（1930）始建 | 秧宅村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](白龙桥1.jpg) |
-| <nobr>98</nobr> | <nobr>织里镇</nobr> | 故县桥 [?](http://www.china-qiao.com/ql15/hzql/hzql795.htm) | — | — | 民国三十年代重建 | 旧馆村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](故县桥1.jpg) |
-| <nobr>99</nobr> | <nobr>织里镇</nobr> | 太保桥 [?](http://www.china-qiao.com/ql15/hzql/hzql797.htm) | — | — | 清晚期 | 旧馆村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](太保桥1.jpg) |
-| <nobr>100</nobr> | <nobr>织里镇</nobr> | 万安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql809.htm) | — | — | 清光绪二十一年（1895）重建 | 石头港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>101</nobr> | <nobr>织里镇</nobr> | 锡暇桥 [?](http://www.china-qiao.com/ql15/hzql/hzql810.htm) | — | — | 民国 | 石头港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](锡暇桥1.jpg) |
-| <nobr>102</nobr> | <nobr>织里镇</nobr> | 邻睦桥 [?](http://www.china-qiao.com/ql15/hzql/hzql814.htm) | — | — | 清光绪二十五年（1899）重建 | 轧村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](邻睦桥1.jpg) |
-| <nobr>103</nobr> | <nobr>织里镇</nobr> | 观音桥 [?](http://www.china-qiao.com/ql15/hzql/hzql394.htm) | — | — | 清光绪二十五年（1899）重建 | 轧村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | 暂无 |
-| <nobr>104</nobr> | <nobr>织里镇</nobr> | 广平桥 [?](http://www.china-qiao.com/ql15/hzql/hzql831.htm) | 石梁桥（三孔） | — | 明正德十一年（1516）重建（据桥墩刻字） | 轧村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](广平桥1.jpg) |
-| <nobr>105</nobr> | <nobr>织里镇</nobr> | 里美桥 [?](http://www.china-qiao.com/ql15/hzql/hzql834.htm) | — | — | 清光绪十二年（1886）重建 | 轧村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](里美桥1.jpg) |
-| <nobr>106</nobr> | <nobr>织里镇</nobr> | 西庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql804.htm) | — | — | 清中晚期 | 港西村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](西庆桥1.jpg) |
-| <nobr>107</nobr> | <nobr>织里镇</nobr> | 梅林桥 [?](http://www.china-qiao.com/ql15/hzql/hzql535.htm) | — | — | 清光绪六年（1880）重建 | 香圩墩村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](梅林桥1.jpg) |
-| <nobr>108</nobr> | <nobr>织里镇</nobr> | 咸兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql538.htm) | — | — | 民国十七年（1928）重建 | 香圩墩村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](咸兴桥1.jpg) |
-| <nobr>109</nobr> | <nobr>织里镇</nobr> | 圣堂桥 [?](http://www.china-qiao.com/ql15/hzql/hzql805.htm) | — | — | 清末 | 骥村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](圣堂桥1.jpg) |
-| <nobr>110</nobr> | <nobr>织里镇</nobr> | 郝家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql806.htm) | — | — | 民国十四年（1925）重建 | 骥村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](郝家桥1.jpg) |
-| <nobr>111</nobr> | <nobr>织里镇</nobr> | 东章桥 [?](http://www.china-qiao.com/ql15/hzql/hzql830.htm) | — | — | 清中晚期 | 增圩村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](东章桥1.jpg) |
-| <nobr>112</nobr> | <nobr>织里镇</nobr> | 俊秀桥 [?](http://www.china-qiao.com/ql15/hzql/hzql807.htm) | — | — | 民国重建 | 孟乡港村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](俊秀桥1.jpg) |
-| <nobr>113</nobr> | <nobr>织里镇</nobr> | 两家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql812.htm) | — | — | 民国三十七年（1948）重建 | 潘塘桥村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](两家桥1.jpg) |
-| <nobr>114</nobr> | <nobr>织里镇</nobr> | 晋寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql833.htm) | — | — | 清同治十一年（1872）重建 | 潘塘桥村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](晋寿桥1.jpg) |
-| <nobr>115</nobr> | <nobr>织里镇</nobr> | 宁祉桥 [?](http://www.china-qiao.com/ql15/hzql/hzql835.htm) | — | — | 清早中期 | 曹家簖村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](宁祉桥1.jpg) |
-| <nobr>116</nobr> | <nobr>织里镇</nobr> | 石前桥 [?](http://www.china-qiao.com/ql15/hzql/hzql837.htm) | — | — | 清光绪十年（1884）重建 | 曹家簖村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](石前桥1.jpg) |
-| <nobr>117</nobr> | <nobr>织里镇</nobr> | 仁寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql836.htm) | — | — | 清光绪十八年（1892）重建 | 上林村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](仁寿桥1.jpg) |
-| <nobr>118</nobr> | <nobr>织里镇</nobr> | 长庆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql838.htm) | — | — | 清光绪二十一年（1895）重建 | 上林村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](长庆桥1.jpg) |
-| <nobr>119</nobr> | <nobr>织里镇</nobr> | 庆安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql879.htm) | — | — | 清光绪二年（1876）重建 | 乔溇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](庆安桥1.jpg) |
-| <nobr>120</nobr> | <nobr>织里镇</nobr> | 丰登桥 [?](http://www.china-qiao.com/ql15/hzql/hzql391.htm) | — | — | 清道光二十七年（1847）重建 | 常乐村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](丰登桥1.jpg) |
-| <nobr>121</nobr> | <nobr>织里镇</nobr> | 丰和桥 [?](http://www.china-qiao.com/ql15/hzql/hzql803.htm) | — | — | 清康熙五十三年（1714）建，乾隆三十七年（1772）重建 | 常乐村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](丰和桥1.jpg) |
-| <nobr>122</nobr> | <nobr>织里镇</nobr> | 连绩桥 [?](http://www.china-qiao.com/ql15/hzql/hzql870.htm) | — | — | 清末民国（推断） | 常乐村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](连绩桥1.jpg) |
-| <nobr>123</nobr> | <nobr>织里镇</nobr> | 仁里桥 [?](http://www.china-qiao.com/ql15/hzql/hzql871.htm) | — | — | 清光绪十五年（1889）重建 | 常乐村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](仁里桥1.jpg) |
-| <nobr>124</nobr> | <nobr>织里镇</nobr> | 永福灞桥 [?](http://www.china-qiao.com/ql15/hzql/hzql877.htm) | — | — | 清咸丰九年（1859）重建 | 常乐村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](永福灞桥1.jpg) |
-| <nobr>125</nobr> | <nobr>织里镇</nobr> | 永利桥 [?](http://www.china-qiao.com/ql15/hzql/hzql878.htm) | — | — | 清同治六年（1867）重建 | 常乐村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](永利桥1.jpg) |
-| <nobr>126</nobr> | <nobr>织里镇</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql055.htm) | — | — | 清光绪二十年（1894）重建 | 陆家湾村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](永丰桥1.jpg) |
-| <nobr>127</nobr> | <nobr>织里镇</nobr> | 康泰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql815.htm) | — | — | 清同治年间重建 | 曙光村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](康泰桥1.jpg) |
-| <nobr>128</nobr> | <nobr>织里镇</nobr> | 永安长桥 [?](http://www.china-qiao.com/ql15/hzql/hzql817.htm) | — | — | 民国十八年（1929）重建 | 曙光村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](永安长桥1.jpg) |
-| <nobr>129</nobr> | <nobr>织里镇</nobr> | 安隆桥 [?](http://www.china-qiao.com/ql15/hzql/hzql841.htm) | — | — | 清光绪二十二年（1896）重建 | 曙光村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](安隆桥1.jpg) |
-| <nobr>130</nobr> | <nobr>织里镇</nobr> | 塔影桥 [?](http://www.china-qiao.com/ql15/hzql/hzql872.htm) | — | — | 民国八年（1919）重建 | 曙光村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](塔影桥1.jpg) |
-| <nobr>131</nobr> | <nobr>织里镇</nobr> | 吴沙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql840.htm) | — | — | 清咸丰十年（1860）重建 | 曙光村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](吴沙桥1.jpg) |
-| <nobr>132</nobr> | <nobr>织里镇</nobr> | 咸寿桥 [?](http://www.china-qiao.com/ql15/hzql/hzql874.htm) | — | — | 清光绪年间重建 | 曙光村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](咸寿桥1.jpg) |
-| <nobr>133</nobr> | <nobr>织里镇</nobr> | 大有桥 [?](http://www.china-qiao.com/ql15/hzql/hzql860.htm) | — | — | 清乾隆八年（1743）重建 | 伍浦村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](大有桥1.jpg) |
-| <nobr>134</nobr> | <nobr>织里镇</nobr> | 里仁桥 [?](http://www.china-qiao.com/ql15/hzql/hzql862.htm) | — | — | 清乾隆四十二年（1777）重建 | 伍浦村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](里仁桥1.jpg) |
-| <nobr>135</nobr> | <nobr>织里镇</nobr> | 朱家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql864.htm) | — | — | 清康熙年间建 | 伍浦村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](朱家桥1.jpg) |
-| <nobr>136</nobr> | <nobr>织里镇</nobr> | 朱家庙桥 [?](http://www.china-qiao.com/ql15/hzql/hzql821.htm) | — | — | 民国二十三年（1934）重建 | 义皋村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](朱家庙桥1.jpg) |
-| <nobr>137</nobr> | <nobr>织里镇</nobr> | 福善桥 [?](http://www.china-qiao.com/ql15/hzql/hzql861.htm) | — | — | 民国二十三年（1934） | 杨溇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](福善桥1.jpg) |
-| <nobr>138</nobr> | <nobr>织里镇</nobr> | 绎喜桥 [?](http://www.china-qiao.com/ql15/hzql/hzql863.htm) | — | — | 民国二十三年（1934） | 杨溇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](绎喜桥1.jpg) |
-| <nobr>139</nobr> | <nobr>织里镇</nobr> | 丰乐桥 [?](http://www.china-qiao.com/ql15/hzql/hzql865.htm) | — | — | 民国三年（1914） | 杨溇村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](丰乐桥1.jpg) |
-| <nobr>140</nobr> | <nobr>织里镇</nobr> | 龙门桥 [?](http://www.china-qiao.com/ql15/hzql/hzql053.htm) | 石拱桥（单孔） | 16米 | 南宋嘉泰以前始建 | 晟舍村 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | — | [1](龙门桥1.jpg) |
 
 ## 说明
 
