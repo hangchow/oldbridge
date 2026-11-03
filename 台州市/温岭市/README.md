@@ -87,5 +87,4 @@
 | 图片 | 来源 |
 |---|---|
 | [万寿桥1.jpg](万寿桥1.jpg) | [老百晓集桥：温岭市温峤镇万寿桥](http://www.china-qiao.com/ql15/tzql/tzql056.htm) |
-| [李婆桥1.jpg](李婆桥1.jpg) | [老百晓集桥：温岭市箬横镇李婆桥](http://www.china-qiao.com/ql15/tzql/tzql047.htm) |
 | [金清大桥1.jpg](金清大桥1.jpg) | [老百晓集桥：温岭市新河镇金清大桥](http://www.china-qiao.com/ql15/tzql/tzql049.htm) |
