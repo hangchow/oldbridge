@@ -1,6 +1,6 @@
 # 绍兴市古桥
 
-共收录 318 座桥。
+共收录 381 座桥。
 
 ## 按级别统计
 
@@ -11,19 +11,20 @@
 | <nobr>市级文物保护单位</nobr> | <nobr>8</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>33</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>86</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>70</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>4</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>164</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>157</nobr> |
 
 ## 各区县桥梁数量（降序）
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[越城区](越城区/README.md)</nobr> | <nobr>101</nobr> |
-| <nobr>[柯桥区](柯桥区/README.md)</nobr> | <nobr>94</nobr> |
+| <nobr>[柯桥区](柯桥区/README.md)</nobr> | <nobr>144</nobr> |
+| <nobr>[越城区](越城区/README.md)</nobr> | <nobr>105</nobr> |
 | <nobr>[新昌县](新昌县/README.md)</nobr> | <nobr>39</nobr> |
 | <nobr>[嵊州市](嵊州市/README.md)</nobr> | <nobr>33</nobr> |
+| <nobr>[上虞区](上虞区/README.md)</nobr> | <nobr>30</nobr> |
 | <nobr>[诸暨市](诸暨市/README.md)</nobr> | <nobr>30</nobr> |
-| <nobr>[上虞区](上虞区/README.md)</nobr> | <nobr>21</nobr> |
 
 ## 绍兴市石木桥桥长前 20 名
 
@@ -50,7 +51,7 @@
 | <nobr>19</nobr> | <nobr>上虞区</nobr> | <nobr>岭南乡</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql294.htm) | 石拱桥（三孔） | 36米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>20</nobr> | <nobr>新昌县</nobr> | <nobr>小将镇</nobr> | 吉安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql365.htm) | 石拱桥（单孔） | 35.5米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 161 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 162 座中排序。
 
 ## 绍兴市桥身刻字最早的前 20 名
 
@@ -87,9 +88,9 @@
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>柯桥区</nobr> | <nobr>柯岩街道</nobr> | 万安桥 | — | — | 清 | 浙江省文物保护单位（“姚长子纪念碑与万安桥”组成部分，8-89） |
 | <nobr>柯桥区</nobr> | <nobr>湖塘街道</nobr> | 西跨湖桥 [?](http://www.china-qiao.com/ql15/sxql/sxql155.htm) | 石拱桥（单孔） | 5.40米 | 明万历二十八年（1600）重建 | 浙江省文物保护单位（6） |
 | <nobr>柯桥区</nobr> | <nobr>福全街道</nobr> | 虹明桥 [?](http://www.china-qiao.com/ql15/sxql/sxql168.htm) | 石梁桥（五孔） | 58米 | 清嘉庆六年（1801）重建 | 浙江省文物保护单位（7-125） |
-| <nobr>柯桥区</nobr> | <nobr>柯岩街道</nobr> | 万安桥 | — | — | 清、民国 | 浙江省文物保护单位（“姚长子纪念碑与万安桥”组成部分，8-89） |
 | <nobr>上虞区</nobr> | <nobr>丰惠镇</nobr> | 九狮桥 [?](http://www.china-qiao.com/ql15/sxql/sxql235.htm) | 石拱桥（单孔） | 26米 | 元 | 浙江省文物保护单位（4-70） |
 | <nobr>嵊州市</nobr> | <nobr>谷来镇</nobr> | 玉成桥 [?](http://www.china-qiao.com/ql15/sxql/sxql340.htm) | 石拱桥 | 12.15米 | 清 | 浙江省文物保护单位（5-47） |
 | <nobr>新昌县</nobr> | <nobr>南明街道</nobr> | 迎仙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql357.htm) | 石拱桥（单孔） | 29米 | 清道光二十四年（1844）重建 | 浙江省文物保护单位（4-74） |
@@ -154,10 +155,14 @@
 
 数量较多，见各区县文件。
 
+### 历史建筑（70 座）
+
+数量较多，见各区县文件。
+
 ### 一般不可移动文物（4 座）
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（164 座）
+### 尚未定级（待核实）（157 座）
 
 数量较多，见各区县文件。
