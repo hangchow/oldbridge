@@ -22,7 +22,7 @@ def NL(r, base, city=''):
 CITIES = ['杭州市', '湖州市', '嘉兴市', '上海市', '苏州市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '无锡市', '南京市', '常州市', '镇江市', '扬州市', '徐州市', '连云港市', '淮安市', '盐城市', '泰州市', '南通市', '宿迁市']
 def cat(lv):
     if lv.startswith('全国重点'): return CATS[0]
-    if lv.startswith('浙江省') or lv.startswith('江苏省'): return CATS[1]
+    if lv.startswith('浙江省') or lv.startswith('江苏省') or lv.startswith('上海市文物保护单位'): return CATS[1]   # 上海是直辖市，市级文保与省级同级
     if '文物控制单位' in lv: return CATS[4]
     m = re.match(r'(.{2,3}市)文物保护(单位|点)', lv)
     if m and m.group(1) in CITIES: return CATS[2] if m.group(2) == '单位' else CATS[4]
