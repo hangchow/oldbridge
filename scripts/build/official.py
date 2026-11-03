@@ -47,7 +47,7 @@ for n, f in (('五', '常州市/常州市第五批市级文物保护单位（常
         for c in rows:
             if len(c) < 5 or not c[0].isdigit(): continue
             name, era, addr = c[2], c[3], c[4]
-            a = addr.replace('武进经发区', '武进区').replace('金坛市', '金坛区')
+            a = addr.replace('武进经发区', '武进区').replace('金坛市', '金坛区').replace('武进区郑陆镇', '天宁区郑陆镇').replace('武进区横林镇', '经开区横林镇').replace('经开区', '武进区')   # 郑陆镇 2015 年划归天宁区
             d = next((x for x in CZD if a.startswith(x) or a.startswith(x[:2])), None)
             if not d: continue
             put('常州市', dist=d, town=town_of(a, CZD), name=name, era=era, loc=addr, lv='shi', lvtxt=f'常州市文物保护单位（第{n}批）',
