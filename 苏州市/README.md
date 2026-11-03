@@ -31,7 +31,7 @@
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
 | <nobr>1</nobr> | <nobr>吴中区</nobr> | <nobr>长桥街道</nobr> | 宝带桥 [?](http://www.china-qiao.com/ql16/szql/szql586.htm) | 石拱桥（五十三孔） | 316.8米 | 明清重建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥 | 95.5米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥（五孔） | 95.5米 | 清 | <nobr>市级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | 石拱桥残段（现存东西两端约16孔，原七十二孔） | 84米 | 元、明 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>姑苏区</nobr> | <nobr>双塔街道</nobr> | 灭渡桥 [?](http://www.china-qiao.com/ql16/szql/szql587.htm) | 石拱桥（单孔） | 81.3米 | 元至清；元大德二年（1298）始建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>姑苏区</nobr> | <nobr>双塔街道</nobr> | 吴门桥 [?](http://www.china-qiao.com/ql16/szql/szql111.htm) | 石拱桥（单孔） | 66.3米 | 清 | <nobr>省级文物保护单位</nobr> |
@@ -64,7 +64,7 @@
 | <nobr>5</nobr> | <nobr>吴江区</nobr> | <nobr>同里镇</nobr> | 富观桥 [?](http://www.china-qiao.com/ql16/szql/szql369.htm) | 石拱桥（单孔） | 1813 | [桥石镌“大清嘉庆十有八年岁次癸酉里人募捐修建”](http://www.china-qiao.com/ql16/szql/szql369.htm) | 元至正十三年（1353）始建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>6</nobr> | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | 1885 | [桥身南北两侧镌文记光绪十一年重建](http://www.china-qiao.com/ql16/szql/szql719.htm) | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | <nobr>市级文物保护单位</nobr> |
 
-统计范围：只限本项目收录的十八个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
+统计范围：只限本项目收录的二十五个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州、徐州、连云港、淮安、盐城、泰州、南通、宿迁）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
 
 只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 6 座。
 
@@ -124,7 +124,7 @@
 | <nobr>吴中区</nobr> | <nobr>甪直镇</nobr> | 甪直镇水道驳岸及古桥 | — | — | 宋至清 | 苏州市文物保护单位 |
 | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 蠡墅古桥梁 | — | — | 清 | 苏州市文物保护单位 |
 | <nobr>吴中区</nobr> | <nobr>郭巷镇</nobr> | 泰安桥 | — | — | 清 | 苏州市文物保护单位 |
-| <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥 | 95.5米 | 清 | 苏州市文物保护单位 |
+| <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥（五孔） | 95.5米 | 清 | 苏州市文物保护单位 |
 | <nobr>吴中区</nobr> | <nobr>金庭镇</nobr> | 植里古道及桥 | — | — | 清 | 苏州市文物保护单位 |
 | <nobr>吴中区</nobr> | <nobr>临湖镇</nobr> | 里尺桥 | — | — | 明 | 苏州市文物保护单位（苏州市第六批） |
 | <nobr>吴中区</nobr> | <nobr>木渎镇</nobr> | 木渎廊桥 | — | — | 清末 | 苏州市文物保护单位（苏州市第八批） |

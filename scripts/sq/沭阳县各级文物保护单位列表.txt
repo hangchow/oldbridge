@@ -1,0 +1,65 @@
+以下是江苏省沭阳县境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下是沭阳县境内的全国重点文物保护单位：
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+|-
+
+|- 
+|}
+</center>
+
+==江苏省文物保护单位==
+以下是沭阳县境内的[[江苏省文物保护单位]]<ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第七批省级文物保护单位的通知| url =http://www.jsmuseum.com/show.aspx?articleid=11306| author =| date =| accessdate =2012-04-15}}{{dead link|date=2018年1月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号<ref>江苏省文物保护单位按照总数统一编号，其中合并调整后的第一、二批编号为1～128，第三批为129～263，第四批为264～378，第五批为379～541，第六批为542～645，第七批为646～833。</ref>
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+|-
+|[[万北遗址]]
+|676
+|古遗址
+|[[新石器]]～[[商周]]
+|[[沭阳县]]
+|
+|2011年12月30日
+| style="padding:0"|
+|}
+</center>
+
+==宿迁市文物保护单位==
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+|-
+|
+|
+|
+|}
+</center>
+
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:宿迁文物]]

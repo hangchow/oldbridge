@@ -1,0 +1,102 @@
+以下是江苏徐州市[[铜山区]]境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下是[[铜山区]]境内的全国重点文物保护单位：
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+!更多
+|-
+|[[徐州墓群]]
+*[[茅村汉画像石墓]]
+|6-247
+|古墓葬
+|[[汉朝|汉]]
+|[[铜山区]]<ref name="铜山县">公布时属[[铜山县 (清朝)|铜山县]]。</ref>
+|
+|
+|- 
+|[[汉楚王墓群]]
+*[[楚王山古墓葬群]]
+*西汉楚王墓群
+|4-63
+|古墓葬
+|[[汉朝|汉]]
+|[[铜山区]]<ref name="铜山县" />
+|夹河
+|1982年3月25日重新公布
+|}
+
+</center>
+
+==江苏省文物保护单位==
+铜山区有以下江苏省文物保护单位<ref>{{cite web| language =| publisher =中国江苏网| title =省政府关于公布第五批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/shouye/wjgz/szfwj/szfw/200710/t20071015_71827.html| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第六批省级文物保护单位的通知| url =http://china.findlaw.cn/fagui/xz/27/170207.html| author =| date =| accessdate =2012-04-15| deadurl =yes| archiveurl =https://web.archive.org/web/20141112182502/http://china.findlaw.cn/fagui/xz/27/170207.html| archivedate =2014-11-12}}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第七批省级文物保护单位的通知| url =http://www.jsmuseum.com/show.aspx?articleid=11306| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号<ref>江苏省文物保护单位按照总数统一编号，其中合并调整后的第一、二批编号为1～128，第三批为129～263，第四批为264～378，第五批为379～541，第六批为542～645，第七批为646～833。</ref>
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+|-
+|[[石户城遗址]]
+|395
+|古遗址
+|[[战国]]至[[汉朝|汉代]]
+|[[铜山区]]<ref name="铜山县">公布时属[[铜山县 (清朝)|铜山县]]。</ref>
+|[[柳泉镇]]
+|2002年10月22日
+| style="padding:0"|
+|-
+|[[白家桥]]
+|570
+|古建筑
+|[[元朝|元代]]
+|[[铜山区]]<ref name="铜山县" />
+|
+|2006年6月5日
+| style="padding:0"|
+|-
+|[[渡江战役总前委旧址]]
+|645
+|近现代重要史迹及代表性建筑
+|1949年
+|[[铜山区]]<ref name="铜山县" />
+|
+|2006年6月5日
+| style="padding:0"|
+|-
+|[[燕桥]]
+|701
+|古建筑
+|[[明朝|明]]
+|[[铜山区]]
+|
+|2011年12月30日
+| style="padding:0"|
+|-
+|[[向阳渠]]
+|792
+|近现代重要史迹及代表性建筑
+|1970～1976年
+|[[铜山区]]
+|
+|2011年12月30日
+| style="padding:0"|
+|}
+</center>
+
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:徐州文物]]

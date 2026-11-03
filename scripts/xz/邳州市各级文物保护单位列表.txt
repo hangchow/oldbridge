@@ -1,0 +1,110 @@
+以下是江苏徐州市[[邳州市]]境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下是[[邳州市]]境内的全国重点文物保护单位：
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+|-
+|[[大墩子遗址 (邳州市)|大墩子遗址]]
+|6-71
+|古遗址
+|[[新石器时代]]
+|[[邳州市]]
+|[[四户镇]]
+|1982年3月25日
+| style="padding:0"|
+|- 
+|[[刘林遗址]]
+|7-0145
+|古遗址
+|新石器时代
+|[[邳州市]]
+|戴庄镇刘庄村
+|2013年3月5日
+| style="padding:0"|
+|- 
+|[[梁王城遗址]]
+|7-0147
+|古遗址
+|[[新石器]]至[[南北朝]]
+|[[邳州市]]
+|[[戴庄镇]]
+|2013年3月5日
+| style="padding:0"|
+
+|}
+
+</center>
+
+==江苏省文物保护单位==
+邳州市有以下江苏省文物保护单位<ref>{{cite web | language =  | publisher = 江苏省地方志 | title = 第一、二批（1982年3月重新公布） | url = http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL3.html | author =  | date =  | accessdate = 2012-04-15 | archive-date = 2012-12-04 | archive-url = https://archive.today/20121204183426/http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL3.html | dead-url = no }}</ref><ref>{{cite web | language =  | publisher = 江苏省地方志 | title = 第三批（1982年3月公布） | url = http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL4.html | author =  | date =  | accessdate = 2012-04-15 | archive-date = 2012-12-04 | archive-url = https://archive.today/20121204163057/http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL4.html | dead-url = no }}</ref><ref>{{cite web| language =| publisher =中国江苏网| title =省政府关于公布第五批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/shouye/wjgz/szfwj/szfw/200710/t20071015_71827.html| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第六批省级文物保护单位的通知| url =http://china.findlaw.cn/fagui/xz/27/170207.html| author =| date =| accessdate =2012-04-15| deadurl =yes| archiveurl =https://web.archive.org/web/20141112182502/http://china.findlaw.cn/fagui/xz/27/170207.html| archivedate =2014-11-12}}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第八批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| date =2019-03-20| access-date =2021-08-17| archive-date =2020-12-09| archive-url =https://web.archive.org/web/20201209104521/http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html}}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号<ref>江苏省文物保护单位按照总数统一编号，其中合并调整后的第一、二批编号为1～128，第三批为129～263，第四批为264～378，第五批为379～541，第六批为542～645，第七批为646～833。</ref>
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+|-
+|[[淮海战役碾庄战斗革命烈士纪念碑]]
+|15
+|近现代历史遗迹及革命纪念建筑物
+|1960年
+|[[邳州市]]<ref name="邳县" />
+|碾庄
+|1982年3月25日重新公布
+| style="padding:0"|
+|-
+|[[王杰烈士墓]]
+|174
+|近现代历史遗迹及革命纪念建筑物
+|1965年
+|[[邳州市]]<ref name="邳县">公布时属[[邳县]]。</ref>
+|张楼
+|1982年3月25日
+| style="padding:0"|
+|-
+|[[寨山摩崖题字]]
+|250
+|石刻及其他
+|[[清朝|清]][[康熙]]七年（1668）
+|[[邳州市]]<ref name="邳县" />
+|燕子埠
+|1982年3月25日
+| style="padding:0"|
+|-
+|[[土山关帝庙]]
+|576
+|古建筑
+|[[明朝|明]]、[[清朝|清]]
+|[[邳州市]]
+|
+|2006年6月5日
+| style="padding:0"|
+|-
+|[[煎药庙西晋墓地]]
+|856
+|古墓葬
+|西晋
+|邳州市
+|
+|2019年3月20日
+|
+|}
+</center>
+
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:徐州文物]]

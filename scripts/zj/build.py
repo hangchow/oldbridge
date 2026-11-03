@@ -95,6 +95,7 @@ for r in R:
     if t.endswith('镇') and t[:-1] + '街道' in XT.get(r['dist'], ()): r['town'] = t[:-1] + '街道'
     if r['group'] and core(r['group']) == core(r['name']): r['group'] = ''
     r['town'] = CF.get('townfix', {}).get(f"{r['dist']}|{r['name']}", r['town'])
+    r['era'] = CF.get('erafix', {}).get(f"{r['dist']}|{r['name']}", r['era'])   # 名录没写年代、据资料补的
 # 组名只留名称本身；成组条目在已拆出单桥时去掉
 for r in R:
     if r['group']: r['group'] = re.split(r'共\d|其中|[，；,;]|含', r['group'])[0].strip()

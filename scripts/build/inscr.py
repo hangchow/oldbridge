@@ -6,7 +6,7 @@ sys.path.insert(0, S + '/build'); from era import year
 CQ = json.load(open(S + '/build/cqlinks.json'))
 R = json.load(open(S + '/singdo/recs.json')); R = R.values() if isinstance(R, dict) else R
 SDI = {x['id']: x for x in R if isinstance(x, dict)}
-F = {'杭州市': 'build/all_rows.json', '湖州市': 'huz/rows.json', '嘉兴市': 'jx/rows.json', '上海市': 'sh/rows.json', '苏州市': 'sz/rows.json', '金华市': 'jh/rows.json', '绍兴市': 'sx/rows.json', '宁波市': 'nb/rows.json', '衢州市': 'qz/rows.json', '台州市': 'tz/rows.json', '温州市': 'wz/rows.json', '丽水市': 'ls/rows.json', '舟山市': 'zs/rows.json', '无锡市': 'wx/rows.json', '南京市': 'nj/rows.json', '常州市': 'cz/rows.json', '镇江市': 'zjs/rows.json', '扬州市': 'yz/rows.json'}
+F = {'杭州市': 'build/all_rows.json', '湖州市': 'huz/rows.json', '嘉兴市': 'jx/rows.json', '上海市': 'sh/rows.json', '苏州市': 'sz/rows.json', '金华市': 'jh/rows.json', '绍兴市': 'sx/rows.json', '宁波市': 'nb/rows.json', '衢州市': 'qz/rows.json', '台州市': 'tz/rows.json', '温州市': 'wz/rows.json', '丽水市': 'ls/rows.json', '舟山市': 'zs/rows.json', '无锡市': 'wx/rows.json', '南京市': 'nj/rows.json', '常州市': 'cz/rows.json', '镇江市': 'zjs/rows.json', '扬州市': 'yz/rows.json', '徐州市': 'xz/rows.json', '连云港市': 'lyg/rows.json', '淮安市': 'ha/rows.json', '盐城市': 'yc/rows.json', '泰州市': 'tzj/rows.json', '南通市': 'nt/rows.json', '宿迁市': 'sq/rows.json'}
 def cqtext(u):
     f = S + '/cqv/' + u.split('china-qiao.com/')[1].replace('/', '_')
     if not os.path.exists(f) or os.path.getsize(f) == 0:
@@ -17,6 +17,7 @@ KW = r'刻|镌|题|铭|纪年|款|桥额|楹联|桥联|字样'
 YR = r'(?:[一-龥]{2}(?:元|[一二三四五六七八九十廿卅]{1,3})年|[甲乙丙丁戊己庚辛壬癸][子丑寅卯辰巳午未申酉戌亥]|\d{3,4})'
 OUT = []
 for c, p in F.items():
+    if not os.path.exists(S + '/' + p): continue   # 新加的市还没生成
     for r in json.load(open(S + '/' + p)):
         y = year(r['era'])
         if not y or y[0] >= 1650: continue

@@ -3,7 +3,7 @@
 import json, re, os, subprocess, time
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CQ = json.load(open(S + '/build/cqlinks.json'))
-F = {'杭州市': 'build/all_rows.json', '湖州市': 'huz/rows.json', '嘉兴市': 'jx/rows.json', '上海市': 'sh/rows.json', '苏州市': 'sz/rows.json', '金华市': 'jh/rows.json', '绍兴市': 'sx/rows.json', '宁波市': 'nb/rows.json', '衢州市': 'qz/rows.json', '台州市': 'tz/rows.json', '温州市': 'wz/rows.json', '丽水市': 'ls/rows.json', '舟山市': 'zs/rows.json', '无锡市': 'wx/rows.json', '南京市': 'nj/rows.json', '常州市': 'cz/rows.json', '镇江市': 'zjs/rows.json', '扬州市': 'yz/rows.json'}
+F = {'杭州市': 'build/all_rows.json', '湖州市': 'huz/rows.json', '嘉兴市': 'jx/rows.json', '上海市': 'sh/rows.json', '苏州市': 'sz/rows.json', '金华市': 'jh/rows.json', '绍兴市': 'sx/rows.json', '宁波市': 'nb/rows.json', '衢州市': 'qz/rows.json', '台州市': 'tz/rows.json', '温州市': 'wz/rows.json', '丽水市': 'ls/rows.json', '舟山市': 'zs/rows.json', '无锡市': 'wx/rows.json', '南京市': 'nj/rows.json', '常州市': 'cz/rows.json', '镇江市': 'zjs/rows.json', '扬州市': 'yz/rows.json', '徐州市': 'xz/rows.json', '连云港市': 'lyg/rows.json', '淮安市': 'ha/rows.json', '盐城市': 'yc/rows.json', '泰州市': 'tzj/rows.json', '南通市': 'nt/rows.json', '宿迁市': 'sq/rows.json'}
 N = '单独一二两三四五六七八九十0-9'
 TY = r'(石拱桥|拱桥|石梁桥|梁桥|石板桥|平桥|板梁桥|廊桥)'
 def norm(h):
@@ -28,6 +28,7 @@ OUT, LOG, LEN = {}, [], {}
 _R = json.load(open(S + '/singdo/recs.json')); _R = _R.values() if isinstance(_R, dict) else _R
 SDI = {x['id']: x for x in _R if isinstance(x, dict)}
 for c, p in F.items():
+    if not os.path.exists(S + '/' + p): continue   # 新加的市还没生成
     for r in json.load(open(S + '/' + p)):
         st = r.get('struct') or '—'
         k = f"{c}|{r['dist']}|{r['town']}|{r['name']}"

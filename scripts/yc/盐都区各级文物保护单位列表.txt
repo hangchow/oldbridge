@@ -1,0 +1,71 @@
+<!-- 摘自维基“盐城市区各级文物保护单位列表”的盐都区部分 -->
+==盐都区==
+以下是江苏盐城市[[盐都区]]境内的各级文物保护单位：
+
+===江苏省文物保护单位===
+盐都区有以下江苏省文物保护单位<ref name="#1"/><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第七批省级文物保护单位的通知| url =http://www.jsmuseum.com/show.aspx?articleid=11306| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+
+|-
+|[[郝氏宗祠及住宅]]
+|819
+|近现代重要史迹及代表性建筑
+|[[中華民國|民国]]
+|[[盐都区]]
+|
+|2011年12月30日
+| style="padding:0"|
+|}
+</center>
+
+==大丰区==
+以下是江苏盐城市[[大丰区]]境内的各级文物保护单位：
+
+===江苏省文物保护单位===
+大丰区有以下江苏省文物保护单位<ref name="#1"/><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第八批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| date =2019-03-20| access-date =2021-08-17| archive-date =2020-12-09| archive-url =https://web.archive.org/web/20201209104521/http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| dead-url =no}}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+|-
+|-
+|[[草堰石闸]]
+|308
+|古建筑及历史纪念建筑物
+|[[明代]]
+|[[大丰区]]
+|[[草堰镇]]
+|1995年4月19日
+| style="padding:0"|
+|-
+|[[八路军新四军白驹狮子口会师旧址]]
+|931
+|近现代重要史迹及代表性建筑
+|民国
+|大丰区
+|
+|2019年3月20日
+|
+|}
+</center>
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:盐城文物]]

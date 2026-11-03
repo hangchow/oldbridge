@@ -1,0 +1,165 @@
+以下是[[江苏省]][[淮安市]][[涟水县]]境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+{| class="wikitable sortable"
+|- 
+!width=25% |名称
+!width=5% |编号
+!width=15% |分类
+!width=25% |地点
+!width=15% |时代
+!width=15% |图片
+|-
+|[[月塔]]
+|7-951
+|古建筑及历史纪念建筑物
+|涟水县[[唐集镇 (涟水县)|唐集镇]]
+|[[宋朝|宋]]
+|
+|}
+
+==江苏省文物保护单位==
+{| class="wikitable sortable"
+|- 
+!width=25% |名称
+!width=5% |编号{{NoteTag|江苏省文物保护单位按照总数统一编号，其中合并调整后的第一、二批编号为1-128，第三批为129-263，第四批为264-378，第五批为379-541，第六批为542-645，第七批为646-833，第八批为834-951。}}
+!width=15% |分类
+!width=25% |地点
+!width=15% |时代
+!width=15% |图片
+|-
+|[[嵇安墓]]
+|859
+|古墓葬
+|涟水县
+|元
+|
+|-
+|[[高沟老窖池群]]
+|947
+|其他
+|涟水县[[高沟镇 (涟水县)|高沟镇]]
+|清－现代
+|
+|}
+==淮安市文物保护单位==
+{| class="wikitable sortable"
+|- 
+!width=25% |名称
+!width=5% |编号
+!width=15% |分类
+!width=25% |地点
+!width=15% |时代
+!width=15% |图片
+|-
+|金码梯级闸
+|4-8
+|近现代优秀建筑及其他
+|涟水县梁岔镇金码村
+|1977年
+|
+|-
+|港河渡槽
+|4-9
+|近现代优秀建筑及其他
+|涟水县五港镇薛桥村
+|1966年
+|
+|-
+|洪大楼
+|5-6
+|古建筑
+|涟水县朱码镇殷庄村大楼组
+|民国
+|
+|-
+|大东东方红桥
+|5-15
+|近现代优秀建筑及其他
+|涟水县大东镇街东首
+|1970年
+|
+|}
+{{incomplete list}}
+
+== 涟水县文物保护单位 ==
+{| class="wikitable sortable"
+|- 
+!width=25% |名称
+!width=5% |编号
+!width=15% |分类
+!width=25% |地点
+!width=15% |时代
+!width=15% |图片
+|-
+|高沟酒厂老窖址
+|4-2
+|
+|涟水县高沟镇镇南街
+|
+|
+|-
+|谢祥军将军纪念碑亭
+|4-3
+|
+|涟水县烈士陵园内
+|1991年
+|
+|-
+|涟水延安园
+|4-5
+|
+|涟水县成集镇朱南荡村
+|
+|
+|-
+|原涟水中学图书室旧址
+|5-1
+|
+|涟水县外国语中学院内
+|1958年
+|
+|-
+|黄河故道水箭
+|5-2
+|
+|涟水县南集镇码头村，黄河故道西岸
+|
+|
+|-
+|石湖知青点旧址
+|5-3
+|
+|涟水县石湖镇果园居委会
+|
+|
+|-
+|张大卓纪念亭
+|5-4
+|
+|涟水县石湖镇果园居委会二组
+|
+|
+|-
+|临河巷码头
+|5-5
+|
+|涟水县高沟镇镇西街，六塘河南岸
+|
+|
+|}
+{{incomplete list}}
+
+== 注释 ==
+{{NoteFoot}}
+
+==参考资料==
+* {{cite web| language =| publisher =| title =江苏省人民政府关于公布第八批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| author =| date =| accessdate =2019-03-20| archive-date =2020-12-09| archive-url =https://web.archive.org/web/20201209104521/http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| dead-url =no}}
+* {{Cite web |date=2010-10-20 |title=县政府关于公布第四批县级文物保护单位的通知（涟政发〔2010〕192号） |url=http://www.lianshui.gov.cn/col/1164_823538/art/lsx_903656.html |website=涟水县人民政府 |access-date=2022-08-24 |archive-date=2022-08-24 |archive-url=https://web.archive.org/web/20220824072016/http://www.lianshui.gov.cn/col/1164_823538/art/lsx_903656.html |dead-url=no }}
+* {{Cite web |date=2012-07-02 |title=县政府关于公布第四批县级文物保护单位保护范围和建设控制地带的通知（涟政发〔2012〕107号） |url=http://www.lianshui.gov.cn/col/1164_823538/art/lsx_903859.html |website=涟水县人民政府 |access-date=2022-08-24}}
+* {{Cite web |date=2017-10-16 |title=涟水县人民政府关于公布第五批县级文物保护单位的通知（涟政发〔2017〕110号） |url=http://www.lianshui.gov.cn/col/1164_823538/art/lsx_923846.html |website=涟水县人民政府 |access-date=2022-08-24 |archive-date=2022-08-24 |archive-url=https://web.archive.org/web/20220824075204/http://www.lianshui.gov.cn/col/1164_823538/art/lsx_923846.html |dead-url=no }}
+* {{Cite web |date=2018-12-20 |title=县政府关于公布第五批县级文物保护单位保护范围和建设控制地带的通知（涟政发〔2018〕124号） |url=http://www.lianshui.gov.cn/col/1164_823538/art/20190107111247_t0M91CUQ.html |website=涟水县人民政府 |access-date=2022-08-24}}
+
+{{江苏各级文物保护单位}}
+[[分类:淮安文物]]
+[[分类:涟水县]]

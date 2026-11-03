@@ -1,0 +1,89 @@
+以下是江苏徐州市[[云龙区]]境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下是[[云龙区]]境内的全国重点文物保护单位：
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+|-
+|[[户部山古建筑群]]
+|6-521
+|古建筑
+|[[徐州市]][[云龙区]]
+|[[明]]至[[中华民国|民国]]
+| [[File:户部山民居3.jpg|180px]]
+|}
+
+</center>
+
+==江苏省文物保护单位==
+云龙区有以下江苏省文物保护单位<ref>{{cite web | language =  | publisher = 江苏省地方志 | title = 第一、二批（1982年3月重新公布） | url = http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL3.html | author =  | date =  | accessdate = 2012-04-15 | archive-date = 2012-12-04 | archive-url = https://archive.today/20121204183426/http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL3.html | dead-url = no }}</ref><ref>{{cite web | language =  | publisher = 江苏省地方志 | title = 第三批（1982年3月公布） | url = http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL4.html | author =  | date =  | accessdate = 2012-04-15 | archive-date = 2012-12-04 | archive-url = https://archive.today/20121204163057/http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL4.html | dead-url = no }}</ref><ref>{{cite web | language =  | publisher = 江苏文化共享工程 | title = 第四批（1995年4月公布） | url = http://www.jsgxgc.org.cn/jscnt_wwbl/200511/t20051107_7389.htm | author =  | date =  | accessdate = 2012-04-15 | archive-date = 2011-09-20 | archive-url = https://web.archive.org/web/20110920205648/http://www.jsgxgc.org.cn/jscnt_wwbl/200511/t20051107_7389.htm | dead-url = yes }}</ref><ref>{{cite web| language =| publisher =中国江苏网| title =省政府关于公布第五批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/shouye/wjgz/szfwj/szfw/200710/t20071015_71827.html| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第六批省级文物保护单位的通知| url =http://china.findlaw.cn/fagui/xz/27/170207.html| author =| date =| accessdate =2012-04-15| deadurl =yes| archiveurl =https://web.archive.org/web/20141112182502/http://china.findlaw.cn/fagui/xz/27/170207.html| archivedate =2014-11-12}}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第七批省级文物保护单位的通知| url =http://www.jsmuseum.com/show.aspx?articleid=11306| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第八批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| date =2019-03-20| access-date =2021-08-17| archive-date =2020-12-09| archive-url =https://web.archive.org/web/20201209104521/http://www.jiangsu.gov.cn/art/2019/3/28/art_46143_8288029.html| dead-url =no}}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号<ref>江苏省文物保护单位按照总数统一编号，其中合并调整后的第一、二批编号为1～128，第三批为129～263，第四批为264～378，第五批为379～541，第六批为542～645，第七批为646～833。</ref>
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+|-
+|[[徐州耶稣圣心主教座堂|徐州耶稣圣心堂]]
+|270
+|近现代历史遗迹及革命纪念建筑物
+|1906年
+|[[云龙区]]
+|
+|1995年4月19日
+| style="padding:0"|[[File:Church of the Sacred Heart of Jesus in Xuzhou 2013-01.JPG|125px]]
+|-
+|[[李可染故居]]
+|479
+|近现代重要史迹及代表性建筑
+|[[清朝|清]][[光绪]]三十三年-1907
+|[[云龙区]]
+|广大北巷
+|2002年10月22日
+| style="padding:0"|
+|-
+|[[山西会馆]]
+|600
+|古建筑
+|[[清朝|清代]]
+|[[云龙区]]
+|
+|2006年6月5日
+| style="padding:0"|
+|-
+|[[翠屏山窑址]]
+|651
+|古遗址
+|[[西汉]]
+|[[云龙区]]
+|
+|2011年12月30日
+| style="padding:0"|
+|-
+|[[徐州乾隆行宫]]
+|702
+|古建筑
+|[[清朝|清]]
+|[[云龙区]]
+|和平路101号
+|2011年12月30日
+| style="padding:0"|[[File:Xuzhou Museum 05 2013-01.JPG|125px]]
+|}
+</center>
+
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:徐州文物]]

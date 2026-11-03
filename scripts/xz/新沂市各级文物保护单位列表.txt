@@ -1,0 +1,73 @@
+以下是江苏徐州市[[新沂市]]境内的各级文物保护单位：
+
+==全国重点文物保护单位==
+以下是[[新沂市]]境内的全国重点文物保护单位：
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号
+!分类
+!所在地 
+!年代
+!图像
+|-
+|[[花厅遗址]]
+|6-72
+|古遗址
+|[[新石器时代]]
+|[[新沂市]]
+|[[马陵乡]]
+|
+| style="padding:0"|
+|}
+
+</center>
+
+==江苏省文物保护单位==
+新沂市有以下江苏省文物保护单位<ref>{{cite web | language =  | publisher = 江苏省地方志 | title = 第三批（1982年3月公布） | url = http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL4.html | author =  | date =  | accessdate = 2012-04-15 | archive-date = 2012-12-04 | archive-url = https://archive.today/20121204163057/http://www.jssdfz.com:8080/dfz/ztbook/szzyz/wwz/FL/FL4.html | dead-url = no }}</ref><ref>{{cite web| language =| publisher =中国江苏网| title =省政府关于公布第五批省级文物保护单位的通知| url =http://www.jiangsu.gov.cn/shouye/wjgz/szfwj/szfw/200710/t20071015_71827.html| author =| date =| accessdate =2012-04-15}}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web| language =| publisher =| title =江苏省人民政府关于公布第六批省级文物保护单位的通知| url =http://china.findlaw.cn/fagui/xz/27/170207.html| author =| date =| accessdate =2012-04-15| deadurl =yes| archiveurl =https://web.archive.org/web/20141112182502/http://china.findlaw.cn/fagui/xz/27/170207.html| archivedate =2014-11-12}}</ref>
+<center>
+{| class="wikitable sortable"
+|- 
+!名称
+!编号<ref>江苏省文物保护单位按照总数统一编号，其中合并调整后的第一、二批编号为1～128，第三批为129～263，第四批为264～378，第五批为379～541，第六批为542～645，第七批为646～833。</ref>
+!分类
+!时代
+!区划
+!地址
+!公布
+!图片
+|-
+|[[宿北大战前沿指挥所旧址]]
+|168
+|近现代历史遗迹及革命纪念建筑物
+|1946年
+|[[新沂市]]<ref>公布时属[[新沂县]]。</ref>
+|马陵山
+|1982年3月25日
+| style="padding:0"|
+|-
+|[[小徐庄遗址]]
+|390
+|古遗址
+|[[新石器]]
+|[[新沂市]]
+|马陵山
+|2002年10月22日
+| style="padding:0"|
+|-
+|[[赵信隆酱园店]]
+|577
+|古建筑
+|[[明朝|明]]、[[清朝|清]]
+|[[新沂市]]
+|
+|2006年6月5日
+| style="padding:0"|
+|}
+</center>
+
+==参考==
+{{reflist}}
+{{江苏各级文物保护单位}}
+[[分类:徐州文物]]

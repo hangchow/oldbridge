@@ -19,7 +19,7 @@ def NL(r, base, city=''):
     u = r.get('cq') or CQ.get(f"{city}|{r['dist']}|{r['town']}|{r['name']}")
     return f"{nm} [?]({u})" if u else nm
 
-CITIES = ['杭州市', '湖州市', '嘉兴市', '上海市', '苏州市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '无锡市', '南京市', '常州市', '镇江市', '扬州市']
+CITIES = ['杭州市', '湖州市', '嘉兴市', '上海市', '苏州市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '无锡市', '南京市', '常州市', '镇江市', '扬州市', '徐州市', '连云港市', '淮安市', '盐城市', '泰州市', '南通市', '宿迁市']
 def cat(lv):
     if lv.startswith('全国重点'): return CATS[0]
     if lv.startswith('浙江省') or lv.startswith('江苏省'): return CATS[1]
@@ -77,7 +77,7 @@ def oldest(items, title, with_city):
     for i, (y, c, r, d) in enumerate(ex[:20], 1):
         base = O if with_city else O + '/' + c
         L.append(f"| {i} | " + (f"{NB(c)} | " if with_city else '') + f"{NB(r['dist'])} | {r['town']} | {NL(r, base, c)} | {r.get('struct') or '—'} | {d['label']} | [{d['text']}]({d['src']}) | {r['era'] or '—'} | {cat(r['level'])} |")
-    L += ['', '统计范围：只限本项目收录的十八个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。']
+    L += ['', '统计范围：只限本项目收录的二十五个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州、徐州、连云港、淮安、盐城、泰州、南通、宿迁）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。']
     L += ['', f'只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 {len(ex)} 座。']
     return L
 
@@ -115,7 +115,7 @@ r_tz = city_readme('台州市', json.load(open(S + '/tz/rows.json')), False)
 r_wz = city_readme('温州市', json.load(open(S + '/wz/rows.json')), False)
 r_ls = city_readme('丽水市', json.load(open(S + '/ls/rows.json')), False)
 r_zs = city_readme('舟山市', json.load(open(S + '/zs/rows.json')), False)
-r_js = {c: city_readme(c, json.load(open(f'{S}/{k}/rows.json')), False) for c, k in [('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs'), ('扬州市', 'yz')]}
+r_js = {c: city_readme(c, json.load(open(f'{S}/{k}/rows.json')), False) for c, k in [('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs'), ('扬州市', 'yz'), ('徐州市', 'xz'), ('连云港市', 'lyg'), ('淮安市', 'ha'), ('盐城市', 'yc'), ('泰州市', 'tzj'), ('南通市', 'nt'), ('宿迁市', 'sq')]}
 
 # 杭州各市辖区
 towns = json.load(open(S + '/hz/towns.json'))
@@ -138,7 +138,9 @@ for c in []:
             open(f'{p}/{d}古桥.md', 'w').write(f'# {c}{d}古桥\n\n整理中。\n')
 
 # 根目录 README 的汇总段
-tot = {'杭州市': hrows, '湖州市': zrows, '嘉兴市': jrows, '上海市': srows, '苏州市': zsrows, '金华市': jhrows, '绍兴市': r_sx, '宁波市': r_nb, '衢州市': r_qz, '台州市': r_tz, '温州市': r_wz, '丽水市': r_ls, '舟山市': r_zs, **r_js}
+tot0 = {'杭州市': hrows, '湖州市': zrows, '嘉兴市': jrows, '上海市': srows, '苏州市': zsrows, '金华市': jhrows, '绍兴市': r_sx, '宁波市': r_nb, '衢州市': r_qz, '台州市': r_tz, '温州市': r_wz, '丽水市': r_ls, '舟山市': r_zs, **r_js}
+ORDER = ['杭州市', '湖州市', '嘉兴市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '上海市', '苏州市', '无锡市', '常州市', '南京市', '镇江市', '扬州市', '泰州市', '南通市', '盐城市', '淮安市', '宿迁市', '徐州市', '连云港市']   # 浙江、上海、江苏
+tot = {c: tot0[c] for c in ORDER}
 L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
 for k in CATS:
     v = [sum(1 for r in rs if cat(r['level']) == k) for rs in tot.values()]

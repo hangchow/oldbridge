@@ -3,7 +3,7 @@
 import json, re, os, subprocess, time, sys, collections
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CITY = {'湖州市': ('huz', 'hzql/'), '嘉兴市': ('jx', 'jxql/'), '上海市': ('sh', ''), '苏州市': ('sz', ''), '金华市': ('jh', ''),
-        '绍兴市': ('sx', ''), '宁波市': ('nb', ''), '衢州市': ('qz', ''), '台州市': ('tz', ''), '温州市': ('wz', ''), '丽水市': ('ls', ''), '舟山市': ('zs', ''), '无锡市': ('wx', ''), '南京市': ('nj', ''), '常州市': ('cz', ''), '镇江市': ('zjs', ''), '扬州市': ('yz', '')}
+        '绍兴市': ('sx', ''), '宁波市': ('nb', ''), '衢州市': ('qz', ''), '台州市': ('tz', ''), '温州市': ('wz', ''), '丽水市': ('ls', ''), '舟山市': ('zs', ''), '无锡市': ('wx', ''), '南京市': ('nj', ''), '常州市': ('cz', ''), '镇江市': ('zjs', ''), '扬州市': ('yz', ''), '徐州市': ('xz', ''), '连云港市': ('lyg', ''), '淮安市': ('ha', ''), '盐城市': ('yc', ''), '泰州市': ('tzj', ''), '南通市': ('nt', ''), '宿迁市': ('sq', '')}
 DISTS = {'湖州市': ['吴兴区', '南浔区', '德清县', '长兴县', '安吉县'], '嘉兴市': ['南湖区', '秀洲区', '嘉善县', '平湖市', '海盐县', '海宁市', '桐乡市'],
          '上海市': ['黄浦区', '徐汇区', '长宁区', '静安区', '普陀区', '虹口区', '杨浦区', '闵行区', '宝山区', '嘉定区', '浦东新区', '金山区', '松江区', '青浦区', '奉贤区', '崇明区'],
          '苏州市': ['姑苏区', '虎丘区', '吴中区', '相城区', '吴江区', '苏州工业园区', '常熟市', '张家港市', '昆山市', '太仓市'],
@@ -29,7 +29,7 @@ for city in sys.argv[1:]:
     if key == 'sh':
         PY = dict(huangpu88='黄浦区', xuhui88='徐汇区', changning88='长宁区', jingan88='静安区', putuo88='普陀区', hongkou88='虹口区', yangpu88='杨浦区', minhang88='闵行区', baoshan88='宝山区', jiading88='嘉定区', pudong88='浦东新区', jinshan88='金山区', songjiang88='松江区', qingpu88='青浦区', fengxian88='奉贤区', chongming88='崇明区')
         idx = {p: (PY.get(a, '') + t) for p, (a, t) in json.load(open(f'{S}/cq2/sh/idx.json')).items()}; base = ''
-    elif key in ('sz', 'wx', 'nj', 'cz', 'zjs', 'yz'): idx = json.load(open(f'{S}/cq2/{key}/idx.json')); base = ''
+    elif key in ('sz', 'wx', 'nj', 'cz', 'zjs', 'yz', 'xz', 'lyg', 'ha', 'yc', 'tzj', 'nt', 'sq'): idx = json.load(open(f'{S}/cq2/{key}/idx.json')); base = ''
     elif key in ('huz', 'jx'):
         pre = 'hzql/' if key == 'huz' else 'jxql/'
         idx = {p: t for p, t in json.load(open(f'{S}/cq2/idx.json')).items() if p.startswith(pre)}; base = 'ql15/'

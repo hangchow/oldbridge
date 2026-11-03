@@ -70,7 +70,7 @@ def split_names(n):
     ps = [x for x in re.split(r'[、与和及]', n) if x]
     if len(ps) < 2: return []
     if isbridge(n) and '、' not in n and any(len(p) < 2 or p == '桥' for p in re.split(r'[与和及]', n)): return [n]   # “中和桥”“永和桥”不是两座桥
-    if not ps[-1].endswith('桥'): return [p for p in ps if isbridge(p)]
+    if not ps[-1].endswith('桥'): return [p for p in ps if isbridge(p) and p.endswith('桥')]   # “黄桥裕泰和茶叶店”不是桥
     if all(p.endswith('桥') for p in ps): return [p for p in ps if isbridge(p)]
     # “洗屐、砥流、招隐桥”：前面几项省略了“桥”字
     if all(len(p) <= 3 for p in ps[:-1]): return [p + '桥' for p in ps[:-1]] + [ps[-1]]
