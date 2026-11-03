@@ -1,6 +1,6 @@
 # 绍兴市新昌县古桥
 
-共收录 37 座桥。
+共收录 39 座桥。
 
 ## 按级别统计
 
@@ -9,14 +9,14 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>4</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>6</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>10</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>17</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>19</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>小将镇</nobr> | <nobr>10</nobr> |
-| <nobr>儒岙镇</nobr> | <nobr>6</nobr> |
+| <nobr>小将镇</nobr> | <nobr>11</nobr> |
+| <nobr>儒岙镇</nobr> | <nobr>7</nobr> |
 | <nobr>镜岭镇</nobr> | <nobr>4</nobr> |
 | <nobr>南明街道</nobr> | <nobr>3</nobr> |
 | <nobr>羽林街道</nobr> | <nobr>3</nobr> |
@@ -63,7 +63,7 @@
 | <nobr>南明街道</nobr> | 光霁桥 | — | — | 明 | 绍兴市文物保护点 | 暂无 |
 | <nobr>镜岭镇</nobr> | 安山村金锁桥 [?](http://www.china-qiao.com/ql15/sxql/sxql698.htm) | 石拱桥（单孔） | 20米 | 民国 | 绍兴市文物保护点 | 暂无 |
 
-### 尚未定级（待核实）（17 座）
+### 尚未定级（待核实）（19 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -74,12 +74,14 @@
 | <nobr>小将镇</nobr> | 太平桥 [?](http://www.china-qiao.com/ql15/sxql/sxql375.htm) | — | — | 清同治八年（1869） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>小将镇</nobr> | 招鹤桥 [?](http://www.china-qiao.com/ql15/sxql/sxql543.htm) | — | — | 清道光八年（1828） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>小将镇</nobr> | 长春桥 [?](http://www.china-qiao.com/ql15/sxql/sxql349.htm) | — | — | 清咸丰六年（1856） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>小将镇</nobr> | 又新桥 [?](http://www.china-qiao.com/ql15/sxql/sxql368.htm) | — | — | 清同治八年（1869） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>镜岭镇</nobr> | 五脚边桥 [?](http://www.china-qiao.com/ql15/sxql/sxql385.htm) | — | — | 清道光年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>镜岭镇</nobr> | 双井桥 [?](http://www.china-qiao.com/ql15/sxql/sxql386.htm) | — | — | 清光绪二十八年（1902） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>镜岭镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql544.htm) | — | — | 清嘉庆二十三年（1818） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>儒岙镇</nobr> | 黄沙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql399.htm) | 石梁桥（三孔） | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>儒岙镇</nobr> | 马龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql400.htm) | 石拱桥（单孔） | 31.4米 | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>儒岙镇</nobr> | 小溪头桥 [?](http://www.china-qiao.com/ql15/sxql/sxql401.htm) | 石拱桥（单孔） | — | 清晚期 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>儒岙镇</nobr> | 同善桥 [?](http://www.china-qiao.com/ql15/sxql/sxql398.htm) | — | 19.9米 | 民国三十年（1941）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>东茗乡</nobr> | 广福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql418.htm) | — | 13.8米 | 清光绪十年（1884） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>东茗乡</nobr> | 里王桥 [?](http://www.china-qiao.com/ql15/sxql/sxql419.htm) | — | — | 清道光年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>东茗乡</nobr> | 石门坑桥 [?](http://www.china-qiao.com/ql15/sxql/sxql422.htm) | — | — | 清光绪二十九年（1903） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
@@ -99,11 +101,13 @@
 - 黄沙桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 马龙桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 小溪头桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 同善桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 五福桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 永福桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 太平桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 招鹤桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 长春桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 又新桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 排山桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“清光绪年间”）。
 - 福寿桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 黄坛棋龙桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
@@ -125,11 +129,13 @@
 - [老百晓集桥：sxql399.htm](http://www.china-qiao.com/ql15/sxql/sxql399.htm)
 - [老百晓集桥：sxql400.htm](http://www.china-qiao.com/ql15/sxql/sxql400.htm)
 - [老百晓集桥：sxql401.htm](http://www.china-qiao.com/ql15/sxql/sxql401.htm)
+- [老百晓集桥：sxql398.htm](http://www.china-qiao.com/ql15/sxql/sxql398.htm)
 - [老百晓集桥：sxql369.htm](http://www.china-qiao.com/ql15/sxql/sxql369.htm)
 - [老百晓集桥：sxql370.htm](http://www.china-qiao.com/ql15/sxql/sxql370.htm)
 - [老百晓集桥：sxql375.htm](http://www.china-qiao.com/ql15/sxql/sxql375.htm)
 - [老百晓集桥：sxql543.htm](http://www.china-qiao.com/ql15/sxql/sxql543.htm)
 - [老百晓集桥：sxql349.htm](http://www.china-qiao.com/ql15/sxql/sxql349.htm)
+- [老百晓集桥：sxql368.htm](http://www.china-qiao.com/ql15/sxql/sxql368.htm)
 - [老百晓集桥：sxql439.htm](http://www.china-qiao.com/ql15/sxql/sxql439.htm)
 - [老百晓集桥：sxql644.htm](http://www.china-qiao.com/ql15/sxql/sxql644.htm)
 - [老百晓集桥：sxql645.htm](http://www.china-qiao.com/ql15/sxql/sxql645.htm)

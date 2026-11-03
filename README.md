@@ -8,15 +8,15 @@
 | <nobr>级别</nobr> | 杭州市 | 湖州市 | 嘉兴市 | 金华市 | 绍兴市 | 宁波市 | 衢州市 | 台州市 | 温州市 | 丽水市 | 舟山市 | 上海市 | 苏州市 | 无锡市 | 常州市 | 南京市 | 镇江市 | 扬州市 | 泰州市 | 南通市 | 盐城市 | 淮安市 | 宿迁市 | 徐州市 | 连云港市 | 合计 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | <nobr>全国重点文物保护单位</nobr> | 10 | 12 | 1 | 2 | 12 | 2 | 0 | 2 | 17 | 22 | 0 | 0 | 7 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 92 |
-| <nobr>省级文物保护单位</nobr> | 6 | 21 | 16 | 11 | 9 | 9 | 3 | 9 | 13 | 12 | 0 | 0 | 20 | 14 | 7 | 5 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 0 | 159 |
+| <nobr>省级文物保护单位</nobr> | 6 | 21 | 16 | 11 | 11 | 9 | 3 | 9 | 13 | 12 | 0 | 0 | 20 | 14 | 7 | 5 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 2 | 0 | 161 |
 | <nobr>市级文物保护单位</nobr> | 74 | 58 | 3 | 0 | 8 | 7 | 1 | 0 | 0 | 1 | 0 | 6 | 26 | 7 | 27 | 23 | 3 | 10 | 2 | 1 | 0 | 2 | 0 | 0 | 1 | 260 |
 | <nobr>县（区）级文物保护单位</nobr> | 21 | 69 | 94 | 19 | 33 | 51 | 17 | 3 | 24 | 40 | 3 | 89 | 100 | 60 | 4 | 15 | 27 | 3 | 6 | 0 | 0 | 0 | 0 | 1 | 0 | 679 |
 | <nobr>文物保护点</nobr> | 118 | 330 | 213 | 70 | 86 | 143 | 40 | 18 | 91 | 104 | 1 | 0 | 4 | 37 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1255 |
 | <nobr>历史建筑</nobr> | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 | <nobr>一般不可移动文物</nobr> | 197 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 49 | 0 | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 254 |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | 44 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 44 |
-| <nobr>尚未定级（待核实）</nobr> | 37 | 208 | 52 | 31 | 146 | 116 | 2 | 60 | 91 | 71 | 3 | 170 | 99 | 41 | 1 | 10 | 6 | 8 | 0 | 4 | 7 | 0 | 1 | 1 | 0 | 1165 |
-| <nobr>**合计**</nobr> | 513 | 698 | 379 | 133 | 298 | 328 | 63 | 92 | 236 | 250 | 7 | 314 | 256 | 161 | 39 | 57 | 39 | 22 | 9 | 5 | 7 | 2 | 1 | 4 | 1 | 3914 |
+| <nobr>尚未定级（待核实）</nobr> | 37 | 208 | 52 | 31 | 164 | 116 | 2 | 60 | 91 | 71 | 3 | 170 | 99 | 41 | 1 | 10 | 6 | 8 | 0 | 4 | 7 | 0 | 1 | 1 | 0 | 1183 |
+| <nobr>**合计**</nobr> | 513 | 698 | 379 | 133 | 318 | 328 | 63 | 92 | 236 | 250 | 7 | 314 | 256 | 161 | 39 | 57 | 39 | 22 | 9 | 5 | 7 | 2 | 1 | 4 | 1 | 3934 |
 
 ## 全国重点文物保护单位（92 座）
 
@@ -131,16 +131,16 @@
 | <nobr>10</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>东湖街道</nobr> | 后廿眼桥 [?](http://www.china-qiao.com/ql15/sxql/sxql639.htm) | 石梁桥（十七孔） | 133.65米 | — | <nobr>尚未定级（待核实）</nobr> |
 | <nobr>11</nobr> | <nobr>丽水市</nobr> | <nobr>龙泉市</nobr> | <nobr>安仁镇</nobr> | 永和桥 [?](http://www.china-qiao.com/ql15/lsql/lsql024.htm) | 石拱桥（四孔） | 125.7米 | 清康熙五十七年（1718）重建 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>12</nobr> | <nobr>杭州市</nobr> | <nobr>临安区</nobr> | <nobr>锦城街道</nobr> | [新溪桥](文保名录/杭州市/云端档案/338_新溪桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql350.htm) | 石拱桥（七孔） | 110.3米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>13</nobr> | <nobr>杭州市</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>14</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>东浦街道</nobr> | 泗龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql088.htm) | 石拱桥（三孔） | 97米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>15</nobr> | <nobr>宁波市</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | <nobr>市级文物保护单位</nobr> |
-| <nobr>16</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥（五孔） | 95.5米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>南京市</nobr> | <nobr>溧水区</nobr> | <nobr>洪蓝街道</nobr> | 蒲塘桥 [?](http://www.china-qiao.com/ql16/njql/njql140.htm) | 石拱桥（九孔） | 91.3米 | 明 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>绍兴市</nobr> | <nobr>嵊州市</nobr> | <nobr>崇仁镇</nobr> | 长善桥 [?](http://www.china-qiao.com/ql15/sxql/sxql328.htm) | 石梁桥（十孔） | 90米 | — | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>19</nobr> | <nobr>杭州市</nobr> | <nobr>临平区</nobr> | <nobr>塘栖镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql295.htm) | 石拱桥（七孔） | 89.71米 | 明弘治二年（1489）建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>南京市</nobr> | <nobr>秦淮区</nobr> | <nobr>红花街道</nobr> | 七桥瓮 [?](http://www.china-qiao.com/ql16/njql/njql026.htm) | 石拱桥（七孔） | 89.6米 | 明 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>斗门街道</nobr> | 三江闸桥 [?](http://www.china-qiao.com/ql15/sxql/sxql113.htm) | 石梁桥（二十八孔） | 108米 | 明嘉靖年间（汤绍恩）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>杭州市</nobr> | <nobr>拱墅区</nobr> | <nobr>拱宸桥街道</nobr> | 拱宸桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql026.htm) | 石拱桥（三孔） | 98米 | 明崇祯四年（1631）始建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>绍兴市</nobr> | <nobr>越城区</nobr> | <nobr>东浦街道</nobr> | 泗龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql088.htm) | 石拱桥（三孔） | 97米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>宁波市</nobr> | <nobr>奉化区</nobr> | <nobr>大堰镇</nobr> | 福星桥 [?](http://www.china-qiao.com/ql15/nbql/nbql310.htm) | 石拱桥（五孔） | 96.3米 | 清 | <nobr>市级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>苏州市</nobr> | <nobr>吴中区</nobr> | <nobr>长桥镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql16/szql/szql604.htm) | 石拱桥（五孔） | 95.5米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>南京市</nobr> | <nobr>溧水区</nobr> | <nobr>洪蓝街道</nobr> | 蒲塘桥 [?](http://www.china-qiao.com/ql16/njql/njql140.htm) | 石拱桥（九孔） | 91.3米 | 明 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>绍兴市</nobr> | <nobr>嵊州市</nobr> | <nobr>崇仁镇</nobr> | 长善桥 [?](http://www.china-qiao.com/ql15/sxql/sxql328.htm) | 石梁桥（十孔） | 90米 | — | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>20</nobr> | <nobr>杭州市</nobr> | <nobr>临平区</nobr> | <nobr>塘栖镇</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql295.htm) | 石拱桥（七孔） | 89.71米 | 明弘治二年（1489）建 | <nobr>全国重点文物保护单位</nobr> |
 
-只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 1270 座中排序，大部分桥还没有长度数据。
+只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 1284 座中排序，大部分桥还没有长度数据。
 
 ## 本项目收录范围内桥身刻字最早的前 20 名
 
