@@ -52,6 +52,16 @@ def level_table(rows):
     c = collections.Counter(cat(r['level']) for r in rows)
     return ['| 级别 | 数量 |', '|---|---|'] + [f'| {k} | {c[k]} |' for k in CATS if c[k]]
 
+def DLk(r, base, city):
+    # 区县名链接到区县汇总页
+    d = r['dist']; f = f"{O}/{city}/{d}/{d}古桥.md"
+    return NB(f"[{d}]({os.path.relpath(f, base)})") if city and os.path.exists(f) else NB(d)
+
+def TL(r, base, city):
+    # 乡镇名链接到乡镇文件（目前只有杭州市辖区分到乡镇）
+    t = r['town']; f = f"{O}/{city}/{r['dist']}/{t}/{t}古桥.md"
+    return f"[{t}]({os.path.relpath(f, base)})" if city and t not in ('—', '') and os.path.exists(f) else t
+
 def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None):
     L = []
     for k in CATS:
@@ -64,7 +74,7 @@ def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None):
         if full_all or k in LIST_FULL:
             hdr = ('| 区县 ' if with_dist else '') + '| 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |' + (' 图片 |' if imgs is not None else '')
             L += [hdr, '|---' * ((7 if with_dist else 6) + (imgs is not None)) + '|']
-            L += [('| ' + NB(r['dist']) + ' ' if with_dist else '') + f"| {r['town']} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" + (f" {imgs.get((r['town'], r['name']), '暂无')} |" if imgs is not None else '') for r in x]
+            L += [('| ' + DLk(r, base, city) + ' ' if with_dist else '') + f"| {TL(r, base, city)} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" + (f" {imgs.get((r['town'], r['name']), '暂无')} |" if imgs is not None else '') for r in x]
         else:
             L += ['数量较多，见各区县文件。']
     return L
@@ -79,7 +89,7 @@ def oldest(items, title, with_city):
     L += ['| 名次 | ' + ('市 | ' if with_city else '') + '区县 | 乡镇 | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | 级别 |', '|---' * (10 if with_city else 9) + '|']
     for i, (y, c, r, d) in enumerate(ex[:20], 1):
         base = O if with_city else O + '/' + c
-        L.append(f"| {i} | " + (f"{NB(c)} | " if with_city else '') + f"{NB(r['dist'])} | {r['town']} | {NL(r, base, c)} | {r.get('struct') or '—'} | {d['label']} | [{d['text']}]({d['src']}) | {r['era'] or '—'} | {cat(r['level'])} |")
+        L.append(f"| {i} | " + (f"{NB(c)} | " if with_city else '') + f"{DLk(r, base, c)} | {TL(r, base, c)} | {NL(r, base, c)} | {r.get('struct') or '—'} | {d['label']} | [{d['text']}]({d['src']}) | {r['era'] or '—'} | {cat(r['level'])} |")
     L += ['', '统计范围：只限本项目收录的二十五个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州、徐州、连云港、淮安、盐城、泰州、南通、宿迁）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。']
     L += ['', f'只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 {len(ex)} 座。']
     return L
@@ -90,13 +100,14 @@ def city_readme(city, rows, sub):
         if any(r['name'] == n and r['dist'] == d for r in rows): extra.setdefault(d, []).append((n, p))
     rows = [r for r in rows if (r['name'], r['dist']) not in CROSS]
     c = collections.Counter(r['dist'] for r in rows)
+    for d in sorted(x for x in os.listdir(f'{O}/{city}') if os.path.isdir(f'{O}/{city}/{x}')): c.setdefault(d, 0)   # 没有桥的区县也列出（0）
     L = [f'# {city}古桥', '', f'共收录 {len(rows)} 座桥。', '', '## 按级别统计', ''] + level_table(rows)
     L += ['', '## 各区县桥梁数量（降序）', '', '| 区县 | 数量 |', '|---|---|']
     L += [f'| [{NB(d)}]({d}/{d}古桥.md) | {n}' + ''.join(f'（另有跨区的{a}，计入{b}）' for a, b in extra.get(d, [])) + ' |' for d, n in c.most_common()]
     if extra: L += ['', '跨区的桥（钱塘江大桥跨西湖区、滨江区；日新桥跨富阳区、临安区）在两个区的文件里都有列出，但统计只算一次。']
     st = sorted([r for r in rows if re.match(r'^[0-9.]+米$', r.get('len') or '') and not re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or '') and (not r['level'].startswith('尚未定级') or '已逐座核对' in (r.get('note') or ''))], key=lambda r: -float(r['len'][:-1]))
     L += ['', f'## {city}石木桥桥长前 20 名', '', '| 名次 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|']
-    L += [f"| {i} | {NB(r['dist'])} | {r['town']} | {NL(r, O + '/' + city, city)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, r in enumerate(st[:20], 1)]
+    L += [f"| {i} | {DLk(r, O + '/' + city, city)} | {TL(r, O + '/' + city, city)} | {NL(r, O + '/' + city, city)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, r in enumerate(st[:20], 1)]
     L += ['', f'只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 {len(st)} 座中排序。']
     L += oldest([(city, r) for r in rows], f'{city}桥身刻字最早的前 20 名', False)
     L += ['', '## 按级别列出'] + level_lists(rows, False, True, O + '/' + city, city)
@@ -127,6 +138,7 @@ for d in towns:
     if d in C3: continue
     rs = [r for r in H if r['dist'] == d]
     t = collections.Counter(r['town'] for r in rs)
+    for k in towns[d]: t.setdefault(k, 0)   # 名录里没有桥的乡镇也列出（0）
     L = [f'# 杭州市{d}古桥', '', f'共收录 {len(rs)} 座桥。' + ('（含跨区桥，市级统计只算一次）' if any((r['name'], d) in CROSS for r in rs) else ''),
          '', '## 按级别统计', ''] + (level_table(rs) if rs else ['名录里没有桥梁。'])
     L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| [{k}]({k}/{k}古桥.md) | {n} |' for k, n in t.most_common()]
@@ -148,6 +160,7 @@ ORDER = ['杭州市', '湖州市', '嘉兴市', '金华市', '绍兴市', '宁�
 tot = {c: tot0[c] for c in ORDER}
 
 # 其余城市（及杭州桐庐、淳安、建德）的区县 README：格式同杭州市辖区，原“区县古桥.md”的表格和说明并在后面
+TA = json.load(open(S + '/build/towns_all.json'))   # 各区县乡镇（街道）名单（据统计用区划代码，modood/Administrative-divisions-of-China）
 DONE = []
 for c in ORDER:
     for d in sorted({r['dist'] for r in tot0[c]} | {x for x in os.listdir(f'{O}/{c}') if os.path.isdir(f'{O}/{c}/{x}')}):
@@ -156,6 +169,8 @@ for c in ORDER:
         if not os.path.isdir(p): continue
         rs = [r for r in tot0[c] if r['dist'] == d]
         t = collections.Counter(r['town'] for r in rs)
+        for k in TA.get(c, {}).get(d, []):   # 没有桥的乡镇（街道）也列出（0）；仓库里写法带前缀（如“经开区长水街道”）或旧名包含它的不重复列
+            if k not in t and not any(x.endswith(k) or k.endswith(x) for x in t if x != '—'): t[k] = 0
         fp = f'{p}/{d}古桥.md'
         body = open(fp, encoding='utf8').read() if os.path.exists(fp) else ''
         body = [] if MK in body else body.split('\n')[1:]   # 原表格文件：去掉标题，整体并入；上一轮生成的汇总页不再并入
@@ -187,11 +202,11 @@ v = [len(rs) for rs in tot.values()]
 L.append('| **合计** | ' + ' | '.join(map(str, v)) + f' | {sum(v)} |')
 gb = [(c, r) for c, rs in tot.items() for r in rs if cat(r['level']) == CATS[0]]
 L += ['', f'## 全国重点文物保护单位（{len(gb)} 座）', '', '| 序号 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |', '|---|---|---|---|---|---|---|---|---|']
-L += [f"| {i} | {c} | {r['dist']} | {r['town']} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" for i, (c, r) in enumerate(gb, 1)]
+L += [f"| {i} | {c} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" for i, (c, r) in enumerate(gb, 1)]
 allr = [(c, r) for c, rs in tot.items() for r in rs if re.match(r'^[0-9.]+米$', r.get('len') or '') and not re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or '') and (not r['level'].startswith('尚未定级') or '已逐座核对' in (r.get('note') or ''))]
 allr.sort(key=lambda x: -float(x[1]['len'][:-1]))
 L += ['', '## 江浙沪石木桥桥长前 20 名', '', '| 名次 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|---|']
-L += [f"| {i} | {NB(c)} | {NB(r['dist'])} | {r['town']} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, (c, r) in enumerate(allr[:20], 1)]
+L += [f"| {i} | {NB(c)} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, (c, r) in enumerate(allr[:20], 1)]
 L += ['', f'只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 {len(allr)} 座中排序，大部分桥还没有长度数据。']
 L += oldest([(c, r) for c, rs in tot.items() for r in rs], '本项目收录范围内桥身刻字最早的前 20 名', True)
 L += ['', '各市的分级名单见各市目录下的 README。', '<!-- SUMMARY END -->']
