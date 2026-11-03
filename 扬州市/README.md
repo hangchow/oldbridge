@@ -62,10 +62,10 @@
 | <nobr>广陵区</nobr> | <nobr>—</nobr> | 迎恩桥 [?](http://www.china-qiao.com/ql16/yzql/yzql075.htm) | — | 12.5米 | 清雍正五年（1727）重建 | 扬州市文物保护单位（III-45） |
 | <nobr>广陵区</nobr> | <nobr>—</nobr> | 迎薰桥 [?](http://www.china-qiao.com/ql16/yzql/yzql068.htm) | — | — | 明 | 扬州市文物保护单位（III-46） |
 | <nobr>广陵区</nobr> | <nobr>—</nobr> | 公园桥 [?](http://www.china-qiao.com/ql16/yzql/yzql036.htm) | — | 7.8米 | 民国七年（1918）始建 | 扬州市文物保护单位（IV-14） |
+| <nobr>广陵区</nobr> | <nobr>—</nobr> | 洒金桥 [?](http://www.china-qiao.com/ql16/yzql/yzql069.htm) | 石拱桥（单孔） | 21.2米 | — | 扬州市文物保护单位（第五批） |
 | <nobr>邗江区</nobr> | <nobr>—</nobr> | 廿四桥 [?](http://www.china-qiao.com/ql16/yzql/yzql168.htm) | — | 11.4米 | 清 | 扬州市文物保护单位（III-57） |
 | <nobr>邗江区</nobr> | <nobr>—</nobr> | 大虹桥 [?](http://www.china-qiao.com/ql16/yzql/yzql060.htm) | — | — | 清乾隆元年（1736）改建 | 扬州市文物保护单位（III-58） |
 | <nobr>邗江区</nobr> | <nobr>—</nobr> | 藕香桥 [?](http://www.china-qiao.com/ql16/yzql/yzql064.htm) | — | 29.1米 | — | 扬州市文物保护单位（第五批） |
-| <nobr>广陵区</nobr> | <nobr>—</nobr> | 洒金桥 [?](http://www.china-qiao.com/ql16/yzql/yzql069.htm) | 石拱桥（单孔） | 21.2米 | — | 扬州市文物保护单位（第五批） |
 
 ### 县（区）级文物保护单位（3 座）
 

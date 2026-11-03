@@ -127,7 +127,7 @@ json.dump(R, open(f'{S}/{K}/rows.json', 'w'), ensure_ascii=False, indent=0)
 ORD = lambda lv: 0 if lv.startswith('全国') else 1 if lv.startswith(PROV) else 5 if lv.startswith('尚未') else 4 if '保护点' in lv or '不可移动' in lv or '控制单位' in lv else 2 if lv.startswith(CITY) else 3
 for d in DISTS:
     folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: ORD(r['level']))
+    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (ORD(r['level']), r['town'] in ('—', ''), r['town']))
     L = [f'# {CITY}{d}不可移动文物：桥梁', '']
     if not rs:
         L += [f'目前收集到的名录里，{d}没有桥梁。', '']

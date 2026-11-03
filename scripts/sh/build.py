@@ -72,7 +72,7 @@ for r in R:
 json.dump(R, open(S + '/sh/rows.json', 'w'), ensure_ascii=False, indent=0)
 for d in DISTS:
     folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: 0 if r['level'].startswith('上海市') else 1 if r['level'].startswith('区级') else 2)
+    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: 0 if r['level'].startswith('上海市') else 1 if r['level'].startswith('区级') else 2, r['town'] in ('—', ''), r['town']))
     if not rs:
         open(os.path.join(folder, f'{d}古桥.md'), 'w').write(f'# 上海市{d}不可移动文物：桥梁\n\n上海市文物保护单位和{d}区级文物保护单位名录里没有桥梁。嘉定、崇明、虹口的登记不可移动文物名单暂缺。\n')
         print(d, 0); continue

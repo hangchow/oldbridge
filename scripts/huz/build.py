@@ -160,7 +160,7 @@ def main():
     IMGSRC = json.load(open(S + '/huz/imgsrc.json')) if os.path.exists(S + '/huz/imgsrc.json') else {}
     for d in ['吴兴区', '南浔区', '德清县', '长兴县', '安吉县']:
         folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-        rs = sorted([r for r in R if r['dist'] == d], key=rank)
+        rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (rank(r), r['town'] in ('—', ''), r['town']))
         L = [f'# 湖州市{d}不可移动文物：桥梁', '', '| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
         imgs = []
         for i, r in enumerate(rs, 1):

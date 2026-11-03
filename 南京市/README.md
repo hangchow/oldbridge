@@ -75,9 +75,9 @@
 |---|---|---|---|---|---|---|
 | <nobr>溧水区</nobr> | <nobr>洪蓝街道</nobr> | 天生桥 [?](http://www.china-qiao.com/ql16/njql/njql190.htm) | — | 34米 | 明代 | 江苏省文物保护单位（胭脂河与天生桥） |
 | <nobr>溧水区</nobr> | <nobr>东屏街道</nobr> | 长乐桥 [?](http://www.china-qiao.com/ql16/njql/njql138.htm) | 石拱桥（三孔） | 36米 | 明代 | 江苏省文物保护单位 |
+| <nobr>溧水区</nobr> | <nobr>—</nobr> | 胭脂河桥 | — | — | 明代 | 江苏省文物保护单位（“胭脂河与天生桥”组成部分，294） |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 玄津桥 [?](http://www.china-qiao.com/ql16/njql/njql073.htm) | 石拱桥（三孔） | — | 明代 | 江苏省文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 九龙桥 [?](http://www.china-qiao.com/ql16/njql/njql147.htm) | 石拱桥（五孔） | 51米 | 明 | 江苏省文物保护单位 |
-| <nobr>溧水区</nobr> | <nobr>—</nobr> | 胭脂河桥 | — | — | 明代 | 江苏省文物保护单位（“胭脂河与天生桥”组成部分，294） |
 
 ### 市级文物保护单位（23 座）
 
@@ -85,27 +85,27 @@
 |---|---|---|---|---|---|---|
 | <nobr>秦淮区</nobr> | <nobr>洪武路街道</nobr> | 淮清桥 [?](http://www.china-qiao.com/ql16/njql/njql082.htm) | — | 17米 | 明 | 南京市文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>洪武路街道</nobr> | 大中桥 [?](http://www.china-qiao.com/ql16/njql/njql071.htm) | — | — | 明 | 南京市文物保护单位 |
-| <nobr>秦淮区</nobr> | <nobr>—</nobr> | 内桥 [?](http://www.china-qiao.com/ql16/njql/njql084.htm) | — | — | 明 | 南京市文物保护单位 |
-| <nobr>玄武区</nobr> | <nobr>—</nobr> | 北门桥 | — | — | 明 | 南京市文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>夫子庙街道</nobr> | 文德桥 [?](http://www.china-qiao.com/ql16/njql/njql055.htm) | — | — | 明万历年间始建 | 南京市文物保护单位 |
+| <nobr>秦淮区</nobr> | <nobr>—</nobr> | 内桥 [?](http://www.china-qiao.com/ql16/njql/njql084.htm) | — | — | 明 | 南京市文物保护单位 |
+| <nobr>玄武区</nobr> | <nobr>梅园新村街道</nobr> | 竺桥 [?](http://www.china-qiao.com/ql16/njql/njql076.htm) | — | — | 明代 | 南京市文物保护单位 |
+| <nobr>玄武区</nobr> | <nobr>—</nobr> | 北门桥 | — | — | 明 | 南京市文物保护单位 |
 | <nobr>高淳区</nobr> | <nobr>阳江镇</nobr> | 襟湖桥 | — | — | 明 | 南京市文物保护单位 |
+| <nobr>高淳区</nobr> | <nobr>漆桥街道</nobr> | 漆桥 [?](http://www.china-qiao.com/ql16/njql/njql144.htm) | 石拱桥（单孔） | 14米 | 清 | 南京市文物保护单位 |
+| <nobr>高淳区</nobr> | <nobr>古柏镇</nobr> | 江夏桥 [?](http://www.china-qiao.com/ql16/njql/njql143.htm) | — | 44米 | 清 | 南京市文物保护单位 |
+| <nobr>高淳区</nobr> | <nobr>东坝街道</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 南京市文物保护单位 |
 | <nobr>雨花台区</nobr> | <nobr>板桥街道</nobr> | 板桥 [?](http://www.china-qiao.com/ql16/njql/njql119.htm) | 石拱桥（三孔） | 25米 | 清代 | 南京市文物保护单位 |
 | <nobr>栖霞区</nobr> | <nobr>燕子矶街道</nobr> | 寒桥 [?](http://www.china-qiao.com/ql16/njql/njql116.htm) | 石拱桥（单孔） | — | 宋代 | 南京市文物保护单位 |
 | <nobr>浦口区</nobr> | <nobr>永宁街道</nobr> | 茅塘桥 | — | — | 明代 | 南京市文物保护单位 |
+| <nobr>浦口区</nobr> | <nobr>汤泉街道</nobr> | 凤凰桥 [?](http://www.china-qiao.com/ql16/njql/njql173.htm) | 石拱桥（单孔） | 10米 | 明代 | 南京市文物保护单位 |
 | <nobr>江宁区</nobr> | <nobr>麒麟街道</nobr> | 建南和尚桥 [?](http://www.china-qiao.com/ql16/njql/njql134.htm) | 石拱桥（单孔） | 40米 | 清代 | 南京市文物保护单位 |
 | <nobr>江宁区</nobr> | <nobr>横溪街道</nobr> | 踊跃油坊桥 [?](http://www.china-qiao.com/ql16/njql/njql133.htm) | 石拱桥（单孔） | 19.4米 | 清乾隆二十四年（1759）重建 | 南京市文物保护单位 |
+| <nobr>江宁区</nobr> | <nobr>横溪街道</nobr> | 疏云桥 [?](http://www.china-qiao.com/ql16/njql/njql149.htm) | 石拱桥（单孔） | 14.2米 | 清 | 南京市文物保护单位 |
+| <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 积善桥 [?](http://www.china-qiao.com/ql16/njql/njql127.htm) | — | 20米 | 清 | 南京市文物保护单位 |
+| <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 仙惠桥 [?](http://www.china-qiao.com/ql16/njql/njql125.htm) | 石拱桥（单孔） | 20米 | 清宣统二年（1910）建 | 南京市文物保护单位 |
+| <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 卢家桥 [?](http://www.china-qiao.com/ql16/njql/njql126.htm) | 石拱桥（单孔） | 15米 | 民国十四年（1925）重修 | 南京市文物保护单位 |
+| <nobr>江宁区</nobr> | <nobr>秣陵街道</nobr> | 童男桥 [?](http://www.china-qiao.com/ql16/njql/njql130.htm) | 石拱桥（单孔） | 15.3米 | 清 | 南京市文物保护单位 |
 | <nobr>鼓楼区</nobr> | <nobr>—</nobr> | 大市桥 | — | — | 明代 | 南京市文物保护单位 |
 | <nobr>建邺区</nobr> | <nobr>南苑街道</nobr> | 赛虹桥 [?](http://www.china-qiao.com/ql16/njql/njql113.htm) | — | — | 明 | 南京市文物保护单位 |
-| <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 积善桥 [?](http://www.china-qiao.com/ql16/njql/njql127.htm) | — | 20米 | 清 | 南京市文物保护单位 |
-| <nobr>江宁区</nobr> | <nobr>秣陵街道</nobr> | 童男桥 [?](http://www.china-qiao.com/ql16/njql/njql130.htm) | 石拱桥（单孔） | 15.3米 | 清 | 南京市文物保护单位 |
-| <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 仙惠桥 [?](http://www.china-qiao.com/ql16/njql/njql125.htm) | 石拱桥（单孔） | 20米 | 清宣统二年（1910）建 | 南京市文物保护单位 |
-| <nobr>江宁区</nobr> | <nobr>横溪街道</nobr> | 疏云桥 [?](http://www.china-qiao.com/ql16/njql/njql149.htm) | 石拱桥（单孔） | 14.2米 | 清 | 南京市文物保护单位 |
-| <nobr>高淳区</nobr> | <nobr>漆桥街道</nobr> | 漆桥 [?](http://www.china-qiao.com/ql16/njql/njql144.htm) | 石拱桥（单孔） | 14米 | 清 | 南京市文物保护单位 |
-| <nobr>高淳区</nobr> | <nobr>古柏镇</nobr> | 江夏桥 [?](http://www.china-qiao.com/ql16/njql/njql143.htm) | — | 44米 | 清 | 南京市文物保护单位 |
-| <nobr>玄武区</nobr> | <nobr>梅园新村街道</nobr> | 竺桥 [?](http://www.china-qiao.com/ql16/njql/njql076.htm) | — | — | 明代 | 南京市文物保护单位 |
-| <nobr>浦口区</nobr> | <nobr>汤泉街道</nobr> | 凤凰桥 [?](http://www.china-qiao.com/ql16/njql/njql173.htm) | 石拱桥（单孔） | 10米 | 明代 | 南京市文物保护单位 |
-| <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 卢家桥 [?](http://www.china-qiao.com/ql16/njql/njql126.htm) | 石拱桥（单孔） | 15米 | 民国十四年（1925）重修 | 南京市文物保护单位 |
-| <nobr>高淳区</nobr> | <nobr>东坝街道</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 南京市文物保护单位 |
 
 ### 县（区）级文物保护单位（15 座）
 
@@ -115,10 +115,10 @@
 | <nobr>六合区</nobr> | <nobr>横梁街道</nobr> | 陈堡桥 | — | — | 清 | 六合区文物保护单位 |
 | <nobr>六合区</nobr> | <nobr>冶山街道</nobr> | 西汇桥 | — | — | 清 | 六合区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>大光路街道</nobr> | 中和桥 [?](http://www.china-qiao.com/ql16/njql/njql025.htm) | — | — | 明 | 秦淮区文物保护单位 |
-| <nobr>玄武区</nobr> | <nobr>—</nobr> | 珍珠桥 | — | — | 东吴 | 玄武区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 来宾桥 | — | — | — | 秦淮区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 涧子桥 | — | — | — | 秦淮区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 逸仙桥 [?](http://www.china-qiao.com/ql16/njql/njql074.htm) | — | — | — | 秦淮区文物保护单位 |
+| <nobr>玄武区</nobr> | <nobr>—</nobr> | 珍珠桥 | — | — | 东吴 | 玄武区文物保护单位 |
 | <nobr>栖霞区</nobr> | <nobr>—</nobr> | 御龙桥 [?](http://www.china-qiao.com/ql16/njql/njql117.htm) | — | — | 清代 | 栖霞区文物保护单位 |
 | <nobr>栖霞区</nobr> | <nobr>—</nobr> | 龙潭司门桥 | — | — | 明代 | 栖霞区文物保护单位 |
 | <nobr>栖霞区</nobr> | <nobr>—</nobr> | 西沟桥 | — | — | 民国 | 栖霞区文物保护单位 |

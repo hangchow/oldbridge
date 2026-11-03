@@ -136,7 +136,7 @@ for r in R:
 json.dump(R, open(S + '/jx/rows.json', 'w'), ensure_ascii=False, indent=0)
 for d in DISTS:
     folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    rs = sorted([r for r in R if r['dist'] == d], key=rank)
+    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (rank(r), r['town'] in ('—', ''), r['town']))
     L = [f'# 嘉兴市{d}不可移动文物：桥梁', '', '| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
     for i, r in enumerate(rs, 1):
         b = imgbase(r, rs); fs = [f'{b}{k}.jpg' for k in (1, 2, 3) if os.path.exists(os.path.join(folder, f'{b}{k}.jpg'))]

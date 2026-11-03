@@ -88,7 +88,7 @@ for d in DISTS:
     folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
     for f in os.listdir(folder):
         if f.endswith('古桥.md'): os.remove(os.path.join(folder, f))
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: ORD[r['level'][0]])
+    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (ORD[r['level'][0]], r['town'] in ('—', ''), r['town']))
     L = [f'# 苏州市{d}不可移动文物：桥梁', '']
     if not rs:
         L += [f'《苏州市各级文物保护单位名录》里，{d}没有桥梁类的国保、省保、市保。', '']

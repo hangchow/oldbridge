@@ -78,8 +78,8 @@
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
 | <nobr>婺城区</nobr> | <nobr>长山乡</nobr> | 东村桥 [?](http://www.china-qiao.com/ql15/jhql/jhql167.htm) | 石梁桥（三孔） | — | 北宋元祐八年（1093）建，民国二十二年（1933）重建 | 浙江省文物保护单位（第五批，5-37） |
-| <nobr>婺城区</nobr> | <nobr>—</nobr> | 金华通济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql001.htm) | 石拱桥（十三孔） | — | — | 浙江省文物保护单位（第六批，6-186） |
 | <nobr>婺城区</nobr> | <nobr>汤溪镇</nobr> | 萧家小龙桥 [?](http://www.china-qiao.com/ql15/jhql/jhql191.htm) | 石梁桥（多孔，孔数待查） | 75.3米 | — | 浙江省文物保护单位（第七批，7-135） |
+| <nobr>婺城区</nobr> | <nobr>—</nobr> | 金华通济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql001.htm) | 石拱桥（十三孔） | — | — | 浙江省文物保护单位（第六批，6-186） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/jhql/jhql034.htm) | — | 22.40米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永福桥 [?](http://www.china-qiao.com/ql15/jhql/jhql032.htm) | 石拱桥（单孔） | 36.90米 | 清 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
 | <nobr>兰溪市</nobr> | <nobr>游埠镇</nobr> | 永济桥 [?](http://www.china-qiao.com/ql15/jhql/jhql031.htm) | — | 30米 | 清道光年间建 | 浙江省文物保护单位（第七批，“游埠古桥群”组成部分，7-145） |
@@ -98,12 +98,12 @@
 | <nobr>兰溪市</nobr> | <nobr>灵洞乡</nobr> | 怀清桥 [?](http://www.china-qiao.com/ql15/jhql/jhql204.htm) | — | — | 清 | 兰溪市文物保护单位 |
 | <nobr>永康市</nobr> | <nobr>芝英镇</nobr> | 灵溪桥 | — | — | 宋 | 永康市文物保护单位（第三批，1998年） |
 | <nobr>永康市</nobr> | <nobr>象珠镇</nobr> | 磻溪桥 | — | — | 清 | 永康市文物保护单位（第三批，1998年） |
-| <nobr>永康市</nobr> | <nobr>方岩镇</nobr> | 古竹桥 | — | — | 清 | 永康市文物保护单位（第四批，2002年） |
-| <nobr>永康市</nobr> | <nobr>龙山镇</nobr> | 众成桥 | — | — | 清 | 永康市文物保护单位（第四批，2002年） |
 | <nobr>永康市</nobr> | <nobr>象珠镇</nobr> | 凰江桥 | — | — | 清 | 永康市文物保护单位（第四批，2002年） |
-| <nobr>永康市</nobr> | <nobr>唐先镇</nobr> | 上考保永桥 | — | — | 清 | 永康市文物保护单位（第六批，2010年） |
-| <nobr>永康市</nobr> | <nobr>方岩镇</nobr> | 来龙桥 | — | — | 明 | 永康市文物保护单位（第六批，2010年） |
 | <nobr>永康市</nobr> | <nobr>象珠镇</nobr> | 峡源古桥群 | — | — | 元至民国 | 永康市文物保护单位（第六批，2010年） |
+| <nobr>永康市</nobr> | <nobr>方岩镇</nobr> | 古竹桥 | — | — | 清 | 永康市文物保护单位（第四批，2002年） |
+| <nobr>永康市</nobr> | <nobr>方岩镇</nobr> | 来龙桥 | — | — | 明 | 永康市文物保护单位（第六批，2010年） |
+| <nobr>永康市</nobr> | <nobr>龙山镇</nobr> | 众成桥 | — | — | 清 | 永康市文物保护单位（第四批，2002年） |
+| <nobr>永康市</nobr> | <nobr>唐先镇</nobr> | 上考保永桥 | — | — | 清 | 永康市文物保护单位（第六批，2010年） |
 | <nobr>浦江县</nobr> | <nobr>杭坪镇</nobr> | 登云桥 [?](http://www.china-qiao.com/ql15/jhql/jhql120.htm) | 石拱桥（五孔） | 64.6米 | 清 | 浦江县文物保护单位（第四批） |
 | <nobr>浦江县</nobr> | <nobr>郑宅镇</nobr> | 骢马桥 | — | — | 清 | 浦江县文物保护单位（第四批） |
 | <nobr>浦江县</nobr> | <nobr>虞宅乡</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/jhql/jhql121.htm) | 石拱桥（单孔） | 23米 | 清乾隆四十五年（1780）始建 | 浦江县文物保护单位（第四批） |

@@ -56,6 +56,9 @@ def level_lists(rows, full_all, with_dist, base=O, city=''):
     L = []
     for k in CATS:
         x = [r for r in rows if cat(r['level']) == k]
+        first = {}
+        for r in x: first.setdefault((r['dist'], r['town']), len(first)); first.setdefault(r['dist'], len(first))
+        x.sort(key=lambda r: (first[r['dist']], r['town'] in ('—', ''), first[(r['dist'], r['town'])]))   # 同一区县、同一乡镇的桥排在一起
         if not x: continue
         L += ['', f'### {k}（{len(x)} 座）', '']
         if full_all or k in LIST_FULL:
