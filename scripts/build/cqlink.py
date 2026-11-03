@@ -63,10 +63,10 @@ for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh')
         vill = [v[:-1] for v in re.findall(r'[一-龥]{2,4}?村', r['loc'] or '')]
         ctx = [short(r['town'])] + [v for v in vill if len(v) >= 2]
         if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs', 'yz', 'xz', 'lyg', 'ha', 'yc', 'tzj', 'nt', 'sq'):
-            c = [(p, t) for p, t in I.items() if t.endswith(n) and not ODIST(t, r['dist']) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
+            c = [(p, t) for p, t in I.items() if t.endswith(n) and not t.endswith('新' + n) and not ODIST(t, r['dist']) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
             if len(c) > 1 or ND[(r['dist'], n)] > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]   # 本区县同名桥不止一座时要求乡镇对上
         else:
-            c = [(p, t) for p, t in I.items() if t.endswith(n) and short(r['dist']) in t and any(x and x in t for x in ctx)]
+            c = [(p, t) for p, t in I.items() if t.endswith(n) and not t.endswith('新' + n) and short(r['dist']) in t and any(x and x in t for x in ctx)]
         if not c and NC[n] == 1 and r['dist'] in CORE.get(city, ()):   # 标题只写市名（如“南京市七桥瓮”）：桥名在本市名录唯一、目录里也唯一才认
             c = [(p, t) for p, t in I.items() if re.sub(r'^.*?——', '', t) in (city + n, city[:-1] + n)]
         if len(c) == 1: OUT[f"{city}|{r['dist']}|{r['town']}|{r['name']}"] = BASE + c[0][0]

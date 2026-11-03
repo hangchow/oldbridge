@@ -50,7 +50,7 @@
 | <nobr>府山街道</nobr> | 迎恩桥 [?](http://www.china-qiao.com/ql15/sxql/sxql056.htm) | 石拱桥 | 19米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](迎恩桥1.jpg) |
 | <nobr>东浦街道</nobr> | 泗龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql088.htm) | 石拱桥（三孔） | 97米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](泗龙桥1.jpg) |
 | <nobr>塔山街道</nobr> | 拜王桥 [?](http://www.china-qiao.com/ql15/sxql/sxql061.htm) | 石拱桥（单孔） | 26.30米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](拜王桥1.jpg) |
-| <nobr>陶堰街道</nobr> | 泾口大桥 [?](http://www.china-qiao.com/ql15/sxql/sxql756.htm) | 三孔石拱桥与三孔石梁桥组合 | 45.2米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](泾口大桥1.jpg) |
+| <nobr>陶堰街道</nobr> | 泾口大桥 [?](http://www.china-qiao.com/ql15/sxql/sxql121.htm) | 三孔石拱桥与三孔石梁桥组合 | 45.2米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） | [1](泾口大桥1.jpg) |
 
 ### 市级文物保护单位（8 座）
 

@@ -130,7 +130,7 @@
 | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 武昌桥 [?](http://www.china-qiao.com/ql16/wxql/wxql260.htm) | — | — | 清 | 宜兴市文物保护单位（第五批） |
 | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 洋溪桥 [?](http://www.china-qiao.com/ql16/wxql/wxql259.htm) | 石拱桥（单孔） | — | 清道光十五年（1835）建 | 宜兴市文物保护单位（第五批） |
 | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 中阳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql263.htm) | 石梁桥（三孔） | 22.84米 | 民国十年（1921） | 宜兴市文物保护单位 |
-| <nobr>宜兴市</nobr> | <nobr>和桥镇</nobr> | 寿星桥 [?](http://www.china-qiao.com/ql16/wxql/wxql280.htm) | — | — | 清 | 宜兴市文物保护单位（第七批） |
+| <nobr>宜兴市</nobr> | <nobr>和桥镇</nobr> | 寿星桥 | — | — | 清 | 宜兴市文物保护单位（第七批） |
 | <nobr>宜兴市</nobr> | <nobr>和桥镇</nobr> | 里塘渎桥 [?](http://www.china-qiao.com/ql16/wxql/wxql240.htm) | — | — | 1928年 | 宜兴市文物保护单位（第七批） |
 | <nobr>宜兴市</nobr> | <nobr>和桥镇</nobr> | 允济桥 [?](http://www.china-qiao.com/ql16/wxql/wxql237.htm) | 石拱桥（单孔） | — | 清 | 宜兴市文物保护单位 |
 | <nobr>宜兴市</nobr> | <nobr>宜城街道</nobr> | 谢桥 [?](http://www.china-qiao.com/ql16/wxql/wxql196.htm) | 石拱桥（单孔） | 15.15米 | 民国十年（1921）重建 | 宜兴市文物保护单位 |

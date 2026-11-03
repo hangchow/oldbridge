@@ -41,7 +41,7 @@
 | <nobr>10</nobr> | <nobr>新昌县</nobr> | <nobr>沙溪镇</nobr> | 大庆桥 [?](http://www.china-qiao.com/ql15/sxql/sxql380.htm) | 石拱桥（三孔） | 56米 | 清咸丰十一年（1861）建成 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>11</nobr> | <nobr>柯桥区</nobr> | <nobr>柯桥街道</nobr> | 接渡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql136.htm) | 石梁桥（单孔） | 55.45米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>12</nobr> | <nobr>柯桥区</nobr> | <nobr>安昌街道</nobr> | 朱公桥 [?](http://www.china-qiao.com/ql15/sxql/sxql198.htm) | 石梁桥 | 51.4米 | 明 | <nobr>文物保护点</nobr> |
-| <nobr>13</nobr> | <nobr>越城区</nobr> | <nobr>陶堰街道</nobr> | 泾口大桥 [?](http://www.china-qiao.com/ql15/sxql/sxql756.htm) | 三孔石拱桥与三孔石梁桥组合 | 45.2米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>越城区</nobr> | <nobr>陶堰街道</nobr> | 泾口大桥 [?](http://www.china-qiao.com/ql15/sxql/sxql121.htm) | 三孔石拱桥与三孔石梁桥组合 | 45.2米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>14</nobr> | <nobr>嵊州市</nobr> | <nobr>崇仁镇</nobr> | 新官桥 [?](http://www.china-qiao.com/ql15/sxql/sxql329.htm) | 石梁桥（七孔） | 42米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>15</nobr> | <nobr>柯桥区</nobr> | <nobr>柯岩街道</nobr> | 太平桥 [?](http://www.china-qiao.com/ql15/sxql/sxql135.htm) | 石拱桥（单孔） | 40米 | 元至民国 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>16</nobr> | <nobr>嵊州市</nobr> | <nobr>贵门乡</nobr> | 上王家继善桥 [?](http://www.china-qiao.com/ql15/sxql/sxql345.htm) | 石拱桥（单孔） | 40米 | 民国 | <nobr>文物保护点</nobr> |
@@ -78,7 +78,7 @@
 | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 迎恩桥 [?](http://www.china-qiao.com/ql15/sxql/sxql056.htm) | 石拱桥 | 19米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
 | <nobr>越城区</nobr> | <nobr>东浦街道</nobr> | 泗龙桥 [?](http://www.china-qiao.com/ql15/sxql/sxql088.htm) | 石拱桥（三孔） | 97米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
 | <nobr>越城区</nobr> | <nobr>塔山街道</nobr> | 拜王桥 [?](http://www.china-qiao.com/ql15/sxql/sxql061.htm) | 石拱桥（单孔） | 26.30米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
-| <nobr>越城区</nobr> | <nobr>陶堰街道</nobr> | 泾口大桥 [?](http://www.china-qiao.com/ql15/sxql/sxql756.htm) | 三孔石拱桥与三孔石梁桥组合 | 45.2米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
+| <nobr>越城区</nobr> | <nobr>陶堰街道</nobr> | 泾口大桥 [?](http://www.china-qiao.com/ql15/sxql/sxql121.htm) | 三孔石拱桥与三孔石梁桥组合 | 45.2米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
 | <nobr>柯桥区</nobr> | <nobr>柯岩街道</nobr> | 太平桥 [?](http://www.china-qiao.com/ql15/sxql/sxql135.htm) | 石拱桥（单孔） | 40米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
 | <nobr>柯桥区</nobr> | <nobr>柯桥街道</nobr> | 接渡桥 [?](http://www.china-qiao.com/ql15/sxql/sxql136.htm) | 石梁桥（单孔） | 55.45米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
 | <nobr>柯桥区</nobr> | <nobr>柯桥街道</nobr> | 融光桥 [?](http://www.china-qiao.com/ql15/sxql/sxql137.htm) | 石拱桥（单孔） | 17米 | 元至民国 | 全国重点文物保护单位（“绍兴古桥群”组成部分） |
