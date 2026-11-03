@@ -1,6 +1,6 @@
 # 杭州市古桥
 
-共收录 514 座桥。
+共收录 530 座桥。
 
 ## 按级别统计
 
@@ -12,7 +12,7 @@
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>21</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>118</nobr> |
 | <nobr>历史建筑</nobr> | <nobr>6</nobr> |
-| <nobr>一般不可移动文物</nobr> | <nobr>197</nobr> |
+| <nobr>一般不可移动文物</nobr> | <nobr>213</nobr> |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>44</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>38</nobr> |
 
@@ -22,8 +22,8 @@
 |---|---|
 | <nobr>[余杭区](余杭区/README.md)</nobr> | <nobr>137</nobr> |
 | <nobr>[临平区](临平区/README.md)</nobr> | <nobr>107</nobr> |
+| <nobr>[萧山区](萧山区/README.md)</nobr> | <nobr>73</nobr> |
 | <nobr>[临安区](临安区/README.md)</nobr> | <nobr>58（另有跨区的日新桥，计入富阳区）</nobr> |
-| <nobr>[萧山区](萧山区/README.md)</nobr> | <nobr>57</nobr> |
 | <nobr>[西湖区](西湖区/README.md)</nobr> | <nobr>49</nobr> |
 | <nobr>[建德市](建德市/README.md)</nobr> | <nobr>24</nobr> |
 | <nobr>[富阳区](富阳区/README.md)</nobr> | <nobr>20</nobr> |
@@ -221,7 +221,7 @@
 
 数量较多，见各区县文件。
 
-### 一般不可移动文物（197 座）
+### 一般不可移动文物（213 座）
 
 数量较多，见各区县文件。
 
