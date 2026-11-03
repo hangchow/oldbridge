@@ -1,13 +1,13 @@
 # 台州市温岭市古桥
 
-共收录 10 座桥。
+共收录 9 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>2</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>1</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>4</nobr> |
@@ -19,7 +19,6 @@
 | <nobr>城东街道</nobr> | <nobr>2</nobr> |
 | <nobr>—</nobr> | <nobr>2</nobr> |
 | <nobr>新河镇</nobr> | <nobr>2</nobr> |
-| <nobr>箬横镇</nobr> | <nobr>1</nobr> |
 | <nobr>温峤镇</nobr> | <nobr>1</nobr> |
 | <nobr>城北街道</nobr> | <nobr>1</nobr> |
 | <nobr>泽国镇</nobr> | <nobr>1</nobr> |
@@ -33,12 +32,11 @@
 | <nobr>新河镇</nobr> | 金清大桥 [?](http://www.china-qiao.com/ql15/tzql/tzql049.htm) | 石拱桥（五孔） | 64米 | 清 | 全国重点文物保护单位 | [1](金清大桥1.jpg) |
 | <nobr>—</nobr> | 新河闸桥群 | — | — | 宋至清 | 全国重点文物保护单位 | 暂无 |
 
-### 省级文物保护单位（2 座）
+### 省级文物保护单位（1 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
 | <nobr>新河镇</nobr> | 糠桥头桥 | — | — | 南宋 | 浙江省文物保护单位（8-33） | 暂无 |
-| <nobr>箬横镇</nobr> | 李婆桥 [?](http://www.china-qiao.com/ql15/tzql/tzql047.htm) | 钢筋混凝土拱桥（单孔） | 14米 | — | 浙江省文物保护单位（8-117） | [1](李婆桥1.jpg) |
 
 ### 县（区）级文物保护单位（1 座）
 
@@ -77,7 +75,6 @@
 ## 来源
 
 - [维基百科：温岭市各级文物保护单位列表](https://zh.wikipedia.org/wiki/温岭市各级文物保护单位列表)
-- [维基百科：浙江省文物保护单位](https://zh.wikipedia.org/wiki/浙江省文物保护单位)
 - [http://www.tcmap.com.cn/view/wenwu/gi5w381_list.html](http://www.tcmap.com.cn/view/wenwu/gi5w381_list.html)
 - [浙江省文物局：全省文物保护点统计表（台州市文物保护点，本项目 文保名录/浙江省/ 有原件）](http://wwj.zj.gov.cn/)
 - [老百晓集桥：tzql039.htm](http://www.china-qiao.com/ql15/tzql/tzql039.htm)

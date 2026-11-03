@@ -7,9 +7,9 @@
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>12</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>21</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>22</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>58</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>70</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>69</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>330</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>250</nobr> |
 
@@ -85,7 +85,7 @@
 | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 社桥 [?](http://www.china-qiao.com/ql15/hzql/hzql241.htm) | 石梁桥（五孔） | 42米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>钟管镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql558.htm) | 石梁桥（三孔） | 19米 | 宋、元、明 | 全国重点文物保护单位（“德清古桥群”组成部分） |
 
-### 省级文物保护单位（21 座）
+### 省级文物保护单位（22 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | <nobr>德清县</nobr> | <nobr>舞阳街道</nobr> | 万安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql565.htm) | 石梁桥（三孔） | — | 宋、元、清；南宋绍兴年间建 | 浙江省文物保护单位（“德清古桥群”组成部分） |
 | <nobr>德清县</nobr> | <nobr>新市镇</nobr> | 圣济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql253.htm) | 石拱桥（单孔） | — | 清咸丰三年（1853）重建，始建年代无考 | 浙江省文物保护单位（“德清古桥群”组成部分） |
 | <nobr>安吉县</nobr> | <nobr>梅溪镇</nobr> | 万埭桥 [?](http://www.china-qiao.com/ql15/hzql/hzql375.htm) | — | 37.6米 | 清 | 浙江省文物保护单位（第七批） |
+| <nobr>长兴县</nobr> | <nobr>太湖街道</nobr> | 光阳桥 [?](http://www.china-qiao.com/ql15/hzql/hzql273.htm) | — | 8米 | 清光绪年间 | 浙江省文物保护单位（7-114，浙政发〔2017〕2号；名单所在地写雉城镇） |
 
 ### 市级文物保护单位（58 座）
 
@@ -174,7 +175,7 @@
 | <nobr>吴兴区</nobr> | <nobr>太湖溇港一带</nobr> | 尚义桥 [?](http://www.china-qiao.com/ql15/hzql/hzql689.htm) | — | — | 清至民国；清乾隆三十九年（1774）重建 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
 | <nobr>吴兴区</nobr> | <nobr>太湖溇港一带</nobr> | 述中桥 [?](http://www.china-qiao.com/ql15/hzql/hzql054.htm) | — | — | 清至民国；清光绪二十九年（1903）重建 | 湖州市文物保护单位（第七批，“太湖溇港古桥群”组成部分） |
 
-### 县（区）级文物保护单位（70 座）
+### 县（区）级文物保护单位（69 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -204,7 +205,6 @@
 | <nobr>长兴县</nobr> | <nobr>太湖图影度假区</nobr> | 高大㘰砖拱桥 | — | — | 现代 | 长兴县文物保护单位（第六批，2015年） |
 | <nobr>长兴县</nobr> | <nobr>李家巷镇</nobr> | 庆元桥 [?](http://www.china-qiao.com/ql15/hzql/hzql306.htm) | — | — | 清嘉庆年间重修 | 长兴县文物保护单位（第七批，2019年） |
 | <nobr>长兴县</nobr> | <nobr>李家巷镇</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql305.htm) | 石拱桥（单孔） | 14.3米 | 清嘉庆年间重建 | 长兴县文物保护单位（第七批，2019年） |
-| <nobr>长兴县</nobr> | <nobr>太湖街道</nobr> | 光阳桥 [?](http://www.china-qiao.com/ql15/hzql/hzql273.htm) | — | 8米 | 清光绪年间 | 长兴县文物保护单位（据老百晓集桥页面，待核对政府原件） |
 | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 古板桥 | — | — | 明 | 德清县文物保护单位（第二批，2006年） |
 | <nobr>德清县</nobr> | <nobr>阜溪街道</nobr> | 咸宁桥 | — | — | 清 | 德清县文物保护单位（第三批，2010年） |
 | <nobr>德清县</nobr> | <nobr>乾元镇</nobr> | 四仙桥 | — | — | 清 | 德清县文物保护单位（第二批，2006年） |

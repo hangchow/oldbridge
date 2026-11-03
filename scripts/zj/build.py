@@ -100,6 +100,7 @@ for r in R:
     if r['group'] and core(r['group']) == core(r['name']): r['group'] = ''
     r['town'] = CF.get('townfix', {}).get(f"{r['dist']}|{r['name']}", r['town'])
     r['era'] = CF.get('erafix', {}).get(f"{r['dist']}|{r['name']}", r['era'])   # 名录没写年代、据资料补的
+R[:] = [r for r in R if not re.match(r'(19[5-9]\d|20\d\d)', r['era'])]   # 据资料补出的年代在1949年后的，也不收
 # 组名只留名称本身；成组条目在已拆出单桥时去掉
 for r in R:
     if r['group']: r['group'] = re.split(r'共\d|其中|[，；,;]|含', r['group'])[0].strip()

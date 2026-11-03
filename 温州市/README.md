@@ -1,13 +1,13 @@
 # 温州市古桥
 
-共收录 240 座桥。
+共收录 243 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>19</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>13</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>16</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>40</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>91</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>77</nobr> |
@@ -17,7 +17,7 @@
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[苍南县](苍南县/README.md)</nobr> | <nobr>52</nobr> |
-| <nobr>[泰顺县](泰顺县/README.md)</nobr> | <nobr>48</nobr> |
+| <nobr>[泰顺县](泰顺县/README.md)</nobr> | <nobr>51</nobr> |
 | <nobr>[平阳县](平阳县/README.md)</nobr> | <nobr>25</nobr> |
 | <nobr>[瑞安市](瑞安市/README.md)</nobr> | <nobr>20</nobr> |
 | <nobr>[永嘉县](永嘉县/README.md)</nobr> | <nobr>20</nobr> |
@@ -93,7 +93,7 @@
 | <nobr>泰顺县</nobr> | <nobr>雅阳镇</nobr> | 普宾桥 [?](http://www.china-qiao.com/ql15/wzql/wzql172.htm) | 木梁廊桥 | 13.60米 | 清嘉庆二十六年（1821）建 | 全国重点文物保护单位（“泰顺廊桥”组成部分） |
 | <nobr>泰顺县</nobr> | <nobr>龟湖镇</nobr> | 城水桥 [?](http://www.china-qiao.com/ql15/wzql/wzql177.htm) | 木拱廊桥 | 15.02米 | 清 | 全国重点文物保护单位（“泰顺廊桥”组成部分） |
 
-### 省级文物保护单位（13 座）
+### 省级文物保护单位（16 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -102,6 +102,9 @@
 | <nobr>泰顺县</nobr> | <nobr>泗溪镇</nobr> | 南溪桥 [?](http://www.china-qiao.com/ql15/wzql/wzql167.htm) | 木梁廊桥 | 20.35米 | 明至清；清道光二十二年（1842）重建 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
 | <nobr>泰顺县</nobr> | <nobr>泗溪镇</nobr> | 霞庄桥 [?](http://www.china-qiao.com/ql15/wzql/wzql168.htm) | 木拱廊桥 | 23.49米 | 明至清；清同治七年（1868）重修 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
 | <nobr>泰顺县</nobr> | <nobr>雅阳镇</nobr> | 墩头桥 [?](http://www.china-qiao.com/ql15/wzql/wzql175.htm) | 木梁廊桥 | 16.36米 | 明至清；清道光十二年（1832）重建 | 浙江省文物保护单位（“泰顺廊桥”组成部分，3-） |
+| <nobr>泰顺县</nobr> | <nobr>—</nobr> | 泰闽桥 | — | — | 清 | 浙江省文物保护单位（“泰顺廊桥”组成部分，第六批并入） |
+| <nobr>泰顺县</nobr> | <nobr>—</nobr> | 红军桥 | — | — | 清 | 浙江省文物保护单位（“泰顺廊桥”组成部分，第六批并入） |
+| <nobr>泰顺县</nobr> | <nobr>—</nobr> | 岭北水屋桥 | — | — | 清 | 浙江省文物保护单位（“泰顺廊桥”组成部分，第六批并入） |
 | <nobr>泰顺县</nobr> | <nobr>—</nobr> | 迴澜桥 | — | — | — | 浙江省文物保护单位（7-111） |
 | <nobr>鹿城区</nobr> | <nobr>藤桥镇</nobr> | 寺前桥 [?](http://www.china-qiao.com/ql15/wzql/wzql022.htm) | 石梁桥（三孔） | — | — | 浙江省文物保护单位（6-76） |
 | <nobr>瓯海区</nobr> | <nobr>潘桥街道</nobr> | 陈庄金锁桥 [?](http://www.china-qiao.com/ql15/wzql/wzql047.htm) | — | 10米 | 北宋崇宁三年（1104）建 | 浙江省文物保护单位（8-29） |

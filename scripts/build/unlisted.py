@@ -53,7 +53,7 @@ for city, rows in OUT.items():
         v = dd.get(f"{r['dist']}|{r['town']}|{r['name']}", dd.get(f"{r['dist']}|{r['name']}"))
         if isinstance(v, str) and v.startswith('DROP'): continue
         if isinstance(v, dict):   # 改名、改乡镇、页面写明的文保等级
-            for kk in ('dist', 'name', 'town', 'lv', 'lvnote', 'loc'):
+            for kk in ('dist', 'name', 'town', 'lv', 'lvnote', 'loc', 'lvtxt'):
                 if kk in v: r[kk] = v[kk]
             v = v.get('era')
         if v is not None: r['era'] = v
@@ -61,6 +61,7 @@ for city, rows in OUT.items():
         if r['name'].startswith('街道') and r['town'].endswith('镇'): r['town'] += '街道'; r['name'] = r['name'][2:]   # “嘉定镇街道宾兴桥”拆分有误
         if r.get('loc', '—') not in ('—', '') and '，' in r['loc']: r['note'] += '。位置：' + r['loc']   # 人工补的位置说明（如跨两镇的桥）
         if r.get('lv') in ('xian', 'sb', 'shi'): r['level'] = {'xian': r['dist'] + '文物保护单位', 'shi': city + '文物保护单位', 'sb': ('江苏省' if city in JS else '浙江省') + '文物保护单位'}[r['lv']] + '（据老百晓集桥页面，待核对政府原件）'   # 页面写明的等级
+        if r.get('lvtxt'): r['level'] = r.pop('lvtxt')   # 已有政府原件的等级
         keep.append(r)
     OUT[city] = keep
 json.dump(OUT, open(S + '/build/unlisted.json', 'w'), ensure_ascii=False, indent=0)

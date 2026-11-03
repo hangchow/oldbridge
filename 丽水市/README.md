@@ -1,17 +1,17 @@
 # 丽水市古桥
 
-共收录 253 座桥。
+共收录 254 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>全国重点文物保护单位</nobr> | <nobr>22</nobr> |
-| <nobr>省级文物保护单位</nobr> | <nobr>12</nobr> |
+| <nobr>省级文物保护单位</nobr> | <nobr>14</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>43</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>104</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>71</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>70</nobr> |
 
 ## 各区县桥梁数量（降序）
 
@@ -22,7 +22,7 @@
 | <nobr>[缙云县](缙云县/README.md)</nobr> | <nobr>29</nobr> |
 | <nobr>[景宁畲族自治县](景宁畲族自治县/README.md)</nobr> | <nobr>29</nobr> |
 | <nobr>[青田县](青田县/README.md)</nobr> | <nobr>26</nobr> |
-| <nobr>[龙泉市](龙泉市/README.md)</nobr> | <nobr>21</nobr> |
+| <nobr>[龙泉市](龙泉市/README.md)</nobr> | <nobr>22</nobr> |
 | <nobr>[云和县](云和县/README.md)</nobr> | <nobr>18</nobr> |
 | <nobr>[遂昌县](遂昌县/README.md)</nobr> | <nobr>16</nobr> |
 | <nobr>[莲都区](莲都区/README.md)</nobr> | <nobr>13</nobr> |
@@ -93,12 +93,14 @@
 | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 梅歧桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
 | <nobr>景宁畲族自治县</nobr> | <nobr>—</nobr> | 接龙桥 | — | — | 明至民国 | 全国重点文物保护单位（“处州廊桥”组成部分） |
 
-### 省级文物保护单位（12 座）
+### 省级文物保护单位（14 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
 | <nobr>莲都区</nobr> | <nobr>老竹镇</nobr> | 梁村河桥 [?](http://www.china-qiao.com/ql15/lsql/lsql245.htm) | 石梁桥 | 11.27米 | 明嘉靖二十一年（1542） | 浙江省文物保护单位 |
 | <nobr>龙泉市</nobr> | <nobr>城北乡</nobr> | 永庆桥 [?](http://www.china-qiao.com/ql15/lsql/lsql308.htm) | 廊桥（单孔） | 43.33米 | 清代 | 浙江省文物保护单位 |
+| <nobr>龙泉市</nobr> | <nobr>屏南镇</nobr> | 顺德桥 | — | — | 清 | 浙江省文物保护单位（第五批；2011年并入“龙泉廊桥”） |
+| <nobr>龙泉市</nobr> | <nobr>小梅镇</nobr> | 古溪桥 [?](http://www.china-qiao.com/ql15/lsql/lsql249.htm) | 廊桥（单孔） | 29.30米 | 清道光十八年（1838）重建 | 浙江省文物保护单位（第五批；2011年并入“龙泉廊桥”） |
 | <nobr>云和县</nobr> | <nobr>云和镇</nobr> | 石门桥 [?](http://www.china-qiao.com/ql15/lsql/lsql082.htm) | — | 14.16米 | 清光绪三年（1877）重修 | 浙江省文物保护单位 |
 | <nobr>云和县</nobr> | <nobr>—</nobr> | 林山下石拱桥 | — | — | — | 浙江省文物保护单位（7-195） |
 | <nobr>庆元县</nobr> | <nobr>岭头乡</nobr> | 杨家庄护龙桥 | — | — | 清嘉庆二十五年（1820） | 浙江省文物保护单位 |
@@ -168,6 +170,6 @@
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（71 座）
+### 尚未定级（待核实）（70 座）
 
 数量较多，见各区县文件。
