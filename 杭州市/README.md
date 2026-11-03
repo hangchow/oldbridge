@@ -56,7 +56,7 @@
 | <nobr>14</nobr> | <nobr>[萧山区](萧山区/萧山区古桥.md)</nobr> | <nobr>[楼塔镇](萧山区/楼塔镇/楼塔镇古桥.md)</nobr> | [洲口桥](../文保名录/杭州市/云端档案/310_洲口桥.html) [?](http://www.china-qiao.com/ql15/hz_ql/hzvql271.htm) | 石拱桥（五孔，折边拱） | 47.8米 | 民国九年（1920）重建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>15</nobr> | <nobr>[临安区](临安区/临安区古桥.md)</nobr> | <nobr>[河桥镇](临安区/河桥镇/河桥镇古桥.md)</nobr> | 振麟桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql576.htm) | 石拱桥（三孔） | 47.2米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>16</nobr> | <nobr>[拱墅区](拱墅区/拱墅区古桥.md)</nobr> | <nobr>[石桥街道](拱墅区/石桥街道/石桥街道古桥.md)</nobr> | 欢喜永宁桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql211.htm) | 石拱桥（单孔） | 47米 | 清乾隆三十五年（1770）始建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>[拱墅区](拱墅区/拱墅区古桥.md)</nobr> | <nobr>[长庆街道](拱墅区/长庆街道/长庆街道古桥.md)</nobr> | 广安新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql079.htm) | 石拱桥（单孔） | 46.5米 | 清 | <nobr>文物保护点</nobr> |
+| <nobr>17</nobr> | <nobr>[拱墅区](拱墅区/拱墅区古桥.md)</nobr> | <nobr>[长庆街道](拱墅区/长庆街道/长庆街道古桥.md)</nobr> | 广安新桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql079.htm) | 石拱桥（单孔） | 46.5米 | 南宋已有（端平桥），清顺治十三年（1656）重建 | <nobr>文物保护点</nobr> |
 | <nobr>18</nobr> | <nobr>[建德市](建德市/建德市古桥.md)</nobr> | <nobr>乾潭镇</nobr> | [乐善桥](../文保名录/杭州市/云端档案/641_乐善桥.html) | 石拱桥（三孔） | 36米 | — | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>19</nobr> | <nobr>[余杭区](余杭区/余杭区古桥.md)</nobr> | <nobr>[径山镇](余杭区/径山镇/径山镇古桥.md)</nobr> | 福寿漕桥 [?](http://www.china-qiao.com/ql15/hz_ql/hzvql310.htm) | 石梁桥（五孔） | 35.5米 | 清 | <nobr>文物保护点</nobr> |
 | <nobr>20</nobr> | <nobr>[桐庐县](桐庐县/桐庐县古桥.md)</nobr> | <nobr>江南镇</nobr> | [青云桥](../文保名录/杭州市/云端档案/历保1177_青云桥.html) | 石梁桥（六孔） | 34.4米 | 清光绪八年（1882） | <nobr>历史建筑</nobr> |
