@@ -44,7 +44,7 @@
 | <nobr>13</nobr> | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 大浦桥 [?](http://www.china-qiao.com/ql16/wxql/wxql265.htm) | 石拱桥（单孔） | 27.2米 | 明成化四年（1468）建，清康熙四年（1665）重修 | <nobr>省级文物保护单位</nobr> |
 | <nobr>14</nobr> | <nobr>梁溪区</nobr> | <nobr>南禅寺街道</nobr> | 耕读桥 [?](http://www.china-qiao.com/ql16/wxql/wxql133.htm) | 石拱桥（单孔） | 27米 | 清光绪二十三年（1897）重建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>15</nobr> | <nobr>宜兴市</nobr> | <nobr>高塍镇</nobr> | 东塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql251.htm) | 石拱桥（单孔） | 25.6米 | 清 | <nobr>文物保护点</nobr> |
-| <nobr>16</nobr> | <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 安乐塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql174.htm) | — | 25米 | 明崇祯年间始建（清乾隆八年、同治九年重修）；明崇祯年间建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 安乐塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql174.htm) | — | 25米 | 明崇祯年间（1633—1644）始建，清乾隆八年（1743）、同治九年（1870）重修 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>17</nobr> | <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 承先桥 [?](http://www.china-qiao.com/ql16/wxql/wxql186.htm) | — | 25米 | 明代 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>18</nobr> | <nobr>梁溪区</nobr> | <nobr>迎龙桥街道</nobr> | 迎龙桥 [?](http://www.china-qiao.com/ql16/wxql/wxql128.htm) | 石拱桥（单孔） | 23.5米 | 清乾隆三年（1738）始建 | <nobr>市级文物保护单位</nobr> |
 | <nobr>19</nobr> | <nobr>宜兴市</nobr> | <nobr>周铁镇</nobr> | 中阳桥 [?](http://www.china-qiao.com/ql16/wxql/wxql263.htm) | 石梁桥（三孔） | 22.84米 | 民国十年（1921） | <nobr>县（区）级文物保护单位</nobr> |
@@ -137,7 +137,7 @@
 | <nobr>宜兴市</nobr> | <nobr>张渚镇</nobr> | 玉带桥 [?](http://www.china-qiao.com/ql16/wxql/wxql222.htm) | 石拱桥（单孔） | 17米 | 宋始建，清重建 | 宜兴市文物保护单位 |
 | <nobr>宜兴市</nobr> | <nobr>张渚镇</nobr> | 金龙桥 [?](http://www.china-qiao.com/ql16/wxql/wxql223.htm) | 石拱桥（单孔） | 6米 | 清同治年间建 | 宜兴市文物保护单位 |
 | <nobr>宜兴市</nobr> | <nobr>万石镇</nobr> | 培德桥 [?](http://www.china-qiao.com/ql16/wxql/wxql257.htm) | 石梁桥（单孔） | — | 清 | 宜兴市文物保护单位 |
-| <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 安乐塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql174.htm) | — | 25米 | 明崇祯年间始建（清乾隆八年、同治九年重修）；明崇祯年间建 | 江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件） |
+| <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 安乐塘桥 [?](http://www.china-qiao.com/ql16/wxql/wxql174.htm) | — | 25米 | 明崇祯年间（1633—1644）始建，清乾隆八年（1743）、同治九年（1870）重修 | 江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件） |
 | <nobr>江阴市</nobr> | <nobr>祝塘镇</nobr> | 承先桥 [?](http://www.china-qiao.com/ql16/wxql/wxql186.htm) | — | 25米 | 明代 | 江阴市文物保护单位 |
 | <nobr>江阴市</nobr> | <nobr>月城镇</nobr> | 惠济桥 [?](http://www.china-qiao.com/ql16/wxql/wxql162.htm) | 石梁桥（三孔） | — | 清道光以前 | 江阴市文物保护单位（据博雅地名网“江阴市县级文物保护单位”列表，待核对政府原件） |
 | <nobr>江阴市</nobr> | <nobr>月城镇</nobr> | 双桥 [?](http://www.china-qiao.com/ql16/wxql/wxql164.htm) | — | — | 明天顺七年（1463）建 | 江阴市文物保护单位 |
