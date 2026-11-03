@@ -65,7 +65,7 @@ def split_names(n):
     inner = [x for p in re.findall(r'（(.*?)）', n) for x in re.split(r'[、，,]', p) if isbridge(x)]
     if inner and not isbridge(re.sub(r'（.*?）', '', n)): return inner
     n = re.sub(r'（.*?）|\(.*?\)|\[.*?\]', '', n.replace(' ', ''))
-    if isbridge(n) and not re.search(r'[、与和及]', n): return [n]
+    if isbridge(n) and not re.search(r'[、与和及]', n.replace('和尚', '')): return [n]   # “建南和尚桥”的“和”不是连词
     ps = [x for x in re.split(r'[、与和及]', n) if x]
     if len(ps) < 2: return []
     if isbridge(n) and '、' not in n and any(len(p) < 2 or p == '桥' for p in re.split(r'[与和及]', n)): return [n]   # “中和桥”“永和桥”不是两座桥

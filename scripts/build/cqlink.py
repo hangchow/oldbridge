@@ -92,6 +92,7 @@ MANUAL = {
  '苏州市|昆山市|周庄镇|世德桥': 'ql16/szql/szql503.htm', '苏州市|昆山市|周庄镇|永安桥': 'ql16/szql/szql503.htm',
  '苏州市|吴江区|八都镇|香花桥': 'ql16/szql/szql650.htm',
  '苏州市|昆山市|花桥镇|聚福桥': 'ql16/szql/szql502.htm', '苏州市|昆山市|花桥镇|永清桥': 'ql16/szql/szql895.htm', '苏州市|昆山市|花桥镇|万寿桥': 'ql16/szql/szql894.htm',
+ '南京市|江宁区|麒麟街道|建南和尚桥': 'ql16/njql/njql134.htm',
  '金华市|婺城区|—|金华通济桥': 'ql15/jhql/jhql001.htm', '金华市|磐安县|—|宅口承志桥': 'ql15/jhql/jhql135.htm'}
 for k, v in MANUAL.items(): OUT[k] = B + v
 # 对比各市目录后人工确认的同桥
