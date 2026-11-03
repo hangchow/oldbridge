@@ -132,6 +132,18 @@ r_zs = city_readme('舟山市', json.load(open(S + '/zs/rows.json')), False)
 r_js = {c: city_readme(c, json.load(open(f'{S}/{k}/rows.json')), False) for c, k in [('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs'), ('扬州市', 'yz'), ('徐州市', 'xz'), ('连云港市', 'lyg'), ('淮安市', 'ha'), ('盐城市', 'yc'), ('泰州市', 'tzj'), ('南通市', 'nt'), ('宿迁市', 'sq')]}
 
 # 杭州各市辖区
+def hz_town_imgs(d):
+    # 从各乡镇页的表格里取“图片”列，相对链接改为指向乡镇子目录
+    out = {}
+    for t in os.listdir(f'{O}/杭州市/{d}'):
+        f = f'{O}/杭州市/{d}/{t}/{t}古桥.md'
+        if not os.path.isfile(f): continue
+        for l in open(f, encoding='utf8'):
+            c = [x.strip() for x in l.strip().strip('|').split('|')]
+            if len(c) < 8 or not re.sub(r'</?nobr>', '', c[0]).isdigit(): continue
+            nm = re.sub(r' \[\?\]\(http[^)]+\)$', '', c[1]); m = re.match(r'\[(.*?)\]\(.*?\)$', nm); nm = m.group(1) if m else nm
+            out[(t, nm)] = re.sub(r'\]\((?!https?:|\.\./)([^)]+)\)', lambda m: f'](<{t}/{m.group(1)}>)' if ' ' in m.group(1) else f']({t}/{m.group(1)})', c[-1])
+    return out
 MK = '<!-- 区县汇总页（build/cityreadme.py 生成） -->'
 towns = json.load(open(S + '/hz/towns.json'))
 for d in towns:
@@ -142,7 +154,7 @@ for d in towns:
     L = [f'# 杭州市{d}古桥', '', f'共收录 {len(rs)} 座桥。' + ('（含跨区桥，市级统计只算一次）' if any((r['name'], d) in CROSS for r in rs) else ''),
          '', '## 按级别统计', ''] + (level_table(rs) if rs else ['名录里没有桥梁。'])
     L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| [{k}]({k}/{k}古桥.md) | {n} |' for k, n in t.most_common()]
-    L += ['', '## 按级别列出'] + (level_lists(rs, True, False, f'{O}/杭州市/{d}', '杭州市') if rs else ['', '无。'])
+    L += ['', '## 按级别列出'] + (level_lists(rs, True, False, f'{O}/杭州市/{d}', '杭州市', hz_town_imgs(d)) if rs else ['', '无。'])
     open(f'{O}/杭州市/{d}/{d}古桥.md', 'w').write('\n'.join(L) + '\n' + MK + '\n')
     if os.path.exists(f'{O}/杭州市/{d}/README.md'): os.remove(f'{O}/杭州市/{d}/README.md')   # 旧文件名
 
