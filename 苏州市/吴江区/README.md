@@ -78,7 +78,7 @@
 | <nobr>震泽镇</nobr> | 万福桥 [?](http://www.china-qiao.com/ql16/szql/szql630.htm) | 石梁桥（三孔） | 30.75米 | 清光绪二十一年（1895）建 | 吴江区文物保护单位 | [1](万福桥1.jpg) |
 | <nobr>震泽镇</nobr> | 政安桥 [?](http://www.china-qiao.com/ql16/szql/szql652.htm) | 石拱桥（单孔） | 16.8米 | 清宣统三年（1911）建 | 吴江区文物保护单位 | [1](政安桥1.jpg) |
 | <nobr>震泽镇</nobr> | 虹桥 [?](http://www.china-qiao.com/ql16/szql/szql430.htm) | 石拱桥（单孔） | 24米 | 1936年 | 吴江区文物保护单位 | [1](虹桥1.jpg) |
-| <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | — | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | 吴江市文物保护单位（原吴江县/市公布） | [1](三里桥1.jpg) |
+| <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | 54.5米 | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | 吴江市文物保护单位（原吴江县/市公布） | [1](三里桥1.jpg) |
 | <nobr>松陵镇</nobr> | 朴泽桥 [?](http://www.china-qiao.com/ql16/szql/szql367.htm) | 石拱桥（单孔） | 13.5米 | 明嘉靖三十四年（1555）始建 | 吴江市文物保护单位（原吴江县/市公布） | [1](朴泽桥1.jpg) |
 | <nobr>松陵镇</nobr> | 联源桥 [?](http://www.china-qiao.com/ql16/szql/szql865.htm) | 石梁桥（单孔） | 18.9米 | 清 | 吴江市文物保护单位（原吴江县/市公布） | 暂无 |
 | <nobr>松陵镇</nobr> | 南厍永宁桥 [?](http://www.china-qiao.com/ql16/szql/szql852.htm) | — | 8.0米 | 清 | 吴江市文物保护单位（原吴江县/市公布） | 暂无 |

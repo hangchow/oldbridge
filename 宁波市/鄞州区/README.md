@@ -55,7 +55,7 @@
 |---|---|---|---|---|---|---|
 | <nobr>塘溪镇</nobr> | 金鸡堰桥 | — | — | 民国 | 鄞州区文物保护单位 | 暂无 |
 | <nobr>塘溪镇</nobr> | 金鸡桥 [?](http://www.china-qiao.com/ql15/nbql/nbql114.htm) | 石梁桥（六孔） | 28.1米 | 民国 | 鄞州区文物保护单位 | [1](金鸡桥1.jpg) |
-| <nobr>东吴镇</nobr> | 大涵山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql116.htm) | 石梁桥（三孔） | — | 清 | 鄞州区文物保护单位 | [1](大涵山桥1.jpg) |
+| <nobr>东吴镇</nobr> | 大涵山桥 [?](http://www.china-qiao.com/ql15/nbql/nbql116.htm) | 石梁桥（三孔） | 13.9米 | 清 | 鄞州区文物保护单位 | [1](大涵山桥1.jpg) |
 | <nobr>东吴镇</nobr> | 贞寿桥 | — | — | 民国 | 鄞州区文物保护单位 | 暂无 |
 | <nobr>姜山镇</nobr> | 定桥 [?](http://www.china-qiao.com/ql15/nbql/nbql128.htm) | 石拱桥（三孔） | 23.90米 | 清宣统三年（1911）重修 | 鄞州区文物保护单位 | [1](定桥1.jpg) |
 | <nobr>姜山镇</nobr> | 五龙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql126.htm) | 石梁桥（三孔） | 30米 | 清道光五年（1825）始建 | 鄞州区文物保护单位 | [1](五龙桥1.jpg) |

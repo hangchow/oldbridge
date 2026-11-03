@@ -45,15 +45,15 @@
 | <nobr>11</nobr> | <nobr>金山区</nobr> | <nobr>朱泾镇</nobr> | 济众桥 [?](http://www.china-qiao.com/ql02/shql175.htm) | 石拱桥（单孔） | 28米 | 明洪武年间建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>12</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 高义桥 [?](http://www.china-qiao.com/ql02/shql137.htm) | 石拱桥（单孔） | 27米 | 清嘉庆十一年（1806）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>13</nobr> | <nobr>奉贤区</nobr> | <nobr>南桥镇</nobr> | 济渡良桥 [?](http://www.china-qiao.com/ql02/shql315.htm) | 石梁桥（五孔） | 27米 | 清嘉庆三年（1798） | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>14</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
-| <nobr>15</nobr> | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 余庆桥 [?](http://www.china-qiao.com/ql02/shql504.htm) | 石梁桥（三孔） | 25.95米 | — | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>16</nobr> | <nobr>奉贤区</nobr> | <nobr>庄行镇</nobr> | 八字桥 [?](http://www.china-qiao.com/ql02/shql367.htm) | 石梁桥（三孔） | 25.55米 | — | <nobr>一般不可移动文物</nobr> |
-| <nobr>17</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 金泽放生桥 [?](http://www.china-qiao.com/ql02/shql296.htm) | 石拱桥（单孔） | 25.2米 | — | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>奉贤区</nobr> | <nobr>青村镇</nobr> | 三祝桥 [?](http://www.china-qiao.com/ql02/shql418.htm) | 石梁桥（三孔） | 24.1米 | 明永乐年间建 | <nobr>一般不可移动文物</nobr> |
-| <nobr>19</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 登嬴桥 [?](http://www.china-qiao.com/ql02/shql130.htm) | 石拱桥（单孔） | 24米 | 明成化十二年（1476）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 林老桥 [?](http://www.china-qiao.com/ql02/shql294.htm) | 石拱桥（单孔） | 24米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 艾祁桥 [?](http://www.china-qiao.com/ql02/shql309.htm) | — | 26.72米 | 明洪武十二年（1379） | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>15</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 普济桥 [?](http://www.china-qiao.com/ql02/shql291.htm) | 石拱桥（单孔） | 26.7米 | 南宋咸淳元年（1265） | <nobr>市级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 余庆桥 [?](http://www.china-qiao.com/ql02/shql504.htm) | 石梁桥（三孔） | 25.95米 | — | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>17</nobr> | <nobr>奉贤区</nobr> | <nobr>庄行镇</nobr> | 八字桥 [?](http://www.china-qiao.com/ql02/shql367.htm) | 石梁桥（三孔） | 25.55米 | — | <nobr>一般不可移动文物</nobr> |
+| <nobr>18</nobr> | <nobr>青浦区</nobr> | <nobr>金泽镇</nobr> | 金泽放生桥 [?](http://www.china-qiao.com/ql02/shql296.htm) | 石拱桥（单孔） | 25.2米 | — | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>奉贤区</nobr> | <nobr>青村镇</nobr> | 三祝桥 [?](http://www.china-qiao.com/ql02/shql418.htm) | 石梁桥（三孔） | 24.1米 | 明永乐年间建 | <nobr>一般不可移动文物</nobr> |
+| <nobr>20</nobr> | <nobr>嘉定区</nobr> | <nobr>嘉定镇街道</nobr> | 登嬴桥 [?](http://www.china-qiao.com/ql02/shql130.htm) | 石拱桥（单孔） | 24米 | 明成化十二年（1476）重建 | <nobr>县（区）级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 120 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 122 座中排序。
 
 ## 上海市桥身刻字最早的前 20 名
 
@@ -155,7 +155,7 @@
 | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 瑞龙桥 | — | — | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>练塘镇</nobr> | 馀庆桥 | — | — | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 塘湾桥(庆泽桥) [?](http://www.china-qiao.com/ql02/shql308.htm) | 石拱桥（单孔） | — | 明万历二十三年（1595）建 | 区级文物保护单位 |
-| <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql02/shql307.htm) | — | — | — | 区级文物保护单位 |
+| <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql02/shql307.htm) | — | 19.2米 | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>白鹤镇</nobr> | 继善桥 [?](http://www.china-qiao.com/ql02/shql306.htm) | — | — | — | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>朱家角镇</nobr> | 九峰桥 [?](http://www.china-qiao.com/ql02/shql506.htm) | — | — | 清乾隆三年（1738）重建 | 区级文物保护单位 |
 | <nobr>青浦区</nobr> | <nobr>朱家角镇</nobr> | 泰安桥 [?](http://www.china-qiao.com/ql02/shql275.htm) | 石拱桥 | — | 明万历十二年（1584）始建 | 区级文物保护单位 |

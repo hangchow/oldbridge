@@ -53,7 +53,7 @@
 | <nobr>练塘镇</nobr> | 瑞龙桥 | — | — | — | 区级文物保护单位 | 暂无 |
 | <nobr>练塘镇</nobr> | 馀庆桥 | — | — | — | 区级文物保护单位 | 暂无 |
 | <nobr>白鹤镇</nobr> | 塘湾桥(庆泽桥) [?](http://www.china-qiao.com/ql02/shql308.htm) | 石拱桥（单孔） | — | 明万历二十三年（1595）建 | 区级文物保护单位 | [1](塘湾桥1.jpg) |
-| <nobr>白鹤镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql02/shql307.htm) | — | — | — | 区级文物保护单位 | [1](青龙桥1.jpg) |
+| <nobr>白鹤镇</nobr> | 青龙桥 [?](http://www.china-qiao.com/ql02/shql307.htm) | — | 19.2米 | — | 区级文物保护单位 | [1](青龙桥1.jpg) |
 | <nobr>白鹤镇</nobr> | 继善桥 [?](http://www.china-qiao.com/ql02/shql306.htm) | — | — | — | 区级文物保护单位 | [1](继善桥1.jpg) |
 | <nobr>朱家角镇</nobr> | 九峰桥 [?](http://www.china-qiao.com/ql02/shql506.htm) | — | — | 清乾隆三年（1738）重建 | 区级文物保护单位 | [1](九峰桥1.jpg) |
 | <nobr>朱家角镇</nobr> | 泰安桥 [?](http://www.china-qiao.com/ql02/shql275.htm) | 石拱桥 | — | 明万历十二年（1584）始建 | 区级文物保护单位 | [1](泰安桥1.jpg) |
@@ -93,7 +93,7 @@
 | <nobr>金泽镇</nobr> | 天王桥 [?](http://www.china-qiao.com/ql02/shql298.htm) | 石拱桥（三孔） | — | 明始建，清康熙年间重建；清康熙年间重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](天王桥1.jpg) |
 | <nobr>赵巷镇</nobr> | 孔巷桥 [?](http://www.china-qiao.com/ql02/shql596.htm) | 石梁桥（单孔） | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](孔巷桥1.jpg) |
 | <nobr>重固镇</nobr> | 子成桥 [?](http://www.china-qiao.com/ql02/shql603.htm) | 石梁桥（三孔） | — | 清光绪十一年（1885）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](子成桥1.jpg) |
-| <nobr>白鹤镇</nobr> | 艾祁桥 [?](http://www.china-qiao.com/ql02/shql309.htm) | — | — | 明洪武十二年（1379） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](艾祁桥1.jpg) |
+| <nobr>白鹤镇</nobr> | 艾祁桥 [?](http://www.china-qiao.com/ql02/shql309.htm) | — | 26.72米 | 明洪武十二年（1379） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](艾祁桥1.jpg) |
 
 
 ## 说明

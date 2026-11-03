@@ -21,6 +21,7 @@ def text(u):
     if not os.path.exists(f) or os.path.getsize(f) == 0:
         subprocess.run(['curl', '-sL', '-m', '30', '-A', 'Mozilla/5.0', '-o', f, u]); time.sleep(0.2)
     s = open(f, 'rb').read().decode('gb18030', 'ignore')
+    s = s.translate(str.maketrans('０１２３４５６７８９．', '0123456789.'))   # 全角数字（“72．8米”）
     t = re.sub(r'\s+', ' ', re.sub(r'&nbsp;', ' ', re.sub(r'<[^>]+>', ' ', s)))
     i = t.find('篇 '); t = t[i:] if i >= 0 else t
     return t.split('上一座')[0]

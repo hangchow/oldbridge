@@ -65,7 +65,7 @@
 | <nobr>西塘镇</nobr> | 安境桥 [?](http://www.china-qiao.com/ql15/jxql/jxql205.htm) | — | — | 明 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](安境桥1.jpg) |
 | <nobr>西塘镇</nobr> | 望仙桥 [?](http://www.china-qiao.com/ql15/jxql/jxql206.htm) | — | — | 宋始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](望仙桥1.jpg) |
 | <nobr>干窑镇</nobr> | 晋贤桥 [?](http://www.china-qiao.com/ql15/jxql/jxql221.htm) | 石拱桥（单孔） | 27米 | 明万历元年（1573）建，清乾隆三十年（1765）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](晋贤桥1.jpg) |
-| <nobr>陶庄镇</nobr> | 流庆桥 [?](http://www.china-qiao.com/ql15/jxql/jxql223.htm) | — | — | 南宋景定三年（1262）始建，清乾隆六十年（1795）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](流庆桥1.jpg) |
+| <nobr>陶庄镇</nobr> | 流庆桥 [?](http://www.china-qiao.com/ql15/jxql/jxql223.htm) | — | 15.5米 | 南宋景定三年（1262）始建，清乾隆六十年（1795）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](流庆桥1.jpg) |
 | <nobr>天凝镇</nobr> | 洪溪安澜桥 [?](http://www.china-qiao.com/ql15/jxql/jxql425.htm) | 石梁桥（三孔） | 18.8米 | 民国五年（1916）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](洪溪安澜桥1.jpg) |
 
 

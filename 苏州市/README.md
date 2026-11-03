@@ -37,23 +37,23 @@
 | <nobr>3</nobr> | <nobr>吴江区</nobr> | <nobr>松陵街道</nobr> | 垂虹断桥 [?](http://www.china-qiao.com/ql16/szql/szql362.htm) | 石拱桥残段（现存东西两端约16孔，原七十二孔） | 84米 | 元、明 | <nobr>全国重点文物保护单位</nobr> |
 | <nobr>4</nobr> | <nobr>姑苏区</nobr> | <nobr>双塔街道</nobr> | 灭渡桥 [?](http://www.china-qiao.com/ql16/szql/szql587.htm) | 石拱桥（单孔） | 81.3米 | 元至清；元大德二年（1298）始建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>5</nobr> | <nobr>姑苏区</nobr> | <nobr>双塔街道</nobr> | 吴门桥 [?](http://www.china-qiao.com/ql16/szql/szql111.htm) | 石拱桥（单孔） | 66.3米 | 清 | <nobr>省级文物保护单位</nobr> |
-| <nobr>6</nobr> | <nobr>虎丘区</nobr> | <nobr>横塘街道</nobr> | 行春桥 [?](http://www.china-qiao.com/ql16/szql/szql589.htm) | 石拱桥（九孔） | 54米 | 清重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>7</nobr> | <nobr>吴江区</nobr> | <nobr>平望镇</nobr> | 安德桥 [?](http://www.china-qiao.com/ql16/szql/szql404.htm) | — | 54米 | 清同治十一年（1872）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>8</nobr> | <nobr>昆山市</nobr> | <nobr>锦溪镇</nobr> | 十眼桥 [?](http://www.china-qiao.com/ql16/szql/szql522.htm) | — | 52米 | 清乾隆三十八年（1773）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>9</nobr> | <nobr>常熟市</nobr> | <nobr>虞山街道</nobr> | 长寿桥 [?](http://www.china-qiao.com/ql16/szql/szql693.htm) | — | 48米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>10</nobr> | <nobr>吴江区</nobr> | <nobr>盛泽镇</nobr> | 升月桥 [?](http://www.china-qiao.com/ql16/szql/szql408.htm) | 石拱桥（三孔） | 46.94米 | 清雍正九年（1731）重建 | <nobr>尚未定级（待核实）</nobr> |
-| <nobr>11</nobr> | <nobr>常熟市</nobr> | <nobr>虞山街道</nobr> | 永济桥 [?](http://www.china-qiao.com/ql16/szql/szql467.htm) | — | 43.8米 | 清康熙四十六年（1707）始建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>12</nobr> | <nobr>吴江区</nobr> | <nobr>震泽镇</nobr> | 禹迹桥 [?](http://www.china-qiao.com/ql16/szql/szql429.htm) | — | 43.5米 | 清乾隆四十四年（1779）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>13</nobr> | <nobr>姑苏区</nobr> | <nobr>虎丘街道</nobr> | 上津桥 [?](http://www.china-qiao.com/ql16/szql/szql081.htm) | 石拱桥（单孔） | 42.45米 | 明清；清同治五年（1866）重修 | <nobr>市级文物保护单位</nobr> |
-| <nobr>14</nobr> | <nobr>吴江区</nobr> | <nobr>盛泽镇</nobr> | 白龙桥 [?](http://www.china-qiao.com/ql16/szql/szql407.htm) | 石拱桥（三孔） | 40.6米 | 清光绪三十四年（1908）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>15</nobr> | <nobr>姑苏区</nobr> | <nobr>虎丘街道</nobr> | 普济桥 [?](http://www.china-qiao.com/ql16/szql/szql051.htm) | 石拱桥（三孔） | 38.69米 | 清康熙四十九年（1710）建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>16</nobr> | <nobr>姑苏区</nobr> | <nobr>横塘街道</nobr> | 彩云桥 [?](http://www.china-qiao.com/ql16/szql/szql084.htm) | 石拱桥（三孔） | 38米 | 1928年重建 | <nobr>市级文物保护单位</nobr> |
-| <nobr>17</nobr> | <nobr>姑苏区</nobr> | <nobr>虎丘街道</nobr> | 下津桥 [?](http://www.china-qiao.com/ql16/szql/szql077.htm) | 石拱桥（单孔） | 36.7米 | 明成化十八年（1482）建，清道光二年（1822）重修，清同治五年（1866）重修 | <nobr>市级文物保护单位</nobr> |
-| <nobr>18</nobr> | <nobr>吴江区</nobr> | <nobr>平望镇</nobr> | 安民桥 [?](http://www.china-qiao.com/ql16/szql/szql403.htm) | 石拱桥（单孔） | 36.7米 | 明嘉靖三十四年（1555）始建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>19</nobr> | <nobr>昆山市</nobr> | <nobr>玉山镇</nobr> | 玉龙桥 [?](http://www.china-qiao.com/ql16/szql/szql498.htm) | 石拱桥（三孔） | 34.30米 | 清咸丰年间重建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>20</nobr> | <nobr>吴江区</nobr> | <nobr>七都镇</nobr> | 双塔桥 [?](http://www.china-qiao.com/ql16/szql/szql427.htm) | 石拱桥（三孔） | 34.3米 | 清光绪二十七年（1901）重修 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>6</nobr> | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | 54.5米 | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>7</nobr> | <nobr>虎丘区</nobr> | <nobr>横塘街道</nobr> | 行春桥 [?](http://www.china-qiao.com/ql16/szql/szql589.htm) | 石拱桥（九孔） | 54米 | 清重建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>8</nobr> | <nobr>吴江区</nobr> | <nobr>平望镇</nobr> | 安德桥 [?](http://www.china-qiao.com/ql16/szql/szql404.htm) | — | 54米 | 清同治十一年（1872）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>9</nobr> | <nobr>昆山市</nobr> | <nobr>锦溪镇</nobr> | 十眼桥 [?](http://www.china-qiao.com/ql16/szql/szql522.htm) | — | 52米 | 清乾隆三十八年（1773）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>10</nobr> | <nobr>常熟市</nobr> | <nobr>虞山街道</nobr> | 长寿桥 [?](http://www.china-qiao.com/ql16/szql/szql693.htm) | — | 48米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>11</nobr> | <nobr>吴江区</nobr> | <nobr>盛泽镇</nobr> | 升月桥 [?](http://www.china-qiao.com/ql16/szql/szql408.htm) | 石拱桥（三孔） | 46.94米 | 清雍正九年（1731）重建 | <nobr>尚未定级（待核实）</nobr> |
+| <nobr>12</nobr> | <nobr>常熟市</nobr> | <nobr>虞山街道</nobr> | 永济桥 [?](http://www.china-qiao.com/ql16/szql/szql467.htm) | — | 43.8米 | 清康熙四十六年（1707）始建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>13</nobr> | <nobr>吴江区</nobr> | <nobr>震泽镇</nobr> | 禹迹桥 [?](http://www.china-qiao.com/ql16/szql/szql429.htm) | — | 43.5米 | 清乾隆四十四年（1779）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>14</nobr> | <nobr>姑苏区</nobr> | <nobr>虎丘街道</nobr> | 上津桥 [?](http://www.china-qiao.com/ql16/szql/szql081.htm) | 石拱桥（单孔） | 42.45米 | 明清；清同治五年（1866）重修 | <nobr>市级文物保护单位</nobr> |
+| <nobr>15</nobr> | <nobr>吴江区</nobr> | <nobr>盛泽镇</nobr> | 白龙桥 [?](http://www.china-qiao.com/ql16/szql/szql407.htm) | 石拱桥（三孔） | 40.6米 | 清光绪三十四年（1908）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>16</nobr> | <nobr>姑苏区</nobr> | <nobr>虎丘街道</nobr> | 普济桥 [?](http://www.china-qiao.com/ql16/szql/szql051.htm) | 石拱桥（三孔） | 38.69米 | 清康熙四十九年（1710）建 | <nobr>省级文物保护单位</nobr> |
+| <nobr>17</nobr> | <nobr>姑苏区</nobr> | <nobr>横塘街道</nobr> | 彩云桥 [?](http://www.china-qiao.com/ql16/szql/szql084.htm) | 石拱桥（三孔） | 38米 | 1928年重建 | <nobr>市级文物保护单位</nobr> |
+| <nobr>18</nobr> | <nobr>姑苏区</nobr> | <nobr>虎丘街道</nobr> | 下津桥 [?](http://www.china-qiao.com/ql16/szql/szql077.htm) | 石拱桥（单孔） | 36.7米 | 明成化十八年（1482）建，清道光二年（1822）重修，清同治五年（1866）重修 | <nobr>市级文物保护单位</nobr> |
+| <nobr>19</nobr> | <nobr>吴江区</nobr> | <nobr>平望镇</nobr> | 安民桥 [?](http://www.china-qiao.com/ql16/szql/szql403.htm) | 石拱桥（单孔） | 36.7米 | 明嘉靖三十四年（1555）始建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>20</nobr> | <nobr>昆山市</nobr> | <nobr>玉山镇</nobr> | 玉龙桥 [?](http://www.china-qiao.com/ql16/szql/szql498.htm) | 石拱桥（三孔） | 34.30米 | 清咸丰年间重建 | <nobr>省级文物保护单位</nobr> |
 
-只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 114 座中排序。
+只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 115 座中排序。
 
 ## 苏州市桥身刻字最早的前 20 名
 
@@ -165,7 +165,7 @@
 | <nobr>吴江区</nobr> | <nobr>震泽镇</nobr> | 万福桥 [?](http://www.china-qiao.com/ql16/szql/szql630.htm) | 石梁桥（三孔） | 30.75米 | 清光绪二十一年（1895）建 | 吴江区文物保护单位 |
 | <nobr>吴江区</nobr> | <nobr>震泽镇</nobr> | 政安桥 [?](http://www.china-qiao.com/ql16/szql/szql652.htm) | 石拱桥（单孔） | 16.8米 | 清宣统三年（1911）建 | 吴江区文物保护单位 |
 | <nobr>吴江区</nobr> | <nobr>震泽镇</nobr> | 虹桥 [?](http://www.china-qiao.com/ql16/szql/szql430.htm) | 石拱桥（单孔） | 24米 | 1936年 | 吴江区文物保护单位 |
-| <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | — | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | 吴江市文物保护单位（原吴江县/市公布） |
+| <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 三里桥 [?](http://www.china-qiao.com/ql16/szql/szql719.htm) | 石拱桥（单孔） | 54.5米 | 清嘉庆二年（1797）重建，清光绪十一年（1885）重建 | 吴江市文物保护单位（原吴江县/市公布） |
 | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 朴泽桥 [?](http://www.china-qiao.com/ql16/szql/szql367.htm) | 石拱桥（单孔） | 13.5米 | 明嘉靖三十四年（1555）始建 | 吴江市文物保护单位（原吴江县/市公布） |
 | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 联源桥 [?](http://www.china-qiao.com/ql16/szql/szql865.htm) | 石梁桥（单孔） | 18.9米 | 清 | 吴江市文物保护单位（原吴江县/市公布） |
 | <nobr>吴江区</nobr> | <nobr>松陵镇</nobr> | 南厍永宁桥 [?](http://www.china-qiao.com/ql16/szql/szql852.htm) | — | 8.0米 | 清 | 吴江市文物保护单位（原吴江县/市公布） |

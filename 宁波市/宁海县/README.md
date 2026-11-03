@@ -65,7 +65,7 @@
 | <nobr>黄坛镇</nobr> | 八字桥 [?](http://www.china-qiao.com/ql15/nbql/nbql343.htm) | — | — | 清咸丰年间（据残存刻字） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>深甽镇</nobr> | 寅饯桥 [?](http://www.china-qiao.com/ql15/nbql/nbql351.htm) | 石梁桥（五孔） | 63.6米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>深甽镇</nobr> | 吉桥 [?](http://www.china-qiao.com/ql15/nbql/nbql354.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>深甽镇</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql348.htm) | 石拱桥（五孔） | — | 清光绪十五年（1889） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>深甽镇</nobr> | 五洞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql348.htm) | 石拱桥（五孔） | 79.8米 | 清光绪十五年（1889） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>深甽镇</nobr> | 双枝庙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql353.htm) | — | 12米 | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>深甽镇</nobr> | 花洞桥 [?](http://www.china-qiao.com/ql15/nbql/nbql355.htm) | 石拱桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>深甽镇</nobr> | 新岙桥 [?](http://www.china-qiao.com/ql15/nbql/nbql356.htm) | 石梁桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |

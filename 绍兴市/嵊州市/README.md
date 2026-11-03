@@ -73,7 +73,7 @@
 |---|---|---|---|---|---|---|
 | <nobr>崇仁镇</nobr> | 长善桥 [?](http://www.china-qiao.com/ql15/sxql/sxql328.htm) | 石梁桥（十孔） | 90米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>崇仁镇</nobr> | 洗履桥 [?](http://www.china-qiao.com/ql15/sxql/sxql330.htm) | 石拱桥（单孔） | 10.2米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
-| <nobr>崇仁镇</nobr> | 五福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql333.htm) | 石拱桥（单孔） | — | 清道光十七年（1837） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>崇仁镇</nobr> | 五福桥 [?](http://www.china-qiao.com/ql15/sxql/sxql333.htm) | 石拱桥（单孔） | 7.85米 | 清道光十七年（1837） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>崇仁镇</nobr> | 永安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql580.htm) | — | — | 清道光二十年（1840） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>谷来镇</nobr> | 天保桥 [?](http://www.china-qiao.com/ql15/sxql/sxql1005.htm) | — | 35.00米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>浦口街道</nobr> | 和尚桥 [?](http://www.china-qiao.com/ql15/sxql/sxql324.htm) | — | 8米 | 宋始建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
