@@ -190,12 +190,13 @@ for c in ORDER:
                 if intab and not x.strip(): intab = False
                 if not intab: rest.append(x)
         L += ['', '## 按级别列出'] + (level_lists(rs, True, False, p, c, imgs) if rs else ['', '无。'])
-        zx = [r for r in rs if '浙江省市县级文物保护单位名录' in (r.get('note') or '')]
+        zx = [r for r in rs if '浙江省市县级文物保护单位名录' in (r.get('note') or '') or '上海市不可移动文物名录（上海图书馆' in (r.get('note') or '')]
         zn = {r['name'] for r in zx}
         rest = [x for x in rest if not any(x.startswith(f'- {n}：') for n in zn)]   # 这些桥的说明改在下面统一列出
         if rs and body: L += rest
         if zx:
-            L += ['', '### 据省文物局市县级文保名录补正', '', '以下桥梁的等级、公布文号据浙江省文物局《浙江省市县级文物保护单位名录》（2023年7月19日发布，原件见 [文保名录/浙江省/](../../文保名录/浙江省/)）补正或新增：', '']
+            if c == '上海市': L += ['', '### 据上海市不可移动文物名录补正', '', '以下桥梁的等级据上海市不可移动文物名录（上海图书馆开放数据平台“上海年华”，摘录见 [文保名录/上海市/](../../文保名录/上海市/)）补正或新增：', '']
+            else: L += ['', '### 据省文物局市县级文保名录补正', '', '以下桥梁的等级、公布文号据浙江省文物局《浙江省市县级文物保护单位名录》（2023年7月19日发布，原件见 [文保名录/浙江省/](../../文保名录/浙江省/)）补正或新增：', '']
             L += [f"- {r['name']}：{r['note']}。" for r in zx]
         open(fp, 'w').write('\n'.join(L).rstrip('\n') + '\n' + MK + '\n')
         DONE.append((c, d, len(rs), fp))
