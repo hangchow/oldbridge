@@ -442,6 +442,32 @@
 "note": ""
 },
 {
+"dist": "玄武区",
+"name": "珍珠桥",
+"era": "东吴",
+"loc": "玄武区珠江路与太平北路交叉口",
+"src": "https://zh.wikipedia.org/wiki/玄武区各级文物保护单位列表",
+"town": "—",
+"doc": "—",
+"level": "玄武区文物保护单位",
+"struct": "—",
+"len": "—",
+"note": ""
+},
+{
+"dist": "玄武区",
+"name": "浮桥",
+"era": "民国",
+"loc": "新街口街道香铺营社区珠江路与碑亭巷交接处",
+"src": "https://zh.wikipedia.org/wiki/玄武区各级文物保护单位列表",
+"town": "—",
+"doc": "—",
+"level": "一般不可移动文物（玄武区不可移动文物名录）",
+"struct": "—",
+"len": "—",
+"note": ""
+},
+{
 "dist": "秦淮区",
 "name": "来宾桥",
 "era": "—",
@@ -476,6 +502,45 @@
 "town": "—",
 "doc": "—",
 "level": "秦淮区文物保护单位",
+"struct": "—",
+"len": "—",
+"note": ""
+},
+{
+"dist": "栖霞区",
+"name": "御龙桥",
+"era": "清代",
+"loc": "—",
+"src": "https://zh.wikipedia.org/wiki/栖霞区各级文物保护单位列表",
+"town": "—",
+"doc": "—",
+"level": "栖霞区文物保护单位",
+"struct": "—",
+"len": "—",
+"note": ""
+},
+{
+"dist": "栖霞区",
+"name": "龙潭司门桥",
+"era": "明代",
+"loc": "—",
+"src": "https://zh.wikipedia.org/wiki/栖霞区各级文物保护单位列表",
+"town": "—",
+"doc": "—",
+"level": "栖霞区文物保护单位",
+"struct": "—",
+"len": "—",
+"note": ""
+},
+{
+"dist": "栖霞区",
+"name": "西沟桥",
+"era": "民国",
+"loc": "—",
+"src": "https://zh.wikipedia.org/wiki/栖霞区各级文物保护单位列表",
+"town": "—",
+"doc": "—",
+"level": "栖霞区文物保护单位",
 "struct": "—",
 "len": "—",
 "note": ""

@@ -26,11 +26,11 @@
 
 | <nobr>名次</nobr> | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | <nobr>级别</nobr> |
 |---|---|---|---|---|---|---|---|
-| <nobr>1</nobr> | <nobr>丹阳市</nobr> | <nobr>延陵镇</nobr> | 季河桥 [?](http://www.china-qiao.com/ql16/zjql/zjql043.htm) | — | 223米 | 明景泰二年（1451）改建 | <nobr>省级文物保护单位</nobr> |
-| <nobr>2</nobr> | <nobr>丹阳市</nobr> | <nobr>云阳街道</nobr> | 开泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql041.htm) | — | 47.6米 | 明清；清道光年间建，清道光十五年（1835）重建 | <nobr>全国重点文物保护单位</nobr> |
-| <nobr>3</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 新河桥 [?](http://www.china-qiao.com/ql16/zjql/zjql038.htm) | 石拱桥（单孔） | 36米 | 清乾隆十五年（1750）重修，清光绪二十八年（1902）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>4</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 通泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql037.htm) | — | 30.40米 | 民国八年（1919）重建 | <nobr>县（区）级文物保护单位</nobr> |
-| <nobr>5</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 三思桥 [?](http://www.china-qiao.com/ql16/zjql/zjql029.htm) | 石拱桥（单孔） | 23米 | 明 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>1</nobr> | <nobr>丹阳市</nobr> | <nobr>云阳街道</nobr> | 开泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql041.htm) | 石拱桥（单孔） | 47.6米 | 明清；清道光年间建，清道光十五年（1835）重建 | <nobr>全国重点文物保护单位</nobr> |
+| <nobr>2</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 新河桥 [?](http://www.china-qiao.com/ql16/zjql/zjql038.htm) | 石拱桥（单孔） | 36米 | 清乾隆十五年（1750）重修，清光绪二十八年（1902）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>3</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 通泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql037.htm) | — | 30.40米 | 民国八年（1919）重建 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>4</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 三思桥 [?](http://www.china-qiao.com/ql16/zjql/zjql029.htm) | 石拱桥（单孔） | 23米 | 明 | <nobr>县（区）级文物保护单位</nobr> |
+| <nobr>5</nobr> | <nobr>丹阳市</nobr> | <nobr>延陵镇</nobr> | 季河桥 [?](http://www.china-qiao.com/ql16/zjql/zjql043.htm) | 石拱桥（单孔） | 22.3米 | 明景泰二年（1451）改建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>6</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 沈家桥 [?](http://www.china-qiao.com/ql16/zjql/zjql034.htm) | — | 19米 | 明弘治十二年（1499）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>7</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 访仙桥 [?](http://www.china-qiao.com/ql16/zjql/zjql046.htm) | 石拱桥（单孔） | 15米 | 清 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>8</nobr> | <nobr>句容市</nobr> | <nobr>宝华镇</nobr> | 坝头桥 [?](http://www.china-qiao.com/ql16/zjql/zjql143.htm) | 石拱桥（单孔） | 13米 | 清末 | <nobr>尚未定级（待核实）</nobr> |
@@ -48,7 +48,7 @@
 | <nobr>1</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 沈家桥 [?](http://www.china-qiao.com/ql16/zjql/zjql034.htm) | — | 1499 | [桥拱南侧石壁镌“大明弘治十二年岁次六月”](http://www.china-qiao.com/ql16/zjql/zjql034.htm) | 明弘治十二年（1499）重建 | <nobr>县（区）级文物保护单位</nobr> |
 | <nobr>2</nobr> | <nobr>丹阳市</nobr> | <nobr>—</nobr> | 通泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql037.htm) | — | 1619 | [桥顶石栏下长条石上款刻“大明万历己未创建”](http://www.china-qiao.com/ql16/zjql/zjql037.htm) | 民国八年（1919）重建 | <nobr>县（区）级文物保护单位</nobr> |
 
-统计范围：只限本项目收录的十七个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
+统计范围：只限本项目收录的十八个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
 
 只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 2 座。
 
@@ -58,14 +58,14 @@
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
-| <nobr>京口区</nobr> | <nobr>—</nobr> | 虎踞桥 [?](http://www.china-qiao.com/ql16/zjql/zjql008.htm) | — | — | 明万历三十二年（1604）重建 | 全国重点文物保护单位（“大运河”组成部分）（2006.05.25公布） |
-| <nobr>丹阳市</nobr> | <nobr>云阳街道</nobr> | 开泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql041.htm) | — | 47.6米 | 明清；清道光年间建，清道光十五年（1835）重建 | 全国重点文物保护单位（“大运河”组成部分）（2013.03.05公布） |
+| <nobr>京口区</nobr> | <nobr>—</nobr> | 虎踞桥 [?](http://www.china-qiao.com/ql16/zjql/zjql008.htm) | 石拱桥（单孔） | — | 明万历三十二年（1604）重建 | 全国重点文物保护单位（“大运河”组成部分）（2006.05.25公布） |
+| <nobr>丹阳市</nobr> | <nobr>云阳街道</nobr> | 开泰桥 [?](http://www.china-qiao.com/ql16/zjql/zjql041.htm) | 石拱桥（单孔） | 47.6米 | 明清；清道光年间建，清道光十五年（1835）重建 | 全国重点文物保护单位（“大运河”组成部分）（2013.03.05公布） |
 
 ### 省级文物保护单位（1 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
-| <nobr>丹阳市</nobr> | <nobr>延陵镇</nobr> | 季河桥 [?](http://www.china-qiao.com/ql16/zjql/zjql043.htm) | — | 223米 | 明景泰二年（1451）改建 | 江苏省文物保护单位（2011.12.19公布） |
+| <nobr>丹阳市</nobr> | <nobr>延陵镇</nobr> | 季河桥 [?](http://www.china-qiao.com/ql16/zjql/zjql043.htm) | 石拱桥（单孔） | 22.3米 | 明景泰二年（1451）改建 | 江苏省文物保护单位（2011.12.19公布） |
 
 ### 市级文物保护单位（3 座）
 

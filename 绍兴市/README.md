@@ -1,6 +1,6 @@
 # 绍兴市古桥
 
-共收录 297 座桥。
+共收录 298 座桥。
 
 ## 按级别统计
 
@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>12</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>9</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>8</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>32</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>33</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>86</nobr> |
 | <nobr>一般不可移动文物</nobr> | <nobr>4</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>146</nobr> |
@@ -18,7 +18,7 @@
 
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>[柯桥区](柯桥区/柯桥区古桥.md)</nobr> | <nobr>92</nobr> |
+| <nobr>[柯桥区](柯桥区/柯桥区古桥.md)</nobr> | <nobr>93</nobr> |
 | <nobr>[越城区](越城区/越城区古桥.md)</nobr> | <nobr>92</nobr> |
 | <nobr>[新昌县](新昌县/新昌县古桥.md)</nobr> | <nobr>37</nobr> |
 | <nobr>[嵊州市](嵊州市/嵊州市古桥.md)</nobr> | <nobr>32</nobr> |
@@ -60,7 +60,7 @@
 | <nobr>2</nobr> | <nobr>柯桥区</nobr> | <nobr>湖塘街道</nobr> | 西跨湖桥 [?](http://www.china-qiao.com/ql15/sxql/sxql155.htm) | 石拱桥（单孔） | 1796 | [北堍栏板阴刻“大清嘉庆元年……重建”](http://www.china-qiao.com/ql15/sxql/sxql155.htm) | 明万历二十八年（1600）重建 | <nobr>省级文物保护单位</nobr> |
 | <nobr>3</nobr> | <nobr>越城区</nobr> | <nobr>府山街道</nobr> | 咸宁桥 [?](http://www.china-qiao.com/ql15/sxql/sxql060.htm) | 石梁桥（单孔） | 1859 | [石栏刻“咸丰九年四月宋堇重修”](http://www.china-qiao.com/ql15/sxql/sxql060.htm) | 清咸丰九年（1859）重修 | <nobr>文物保护点</nobr> |
 
-统计范围：只限本项目收录的十七个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
+统计范围：只限本项目收录的十八个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。
 
 只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 3 座。
 
@@ -110,7 +110,7 @@
 | <nobr>越城区</nobr> | <nobr>斗门街道</nobr> | 花浦桥 [?](http://www.china-qiao.com/ql15/sxql/sxql450.htm) | 石拱桥（单孔） | — | 清 | 绍兴市文物保护单位 |
 | <nobr>越城区</nobr> | <nobr>斗门街道</nobr> | 登瀛桥 | — | — | 清 | 绍兴市文物保护单位 |
 
-### 县（区）级文物保护单位（32 座）
+### 县（区）级文物保护单位（33 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | <nobr>柯桥区</nobr> | <nobr>湖塘街道</nobr> | 观澜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql502.htm) | 石拱桥（单孔） | 5.5米 | 明 | 柯桥区文物保护单位 |
 | <nobr>柯桥区</nobr> | <nobr>柯岩街道</nobr> | 得胜桥 [?](http://www.china-qiao.com/ql15/sxql/sxql146.htm) | 石梁桥（三孔） | 56米 | 明 | 柯桥区文物保护单位 |
 | <nobr>柯桥区</nobr> | <nobr>漓渚镇</nobr> | 存德桥 [?](http://www.china-qiao.com/ql15/sxql/sxql223.htm) | 石拱桥（单孔） | 10米 | 清康熙六年（1667）建 | 柯桥区文物保护单位 |
+| <nobr>柯桥区</nobr> | <nobr>安昌街道</nobr> | 寺桥 [?](http://www.china-qiao.com/ql15/sxql/sxql189.htm) | 石梁桥（单孔） | — | 元代 | 柯桥区文物保护单位 |
 | <nobr>柯桥区</nobr> | <nobr>安昌街道</nobr> | 广济桥 [?](http://www.china-qiao.com/ql15/sxql/sxql518.htm) | 石拱桥（单孔） | — | 明代 | 柯桥区文物保护单位 |
 | <nobr>柯桥区</nobr> | <nobr>稽东镇</nobr> | 镇东桥 [?](http://www.china-qiao.com/ql15/sxql/sxql996.htm) | 石拱桥（单孔） | 20.00米 | 清乾隆二十一年（1756）建 | 柯桥区文物保护单位 |
 | <nobr>上虞区</nobr> | <nobr>长塘镇</nobr> | 长安桥 [?](http://www.china-qiao.com/ql15/sxql/sxql584.htm) | 石梁桥（九孔） | — | 清 | 上虞区文物保护单位 |

@@ -114,7 +114,7 @@ for r in R:
     r['struct'] = ST.get(k, '—'); r['len'] = LN.get(k, '—'); r['note'] = r['unote'] or ('不在文保名录中，据老百晓集桥页面收录，年代按页面开头的记载，待核实' if r['lvk'] == 'dj' else '')
     ck = f"{CITY}|{k}"
     if ck in HOLES and (r['struct'] == '—' or re.fullmatch(r'石?(拱|梁)桥|石板桥|平桥|廊桥', r['struct'])): r['struct'] = HOLES[ck]
-    if ck in LENF and r['len'] in ('—', ''): r['len'] = LENF[ck]
+    if ck in LENF and r['len'] in ('—', '') and k not in LN: r['len'] = LENF[ck]   # len.json 里写“—”表示页面上的长度不是桥长
     if ck in EF and r['era'] == EF[ck]['old']:
         f = EF[ck]; old = r['era']; ds = [d for d in ('宋', '元', '明', '清', '民国') if d in old.replace('中华民国', '民国')]
         r['era'] = f['era'] if all(d in f['era'] for d in ds) else old + '；' + f['era']

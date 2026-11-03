@@ -1,5 +1,18 @@
 [
 {
+"dist": "柯城区",
+"name": "寺桥石拱桥",
+"era": "民国",
+"loc": "柯城区石梁镇寺桥村",
+"src": "https://zh.wikipedia.org/wiki/柯城区各级文物保护单位列表",
+"town": "石梁镇",
+"doc": "—",
+"level": "衢州市文物保护单位",
+"struct": "—",
+"len": "—",
+"note": ""
+},
+{
 "dist": "衢江区",
 "name": "下金大桥",
 "era": "—",

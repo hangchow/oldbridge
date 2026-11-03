@@ -5,13 +5,13 @@ S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..
 city, key = sys.argv[1], sys.argv[2]
 ROOT = '/Users/sean/workspace/oldbridge/' + city
 R = json.load(open(f'{S}/{key}/rows.json'))
-BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz', 'wx', 'nj', 'cz', 'zjs') else 'ql15/')
+BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz', 'wx', 'nj', 'cz', 'zjs', 'yz') else 'ql15/')
 if key == 'sh':
     PY = dict(huangpu88='黄浦区', xuhui88='徐汇区', changning88='长宁区', jingan88='静安区', putuo88='普陀区', hongkou88='虹口区', yangpu88='杨浦区', minhang88='闵行区', baoshan88='宝山区', jiading88='嘉定区', pudong88='浦东新区', jinshan88='金山区', songjiang88='松江区', qingpu88='青浦区', fengxian88='奉贤区', chongming88='崇明区')
     IDX = {p: (PY.get(a, '') + t) for p, (a, t) in json.load(open(f'{S}/cq2/sh/idx.json')).items()}
-elif key in ('sz', 'wx', 'nj', 'cz', 'zjs'):
+elif key in ('sz', 'wx', 'nj', 'cz', 'zjs', 'yz'):
     IDX = json.load(open(f'{S}/cq2/sz/idx.json'))
-elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'):
+elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs', 'yz'):
     IDX = {'jhql/' + p.split('/')[-1] if False else p: t for p, t in json.load(open(f'{S}/cq2/{key}/idx.json')).items()}
 else:
     IDX = json.load(open(f'{S}/cq2/idx.json'))
@@ -30,7 +30,7 @@ for r in R:
     if '、' in n or len(n) < 2: continue
     vill = [v[:-1] for v in re.findall(r'[一-龥]{2,4}?村', r['loc'])]
     ctx = [short(r['town'])] + [v for v in vill if len(v) >= 2]
-    if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'):
+    if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs', 'yz'):
         c = [(p, t) for p, t in IDX.items() if t.endswith(n) and not ODIST(t, r['dist']) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
         if len(c) > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]
     else:

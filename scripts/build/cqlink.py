@@ -45,16 +45,16 @@ ALLD = sorted({d for cf in json.load(open(S + '/zj/cities.json')).values() for d
 ODIST = lambda t, d: any(x in t for x in ALLD if x != d and not d.startswith(x[:-1]))   # 标题写了别的区县（如“惠山区”不能配“梁溪区惠山街道”）
 # 标题只写市名的页面一般是市中心城区的桥
 CORE = {'南京市': ('秦淮区', '玄武区', '鼓楼区', '建邺区'), '苏州市': ('姑苏区',), '无锡市': ('梁溪区', '滨湖区'), '常州市': ('天宁区', '钟楼区'),
-        '镇江市': ('京口区', '润州区'), '宁波市': ('海曙区', '江北区', '鄞州区'), '湖州市': ('吴兴区',), '嘉兴市': ('南湖区', '秀洲区'),
+        '镇江市': ('京口区', '润州区'), '扬州市': ('广陵区', '邗江区'), '宁波市': ('海曙区', '江北区', '鄞州区'), '湖州市': ('吴兴区',), '嘉兴市': ('南湖区', '秀洲区'),
         '绍兴市': ('越城区',), '金华市': ('婺城区', '金东区'), '衢州市': ('柯城区', '衢江区'), '台州市': ('椒江区', '黄岩区', '路桥区'),
         '温州市': ('鹿城区', '龙湾区', '瓯海区'), '丽水市': ('莲都区',), '舟山市': ('定海区', '普陀区'), '上海市': ('黄浦区', '静安区', '虹口区', '徐汇区')}
-for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh'), ('苏州市', 'sz'), ('金华市', 'jh'), ('绍兴市', 'sx'), ('宁波市', 'nb'), ('衢州市', 'qz'), ('台州市', 'tz'), ('温州市', 'wz'), ('丽水市', 'ls'), ('舟山市', 'zs'), ('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs')]:
-    BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz', 'wx', 'nj', 'cz', 'zjs') else 'ql15/')
+for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh'), ('苏州市', 'sz'), ('金华市', 'jh'), ('绍兴市', 'sx'), ('宁波市', 'nb'), ('衢州市', 'qz'), ('台州市', 'tz'), ('温州市', 'wz'), ('丽水市', 'ls'), ('舟山市', 'zs'), ('无锡市', 'wx'), ('南京市', 'nj'), ('常州市', 'cz'), ('镇江市', 'zjs'), ('扬州市', 'yz')]:
+    BASE = 'http://www.china-qiao.com/' + ('' if key in ('sh', 'sz', 'wx', 'nj', 'cz', 'zjs', 'yz') else 'ql15/')
     if key == 'sh':
         PY = dict(huangpu88='黄浦区', xuhui88='徐汇区', changning88='长宁区', jingan88='静安区', putuo88='普陀区', hongkou88='虹口区', yangpu88='杨浦区', minhang88='闵行区', baoshan88='宝山区', jiading88='嘉定区', pudong88='浦东新区', jinshan88='金山区', songjiang88='松江区', qingpu88='青浦区', fengxian88='奉贤区', chongming88='崇明区')
         I = {p: (PY.get(a, '') + t) for p, (a, t) in json.load(open(f'{S}/cq2/sh/idx.json')).items()}
-    elif key in ('sz', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
-    elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
+    elif key in ('sz', 'wx', 'nj', 'cz', 'zjs', 'yz'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
+    elif key in ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs', 'yz'): I = json.load(open(f'{S}/cq2/{key}/idx.json'))
     else: I = json.load(open(f'{S}/cq2/idx.json'))
     RS = json.load(open(f'{S}/{key}/rows.json')); NC = collections.Counter(core2(x['name']) for x in RS); ND = collections.Counter((x['dist'], core2(x['name'])) for x in RS)
     for r in RS:
@@ -62,7 +62,7 @@ for city, key in [('湖州市', 'huz'), ('嘉兴市', 'jx'), ('上海市', 'sh')
         if '、' in n or len(n) < 2: continue
         vill = [v[:-1] for v in re.findall(r'[一-龥]{2,4}?村', r['loc'] or '')]
         ctx = [short(r['town'])] + [v for v in vill if len(v) >= 2]
-        if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs'):
+        if key in ('sz',) + ('jh', 'sx', 'nb', 'qz', 'tz', 'wz', 'ls', 'zs', 'wx', 'nj', 'cz', 'zjs', 'yz'):
             c = [(p, t) for p, t in I.items() if t.endswith(n) and not ODIST(t, r['dist']) and (short(r['dist']) in t or any(x and x != '—' and x in t for x in ctx))]
             if len(c) > 1 or ND[(r['dist'], n)] > 1: c = [x for x in c if any(y and y != '—' and y in x[1] for y in ctx)]   # 本区县同名桥不止一座时要求乡镇对上
         else:
@@ -92,7 +92,7 @@ MANUAL = {
  '苏州市|昆山市|周庄镇|世德桥': 'ql16/szql/szql503.htm', '苏州市|昆山市|周庄镇|永安桥': 'ql16/szql/szql503.htm',
  '苏州市|吴江区|八都镇|香花桥': 'ql16/szql/szql650.htm',
  '苏州市|昆山市|花桥镇|聚福桥': 'ql16/szql/szql502.htm', '苏州市|昆山市|花桥镇|永清桥': 'ql16/szql/szql895.htm', '苏州市|昆山市|花桥镇|万寿桥': 'ql16/szql/szql894.htm',
- '南京市|江宁区|麒麟街道|建南和尚桥': 'ql16/njql/njql134.htm',
+ '南京市|江宁区|麒麟街道|建南和尚桥': 'ql16/njql/njql134.htm', '扬州市|广陵区|—|小虹桥': 'ql16/yzql/yzql034.htm',
  '金华市|婺城区|—|金华通济桥': 'ql15/jhql/jhql001.htm', '金华市|磐安县|—|宅口承志桥': 'ql15/jhql/jhql135.htm'}
 for k, v in MANUAL.items(): OUT[k] = B + v
 # 对比各市目录后人工确认的同桥

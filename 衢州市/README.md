@@ -1,12 +1,13 @@
 # 衢州市古桥
 
-共收录 62 座桥。
+共收录 63 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>3</nobr> |
+| <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>17</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>40</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>2</nobr> |
@@ -20,6 +21,7 @@
 | <nobr>[常山县](常山县/常山县古桥.md)</nobr> | <nobr>12</nobr> |
 | <nobr>[龙游县](龙游县/龙游县古桥.md)</nobr> | <nobr>8</nobr> |
 | <nobr>[江山市](江山市/江山市古桥.md)</nobr> | <nobr>6</nobr> |
+| <nobr>[柯城区](柯城区/柯城区古桥.md)</nobr> | <nobr>1</nobr> |
 
 ## 衢州市石木桥桥长前 20 名
 
@@ -44,6 +46,12 @@
 | <nobr>衢江区</nobr> | <nobr>峡川镇</nobr> | 下金大桥 [?](http://www.china-qiao.com/ql15/qzql/qzql060.htm) | — | — | — | 浙江省文物保护单位（7-161） |
 | <nobr>龙游县</nobr> | <nobr>—</nobr> | 塔石溪桥群 | — | — | — | 浙江省文物保护单位（6-241） |
 | <nobr>常山县</nobr> | <nobr>天马街道</nobr> | 傥溪桥 [?](http://www.china-qiao.com/ql15/qzql/qzql044.htm) | 石拱桥（四孔） | 57米 | 清光绪三十二年（1906）建成 | 浙江省文物保护单位（“方文彬故居和傥溪桥”组成部分，7-172） |
+
+### 市级文物保护单位（1 座）
+
+| <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
+|---|---|---|---|---|---|---|
+| <nobr>柯城区</nobr> | <nobr>石梁镇</nobr> | 寺桥石拱桥 | — | — | 民国 | 衢州市文物保护单位 |
 
 ### 县（区）级文物保护单位（17 座）
 

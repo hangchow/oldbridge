@@ -1,6 +1,6 @@
 # 南京市古桥
 
-共收录 52 座桥。
+共收录 57 座桥。
 
 ## 按级别统计
 
@@ -9,8 +9,8 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>2</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>5</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>23</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>11</nobr> |
-| <nobr>一般不可移动文物</nobr> | <nobr>1</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>15</nobr> |
+| <nobr>一般不可移动文物</nobr> | <nobr>2</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>10</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -20,12 +20,12 @@
 | <nobr>[江宁区](江宁区/江宁区古桥.md)</nobr> | <nobr>17</nobr> |
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>6</nobr> |
+| <nobr>[玄武区](玄武区/玄武区古桥.md)</nobr> | <nobr>4</nobr> |
 | <nobr>[高淳区](高淳区/高淳区古桥.md)</nobr> | <nobr>4</nobr> |
+| <nobr>[栖霞区](栖霞区/栖霞区古桥.md)</nobr> | <nobr>4</nobr> |
 | <nobr>[浦口区](浦口区/浦口区古桥.md)</nobr> | <nobr>3</nobr> |
 | <nobr>[六合区](六合区/六合区古桥.md)</nobr> | <nobr>3</nobr> |
-| <nobr>[玄武区](玄武区/玄武区古桥.md)</nobr> | <nobr>2</nobr> |
 | <nobr>[雨花台区](雨花台区/雨花台区古桥.md)</nobr> | <nobr>1</nobr> |
-| <nobr>[栖霞区](栖霞区/栖霞区古桥.md)</nobr> | <nobr>1</nobr> |
 | <nobr>[鼓楼区](鼓楼区/鼓楼区古桥.md)</nobr> | <nobr>1</nobr> |
 | <nobr>[建邺区](建邺区/建邺区古桥.md)</nobr> | <nobr>1</nobr> |
 
@@ -107,7 +107,7 @@
 | <nobr>江宁区</nobr> | <nobr>东山街道</nobr> | 卢家桥 [?](http://www.china-qiao.com/ql16/njql/njql126.htm) | 石拱桥（单孔） | 15米 | 民国十四年（1925）重修 | 南京市文物保护单位 |
 | <nobr>高淳区</nobr> | <nobr>东坝街道</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 南京市文物保护单位 |
 
-### 县（区）级文物保护单位（11 座）
+### 县（区）级文物保护单位（15 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
@@ -115,15 +115,19 @@
 | <nobr>六合区</nobr> | <nobr>横梁街道</nobr> | 陈堡桥 | — | — | 清 | 六合区文物保护单位 |
 | <nobr>六合区</nobr> | <nobr>冶山街道</nobr> | 西汇桥 | — | — | 清 | 六合区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>大光路街道</nobr> | 中和桥 [?](http://www.china-qiao.com/ql16/njql/njql025.htm) | — | — | 明 | 秦淮区文物保护单位 |
+| <nobr>玄武区</nobr> | <nobr>—</nobr> | 珍珠桥 | — | — | 东吴 | 玄武区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 来宾桥 | — | — | — | 秦淮区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 涧子桥 | — | — | — | 秦淮区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 逸仙桥 [?](http://www.china-qiao.com/ql16/njql/njql074.htm) | — | — | — | 秦淮区文物保护单位 |
+| <nobr>栖霞区</nobr> | <nobr>—</nobr> | 御龙桥 [?](http://www.china-qiao.com/ql16/njql/njql117.htm) | — | — | 清代 | 栖霞区文物保护单位 |
+| <nobr>栖霞区</nobr> | <nobr>—</nobr> | 龙潭司门桥 | — | — | 明代 | 栖霞区文物保护单位 |
+| <nobr>栖霞区</nobr> | <nobr>—</nobr> | 西沟桥 | — | — | 民国 | 栖霞区文物保护单位 |
 | <nobr>江宁区</nobr> | <nobr>汤山街道</nobr> | 藏龙桥 [?](http://www.china-qiao.com/ql16/njql/njql213.htm) | 石拱桥（单孔） | 12米 | — | 江宁区文物保护单位 |
 | <nobr>江宁区</nobr> | <nobr>横溪街道</nobr> | 横溪桥 [?](http://www.china-qiao.com/ql16/njql/njql132.htm) | 石拱桥（单孔） | 10.2米 | —（明清风格） | 江宁区文物保护单位 |
 | <nobr>江宁区</nobr> | <nobr>湖熟街道</nobr> | 杜桂石拱桥 [?](http://www.china-qiao.com/ql16/njql/njql153.htm) | 石拱桥（单孔） | 17米 | 清 | 江宁区文物保护单位 |
 | <nobr>溧水区</nobr> | <nobr>—</nobr> | 永昌桥 [?](http://www.china-qiao.com/ql16/njql/njql191.htm) | 石拱桥（三孔） | — | 明 | 溧水区文物保护单位 |
 
-### 一般不可移动文物（1 座）
+### 一般不可移动文物（2 座）
 
 数量较多，见各区县文件。
 

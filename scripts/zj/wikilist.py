@@ -9,8 +9,8 @@ def clean(s):
     s = re.sub(r'<br\s*/?>', '；', s); s = re.sub(r'<[^>]+>', '', s); s = re.sub(r"'''?", '', s)
     s = re.sub(r'\{\{0\}\}', '', s); s = re.sub(r'\{\{[^{}]*\}\}', '', s)
     return s.strip()
-NOT = re.compile(r'^桥$|遗存|轮渡|遗址|窑址|台门|民居|故居|碑|摩崖|宗祠|洋龙局|村$|庙|寺|祠|学校|墓|堂|诞生地|街区|建筑群|旧址|古道$|老街|会馆|书院|塔$|亭$|牌坊|坊$|闸$|堰$|渠|码头|埠头|渡口|驿|关$|城墙|故里|古镇|古村|门$|桥头$|烽火台|景观|井$|遗迹|题记|石刻|爱吾庐|矴步|碇步|故居')
-def isbridge(n): return '桥' in n and not NOT.search(n) and len(n) <= 16
+NOT = re.compile(r'^桥$|遗存|轮渡|遗址|窑址|台门|民居|故居|碑|摩崖|宗祠|洋龙局|村$|庙|寺|祠|学校|墓|堂|诞生地|街区|建筑群|旧址|古道$|老街|会馆|书院|塔$|亭$|牌坊|坊$|闸$|堰$|渠|码头|埠头|渡口|驿|关$|城墙|故里|古镇|古村|门$|桥头$|楼$|宅$|烽火台|景观|井$|遗迹|题记|石刻|爱吾庐|矴步|碇步|故居')
+def isbridge(n): return '桥' in n and len(n) <= 16 and (not NOT.search(n) or bool(re.search(r'[^桥]桥$', n)) and not re.search(r'遗址|遗存|遗迹|轮渡|旧址', n))   # “张仙庙桥”“寺前桥”以桥结尾，是桥
 def level_of(h, city=''):
     if '全国' in h: return 'gb'
     if '浙江省' in h or '江苏省' in h or '省级' in h: return 'sb'
@@ -19,7 +19,7 @@ def level_of(h, city=''):
     return 'xian'
 COLS = {'name': r'名称|名 称', 'num': r'编号', 'era': r'时代|年代', 'addr': r'所在|地址|位置|地点', 'pub': r'公布|批次|备注'}
 def parse(text, city=''):
-    text = re.sub(r'<!--.*?-->', '', text, flags=re.S)
+    text = re.sub(r'<!--.*?-->|<ref[^>]*/>|<ref.*?</ref>', '', text, flags=re.S)   # 标题里的 <ref> 带“=”会弄乱分节
     out = []
     parts = re.split(r'^(==+)\s*([^=\n]+?)\s*\1\s*$', text, flags=re.M)
     sec = ''
@@ -43,6 +43,7 @@ def parse(text, city=''):
                 for l in lines:
                     if l.startswith('|'):
                         cells += [c for c in l[1:].split('||')]
+                    elif l.startswith('!'): cells.append(re.sub(r'^![^|]*\|(?!\|)', '', l)[1:] if re.match(r'^![^|]*\|(?!\|)', l) else l[1:])   # 行首 “! scope="row" | 5” 是序号格
                     elif cells: cells[-1] += '\n' + l
                 if not cells: continue
                 col = {}
