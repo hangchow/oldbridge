@@ -1,0 +1,1867 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<link href="/static2020/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/static2020/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/static2020/js/jquery.tab.js"></script>
+<script type="text/javascript" src="/static2020/js/jquery.roll.js"></script>
+<script type="text/javascript" src="/static2020/js/jquery.SuperSlide.js"></script>
+<script type="text/javascript" src="/static2020/js/jquery.touchSlider.js"></script>
+<script type="text/javascript" src="//www.wuxi.gov.cn/static2016/js/checkLogin_t.js"></script>
+<!--<script type="text/javascript" src="/static2022/js/checkLogin_t.js"></script>
+<script type="text/javascript" src="https://www.wuxi.gov.cn/static2016/js/checkLogin_t.js"></script>-->
+<script src="/static/js/common.js"></script>
+<!--hotlink-->
+<link rel="stylesheet" type="text/css" href="/static2022/css/public.css" />
+<link rel="stylesheet" type="text/css" href="/static2020/css/style8.css" />
+
+<link href="/static/css/inner.css" rel="stylesheet" type="text/css">
+<link href="/static/css/list.css" rel="stylesheet" type="text/css">
+<link href="/static/css/mobile.css" rel="stylesheet" type="text/css"/>
+<title>新吴区文物保护点一览表</title>
+<meta name="SiteName" content="新吴区人民政府"/>
+<meta name="SiteDomain" content="www.wnd.gov.cn/"/>
+<meta name="SiteIDCode" content="3202900001"/>
+
+<meta name="ColumnName" content="文化遗产保护"/>
+
+<meta name="ColumnDescription" content="政府信息公开、工作动态、公告公示、政民互动、政务服务等" />
+<meta name="ColumnKeywords" content="信息公开，政策法规，法规解读，公告公示，互动交流" />
+<meta name="ColumnType" content="文化遗产保护" />
+
+<meta name="ArticleTitle" content="新吴区文物保护点一览表" />
+<meta name="PubDate" content="2019-11-29" />
+<meta name="ContentSource" content="" />
+<meta name="Keywords" content="" />
+<meta name="Author" content="" />
+<meta name="Description" content="2019年新吴区文物保护点一览表" />
+<meta name="Url" content="/doc/2019/11/29/2719750.shtml" />
+<!--<script src="//bf.intertid.com/wza/wza2.min.js?appid=f8cg5GK7OySozvm"></script>-->
+<script src="//wza.wuxi.gov.cn/wza/wza2.min.js?appid=jlH41dCoAL1NKIM"></script>
+<!-- 新检索JS -->
+<script src="//www.wuxi.gov.cn/static_common/js/wzq_search_common.js"></script>
+<script>
+var safeurlsstr = "www.wnd.gov.cn";
+var elsemsg = "\n 您将离开“无锡市新吴区人民政府”门户网站。您是否仍要继续？";
+</script>
+<script type="text/javascript" src="//www.wuxi.gov.cn/static_common/js/js_outsite.js?v=202605061512"></script>
+
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="/static2022/css/style.css" />
+<script>
+  function subString(str,len)
+  {
+    var newLength = 0;
+    var newStr = ""; 
+    var chineseRegex = /[^\x00-\xff]/g;  
+    var singleChar = "";
+    var strLength = str.replace(chineseRegex,"**").length;
+    //alert(strLength);  
+    for(var i = 0;i < strLength;i++) {
+      singleChar = str.charAt(i).toString();
+      if(singleChar.match(chineseRegex) != null) {
+        newLength += 2;
+      }else {
+        newLength++;
+      }
+      if(newLength > len) {
+        break;
+      }
+      newStr += singleChar;
+    }
+    if(strLength > len) {
+      newStr += "";
+    }
+    //document.write(newStr);
+    return newStr;     
+  }
+  $(function(){   
+    //GetGovInfo();
+  });
+     
+      
+  function GetGovInfo()
+  {
+    $.ajax({
+      type:"get",   
+      url:"https://www.gov.cn/pushinfo/v150203/pushinfo.jsonp",
+      dataType:"jsonp",
+      jsonp:"pushInfoJsonpCallBack",
+      jsonpCallback:"pushInfoJsonpCallBack",
+      callback:"pushInfoJsonpCallBack",
+      success: function(data){
+        $.each(data,function(i,json){
+          var title = json.title;
+          title = subString(title,36);
+          if(i>9)
+          {
+          }
+          else
+          {
+            /*$("#gwy").append("<li><a target='_blank' href='"+json.link+"' title='"+json.title+"'>"+json.title+"<span>"+json.pubDate+"</span></a></li>");
+				}*/
+            $(".infoList").append("<li><a target='_blank' href='"+json.link+"' title='"+json.title+"'>"+json.title+"</a><span>"+json.pubDate+"</span></li>");
+          }
+
+        })
+        jQuery("#leftMarquee").slide({ mainCell:".bd ul",effect:"leftMarquee",vis:5,interTime:40,autoPlay:true });
+      },
+      error: function(XMLHttpRequest, textStatus, errorThrown){
+        var msg = XMLHttpRequest.responseText;
+        alert(msg );
+      }
+    });
+  }
+
+</script>
+<script language="javascript" type="text/javascript"> 
+  $.getUrlParam = function(name) {
+    var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+    var r = window.location.search.substr(1).match(reg);
+    if (r != null)
+      return unescape(r[2]);
+    return null;
+  } 
+  var prePage = document.referrer;
+
+  String.prototype.Trim = function() 
+  { 
+    return this.replace(/(^\s*)|(\s*$)/g, ""); 
+  }
+
+  String.prototype.LTrim = function() 
+  { 
+    return this.replace(/(^\s*)/g, ""); 
+  } 
+
+  String.prototype.Rtrim = function() 
+  { 
+    return this.replace(/(\s*$)/g, ""); 
+  } 
+
+  function isNull(str) { 
+    if (str == ""){ 
+      return true;
+    } 
+    var regu = "^[ ]+$"; 
+    var re = new RegExp(regu);   
+    return re.test(str); 
+  }  
+
+  function _loadUserLoginInfo() {
+    var str = "";
+
+    if(checkLogin()) {
+ 
+      var loginUser = getLoginUser();
+
+      str += '<input id="username" type="hidden" value="'+loginUser+'" />';
+      str +="<em>"+loginUser+"，您好。</em>";
+      str +='<dl style="display: none;"><dd><a href="/fzlm/hdjlgny/lxbl/wdhx/index.shtml">我的12345信件</a></dd><dd><a href="/fzlm/hdjlgny/ysqgk/wdysqgk/index.shtml">我的依申请公开</a></dd><dd><a target="_blank" href="https://www.jszwfw.gov.cn/jsjis/front/modify/permodify_show.do">修改个人信息</a></dd><dd><a target="_blank" href="https://jms.jszwfw.gov.cn/jpaas-juspace-web-jszwfw/front/home/index">我的政务服务办件</a></dd><dd><a target="_blank" href="https://www.jszwfw.gov.cn/jsjis/front/login/modifypwd_step1.do">修改密码</a></dd><dd style="border:none"><a href="javascript:loginOut();">退出</a></dd></dl>';
+       
+
+    } else {
+      var localurl = encodeURIComponent(window.location.href);
+      //var str1="";
+      str += '<a href="https://sso.wuxi.gov.cn/auth-center2/login.html?gotoUrl='+localurl+'" class="login">用户登录</a>';
+      //$("#ul").append(str1);
+    }
+   $("#ul").empty();
+   $("#ul").append(str);
+
+  }
+
+
+
+  $(document).ready(function(){
+    //dealHeaderHtml();
+    _loadUserLoginInfo();
+  });
+
+
+
+  //验证码
+
+  function selectFrom(iFirstValue, iLastValue) {
+    var iChoces = Math.abs(iLastValue - iFirstValue) + 1;
+    return Math.floor(Math.random() * iChoces + iFirstValue);
+  }
+
+
+</script>
+<script>
+  var font = "t";
+  function jft() {
+    zh_tran(font);
+    if (font == "s")
+      font = "t";
+    else
+      font = "s";
+  }
+</script>
+<style>
+.ulli{
+  display:none;
+}
+</style>
+
+
+<div class="header clearfix">
+    <div class="topbox">
+        <div class="topbox_con white clearfix">
+            <ul class="login fl clearfix">
+                <li id="ul"></li>
+                <script>
+                $("#ul").hover(function(){
+                  if($(this).find("em").is(":visible")>0){
+                    $(this).find("dl").show()
+                  }
+                },function(){
+                  $(this).find("dl").hide()
+                })
+              </script>
+              
+                
+            </ul>
+            <div class="date fl">
+                <script language="javascript" type="text/javascript" src="/static2022/js/date.js"></script>
+            </div>
+            <div class="weather fl"></div>
+            <ul class="lan fr clearfix">
+                <li><a href="https://www.wuxi.gov.cn/ghwd/znwd/index.html?district=xinwu" class="ico_robot" target="_blank">智能机器人</a></li>
+                <li style=""><a href="javascript:void(0);" onclick="jft()">繁体版</a></li>
+                <li id="wza_con_li"><a id="wza2-enable" href="javascript:void(0);" onclick="wza2.start()">无障碍浏览</a></li>
+                <li><a href="javascript:void(0)" class="older_mode">长者模式</a></li>
+                <li><a href="http://www.wndonline.cn/" title="English" target="_blank">English</a></li>
+                <li><a href="http://jp.wndonline.cn/" title="日本語" target="_blank">日本語</a></li>
+                <li><a href="http://kr.wndonline.cn/" title="韩语" target="_blank">한국어</a></li>
+                <li><a href="#">IPV6</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="banner">
+        <p class="guohui"><img src="/static_common/images/guohui/xw_guohui_normal.png" /></p>
+        <div class="slogan"><img src="/static2022/images/slogan.png" /></div>
+        <ul class="top_search clearfix">
+            <li><input class="ipt01" onFocus="return refocus();"  onkeydown="EnterSub(event);" onBlur="return reblur();" id="query" type="text" placeholder="请输入您要查询的信息" /></li>
+            <li><input class="btn01" name="" type="button" onclick="javascript:sub();return false;"></li>
+            
+            
+          <script type="text/javascript">
+            function refocus(){     
+              var getquery=document.getElementById("query");
+              getquery.value="";
+              getquery.autocomplete="off";
+              getquery.focus(); 
+
+            }  
+            function reblur(){
+              var getquery=document.getElementById("query");
+              if (getquery.value==""){
+                getquery.value="请输入搜索关键字";	 
+              }
+            }   
+            String.prototype.trim=function(){
+              return this.replace(/(^\s*)|(\s*$)/g,"");
+            }
+
+            //站内提交方法
+            function sub(){
+              //必需，先将文本转换为utf-8
+              document.charset = "utf-8";	
+              var fixvalue = document.getElementById("query").value;
+              fixvalue = fixvalue.replace(/\~|\!|\*|\?|\^|\\|\(|\)|\[|\]|\+|\-|\:|\{|\}|\"/g,"");
+              var dst = "新吴区人民政府";
+              if(fixvalue.trim()=="" || fixvalue.trim()=="请输入搜索关键字"){
+                document.getElementById("query").value = "";
+                alert("关键字不能为空！");
+                document.getElementById("query").focus();
+                return false;
+              }
+              else{
+                search_2024_wzq(encodeURIComponent(dst),encodeURIComponent(fixvalue),'');
+              }
+              //必需，最后将文本转换为gb2312
+              document.charset="gb2312"
+              return false;
+            }
+
+
+            //站内回车提交方法
+            function EnterSub(){
+              var len=arguments.length;
+              var event;
+              if(len==1){
+                event = arguments[0];
+              }
+              var evt = event ? event : (window.event ? window.event : null);
+              if (evt.keyCode == 13)    {
+                //必需，先将文本转换为utf-8
+                document.charset = "utf-8";	
+                var fixvalue = document.getElementById("query").value;
+                fixvalue = fixvalue.replace(/\~|\!|\*|\?|\^|\\|\(|\)|\[|\]|\+|\-|\:|\{|\}|\"/g,"");
+                var dst = "新吴区人民政府";
+                if(fixvalue.trim()=="" || fixvalue.trim()=="请输入搜索关键字"){
+                  document.getElementById("query").value = "";
+                  alert("关键字不能为空！");
+                  document.getElementById("query").focus();
+                  return false;
+                }
+                else{
+                  search_2024_wzq(encodeURIComponent(dst),encodeURIComponent(fixvalue),'');
+                }
+                document.charset="gb2312"
+                return false;
+              }
+            }
+
+          </script>
+              
+            
+        </ul> 
+    </div>
+</div>
+<div class="navbox">
+    <div class="main-nav-box clearfix">
+        <ul class="main-nav white clearfix fl" id="head">
+            <li id="channel_181"><a href="/index.shtml">首页</a></li>
+            
+            <li id="channel_60364"><a href="/mlxw/index.shtml">魅力新吴</a>
+                <div class="mian-nav-layer oflow-hd hide" style="display: none;">
+                    <p class="index-layer-common main-nav-sub-3"> 
+                    <a href="/mlxw/xwgk/index.shtml" target="_blank">新吴概况</a>  
+                                        <a href="/mlxw/jdgk/index.shtml" target="_blank">街道概况</a>  
+                                        <a href="/mlxw/tsxw/index.shtml" target="_blank">图说新吴</a>  
+                                        <a href="/mlxw/sjxw/index.shtml" target="_blank">视觉新吴</a>  
+                                        <a href="/mlxw/gxqzz/index.shtml" target="_blank">高新区杂志</a>  
+                                        <a href="/mlxw/cjzz/index.shtml" target="_blank">创见杂志</a>  
+                                        <a href="/mlxw/xwnj/index.shtml" target="_blank">新吴年鉴</a>  
+                    </p>
+                </div>
+            </li>
+          
+            <li id="channel_35397"><a href="/xxgk/index.shtml" target="_blank">政务公开</a>
+               
+            </li>
+            <li><a target="_blank" href="http://wxxw.jszwfw.gov.cn">政务服务</a>
+                <!--<div class="mian-nav-layer oflow-hd hide" style="display: none;">
+                    <p class="index-layer-common main-nav-sub-6"> <a href="#" target="_blank">宣讲视频</a> <a href="#"
+                            target="_blank">历史沿革</a> <a href="#" target="_blank">宣传片</a> </p>
+                </div>-->
+            </li>
+            <li id="channel_35627"><a href="/zmhd/index.shtml">政民互动 </a>
+               <!-- <div class="mian-nav-layer oflow-hd hide" style="display: none;">
+                    <p class="index-layer-common main-nav-sub-5"> 
+                    <a href="/fzlm/hdjlgny/lxbl/xjlb/index.shtml" target="_blank">12345来信办理平台</a> 
+                                        <a href="/zmhd/dczj/index.shtml" target="_blank">调查征集</a> 
+                                        <a href="/zmhd/ftzb/lmsy/index.shtml" target="_blank">访谈直播</a> 
+                                        <a href="/zmhd/zwwbwx/index.shtml" target="_blank">政务微博、微信</a> 
+                                        <a href="/zmhd/wsxf/index.shtml" target="_blank">网上信访</a> 
+                                        <a href="/" target="_blank">我要纠错</a> 
+                    </p>
+                </div>-->
+            </li>
+            <li id="channel_64353"><a href="/ztzl/sjkf/index.shtml">数据发布</a>
+               <!-- <div class="mian-nav-layer oflow-hd hide" style="display: none;">
+                    <p class="index-layer-common main-nav-sub-6"> 
+                    </p>
+                </div>-->
+            </li>
+        </ul>     
+    </div>    
+</div>
+<script type="text/javascript">
+    //nav
+    $('.main-nav > li').mousemove(function () {
+        $(this).find('.mian-nav-layer').show();
+    });
+    $('.main-nav > li').mouseleave(function () {
+        $(this).find('.mian-nav-layer').hide();
+    });
+</script>
+<!--mobile leftnav/START-->
+<div class="mobile_main-nav mgb10" style="float: none; position: static; left: 0px; top: 0px;">
+    <ul>
+        <li><a href="javascript:void(0)" class="">aa</a>
+            <ul style="display: none;">
+                <li class="hover"><a href="/index.shtml">首页</a></li>
+                <li><a href="/mlxw/index.shtml">魅力新吴</a></li>
+                <li><a href="/xxgk/index.shtml">政务公开</a></li>
+                <li><a href="http://wxxw.jszwfw.gov.cn">政务服务</a></li>
+                <li id="zmd"><a href="/zmhd/index.shtml">政民互动</a></li>
+                <li><a href="/ztzl/sjkf/index.shtml">数据发布</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<script>
+    $('.mobile_main-nav>ul>li>ul').click(function () {
+        $(this).slideUp();
+    })
+    function moblayer() {
+        $("#tree_mobile,#tree2_mobile,#tree3_mobile").find("a").click(function () {
+            $(".mobile_main-nav>ul>li>ul").hide();
+        })
+    }
+</script>
+<!--mobile leftnav/END-->
+
+<div class="w1200 bg_ff mgOauto">
+   <div class="pd10 clearfix">
+      <div class="nav_title font24 n2 por"><span class="list_top_wza">政府信息公开</span>
+          <div>当前位置：&nbsp;<a href="/index.shtml">首页</a>&nbsp;>&nbsp;信息公开&nbsp;>&nbsp;市（区）政府信息公开目录&nbsp;>&nbsp;重大民生信息&nbsp;>&nbsp;公共文化体育</div>
+      </div>
+      <div class="content pdt20 pdb20 doc_content_wza">
+          <h3 class="font36 blue font-w text-center mgb20">新吴区文物保护点一览表</h3>
+          <p class="date text-center grey"><span>时间：2019-11-29 16:22</span>　<span>字体大小：</span><a class="Big">放大</a>  <a class="Middle">正常</a>  <a class="Small">缩小</a></p>
+          <table style="border-collapse:collapse" class="xxgk_table_wza" bordercolor="#94bfe4" border="1">
+            <tbody>
+              <tr>
+                    <td class="t" width="14%">信息索引号</td>
+                    <td width="30%"><!--<$[SYH]>-->014032126/2019-02863<!--<$[SYH]>--></td>
+                    <td class="t">生成日期</td>
+                    <td><!--<$[SCRQ]>-->2019-11-29<!--<$[SCRQ]>--></td>
+                    <td class="t">公开日期</td>
+                    <td><!--<$[FBRQ]>-->2019-11-29<!--<$[FBRQ]>--></td>
+                  </tr>
+                  <tr>
+                    <td class="t">发布机构</td>
+                    <td><!--<$[FBJG]>-->文体旅游局<!--<$[FBJG]>--></td>
+                    <!--<td class="t">附件下载</td>
+                    <td colspan="3">—&nbsp;&nbsp;—</td>-->
+                    <td class="t">附件下载</td>
+                     <td 
+                         colspan="3"
+                      style="text-align:center;">—&nbsp;&nbsp;— </td>
+                  </tr>
+                  
+                  <tr>
+                    <td class="t">内容概述</td>
+                    <td colspan="5" style="text-align:left;"><!--<$[Summary]>-->2019年新吴区文物保护点一览表<!--<$[Summary]>--></td>
+                  </tr>
+            </tbody>
+          </table>
+          
+          
+          <style>
+          #Zoom td {
+   
+    text-align: left;
+}
+          </style>
+          
+          
+          <div id="Zoom">
+<p>　　</p>
+
+<p align="center"><strong><span>新吴区<u>文物保护点</u>一览表</span></strong></p>
+
+<p align="center"><strong>（</strong><strong>2019</strong><strong>年）</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="976">
+	<tbody>
+		<tr>
+			<td width="55">
+			<p style="text-align: center;"><a name="RANGE!A1:E38"></a><strong>序号</strong></p>
+			</td>
+			<td width="106">
+			<p style="text-align: center;"><strong>所属街道</strong></p>
+			</td>
+			<td width="151">
+			<p style="text-align: center;"><strong>文物单位名称</strong></p>
+			</td>
+			<td width="312">
+			<p style="text-align: center;"><strong>保护级别</strong></p>
+			</td>
+			<td width="352">
+			<p style="text-align: center;"><strong>批准文号命名或成立时间</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>1</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>江溪街道</span></p>
+
+			<p>　　</p>
+
+			<p align="center"><span>旺庄街道</span></p>
+
+			<p>　　</p>
+
+			<p align="center"><span>新安街道</span></p>
+
+			<p>　　</p>
+
+			<p align="center"><span>硕放街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>大运河</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第六批全国重点文物保护单位（2014年列为世界文化遗产）</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>国发〔2006〕19号2006-5-25</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>2</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>鸿山墓群</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第六批全国重点文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>国发〔2006〕19号2006-5-25</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>3</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>梅村街道</span></p>
+
+			<p>　　</p>
+
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>泰伯庙和墓</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第六批全国重点文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>国发〔2006〕19号2006-5-25</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>4</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>硕放街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>昭嗣堂</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第六批全国重点文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>国发〔2006〕19号2006-5-25</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>5</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>彭祖墩</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第五批省级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>苏政发〔2002〕130号</span></p>
+
+			<p>　　2002年</p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>6</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>鸿隐堂</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">第一批市级文物保护单位&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center">2003<span>年原无锡县人民政府公布的无锡县文物保护单位（后转为无锡市文物保护单位)</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>7</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>梁鸿墓</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">第一批市级文物保护单位&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center">2003 <span>年原无锡县人民政府公布的无锡县文物保护单位（后转为无锡市文物保护单位)</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>8</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>江溪街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>保安寺无梁殿</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第一批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center">1983<span>年</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>9</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>旺庄街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>故文台</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第四批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2003〕131号 &nbsp;2003-6-2</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>10</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>新安街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>净慧寺旧迹</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第四批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2003〕131号&nbsp; 2003-6-2</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>11</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>江溪街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>金匮县张中丞庙戏台</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第四批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2003〕131号&nbsp; 2003-6-2</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>12</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>泰伯图书馆旧址</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第四批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2003〕131号&nbsp;&nbsp; 2003-6-2</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>13</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>钱氏素书堂</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第五批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号&nbsp; 2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>14</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>怀海义庄</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第五批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center">&nbsp;</p>
+
+			<p>　　</p>
+
+			<p align="center"><span>锡政发〔2016〕201号&nbsp; 2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>15</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>邹氏延寿堂</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第五批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>16</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>钱公桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第五批市级文物保护单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>17</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>集义桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>18</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>积福桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>19</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>大通桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>20</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">外郞<span>桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>21</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>坟塘桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>22</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>德溪桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号&nbsp; 2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>23</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>下田桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号&nbsp; 2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>24</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>大坊桥民居</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号&nbsp; 2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>25</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center"><span>江溪街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>圣塘桥</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>第三批市控单位</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡政发〔2016〕201号&nbsp; 2016-9-8</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>26</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">鸿山街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">金娥墩</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>27</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">鸿山街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">毓秀桥</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>28</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">鸿山街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">西仓老街</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>29</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">鸿山街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">大坊桥粮仓</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>30</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">鸿山街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">蒙恩堂</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>31</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">鸿山街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">吕家宝善堂</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号&nbsp; 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>32</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">江溪街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">朝阳寺</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号&nbsp; 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>33</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">硕放街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">世家桥</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号&nbsp; 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>34</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">硕放街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">硕放福缘庵</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号&nbsp; 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>35</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p align="center">硕放街道</p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center">翁氏义庄</p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">三普文物点</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center"><span>锡新管发〔2011〕143号&nbsp; 2011-6-7</span></p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>36</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p>&nbsp;</p>
+
+			<p>　　<span>梅村街道</span></p>
+
+			<p>　　<span>鸿山街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>尤家弄&mdash;顾更上</span></p>
+
+			<p>　　</p>
+
+			<p align="center"><span>土墩遗迹群</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center">新发现未定级</p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center">2018</p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="55">
+			<p align="center"><strong>37</strong></p>
+
+			<p>　　</p>
+			</td>
+			<td width="106">
+			<p>&nbsp;</p>
+
+			<p>　　<span>梅村街道</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="151">
+			<p align="center"><span>梅里遗址</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="312">
+			<p align="center"><span>新发现未定级</span></p>
+
+			<p>　　</p>
+			</td>
+			<td width="352">
+			<p align="center">2018-2019</p>
+
+			<p>　　</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+            <!-- <p align="right">主任编辑：</p>-->
+          </div>
+        <div id="da" style="zoom:1;padding-left: 260px;">
+<style type="text/css">
+			  #bdshare ul,#bdshare_s ul,#bdshare ul li,#bdshare_s ul li,#bdshare_l_c ul li,#bdshare_m_c ul li,#bdshare_pop ul,#bdshare_pop ul li {
+ list-style:none;
+ margin:0;
+ padding:0
+}
+#bdshare {
+ _overflow-x:hidden;
+ z-index:999999;
+ padding-bottom:2px;
+ font-size:12px;
+ float:left;
+ text-align:left!important;
+ zoom:1
+}
+#bdshare a,
+#bdshare_s a,
+#bdshare_pop a {
+ text-decoration:none;
+ cursor:pointer
+}
+#bdshare a:hover,
+#bdshare_s a:hover,
+#bdshare_pop a:hover {
+ color:#333;
+ opacity:.8;
+ filter:alpha(opacity=80)
+}
+#bdshare img {
+ border:0;
+ margin:0;
+ padding:0;
+ cursor:pointer
+}
+.bds_tools a{
+	position:relative
+}
+.bds_tools a i{
+ display:block;
+ font-family:'宋体',Arial;
+ height:16px;
+ float:left;
+ cursor:pointer;
+ padding-top:6px;
+ padding-bottom:3px;
+ padding-left:22px
+}
+.bds_tools a.share_wechat div{
+	position:absolute;
+	top:-30px;/*-90px;*/
+	left:50%;
+	margin-left:-34px;/*-60px;*/
+	display:none
+}
+.bds_tools a img {
+    max-width: 100px;
+}
+.bds_tools a i{
+ background:url(http://www.wuxi.gov.cn/static/images/is_new.png) no-repeat
+}
+.bds_tsina {
+    background-position: 0 -115px !important;
+}
+.bds_qzone {
+    background-position: 0 -75px !important;
+}
+.bds_wechat {
+    background-position: 0 -155px !important;   
+}
+			  </style>
+<!--<div class="bshare-custom icon-medium fl">分享到：<a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到人人网" class="bshare-renren"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><!--<span class="BSHARE_COUNT bshare-share-count">0</span>--</div>-->
+            <div class="bshare-custom icon-medium fr">
+              <div style="">
+                <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare share_tag" style="float:right;zoom:1;">
+                  <!--<span class="bds_more">分享到：</span>-->
+                  <p style="float:left;width:50px;margin-top:5px">分享到：</p>
+
+                  <a><i class="bds_tsina" title="分享到新浪微博" href="#"></i></a> 
+                  <a><i class="bds_qzone" title="分享到QQ空间" href="#"></i></a>  
+                  <a class="share_wechat" title="分享到微信" href="">
+                    <i class="bds_wechat" ></i>
+                    <div style="display: none; opacity: 1;">
+                      <div class="ewm">
+                        <div id="qrcode"></div>
+                      </div>
+                      <script language="javascript" type="text/javascript" src="https://www.wuxi.gov.cn/static2016/js/qrcode.js"></script>
+                      <script type="text/javascript">
+                        var page_url = window.location.href;
+                        new QRCode(document.getElementById("qrcode"), page_url);
+                      </script>
+                    </div>
+                  </a>
+                </div>
+                <script type="text/javascript">
+                  $('.bds_tools a.share_wechat').hover(function(){
+                    $(this).find('div').stop(true,false).fadeIn('fast')
+                  },function(){
+                    $(this).find('div').stop(true,false).fadeOut('fast')
+                  });
+                  $(".bds_tools a.share_wechat").focusin(function() {
+                    $(this).find("div").stop(true, false).fadeIn("fast");
+                  }).focusout(function() {
+                    $(this).find("div").stop(true, false).fadeOut("fast");
+                  });
+                </script>
+              </div>
+            </div>
+            
+<script>
+var $ShareLi = $('.share_tag');
+var share_url = encodeURIComponent(location.href);
+var share_title = encodeURIComponent(document.title);
+
+//qq空间
+$($ShareLi).find('.bds_qzone').on('click', function () {
+	window.open("http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=" + share_url + "&title=" + share_title , "newwindow");
+});
+function openQQUrl(){
+  window.open("http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=" + share_url + "&title=" + share_title , "newwindow");
+}
+//新浪微博
+  $($ShareLi).find('.bds_tsina').on('click', function () {
+    var param = {
+      url: share_url,
+      title: share_title,
+      rnd: new Date().valueOf()
+    };
+    var temp = [];
+    for (var p in param) {
+      temp.push(p + '=' + encodeURIComponent(param[p] || ''))
+    }
+    window.open("https://service.weibo.com/share/share.php?title=" + share_title+"&url="+share_url)
+  });
+  function openXlUrl(){
+    var param = {
+      url: share_url,
+      title: share_title,
+      rnd: new Date().valueOf()
+    };
+    var temp = [];
+    for (var p in param) {
+      temp.push(p + '=' + encodeURIComponent(param[p] || ''))
+    }
+    window.open("https://service.weibo.com/share/share.php?title=" + share_title+"&url="+share_url)
+  }
+</script>
+
+              </div>
+       </div>
+   </div>
+</div>
+<script type="text/javascript">
+$(".Big").click(function() {
+	$("#Zoom").css({"font-size": "1.1rem", "line-height": "2em"});
+});
+$(".Middle").click(function() {
+	$("#Zoom").css({"font-size": "1rem", "line-height": "2em"});
+});
+$(".Small").click(function() {
+	$("#Zoom").css({"font-size": "0.9rem", "line-height": "2em"});
+});
+$(".Print, .print").click(function(){
+	window.print();
+});
+$(".Close, .close").click(function(){
+	window.close();
+});
+$(".Favorite").click(function(){
+	try {
+		window.external.AddFavorite(location.href, document.title);
+	}
+	catch (e) {
+		try {
+			window.sidebar.addPanel(document.title, location.href, "");
+		}
+		catch (e) {
+			alert("对不起，您的浏览器不支持收藏功能！")
+		}
+	}			});
+</script>
+<script language="javascript" type="text/javascript" src="//www.wuxi.gov.cn/static2016/js/Traditionalconversion.js"></script>
+<div class="links visible-lg-inline wza_no_color">
+    <div class="container">
+        <h1 class="fl">友情链接</h1>
+        <ul class="no-padding clearfix no-margin">
+            <li class="dropdown">
+                <p data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" totabtarget="33" retabtarget="34"><a class="text-white" href="javascript:void(0);" title="市（县）区网站" retargeta="166">市（县）区网站<i class="icon iconfont"></i></a></p>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" style="display: none;">
+                    <li>
+                                              <a href="http://www.wuxi.gov.cn/" target="blank" title="无锡市人民政府" tabtarget="155" toretabtarget="166" retargeta="167">无锡市人民政府</a>
+                        <a href="http://www.wxbh.gov.cn" target="blank" title="滨湖区人民政府" tabtarget="155" toretabtarget="166" retargeta="167">滨湖区人民政府</a>
+                        <a href="http://www.wxlx.gov.cn/" target="blank" title="梁溪区人民政府" tabtarget="155" toretabtarget="166" retargeta="167">梁溪区人民政府</a>
+                        <a href="http://www.huishan.gov.cn/" target="blank" title="惠山区人民政府" tabtarget="155" toretabtarget="166" retargeta="167">惠山区人民政府</a>
+                        <a href="http://www.jsxishan.gov.cn" target="blank" title="锡山区人民政府" tabtarget="155" toretabtarget="166" retargeta="167">锡山区人民政府</a>
+                        <a href="http://www.jiangyin.gov.cn/" target="blank" title="江阴市人民政府" tabtarget="155" toretabtarget="166" retargeta="167">江阴市人民政府</a>
+                        <a href="http://www.yixing.gov.cn/" target="blank" title="宜兴市人民政府" tabtarget="155" toretabtarget="166" retargeta="167">宜兴市人民政府</a>
+                  </li>
+                </ul> 
+            </li>
+            <li class="dropdown">
+                <p data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" totabtarget="57" retabtarget="58"><a class="text-white" href="javascript:void(0);" title="部门" tabtarget="156" toretabtarget="167" retargeta="168">部门<i class="icon iconfont"></i></a></p>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" style="display: none;">
+                    <li>
+                        <a href="/jfj/xxgk/bmxxgkml/index.shtml" target="blank" title="发展和改革委员会" tabtarget="155" toretabtarget="166" retargeta="167">发展和改革委员会</a>
+                        <a href="/jywtj/xxgk/bmxxgkml/index.shtml" target="blank" title="教育局" tabtarget="155" toretabtarget="166" retargeta="167">教育局</a>
+                        <a href="/kxj/xxgk/bmxxgkml/index.shtml" target="blank" title="科技工业和信息化局" tabtarget="155" toretabtarget="166" retargeta="167">科技工业和信息化局</a>
+                        <a href="/mzwjj/xxgk/bmxxgkml/index.shtml" target="blank" title="民政和卫生健康局" tabtarget="155" toretabtarget="166" retargeta="167">民政和卫生健康局</a>
+                        <a href="/czj/xxgk/bmxxgkml/index.shtml" target="blank" title="财政局" tabtarget="155" toretabtarget="166" retargeta="167">财政局</a>
+                        <a href="/rsj/xxgk/bmxxgkml/index.shtml" target="blank" title="人力资源和社会保障局" tabtarget="155" toretabtarget="166" retargeta="167">人力资源和社会保障局</a>
+                        <a href="/zjjtj/index.shtml" target="blank" title="住房和城乡建设局" tabtarget="155" toretabtarget="166" retargeta="167">住房和城乡建设局</a>
+                        <a href="/zhxzzfj/xxgk/bmxxgkml/index.shtml" target="blank" title="城市管理局" tabtarget="155" toretabtarget="166" retargeta="167">城市管理局</a>
+                        <a href="/njslj/xxgk/bmxxgkml/index.shtml" target="blank" title="农业农村局" tabtarget="155" toretabtarget="166" retargeta="167">农业农村局</a>
+                        <a href="/swlyj/xxgk/bmxxgkml/index.shtml" target="blank" title="商务局" tabtarget="155" toretabtarget="166" retargeta="167">商务局</a>
+                        <a href="/tyjrj/xxgk/bmxxgkml/index.shtml" target="blank" title="退役军人事务局" tabtarget="155" toretabtarget="166" retargeta="167">退役军人事务局</a>
+                        <a href="/ajhbj/xxgk/bmxxgkml/index.shtml" target="blank" title="应急管理局" tabtarget="155" toretabtarget="166" retargeta="167">应急管理局</a>
+                        <a href="/sjj/xxgk/bmxxgkml/index.shtml" target="blank" title="审计局" tabtarget="155" toretabtarget="166" retargeta="167">审计局</a>
+                        <a href="/xzspj/xxgk/bmxxgkml/index.shtml" target="blank" title="数据局" tabtarget="155" toretabtarget="166" retargeta="167">数据局</a>
+                        <a href="/scjdglj/xxgk/bmxxgkml/index.shtml" target="blank" title="市场监管局" tabtarget="155" toretabtarget="166" retargeta="167">市场监管局</a>
+                        <a href="/gtfj/xxgk/bmxxgkml/index.shtml" target="blank" title="市自然资源和规划局新吴分局" tabtarget="155" toretabtarget="166" retargeta="167">市自然资源和规划局新吴分局</a>
+                        <a href="/sthjj/xxgk/bmxxgkml/index.shtml" target="blank" title="生态环境局" tabtarget="155" toretabtarget="166" retargeta="167">生态环境局</a>
+                        <a href="/tjj/xxgk/bmxxgkml/index.shtml" target="blank" title="统计局" tabtarget="155" toretabtarget="166" retargeta="167">统计局</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <p data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" totabtarget="81" retabtarget="82"><a class="text-white" href="javascript:void(0);" title="街道（园区）" tabtarget="158" toretabtarget="169" retargeta="170">街道（园区）<i class="icon iconfont"></i></a></p>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" style="display: none;">
+                    <li>
+                        <a href="/kgsfjd/zfxxgk/zfxxgkml/index.shtml" target="blank" title="硕放街道" tabtarget="155" toretabtarget="166" retargeta="167">硕放街道</a>
+                        <a href="/wzjd/zfxxgk/zfxxgkml/index.shtml" target="blank" title="旺庄街道" tabtarget="155" toretabtarget="166" retargeta="167">旺庄街道</a>
+                        <a href="/jxjd/zfxxgk/zfxxgkml/index.shtml" target="blank" title="江溪街道" tabtarget="155" toretabtarget="166" retargeta="167">江溪街道</a>
+                        <a href="/mcjd/zfxxgk/zfxxgkml/index.shtml" target="blank" title="梅村街道" tabtarget="155" toretabtarget="166" retargeta="167">梅村街道</a>
+                        <a href="/hsjd/zfxxgk/zfxxgkml/index.shtml" target="blank" title="鸿山街道" tabtarget="155" toretabtarget="166" retargeta="167">鸿山街道</a>
+                        <a href="/xajd/zfxxgk/zfxxgkml/index.shtml" target="blank" title="新安街道" tabtarget="155" toretabtarget="166" retargeta="167">新安街道</a>
+                    </li> 
+                </ul>
+            </li>
+            <li class="dropdown">
+                <p data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" totabtarget="105" retabtarget="106"><a class="text-white" href="javascript:void(0);" title="人民团体" tabtarget="160" toretabtarget="171" retargeta="172">人民团体<i class="icon iconfont"></i></a></p>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" style="display: none;">                        
+                    <li>
+                        <a href="http://www.wndftu.org.cn/" target="blank" title="新吴区总工会" tabtarget="155" toretabtarget="166" retargeta="167">新吴区总工会</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="foot w100">
+  <div class="footer font14 text-center">
+    <div class="w1200 por">
+      <p class="zf01"><span id="_ideConac"><a href="https://bszs.conac.cn/sitename?method=show&id=374616A97962F310E06310291AACC868" title="党政机关" target="_blank"><img id="imgConac" src="https://dcs.conac.cn/image/nis/red.png" data-bd-imgshare-binded="1" vspace="0" hspace="0" border="0"></a></span></p> 
+      <p class="foot_nav"><a href="/fzlm/wzdt/index.shtml" target="_blank">网站地图</a> ｜ <a href="/fzlm/ysaq/index.shtml" target="_blank">隐私保护</a> ｜ <a href="/fzlm/mzsm/index.shtml" target="_blank">免责申明</a> ｜ <a href="/fzlm/lxwm/index.shtml">联系我们</a> ｜ <span id="siteClickCount"></span></p>
+      <div>
+        <script language="javascript">
+
+          $.ajax({
+            type : "post",
+            url:"/intertidwebapp/counter/count",
+            data: {
+              'contentID':181,
+              'siteName':'新吴区人民政府',
+              'siteID':181
+            },
+            success:function(data){
+              $('#siteClickCount').html("网站访问量： "+data);
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+
+            }
+          });
+        </script>
+        <p><span>版权所有：无锡国家高新技术产业开发区（无锡市新吴区）党政办公室 </span></p>
+        <p><span>无锡国家高新技术产业开发区（无锡市新吴区）党政办公室主办</span></p>
+        <p><a href="https://beian.miit.gov.cn" target="_blank">苏ICP备10218726号-2</a><span>政府网站标识码：3202900001 </span></p>
+        <p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32021402000001" target="_blank">苏公网安备 32021402000001号</a></p>
+        <p class="zf02"><a href="https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=3202900001&amp;url=https%3A%2F%2Fwww.wnd.gov.cn/%2F" title="政府网站找错" target="_blank"><img src="//www.wuxi.gov.cn/static2016/images/jiucuo_2021.png"></a><img src="//www.wuxi.gov.cn/static_common/images/wza_common_img_white.png" alt="适老化无障碍服务" width="110" /></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>  
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?89ec24430e1af522d82db3a93e1740a8";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+ 
+
+<!-- 侧边栏 Begin --> 
+<div class="sidebar">
+    <a class="sidebar-item" href="javascript:;">
+        <i class="sidebar-icon sidebar-icon-su"></i>
+        <span>苏服办APP</span>
+         <img src="/static2022/images/sfbapp_ewm_2025.png" width="150">
+    </a>
+    <br>
+    <a class="sidebar-item" href="javascript:;">
+        <i class="sidebar-icon sidebar-icon-wb"></i>
+        <span>微博</span>
+         <img src="/static2022/images/ewm1.gif" width="150" height="150">
+    </a>
+    <br>
+    <a class="sidebar-item" href="javascript:;">
+        <i class="sidebar-icon sidebar-icon-wx"></i>
+        <span>微信</span>
+         <img src="/static2022/images/ewm2.gif" width="150" height="150">
+    </a>
+    <br>
+    <a class="sidebar-item" href="javascript:;">
+        <i class="sidebar-icon sidebar-icon-phone"></i>
+        <span>关注APP</span>
+         <img src="/static2022/images/ew3_2025.png" width="150" />
+    </a>
+    <br>
+    <a class="sidebar-item" href="javascript:;">
+        <i class="sidebar-icon sidebar-icon-jiandu"></i>
+        <span style="line-height:20px; text-align:left;margin-top: 4px;">助企监督<br>进行时</span>
+        <img src="/static2022/images/ewm4.jpg" width="150" height="150">
+    </a>
+    <br>
+    <a class="sidebar-item" href="javascript:window.scrollTo(0,0)">
+        <i class="sidebar-icon sidebar-icon-top"></i>
+        <span>回到顶部</span>
+    </a>
+</div>
+<!-- 侧边栏 End -->
+<script language="javascript" type="text/javascript" src="/static2022/js/main.js"></script>
+<script>
+	//通用
+	jQuery(document).ready(function () {
+		Main.init();
+	});
+</script>
+<script language="javascript" type="text/javascript" src="/static_older/main/hotkeys.js"></script>
+<script language="javascript" type="text/javascript" src="/static_older/main/main_extend.js"></script>
+<script language="javascript" type="text/javascript" src="/static_older/main/older.js"></script>
+
+</body>
+</html>

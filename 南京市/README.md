@@ -1,6 +1,6 @@
 # 南京市古桥
 
-共收录 47 座桥。
+共收录 50 座桥。
 
 ## 按级别统计
 
@@ -9,7 +9,7 @@
 | <nobr>全国重点文物保护单位</nobr> | <nobr>1</nobr> |
 | <nobr>省级文物保护单位</nobr> | <nobr>5</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>22</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>9</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>12</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>10</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -20,6 +20,7 @@
 | <nobr>[秦淮区](秦淮区/秦淮区古桥.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[溧水区](溧水区/溧水区古桥.md)</nobr> | <nobr>5</nobr> |
 | <nobr>[高淳区](高淳区/高淳区古桥.md)</nobr> | <nobr>4</nobr> |
+| <nobr>[六合区](六合区/六合区古桥.md)</nobr> | <nobr>3</nobr> |
 | <nobr>[浦口区](浦口区/浦口区古桥.md)</nobr> | <nobr>2</nobr> |
 | <nobr>[玄武区](玄武区/玄武区古桥.md)</nobr> | <nobr>1</nobr> |
 | <nobr>[建邺区](建邺区/建邺区古桥.md)</nobr> | <nobr>1</nobr> |
@@ -103,10 +104,13 @@
 | <nobr>高淳区</nobr> | <nobr>古柏镇</nobr> | 江夏桥 [?](http://www.china-qiao.com/ql16/njql/njql143.htm) | — | 44米 | 清 | 南京市文物保护单位 |
 | <nobr>高淳区</nobr> | <nobr>东坝镇</nobr> | 沛桥 [?](http://www.china-qiao.com/ql16/njql/njql145.htm) | 石拱桥（三孔） | 32米 | 民国六年（1917）重建 | 南京市文物保护单位 |
 
-### 县（区）级文物保护单位（9 座）
+### 县（区）级文物保护单位（12 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>六合区</nobr> | <nobr>马鞍街道</nobr> | 杨龙桥 | — | — | 清 | 六合区文物保护单位 |
+| <nobr>六合区</nobr> | <nobr>横梁街道</nobr> | 陈堡桥 | — | — | 清 | 六合区文物保护单位 |
+| <nobr>六合区</nobr> | <nobr>冶山街道</nobr> | 西汇桥 | — | — | 清 | 六合区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 中桥 | — | — | — | 秦淮区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 桥 | — | — | — | 秦淮区文物保护单位 |
 | <nobr>秦淮区</nobr> | <nobr>—</nobr> | 来宾桥 | — | — | — | 秦淮区文物保护单位 |

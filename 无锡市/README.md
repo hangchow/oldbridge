@@ -1,6 +1,6 @@
 # 无锡市古桥
 
-共收录 152 座桥。
+共收录 161 座桥。
 
 ## 按级别统计
 
@@ -9,7 +9,8 @@
 | <nobr>省级文物保护单位</nobr> | <nobr>13</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>7</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>60</nobr> |
-| <nobr>文物保护点</nobr> | <nobr>31</nobr> |
+| <nobr>文物保护点</nobr> | <nobr>38</nobr> |
+| <nobr>一般不可移动文物</nobr> | <nobr>2</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>41</nobr> |
 
 ## 各区县桥梁数量（降序）
@@ -18,11 +19,11 @@
 |---|---|
 | <nobr>[宜兴市](宜兴市/宜兴市古桥.md)</nobr> | <nobr>100</nobr> |
 | <nobr>[江阴市](江阴市/江阴市古桥.md)</nobr> | <nobr>29</nobr> |
+| <nobr>[新吴区](新吴区/新吴区古桥.md)</nobr> | <nobr>10</nobr> |
 | <nobr>[梁溪区](梁溪区/梁溪区古桥.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[锡山区](锡山区/锡山区古桥.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[惠山区](惠山区/惠山区古桥.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[滨湖区](滨湖区/滨湖区古桥.md)</nobr> | <nobr>4</nobr> |
-| <nobr>[新吴区](新吴区/新吴区古桥.md)</nobr> | <nobr>1</nobr> |
 
 ## 无锡市石木桥桥长前 20 名
 
@@ -152,7 +153,11 @@
 | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 施荡桥 [?](http://www.china-qiao.com/ql16/wxql/wxql270.htm) | 石拱桥（单孔） | 19.90米 | 清（现桥面上加架水泥平桥） | 宜兴市文物保护单位 |
 | <nobr>宜兴市</nobr> | <nobr>丁蜀镇</nobr> | 雪窨桥（黄家桥） [?](http://www.china-qiao.com/ql16/wxql/wxql271.htm) | 石拱桥（单孔） | 13.24米 | 清光绪二十四年（1898） | 宜兴市文物保护单位 |
 
-### 文物保护点（31 座）
+### 文物保护点（38 座）
+
+数量较多，见各区县文件。
+
+### 一般不可移动文物（2 座）
 
 数量较多，见各区县文件。
 
