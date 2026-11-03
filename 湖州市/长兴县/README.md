@@ -1,27 +1,27 @@
 # 湖州市长兴县古桥
 
-共收录 155 座桥。
+共收录 161 座桥。
 
 ## 按级别统计
 
 | <nobr>级别</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>26</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>27</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>100</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>29</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>34</nobr> |
 
 ## 各乡镇（街道）桥梁数量（降序）
 
 | <nobr>乡镇（街道）</nobr> | <nobr>数量</nobr> |
 |---|---|
-| <nobr>夹浦镇</nobr> | <nobr>22</nobr> |
-| <nobr>太湖街道</nobr> | <nobr>18</nobr> |
+| <nobr>夹浦镇</nobr> | <nobr>23</nobr> |
+| <nobr>洪桥镇</nobr> | <nobr>20</nobr> |
+| <nobr>太湖街道</nobr> | <nobr>19</nobr> |
 | <nobr>虹星桥镇</nobr> | <nobr>17</nobr> |
-| <nobr>洪桥镇</nobr> | <nobr>17</nobr> |
 | <nobr>林城镇</nobr> | <nobr>12</nobr> |
 | <nobr>吕山乡</nobr> | <nobr>11</nobr> |
 | <nobr>和平镇</nobr> | <nobr>10</nobr> |
-| <nobr>画溪街道</nobr> | <nobr>9</nobr> |
+| <nobr>画溪街道</nobr> | <nobr>10</nobr> |
 | <nobr>煤山镇</nobr> | <nobr>7</nobr> |
 | <nobr>图影管委会</nobr> | <nobr>6</nobr> |
 | <nobr>李家巷镇</nobr> | <nobr>6</nobr> |
@@ -38,7 +38,7 @@
 
 ## 按级别列出
 
-### 县（区）级文物保护单位（26 座）
+### 县（区）级文物保护单位（27 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | <nobr>太湖图影度假区</nobr> | 高大㘰砖拱桥 | — | — | 现代 | 长兴县文物保护单位（第六批，2015年） | 暂无 |
 | <nobr>李家巷镇</nobr> | 庆元桥 [?](http://www.china-qiao.com/ql15/hzql/hzql306.htm) | — | — | 清嘉庆年间重修 | 长兴县文物保护单位（第七批，2019年） | [1](庆元桥1.jpg) |
 | <nobr>李家巷镇</nobr> | 永丰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql305.htm) | 石拱桥（单孔） | 14.3米 | 清嘉庆年间重建 | 长兴县文物保护单位（第七批，2019年） | [1](永丰桥1.jpg) |
+| <nobr>太湖街道</nobr> | 光阳桥 [?](http://www.china-qiao.com/ql15/hzql/hzql273.htm) | — | 8米 | 清光绪年间 | 长兴县文物保护单位（据老百晓集桥页面，待核对政府原件） | 暂无 |
 
 ### 文物保护点（100 座）
 
@@ -174,7 +175,7 @@
 | <nobr>龙山街道</nobr> | 永兴桥 [?](http://www.china-qiao.com/ql15/hzql/hzql268.htm) | 石梁桥（三孔） | — | 清 | 长兴县文物保护点 | [1](永兴桥1.jpg) |
 | <nobr>龙山街道</nobr> | 后东塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql267.htm) | 石梁桥（三孔） | — | 民国年间建 | 长兴县文物保护点 | [1](后东塘桥1.jpg) |
 
-### 尚未定级（待核实）（29 座）
+### 尚未定级（待核实）（34 座）
 
 | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 | 图片 |
 |---|---|---|---|---|---|---|
@@ -187,6 +188,9 @@
 | <nobr>洪桥镇</nobr> | 兴茂桥 [?](http://www.china-qiao.com/ql15/hzql/hzql304.htm) | 石梁桥（单孔） | — | 清乾隆三十六年（1771）（推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](兴茂桥1.jpg) |
 | <nobr>洪桥镇</nobr> | 平穰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql547.htm) | 石梁桥（单孔） | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](平穰桥1.jpg) |
 | <nobr>洪桥镇</nobr> | 迎箬桥 [?](http://www.china-qiao.com/ql15/hzql/hzql297.htm) | 石梁桥（单孔） | 5.68米 | 清同治十三年（1874）建，民国二十九年（1940）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](迎箬桥1.jpg) |
+| <nobr>洪桥镇</nobr> | 义兴塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql300.htm) | 石梁桥（单孔） | — | 民国初年 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>洪桥镇</nobr> | 窦渎港桥 [?](http://www.china-qiao.com/ql15/hzql/hzql302.htm) | 石梁桥（单孔） | — | 民国年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
+| <nobr>洪桥镇</nobr> | 蒋湾山塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql552.htm) | 石梁桥（单孔） | — | 民国十一年（1922）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>和平镇</nobr> | 拦羊桥 [?](http://www.china-qiao.com/ql15/hzql/hzql337.htm) | — | — | 明清（据形制推断，桥身缺失甚多） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>和平镇</nobr> | 凤凰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql336.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](凤凰桥1.jpg) |
 | <nobr>和平镇</nobr> | 嘉泰桥 [?](http://www.china-qiao.com/ql15/hzql/hzql783.htm) | — | — | 南宋嘉泰年间始建（据桥额推断） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](嘉泰桥1.jpg) |
@@ -195,6 +199,7 @@
 | <nobr>夹浦镇</nobr> | 利济桥 [?](http://www.china-qiao.com/ql15/hzql/hzql542.htm) | 石梁桥（三孔） | — | 清嘉庆十四年（1809）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](利济桥1.jpg) |
 | <nobr>夹浦镇</nobr> | 庙港头桥 [?](http://www.china-qiao.com/ql15/hzql/hzql543.htm) | 石拱桥（单孔） | 10.1米 | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](庙港头桥1.jpg) |
 | <nobr>夹浦镇</nobr> | 龙凤桥 [?](http://www.china-qiao.com/ql15/hzql/hzql545.htm) | 石拱桥（单孔） | — | 明嘉靖三十七年（1558） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](龙凤桥1.jpg) |
+| <nobr>夹浦镇</nobr> | 丁家渚塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql544.htm) | 石拱桥（单孔） | — | 明嘉靖二十七年（1548） | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>林城镇</nobr> | 畎（亩犬）桥 [?](http://www.china-qiao.com/ql15/hzql/hzql319.htm) | 石梁桥（七孔） | 34米 | 清重建（桥墩为宋元风格）；清同治九年（1870）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>泗安镇</nobr> | 广安桥 [?](http://www.china-qiao.com/ql15/hzql/hzql322.htm) | 石梁桥（三孔） | 14.4米 | 清光绪二十一年（1895）重建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](广安桥1.jpg) |
 | <nobr>泗安镇</nobr> | 周家桥 [?](http://www.china-qiao.com/ql15/hzql/hzql324.htm) | 石梁桥（三孔） | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](周家桥1.jpg) |
@@ -205,6 +210,7 @@
 | <nobr>煤山镇</nobr> | 庵上桥 [?](http://www.china-qiao.com/ql15/hzql/hzql342.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](庵上桥1.jpg) |
 | <nobr>吕山乡</nobr> | 小大德桥 [?](http://www.china-qiao.com/ql15/hzql/hzql350.htm) | — | — | 民国年间建 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](小大德桥1.jpg) |
 | <nobr>吕山乡</nobr> | 周邨桥 [?](http://www.china-qiao.com/ql15/hzql/hzql353.htm) | — | — | 清 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | [1](周邨桥1.jpg) |
+| <nobr>画溪街道</nobr> | 新塘桥 [?](http://www.china-qiao.com/ql15/hzql/hzql272.htm) | 石梁桥（五孔） | — | 民国 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>—</nobr> | 古金莲桥 [?](http://www.china-qiao.com/ql15/hzql/hzql356.htm) | 石拱桥（三孔） | — | 清同治四年（1865）重修 | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 | <nobr>—</nobr> | 永乐桥 [?](http://www.china-qiao.com/ql15/hzql/hzql938.htm) | — | — | — | 尚未定级（待核实，老百晓集桥收录，不在文保名录中） | 暂无 |
 
@@ -214,6 +220,7 @@
 - 太平村太平桥：名录只写“不详”，具体年代待核实，如为1949年后修建则不在本项目范围。
 - 中和桥：名录只写“不详”，具体年代待核实，如为1949年后修建则不在本项目范围。
 - 高大㘰砖拱桥：名录只写“现代”，具体年代待核实，如为1949年后修建则不在本项目范围。
+- 光阳桥：维基百科名单未收，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载。
 - 夹浦兴隆桥：具体年代据老百晓集桥（名录原写“清”）。
 - 蒋埠桥：具体年代据老百晓集桥（名录原写“民国”）。
 - 德盛桥：名录只写“不详”，具体年代待核实，如为1949年后修建则不在本项目范围。
@@ -249,6 +256,7 @@
 - 利济桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 庙港头桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 龙凤桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 丁家渚塘桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 朱藤桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 畎（亩犬）桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“清重建（桥墩为宋元风格）”）。
 - 广安桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“清”）。
@@ -261,8 +269,12 @@
 - 兴茂桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 平穰桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 迎箬桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 义兴塘桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
+- 窦渎港桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实；具体年代据老百晓集桥（名录原写“民国”）。
+- 蒋湾山塘桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 石皮桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 庵上桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
+- 新塘桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 仙圣桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
 - 古金莲桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面中本桥的记载，等级待核实。
 - 永乐桥：不在文保名录中，据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面，等级待核实。
@@ -273,6 +285,7 @@
 ## 来源
 
 - [维基百科：长兴县文物保护单位](https://zh.wikipedia.org/wiki/长兴县文物保护单位)
+- [老百晓集桥：hzql273.htm](http://www.china-qiao.com/ql15/hzql/hzql273.htm)
 - [浙江省《全省文物保护点》统计表（湖州市文物保护点）](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx)
 - [老百晓集桥：hzql350.htm](http://www.china-qiao.com/ql15/hzql/hzql350.htm)
 - [老百晓集桥：hzql353.htm](http://www.china-qiao.com/ql15/hzql/hzql353.htm)
@@ -286,6 +299,7 @@
 - [老百晓集桥：hzql542.htm](http://www.china-qiao.com/ql15/hzql/hzql542.htm)
 - [老百晓集桥：hzql543.htm](http://www.china-qiao.com/ql15/hzql/hzql543.htm)
 - [老百晓集桥：hzql545.htm](http://www.china-qiao.com/ql15/hzql/hzql545.htm)
+- [老百晓集桥：hzql544.htm](http://www.china-qiao.com/ql15/hzql/hzql544.htm)
 - [老百晓集桥：hzql781.htm](http://www.china-qiao.com/ql15/hzql/hzql781.htm)
 - [老百晓集桥：hzql319.htm](http://www.china-qiao.com/ql15/hzql/hzql319.htm)
 - [老百晓集桥：hzql322.htm](http://www.china-qiao.com/ql15/hzql/hzql322.htm)
@@ -298,8 +312,12 @@
 - [老百晓集桥：hzql304.htm](http://www.china-qiao.com/ql15/hzql/hzql304.htm)
 - [老百晓集桥：hzql547.htm](http://www.china-qiao.com/ql15/hzql/hzql547.htm)
 - [老百晓集桥：hzql297.htm](http://www.china-qiao.com/ql15/hzql/hzql297.htm)
+- [老百晓集桥：hzql300.htm](http://www.china-qiao.com/ql15/hzql/hzql300.htm)
+- [老百晓集桥：hzql302.htm](http://www.china-qiao.com/ql15/hzql/hzql302.htm)
+- [老百晓集桥：hzql552.htm](http://www.china-qiao.com/ql15/hzql/hzql552.htm)
 - [老百晓集桥：hzql341.htm](http://www.china-qiao.com/ql15/hzql/hzql341.htm)
 - [老百晓集桥：hzql342.htm](http://www.china-qiao.com/ql15/hzql/hzql342.htm)
+- [老百晓集桥：hzql272.htm](http://www.china-qiao.com/ql15/hzql/hzql272.htm)
 - [老百晓集桥：hzql331.htm](http://www.china-qiao.com/ql15/hzql/hzql331.htm)
 - [老百晓集桥：hzql356.htm](http://www.china-qiao.com/ql15/hzql/hzql356.htm)
 - [老百晓集桥：hzql938.htm](http://www.china-qiao.com/ql15/hzql/hzql938.htm)

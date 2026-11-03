@@ -299,5 +299,299 @@
   "town": "高桥街道",
   "name": "殷家木桥",
   "cand": []
+ },
+ "ql15/hzql/hzql087.htm": {
+  "dist": "南浔区",
+  "town": "南浔镇",
+  "name": "新民桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql105.htm": {
+  "dist": "南浔区",
+  "town": "练市镇",
+  "name": "五谷塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql143.htm": {
+  "dist": "南浔区",
+  "town": "菱湖镇",
+  "name": "吴莲塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql165.htm": {
+  "dist": "南浔区",
+  "town": "和孚镇",
+  "name": "东汇桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql166.htm": {
+  "dist": "南浔区",
+  "town": "和孚镇",
+  "name": "荻港太平桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql169.htm": {
+  "dist": "南浔区",
+  "town": "和孚镇",
+  "name": "西兴桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql170.htm": {
+  "dist": "南浔区",
+  "town": "和孚镇",
+  "name": "聚庆桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql180.htm": {
+  "dist": "南浔区",
+  "town": "和孚镇",
+  "name": "丰安塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql203.htm": {
+  "dist": "南浔区",
+  "town": "千金镇",
+  "name": "周境塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql206.htm": {
+  "dist": "南浔区",
+  "town": "千金镇",
+  "name": "南塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql207.htm": {
+  "dist": "南浔区",
+  "town": "千金镇",
+  "name": "圣帝塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql208.htm": {
+  "dist": "南浔区",
+  "town": "千金镇",
+  "name": "永宁大桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql423.htm": {
+  "dist": "南浔区",
+  "town": "菱湖镇",
+  "name": "杨家湾兴福桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql436.htm": {
+  "dist": "南浔区",
+  "town": "菱湖镇",
+  "name": "里兴桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql494.htm": {
+  "dist": "南浔区",
+  "town": "双林镇",
+  "name": "市光新桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql272.htm": {
+  "dist": "长兴县",
+  "town": "画溪街道",
+  "name": "新塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql273.htm": {
+  "dist": "长兴县",
+  "town": "太湖街道",
+  "name": "光阳桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql282.htm": {
+  "dist": "长兴县",
+  "town": "太湖街道",
+  "name": "太平塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql300.htm": {
+  "dist": "长兴县",
+  "town": "洪桥镇",
+  "name": "义兴塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql302.htm": {
+  "dist": "长兴县",
+  "town": "洪桥镇",
+  "name": "窦渎港桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql345.htm": {
+  "dist": "长兴县",
+  "town": "水口乡",
+  "name": "接香塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql544.htm": {
+  "dist": "长兴县",
+  "town": "夹浦镇",
+  "name": "丁家渚塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql552.htm": {
+  "dist": "长兴县",
+  "town": "洪桥镇",
+  "name": "蒋湾山塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql400.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "安乐桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql477.htm": {
+  "dist": "吴兴区",
+  "town": "环渚街道",
+  "name": "归顺桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql519.htm": {
+  "dist": "吴兴区",
+  "town": "八里店镇",
+  "name": "横港桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql520.htm": {
+  "dist": "吴兴区",
+  "town": "八里店镇",
+  "name": "三官塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql522.htm": {
+  "dist": "吴兴区",
+  "town": "八里店镇",
+  "name": "宜兴塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql523.htm": {
+  "dist": "吴兴区",
+  "town": "八里店镇",
+  "name": "郭家埭永安桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql524.htm": {
+  "dist": "吴兴区",
+  "town": "八里店镇",
+  "name": "永福塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql534.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "永济塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql788.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "佛师塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql789.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "清塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql791.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "广善塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql792.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "积善塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql793.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "云兴塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql799.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "旯龙塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql813.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "潘塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql818.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "陈溇塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql819.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "常胜塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql823.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "项王塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql824.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "栏杆塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql829.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "第一桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql844.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "锁澜塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql849.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "晓河太平桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql850.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "益丰塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql853.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "竹圆塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql854.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "太平塘桥",
+  "cand": []
+ },
+ "ql15/hzql/hzql873.htm": {
+  "dist": "吴兴区",
+  "town": "织里镇",
+  "name": "万翠桥",
+  "cand": []
  }
 }
