@@ -1,6 +1,6 @@
 # 衢州市古桥
 
-共收录 63 座桥。
+共收录 68 座桥。
 
 ## 按级别统计
 
@@ -8,7 +8,7 @@
 |---|---|
 | <nobr>省级文物保护单位</nobr> | <nobr>3</nobr> |
 | <nobr>市级文物保护单位</nobr> | <nobr>1</nobr> |
-| <nobr>县（区）级文物保护单位</nobr> | <nobr>17</nobr> |
+| <nobr>县（区）级文物保护单位</nobr> | <nobr>22</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>40</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>2</nobr> |
 
@@ -17,9 +17,9 @@
 | <nobr>区县</nobr> | <nobr>数量</nobr> |
 |---|---|
 | <nobr>[开化县](开化县/README.md)</nobr> | <nobr>24</nobr> |
+| <nobr>[龙游县](龙游县/README.md)</nobr> | <nobr>13</nobr> |
 | <nobr>[衢江区](衢江区/README.md)</nobr> | <nobr>12</nobr> |
 | <nobr>[常山县](常山县/README.md)</nobr> | <nobr>12</nobr> |
-| <nobr>[龙游县](龙游县/README.md)</nobr> | <nobr>8</nobr> |
 | <nobr>[江山市](江山市/README.md)</nobr> | <nobr>6</nobr> |
 | <nobr>[柯城区](柯城区/README.md)</nobr> | <nobr>1</nobr> |
 
@@ -53,10 +53,15 @@
 |---|---|---|---|---|---|---|
 | <nobr>柯城区</nobr> | <nobr>石梁镇</nobr> | 寺桥石拱桥 | — | — | 民国 | 衢州市文物保护单位 |
 
-### 县（区）级文物保护单位（17 座）
+### 县（区）级文物保护单位（22 座）
 
 | <nobr>区县</nobr> | <nobr>乡镇</nobr> | 桥名 | 结构 | 长度 | 时代 | 等级说明 |
 |---|---|---|---|---|---|---|
+| <nobr>龙游县</nobr> | <nobr>东华街道</nobr> | 官村石桥 | — | — | 清代 | 龙游县文物保护单位（第五批，龙政发〔2020〕107号） |
+| <nobr>龙游县</nobr> | <nobr>詹家镇</nobr> | 詹家村中桥 | — | — | 清代 | 龙游县文物保护单位（第五批，龙政发〔2020〕107号） |
+| <nobr>龙游县</nobr> | <nobr>小南海镇</nobr> | 双宅下桥 | — | — | 清代 | 龙游县文物保护单位（第五批，龙政发〔2020〕107号） |
+| <nobr>龙游县</nobr> | <nobr>模环乡</nobr> | 新王村中桥 | — | — | 明清 | 龙游县文物保护单位（第五批，龙政发〔2020〕107号） |
+| <nobr>龙游县</nobr> | <nobr>大街乡</nobr> | 白坑桥 | — | — | 清代 | 龙游县文物保护单位（第五批，龙政发〔2020〕107号） |
 | <nobr>江山市</nobr> | <nobr>峡口镇</nobr> | 文昌桥 [?](http://www.china-qiao.com/ql15/qzql/qzql037.htm) | — | 17.5米 | 清乾隆年间建 | 江山市文物保护单位 |
 | <nobr>江山市</nobr> | <nobr>廿八都镇</nobr> | 水安桥 [?](http://www.china-qiao.com/ql15/qzql/qzql019.htm) | — | — | 清代 | 江山市文物保护单位 |
 | <nobr>江山市</nobr> | <nobr>廿八都镇</nobr> | 枫溪桥 [?](http://www.china-qiao.com/ql15/qzql/qzql018.htm) | — | — | 清代 | 江山市文物保护单位 |
