@@ -112,7 +112,7 @@ def imgbase(r, rs):
 for o in (json.load(open(S + '/build/extra.json')).get('嘉兴市', []) if os.path.exists(S + '/build/extra.json') else []):
     if not any(r['dist'] == o['dist'] and core(r['name']) == core(o['name']) for r in R): e(o['dist'], o['town'], o['name'], o['era'], o['loc'], o['lvtxt'], '—', o['src'], o.get('note', ''))
 for o in (json.load(open(S + '/build/official.json')).get('嘉兴市', []) if os.path.exists(S + '/build/official.json') else []):
-    if any(x['dist'] == o['dist'] and core(x['name']) == core(o['name']) for x in R): continue
+    if any(x['dist'] == o['dist'] and core(x['name']) == core(o['name']) and (x['town'] == o['town'] or '—' in (x['town'], o['town'])) for x in R): continue   # 同名不同镇的是两座桥
     u = '../../文保名录/' + o['src']; SRCNAME[u] = '政府原件：' + o['src'].split('/')[-1].rsplit('.', 1)[0]
     e(o['dist'], o['town'], o['name'], o['era'], o['loc'], o['lvtxt'], o['doc'], u)
 # 不在文保名录、老百晓集桥收录的古桥（尚未定级，待核实；build/unlisted.py）

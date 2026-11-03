@@ -1,6 +1,6 @@
 # 嘉兴市古桥
 
-共收录 396 座桥。
+共收录 428 座桥。
 
 ## 按级别统计
 
@@ -11,8 +11,8 @@
 | <nobr>市级文物保护单位</nobr> | <nobr>3</nobr> |
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>97</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>213</nobr> |
-| <nobr>历史建筑</nobr> | <nobr>5</nobr> |
-| <nobr>尚未定级（待核实）</nobr> | <nobr>61</nobr> |
+| <nobr>历史建筑</nobr> | <nobr>42</nobr> |
+| <nobr>尚未定级（待核实）</nobr> | <nobr>56</nobr> |
 
 ## 各区县桥梁数量（降序）
 
@@ -20,9 +20,9 @@
 |---|---|
 | <nobr>[桐乡市](桐乡市/README.md)</nobr> | <nobr>148</nobr> |
 | <nobr>[平湖市](平湖市/README.md)</nobr> | <nobr>66</nobr> |
-| <nobr>[秀洲区](秀洲区/README.md)</nobr> | <nobr>44</nobr> |
+| <nobr>[秀洲区](秀洲区/README.md)</nobr> | <nobr>61</nobr> |
+| <nobr>[南湖区](南湖区/README.md)</nobr> | <nobr>53</nobr> |
 | <nobr>[海盐县](海盐县/README.md)</nobr> | <nobr>40</nobr> |
-| <nobr>[南湖区](南湖区/README.md)</nobr> | <nobr>38</nobr> |
 | <nobr>[海宁市](海宁市/README.md)</nobr> | <nobr>36</nobr> |
 | <nobr>[嘉善县](嘉善县/README.md)</nobr> | <nobr>24</nobr> |
 
@@ -206,10 +206,10 @@
 
 数量较多，见各区县文件。
 
-### 历史建筑（5 座）
+### 历史建筑（42 座）
 
 数量较多，见各区县文件。
 
-### 尚未定级（待核实）（61 座）
+### 尚未定级（待核实）（56 座）
 
 数量较多，见各区县文件。
