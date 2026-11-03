@@ -253,7 +253,7 @@ def main():
     EF = json.load(open(S + '/build/era_fill.json')) if os.path.exists(S + '/build/era_fill.json') else {}
     for r in R:
         ek = '杭州市|' + r['dist'] + '|' + r['town'] + '|' + r['name']
-        if ek in EF and (r['era'] or '—') == EF[ek]['old']:
+        if ek in EF and (r['era'] or '—') == EF[ek]['old'] and EF[ek]['era'] not in (r['era'] or ''):   # 原文已含同样年代的不再改
             f = EF[ek]; old = r['era'] or '—'
             ds = [d for d in ('宋', '元', '明', '清', '民国') if d in old.replace('中华民国', '民国')]
             r['era'] = f['era'] if all(d in f['era'] for d in ds) else old + '；' + f['era']
