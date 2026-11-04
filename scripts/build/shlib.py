@@ -57,5 +57,45 @@ for line in open(os.path.join(S, '..', HP), encoding='utf8'):
         continue
     R.append(dict(dist='黄浦区', town=tw, name=n, era='—', loc=loc or '—', level='登记不可移动文物（黄浦区2025年补充公布）', doc='黄浦区文物局2025年8月8日公布', src=HPSRC, note=f'黄浦区第三次全国文物普查登记不可移动文物补充公布名录，登记表编号{code}', struct='—', len='—'))
     add += 1
+# 第四次全国文物普查新发现未定级不可移动文物（区文旅局公示/公布）
+LV4 = '未定级不可移动文物（四普新发现）'
+def add4(dist, tw, n, era, loc, doc, src, note=''):
+    global add
+    hit = [r for r in R if r['dist'] == dist and core(r['name']) == core(n) and r['town'] in (tw, '—')]
+    if hit:
+        r = hit[0]
+        if r['level'].startswith(('尚未定级', '登记不可移动')):
+            r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'等级据{dist}四普新发现名录（原记为{r["level"]}）'
+            r.update(level=LV4, doc=doc, src=src)
+            if (r.get('era') or '—') == '—': r['era'] = era
+        return
+    R.append(dict(dist=dist, town=tw, name=n, era=era, loc=loc, level=LV4, doc=doc, src=src, note=note, struct='—', len='—')); add += 1
+# 嘉定区（2026年3月24日拟公布名录公示，30处；页面表格：序号、名称、地址、保护级别）
+JD4 = '文保名录/上海市/嘉定区第四次全国文物普查新发现不可移动文物拟公布名录公示（2026年3月24日，30处）.html'
+JD4URL = 'https://www.jiading.gov.cn/publicity/gg/zwgg__publicity/fdzdgknr/gg/zwgg/196205'
+import html as _h
+t = open(os.path.join(S, '..', JD4), encoding='utf8', errors='ignore').read()
+for tr in re.findall(r'<tr.*?</tr>', t, re.S):
+    c = [re.sub(r'\s+', '', _h.unescape(re.sub(r'<[^>]+>', '', x))) for x in re.findall(r'<t[dh][^>]*>(.*?)</t[dh]>', tr, re.S)]
+    if len(c) < 4 or not c[0].isdigit() or not c[1].endswith('桥') or NB.search(c[1]): continue
+    tw = town(c[2])
+    add4('嘉定区', tw, c[1], '—', re.sub('^' + re.escape(tw), '', c[2]) if tw != '—' else c[2], '2026年3月24日公示', JD4URL)
+# 松江区（拟认定公布名录，共28处；PDF 表格折行严重，桥逐条录入）
+SJ4 = '../../文保名录/上海市/松江区第四次全国文物普查拟认定公布新发现未定级不可移动文物名录（共计28处）.pdf'
+for tw, n, era, loc, note in [
+    ('九里亭街道', '乐郊桥', '清道光十六年（1836）', '涞坊路599弄五洲云景花苑小区内42号楼北侧', ''),
+    ('车墩镇', '太平桥', '清代', '永福村（南距长永公路约175米，西距长福公路约330米）', ''),
+    ('车墩镇', '指南桥', '1935年', '米市渡松南郊野公园内（东距洞泾港约50米，北距闵塔公路约850米）', ''),
+    ('九亭镇', '吴家浜桥', '清光绪十八年（1892）', '勤富路503号吴家浜公园内（北距勤富路约24米，西距沈海高速约125米）', ''),
+    ('泖港镇', '来凤桥', '1922年', '园区西路与姚厍公路交汇处', ''),
+    ('叶榭镇', '南瑞桥', '1946年', '东勤村北（北距黄浦江南岸约165米，西距东清水港约280米）', ''),
+    ('叶榭镇', '友谊桥', '1972年', '叶新公路999号上海力登工业园东北角（北距叶新公路约50米）', ''),
+    ('小昆山镇', '永兴桥', '清康熙五十年（1711）', '谢家村路、谢家村北路交汇口北侧', ''),
+    ('小昆山镇', '小昆山十字桥', '1977年', '山西路4号小昆山园东南角外，打铁浜横河和小昆山五号河十字交汇口', ''),
+    ('小昆山镇', '小昆山三角桥', '1979年', '山西路4号小昆山园西南角外，昆岗河与打铁浜横河“Y”形交汇口', ''),
+    ('经开区', '昆秀桥', '清光绪二十八年（1902）', '昆秀湖西侧，东升港路以东约160米、文翔路以北约460米（2010年自姚家浜村原址整体迁建于此）',
+     '单跨石梁桥，桥面南北长6.7米、东西宽1.7米；东石条浮雕“崑秀橋”，阴刻“光绪二十八年重建”“里人谨募”，南侧石阶刻“戚万兴石作造”“丙寅年四月”（据松江区政府网2026年4月22日报道《新发现！松江经开区这座百年石桥，入列不可移动文物》）'),
+]:
+    add4('松江区', tw, n, era, loc, '松江区文旅局公布（拟认定公布名录共28处）', SJ4, note)
 json.dump(R, open(p, 'w'), ensure_ascii=False, indent=0)
 print('upgraded', up, 'added', add)
