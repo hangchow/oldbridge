@@ -148,10 +148,10 @@ for d in DISTS:
         L.append('| ' + ' | '.join([str(i), r['town'], (f"{r['name']} [?]({CQ[k]})" if (k := '苏州市|' + r['dist'] + '|' + r['town'] + '|' + r['name']) in CQ else r['name']), r['struct'], r['len'], r['era'] or '—', r['loc'] or '—', r['level'], r['doc'], img]) + ' |')
     notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
     notes += ['名单、等级、时代、地址、公布日期均以苏州市文化广电和旅游局公布的《苏州市各级文物保护单位名录》为准（原件存于本项目 文保名录/苏州市/）。',
-              '目前只收录国保、省保、市保；控制保护建筑、登记不可移动文物（文物点）还未收录。',
+              '收录国保、省保、市保，以及区县公布的第四次全国文物普查新发现不可移动文物（目前有吴中区）和老百晓集桥收录、不在名录中的古桥（尚未定级）；控制保护建筑、三普登记不可移动文物（文物点）还未收录。',
               '乡镇一列按名录地址提取，地址里没有写到乡镇的标“—”。',
               '结构、长度标“—”的，是没有查到可靠资料。']
-    L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '', f'- [苏州市文化广电和旅游局：文物保护单位（苏州市各级文物保护单位名录）]({GOVURL})']
+    L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '', f'- [苏州市文化广电和旅游局：文物保护单位（苏州市各级文物保护单位名录）]({GOVURL})'] + [f'- [{SN(u)}]({u})' for u in sorted({r.get("src") for r in rs} - {None, '', GOVURL, GOV}) if u.startswith('http') and 'china-qiao' not in u and 'wikipedia' not in u]
     fs = sorted(k for k in IMG if k.startswith(d + '/'))
     if fs:
         L += ['', '## 图片来源', '', '| 图片 | 来源 |', '|---|---|'] + [f'| [{k.split("/")[1]}]({k.split("/")[1]}) | {IMG[k]} |' for k in fs]
