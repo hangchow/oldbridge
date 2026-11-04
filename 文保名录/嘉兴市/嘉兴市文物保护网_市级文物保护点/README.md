@@ -1,0 +1,237 @@
+# 嘉兴市文物保护网：市级文物保护点
+
+来源：[https://www.jxwwbh.cn/ArticleList.aspx?ChID=20&ColID=120](https://www.jxwwbh.cn/ArticleList.aspx?ChID=20&ColID=120)。栏目共8页、158条记录，已下载158条；正文与资源可离线阅读。
+
+保留原始HTML、栏目分页、正文文字、官方照片及附件；资源文件记录原链接和SHA-256。重新运行 `scripts/tools/download_jxwwbh.py` 可续传。
+
+## 桥梁档案（55条，按标题筛选）
+
+| 名称 | 发布日期 | 来源 |
+|---|---|---|
+| [火炬村永兴桥](articles/9357.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9357) |
+| [周公石桥](articles/9356.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9356) |
+| [义圣王桥](articles/9351.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9351) |
+| [凤仪桥](articles/9350.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9350) |
+| [聚龙桥](articles/9349.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9349) |
+| [百步桥](articles/9348.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9348) |
+| [五环洞桥](articles/8116.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8116) |
+| [曹庄砖桥](articles/8115.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8115) |
+| [大盐仓桥](articles/8109.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8109) |
+| [七星村万兴桥](articles/8096.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8096) |
+| [沈庄桥](articles/8094.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8094) |
+| [建国村步云桥](articles/8093.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8093) |
+| [陆宣泾桥](articles/8092.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8092) |
+| [东兴隆桥](articles/8091.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8091) |
+| [农建村塘河桥](articles/8090.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8090) |
+| [新民村马泾桥](articles/8088.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8088) |
+| [茜柳村小砖桥](articles/8087.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8087) |
+| [大中桥](articles/8085.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8085) |
+| [新篁北郭桥](articles/8083.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8083) |
+| [新篁太平桥](articles/8082.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8082) |
+| [日旸桥](articles/8079.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8079) |
+| [月河丰乐桥](articles/8076.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8076) |
+| [东马桥](articles/8075.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8075) |
+| [徐王村张家桥](articles/8074.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8074) |
+| [红联村大桥](articles/8059.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8059) |
+| [胜丰村万安桥](articles/8051.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8051) |
+| [栖真村步云桥](articles/8050.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8050) |
+| [池湾村砖桥](articles/8047.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8047) |
+| [张家塔福德桥](articles/8044.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8044) |
+| [桃园村年安桥](articles/8043.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8043) |
+| [洛兴村永昌桥](articles/8041.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8041) |
+| [火炬村永兴桥](articles/8038.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8038) |
+| [荷花村正兴桥](articles/8030.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8030) |
+| [泰石桥](articles/8018.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8018) |
+| [三建村白云桥](articles/8017.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8017) |
+| [三建村环桥](articles/8016.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8016) |
+| [陈家坝村陶家桥](articles/8013.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8013) |
+| [通济桥](articles/8012.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8012) |
+| [栖真村南湖大桥](articles/8008.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8008) |
+| [洛东村喜阶桥](articles/8007.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8007) |
+| [小金港村翁家桥](articles/8006.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8006) |
+| [康和桥](articles/8005.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8005) |
+| [来龙桥村太平桥](articles/8004.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8004) |
+| [南洋村白云桥](articles/8003.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8003) |
+| [多嫁桥](articles/8002.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8002) |
+| [观音桥村思家桥](articles/8001.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8001) |
+| [问松桥](articles/7990.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7990) |
+| [凤舞社区天竺桥](articles/7989.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7989) |
+| [虹南村仲昌桥](articles/7987.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7987) |
+| [虹南村怀丝桥](articles/7986.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7986) |
+| [洪典桥](articles/7985.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7985) |
+| [东荷村天德桥](articles/7982.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7982) |
+| [浔阳桥](articles/7981.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7981) |
+| [济阳桥](articles/7980.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7980) |
+| [闻店桥](articles/7979.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7979) |
+
+## 全部档案
+
+| 名称 | 发布日期 | 来源 |
+|---|---|---|
+| [油车港镇开关厂旧址](articles/9361.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9361) |
+| [王店革命烈士墓](articles/9360.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9360) |
+| [抗战碉堡群](articles/9359.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9359) |
+| [老妇保院三眼井](articles/9358.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9358) |
+| [火炬村永兴桥](articles/9357.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9357) |
+| [周公石桥](articles/9356.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9356) |
+| [双魁巷石埠头群](articles/9355.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9355) |
+| [新篁太平寺](articles/9354.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9354) |
+| [泰来当铺](articles/9353.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9353) |
+| [张恒昌酱园旧址](articles/9352.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9352) |
+| [义圣王桥](articles/9351.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9351) |
+| [凤仪桥](articles/9350.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9350) |
+| [聚龙桥](articles/9349.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9349) |
+| [百步桥](articles/9348.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9348) |
+| [东塔寺遗址](articles/9347.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9347) |
+| [绕坟桥遗址](articles/9346.html) | 2022-05-16 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=9346) |
+| [塘北粮仓群](articles/8118.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8118) |
+| [五环洞桥](articles/8116.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8116) |
+| [曹庄砖桥](articles/8115.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8115) |
+| [红旗大队大礼堂](articles/8114.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8114) |
+| [三星村砖瓦厂旧窑](articles/8113.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8113) |
+| [石佛寺冯氏老宅建筑群](articles/8112.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8112) |
+| [凤桥肖振环老宅](articles/8111.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8111) |
+| [嘉兴石油机械厂老厂区](articles/8110.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8110) |
+| [大盐仓桥](articles/8109.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8109) |
+| [嘉兴冶金机械厂老厂区](articles/8108.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8108) |
+| [民丰造纸厂宿舍楼群](articles/8107.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8107) |
+| [嘉兴电气控制设备厂老厂区](articles/8106.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8106) |
+| [原嘉丝联厂房](articles/8105.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8105) |
+| [桥东街21号顾氏民宅](articles/8104.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8104) |
+| [宣公弄3～7号民宅](articles/8103.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8103) |
+| [铁路公房](articles/8102.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8102) |
+| [砖桥街民国消防所旧址](articles/8101.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8101) |
+| [嘉兴红卍字会旧址](articles/8100.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8100) |
+| [正春和布店门坊](articles/8099.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8099) |
+| [老财政局办公室](articles/8098.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8098) |
+| [嘉兴工人文化宫大礼堂](articles/8097.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8097) |
+| [七星村万兴桥](articles/8096.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8096) |
+| [姜家残牌坊](articles/8095.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8095) |
+| [沈庄桥](articles/8094.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8094) |
+| [建国村步云桥](articles/8093.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8093) |
+| [陆宣泾桥](articles/8092.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8092) |
+| [东兴隆桥](articles/8091.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8091) |
+| [农建村塘河桥](articles/8090.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8090) |
+| [兴善寺柏家民居](articles/8089.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8089) |
+| [新民村马泾桥](articles/8088.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8088) |
+| [茜柳村小砖桥](articles/8087.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8087) |
+| [凤桥徐可老宅](articles/8086.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8086) |
+| [大中桥](articles/8085.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8085) |
+| [节孝残牌坊](articles/8084.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8084) |
+| [新篁北郭桥](articles/8083.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8083) |
+| [新篁太平桥](articles/8082.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8082) |
+| [半墩祠堂](articles/8081.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8081) |
+| [高家祠堂](articles/8080.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8080) |
+| [日旸桥](articles/8079.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8079) |
+| [曹皇庙](articles/8078.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8078) |
+| [月河丰乐桥](articles/8076.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8076) |
+| [东马桥](articles/8075.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8075) |
+| [徐王村张家桥](articles/8074.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8074) |
+| [分水墩](articles/8073.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8073) |
+| [城隍庙大殿](articles/8072.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8072) |
+| [韩家浜遗址](articles/8071.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8071) |
+| [灶山坟遗址](articles/8070.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8070) |
+| [刘家坟遗址](articles/8069.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8069) |
+| [泥桥遗址](articles/8068.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8068) |
+| [五圣浜遗存](articles/8067.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8067) |
+| [蒋庵遗址](articles/8066.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8066) |
+| [大坟遗址](articles/8065.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8065) |
+| [周家湾遗址](articles/8063.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8063) |
+| [黄姑庵遗址](articles/8062.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8062) |
+| [姚家后墩遗址](articles/8061.html) | 2020-11-09 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8061) |
+| [泰石桥村拱顶储备粮仓](articles/8060.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8060) |
+| [红联村大桥](articles/8059.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8059) |
+| [建设村冯氏民宅](articles/8058.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8058) |
+| [庆丰街张氏民宅](articles/8057.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8057) |
+| [王店茧站](articles/8056.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8056) |
+| [火弄张氏老宅](articles/8055.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8055) |
+| [王店老火车站碉堡及附属房](articles/8054.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8054) |
+| [王店施定夫故居](articles/8053.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8053) |
+| [解放街李氏老宅](articles/8052.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8052) |
+| [胜丰村万安桥](articles/8051.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8051) |
+| [栖真村步云桥](articles/8050.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8050) |
+| [栖真镇茧站](articles/8049.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8049) |
+| [张绍忠故居](articles/8048.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8048) |
+| [池湾村砖桥](articles/8047.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8047) |
+| [合心村土窑群](articles/8046.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8046) |
+| [斗丰弄倪家大宅建筑群](articles/8045.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8045) |
+| [张家塔福德桥](articles/8044.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8044) |
+| [桃园村年安桥](articles/8043.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8043) |
+| [嘉桐工委新塍联络处](articles/8042.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8042) |
+| [洛兴村永昌桥](articles/8041.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8041) |
+| [知青宿舍、食堂、厂房](articles/8040.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8040) |
+| [张墩村礼堂](articles/8039.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8039) |
+| [火炬村永兴桥](articles/8038.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8038) |
+| [富园村窑址](articles/8037.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8037) |
+| [西北大街10～12号徐氏老宅](articles/8036.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8036) |
+| [西南大街黄氏民宅](articles/8035.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8035) |
+| [新塍中学教学楼](articles/8034.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8034) |
+| [西小桥弄吴氏老宅](articles/8033.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8033) |
+| [胡博泉老宅](articles/8032.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8032) |
+| [长虹村碉堡群](articles/8031.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8031) |
+| [荷花村正兴桥](articles/8030.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8030) |
+| [双桥苏式粮仓](articles/8029.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8029) |
+| [红联村胡氏民宅](articles/8028.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8028) |
+| [横港张镜荣老宅](articles/8027.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8027) |
+| [小曲村小学校舍](articles/8026.html) | 2020-11-06 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8026) |
+| [一里街碉堡](articles/8021.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8021) |
+| [苏嘉铁路嘉兴段遗迹](articles/8020.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8020) |
+| [能仁寺碑刻](articles/8019.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8019) |
+| [泰石桥](articles/8018.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8018) |
+| [三建村白云桥](articles/8017.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8017) |
+| [三建村环桥](articles/8016.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8016) |
+| [庆丰街码头](articles/8015.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8015) |
+| [四喜街宋氏老宅](articles/8014.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8014) |
+| [陈家坝村陶家桥](articles/8013.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8013) |
+| [通济桥](articles/8012.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8012) |
+| [西木桥弄3号倪家民宅](articles/8011.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8011) |
+| [西木桥弄北粮仓](articles/8010.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8010) |
+| [西木桥弄南粮仓](articles/8009.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8009) |
+| [栖真村南湖大桥](articles/8008.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8008) |
+| [洛东村喜阶桥](articles/8007.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8007) |
+| [小金港村翁家桥](articles/8006.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8006) |
+| [康和桥](articles/8005.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8005) |
+| [来龙桥村太平桥](articles/8004.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8004) |
+| [南洋村白云桥](articles/8003.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8003) |
+| [多嫁桥](articles/8002.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8002) |
+| [观音桥村思家桥](articles/8001.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8001) |
+| [新塍镇关帝庙](articles/8000.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=8000) |
+| [圣堂弄蔡氏老宅](articles/7999.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7999) |
+| [东岳庙](articles/7998.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7998) |
+| [中北大街郑氏老宅建筑群](articles/7997.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7997) |
+| [金铭勳老宅](articles/7996.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7996) |
+| [屠家祠堂](articles/7995.html) | 2020-11-03 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7995) |
+| [新塍镇财神庙](articles/7992.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7992) |
+| [朱大栩老宅](articles/7991.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7991) |
+| [问松桥](articles/7990.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7990) |
+| [凤舞社区天竺桥](articles/7989.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7989) |
+| [陈家村商家祠堂](articles/7988.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7988) |
+| [虹南村仲昌桥](articles/7987.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7987) |
+| [虹南村怀丝桥](articles/7986.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7986) |
+| [洪典桥](articles/7985.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7985) |
+| [范滩村钱氏书屋](articles/7984.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7984) |
+| [芥字港西费氏老宅](articles/7983.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7983) |
+| [东荷村天德桥](articles/7982.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7982) |
+| [浔阳桥](articles/7981.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7981) |
+| [济阳桥](articles/7980.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7980) |
+| [闻店桥](articles/7979.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7979) |
+| [河西村遗址](articles/7978.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7978) |
+| [三水湾遗址](articles/7977.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7977) |
+| [罗家甸遗址](articles/7976.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7976) |
+| [应家港遗址](articles/7975.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7975) |
+| [高家汇遗址](articles/7974.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7974) |
+| [南墓城遗址](articles/7973.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7973) |
+| [倭墩浜遗迹](articles/7972.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7972) |
+| [郎家桥遗址](articles/7971.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7971) |
+| [金桥遗址](articles/7970.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7970) |
+| [干家埭遗址](articles/7969.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7969) |
+| [孙家汇遗存](articles/7968.html) | 2020-11-02 | [原文](https://www.jxwwbh.cn/ArticleShow.aspx?ID=7968) |
+
+## 结构化数据
+
+- [全部档案及资源校验清单](manifest.json)
+- [可用表格软件打开的CSV](catalog.csv)
+- [桥梁对应与待核记录](bridge_review.json)：重复档案保留原件；疑似同桥单列待核。
+- [本地名录导入结果](import_summary.json)
+
+导入核对：52条对应已有桥梁，新增1座，重复档案1条，待核1条。为原来缺图的桥梁补入41张官方照片。

@@ -1,0 +1,63 @@
+[
+  {
+    "target": {
+      "dist": "秀洲区",
+      "town": "王江泾镇",
+      "name": "沈家桥村东杨家桥"
+    },
+    "url": "http://www.china-qiao.com/ql15/jxql/jxql466.htm",
+    "page": "jxql/jxql466.htm",
+    "photos": [
+      {
+        "local_file": "cq/jxql466_02.jpg",
+        "source_url": "https://www.china-qiao.com/ql15/jxql/pic_jx/jxql466_02.jpg"
+      },
+      {
+        "local_file": "cq/jxql466_03.jpg",
+        "source_url": "https://www.china-qiao.com/ql15/jxql/pic_jx/jxql466_03.jpg"
+      },
+      {
+        "local_file": "cq/jxql466.jpg",
+        "source_url": "https://www.china-qiao.com/ql15/jxql/pic_jx/jxql466.jpg"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "target": {
+      "dist": "秀洲区",
+      "town": "新塍镇",
+      "name": "洛西村万寿桥"
+    },
+    "url": "http://www.china-qiao.com/ql15/jxql/jxql462.htm",
+    "page": "jxql/jxql462.htm",
+    "photos": [
+      {
+        "local_file": "cq/jxql462_02.jpg",
+        "source_url": "https://www.china-qiao.com/ql15/jxql/pic_jx/jxql462_02.jpg"
+      },
+      {
+        "local_file": "cq/jxql462.jpg",
+        "source_url": "https://www.china-qiao.com/ql15/jxql/pic_jx/jxql462.jpg"
+      }
+    ],
+    "verified": false,
+    "reason": "照片为石梁桥，与地图洛西村万寿桥的单孔石拱桥不符；不绑定或复制图片"
+  },
+  {
+    "target": {
+      "dist": "海盐县",
+      "town": "沈荡镇",
+      "name": "沈荡第一桥"
+    },
+    "url": "http://www.china-qiao.com/ql15/jxql/jxql021.htm",
+    "page": "jxql/jxql021.htm",
+    "photos": [
+      {
+        "local_file": "cq/jxql021.jpg",
+        "source_url": "https://www.china-qiao.com/ql15/jxql/pic_jx/jxql021.jpg"
+      }
+    ],
+    "verified": true
+  }
+]

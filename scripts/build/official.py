@@ -100,14 +100,31 @@ for pre, rows in tables(ZJ4):
         put('绍兴市', dist='诸暨市', town=tw, name=name, era=era, loc=re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2, lv='wbd',
             lvtxt='未定级不可移动文物（四普新发现）', doc='2026年4月1日公告', src=ZJ4)
 
-# 海宁市第八批市级文物保护单位（2021年12月12日公布，9处；列：序号、名称、地址、类别、年代）
-HN8 = '嘉兴市/海宁市人民政府关于公布第八批市级文物保护单位的通知（海政发〔2021〕61号）.html'
-for pre, rows in tables(HN8):
-    for c in rows:
-        if len(c) < 5 or not c[0].isdigit(): continue
-        tw = (re.match(r'^(.{2,4}?(?:镇|街道))', c[2]) or [None, '—'])[1]
-        put('嘉兴市', dist='海宁市', town=tw, name=c[1], era=c[4], loc=c[2][len(tw):] if tw != '—' else c[2], lv='xian',
-            lvtxt='海宁市文物保护单位（第八批）', doc='海政发〔2021〕61号', src=HN8)
+# 嘉兴市第五批（2010年3月29日）：原件桥名含地名前缀，按同桥规范名录入。
+JX5 = '嘉兴市/嘉兴市第五批市级文物保护单位及撤销北溪桥名单（2010年3月29日）'
+for item in json.load(open(os.path.join(W, JX5 + '.json'), encoding='utf8'))['rows']:
+    hit = {'塘汇思贤桥': ('秀洲区', '塘汇街道', '思贤桥'), '栖真麟湖桥': ('秀洲区', '油车港镇', '麟湖桥'), '鉏家桥': ('南湖区', '解放街道', '鉏家桥')}.get(item['name'])
+    if hit:
+        d, tw, n = hit
+        put('嘉兴市', dist=d, town=tw, name=n, era=item['era'], loc=item['address'], lv='shi', lvtxt='嘉兴市文物保护单位（第五批）', doc='嘉政发〔2010〕34号', src=JX5 + '.html')
+
+# 海宁市第二批历史建筑（海政发〔2019〕38号，50处）：公报三页完整名单。
+HN2 = '嘉兴市/海宁市第二批历史建筑名单（海政发〔2019〕38号，公报摘录）'
+for item in json.load(open(os.path.join(W, HN2 + '.json'), encoding='utf8'))['rows']:
+    tw = '盐官镇' if item['town'] == '盐官度假区' else item['town']
+    put('嘉兴市', dist='海宁市', town=tw, name=item['name'], era='—', loc=item['address'], lv='wbd',
+        lvtxt='海宁市历史建筑（第二批，海政发〔2019〕38号）', doc='海政发〔2019〕38号', src=HN2 + '.pdf')
+
+# 海宁市第八批市级文物保护单位（2021年11月25日落款，9处）。
+# 公报印刷第44—45页原件单独摘存，JSON逐项对照PDF录入，保留全部9处。
+HN8 = '嘉兴市/海宁市第八批市级文物保护单位名单（海政发〔2021〕61号，公报摘录）'
+with open(os.path.join(W, HN8 + '.json'), encoding='utf8') as f:
+    hn8 = json.load(f)
+for c in hn8['rows']:
+    tw = (re.match(r'^(.{2,4}?(?:镇|街道))', c['address']) or [None, '—'])[1]
+    put('嘉兴市', dist='海宁市', town=tw, name=c['name'], era=c['era'],
+        loc=c['address'][len(tw):] if tw != '—' else c['address'], lv='xian',
+        lvtxt='海宁市文物保护单位（第八批）', doc=hn8['doc'], src=HN8 + '.pdf')
 
 # 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
 WXD = CF['无锡市']['dists']

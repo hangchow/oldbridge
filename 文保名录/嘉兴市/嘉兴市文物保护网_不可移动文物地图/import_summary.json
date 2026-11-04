@@ -1,0 +1,20 @@
+{
+  "candidate_count": 344,
+  "matched": 169,
+  "new": 169,
+  "pending": 6,
+  "before": 530,
+  "after": 699,
+  "new_by_district": {
+    "南湖区": 38,
+    "秀洲区": 63,
+    "海盐县": 26,
+    "嘉善县": 27,
+    "平湖市": 15
+  },
+  "full_details": 676,
+  "unavailable_details": 550,
+  "valid_geojson_points": 1217,
+  "cq_photos_used": 4,
+  "cq_photos_rejected": 2
+}

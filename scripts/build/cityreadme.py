@@ -18,6 +18,7 @@ def NL(r, base, city=''):
         # 桥名只链到本地云端档案网页；老百晓集桥的链接放在桥名后的“?”上
     nm = f"[{r['name']}]({os.path.relpath(O + '/' + r['sdl'], base)})" if r.get('sdl') else r['name']
     u = r.get('cq') or CQ.get(f"{city}|{r['dist']}|{r['town']}|{r['name']}")
+    if not media_allowed(city, r): u = None
     return f"{nm} [?]({u})" if u else nm
 
 CITIES = ['杭州市', '湖州市', '嘉兴市', '上海市', '苏州市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '无锡市', '南京市', '常州市', '镇江市', '扬州市', '徐州市', '连云港市', '淮安市', '盐城市', '泰州市', '南通市', '宿迁市']
@@ -33,6 +34,7 @@ def cat(lv):
     if lv.startswith('一般不可移动文物（照片确认'): return CATS[8]
     if lv.startswith('一般不可移动') or lv.startswith('登记不可移动'): return CATS[7]
     if lv.startswith('未定级'): return CATS[9]
+    if lv == '未评级': return CATS[10]   # 本项目已确认实体，未独立评级
     if lv.startswith('尚未定级（已核实'): return CATS[10]
     return CATS[11]
 
@@ -61,7 +63,7 @@ def DLk(r, base, city):
     return NB(f"[{d}]({os.path.relpath(f, base)})") if city and os.path.exists(f) else NB(d)
 
 def TL(r, base, city):
-    # 乡镇名链接到乡镇文件（目前只有杭州市辖区分到乡镇）
+    # 乡镇名链接到乡镇文件（杭州、嘉兴和湖州已分到乡镇）
     t = r['town']; f = f"{O}/{city}/{r['dist']}/{t}/{t}古桥.md"
     return f"[{t}]({os.path.relpath(f, base)})" if city and t not in ('—', '') and os.path.exists(f) else t
 
@@ -77,7 +79,7 @@ def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None):
         if full_all or k in LIST_FULL:
             hdr = ('| 区县 ' if with_dist else '') + '| 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |' + (' 图片 |' if imgs is not None else '')
             L += [hdr, '|---' * ((7 if with_dist else 6) + (imgs is not None)) + '|']
-            L += [('| ' + DLk(r, base, city) + ' ' if with_dist else '') + f"| {TL(r, base, city)} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" + (f" {imgs.get((r['town'], r['name']), '暂无')} |" if imgs is not None else '') for r in x]
+            L += [('| ' + DLk(r, base, city) + ' ' if with_dist else '') + f"| {TL(r, base, city)} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" + (f" {imgs.get((r['town'], r['name'], r.get('loc')), imgs.get((r['town'], r['name']), '暂无'))} |" if imgs is not None else '') for r in x]
         else:
             L += ['数量较多，见各区县文件。']
     return L
@@ -116,6 +118,12 @@ def city_readme(city, rows, sub):
     L += ['', '## 按级别列出'] + level_lists(rows, False, True, O + '/' + city, city)
     open(f'{O}/{city}/README.md', 'w').write('\n'.join(L) + '\n')
     return rows
+
+from townpages import prepare as prepare_towns, write_district, media_allowed
+TOWN_PAGES = {c: prepare_towns(c, json.load(open(S + '/' + k + '/rows.json'))) for c, k in [('嘉兴市', 'jx'), ('湖州市', 'huz'), ('绍兴市', 'sx')]}
+
+# 三县市也下分乡镇，区县页与拱墅区一致只作索引。
+TOWN_PAGES['杭州市'] = prepare_towns('杭州市', [r for r in json.load(open(S + '/build/all_rows.json')) if r['dist'] in C3])
 
 H = [r for r in json.load(open(S + '/build/all_rows.json')) if not (r['dist'] == '西湖区' and r['town'] == '三墩镇')] + sandun_rows()
 HZ = json.load(open(S + '/huz/rows.json'))
@@ -183,6 +191,10 @@ for c in ORDER:
         p = f'{O}/{c}/{d}'
         if not os.path.isdir(p): continue
         rs = [r for r in tot0[c] if r['dist'] == d]
+        if c in TOWN_PAGES and d in TOWN_PAGES[c]:
+            write_district(c, d, rs, TOWN_PAGES[c], level_table, level_lists)
+            DONE.append((c, d, len(rs), f'{p}/{d}古桥.md'))
+            continue
         t = collections.Counter(r['town'] for r in rs)
         for k in TA.get(c, {}).get(d, []):   # 没有桥的乡镇（街道）也列出（0）；仓库里写法带前缀（如“经开区长水街道”）或旧名包含它的不重复列
             if k not in t and not any(x.endswith(k) or k.endswith(x) for x in t if x != '—'): t[k] = 0
@@ -242,3 +254,7 @@ open(p, 'w', encoding='utf8').write(s)
 for root, ds, fs in os.walk(O):
     if '.git' not in root and not any(f.endswith('.md') for f in fs): print('NO MD:', root)
 print('杭州', len(hrows), '湖州', len(zrows))
+
+# 两市图片迁移后，更新源档案及各级汇总中的本地引用。
+from townpages import repair_links
+repair_links()

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 湖州市古桥名录生成（两级目录：湖州市/区县/区县古桥.md）
+# 湖州市行数据和区县中间页；cityreadme.py最终生成市/区县/乡镇三级目录。
 import json, os, re
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CQ = json.load(open(S + '/build/cqlinks.json')) if os.path.exists(S + '/build/cqlinks.json') else {}  # 老百晓集桥链接

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>非法访问</title>
+  <style type="text/css">
+
+.logo{ background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAADAFBMVEUAAABArt1Ox+YwkMxIltEmgMUgesYhdscwlc43pNZZyu8ng8U5is86i84gc8U5i9Api81Ku+QWZbJLwugwf8UYbbsTYK4wmdU4n9Zjyu04isshfMVxyvhqyvVpyvaK0v4eb7xDuN81js8ug8kwi857yv0nhMkniM40h8gWaLRXye83jdA4i9A0i8uX2v8jesZBtN5Px+s3is1pyPcxg8eEzvYWXKQ1ndY2i804qNg3is0zic86k88XWJwOQn4UareDzP0fccB0yvdwzfk3ic9pyPR7x/U2hss4i9A5itBgyvE2is5nx/Jyx/YdaK17yvwwlNE6jdNxyvmLzvuO0f89oNaO1vsng8aM0PyJzftaye9Sy+0gcrtbvOkugcd1zPs8k89Ljssgd8MqdrAoh8omgMR0yvlEs+CO0/+J0P1EhsItcbJjruaDyPd00foqf8Bixe44qNkhb7dEtt8jcrFdzPEkfMU3ntQPTI4jbrBNruBwyvUVUY51y/l2uvBYm9YiaKAjcq5kzvITWqIndrgVU5A/q9sXWZd51f1Rsd+EyPdMnNI9ptSLzvohYZ1RqdwMOnU8pN0xgLZ2uex1xvALOnMvl88OPnk5is5jxPA9ld9avug6jNIhaq0XZK1Svug6j9Vawu48kdkVXaoQWqYPVqVju+9Ttuchbq1rx/dDptYXYK4dZ61ryPBLst8xhr0pd7URUJNzw/BJsedBpN48k9shcbEXVJJCqt9qvu9atuc4kcYfcMAKT517xfdKrdwpfLckdLZSu+dBodQ5mc4yjccxicM4l9c4nNYngc0qfsYtgb4PSotZuelIruBBns8gdcYOUqGFy/1IqdYyk9YpfrwdYqAYWpV0y/puyflzyPdOs+hQtuE7jtEjbbeNzf8sh80JQoZ72P+A0f93z/9tv/Axj885lcmO2P9z1f9nwfM+nOYrfMEGSJVdvOwaZrKS0/9r0v9byPQ3jssldbwCQY1myPM8oNocabdGpN8riteZ4v9hzvturudIldRZot+v+HMLAAAAmHRSTlMAx7XfCefw79fOx+jDXe/q3r33tRf4+NjPzkfr5+DX/PS8JBD+8OjiHve8kHk9/v7Cvp8yLBD+1s7JhG1P/v749/Hu3KeQHP733dSyom0z++fQwJVrMyn25sXBtn1wVkf++/fw7o+Dd1xM+/n39ODa2dnZzsrJwKRyZVxTRT78+vHizcOvrqvx5uPi2r2wopZS7Ojc18Wsm9bTS7AAAAjxSURBVGje7Zh5XAxhGMcH6961jlw5FjmiLXRJKVdRkqPc933f933f922MwdjtcBNWxVYSpVQUVoWKQhQh9/3O+87sTDW7RH/57Jc/qk+f33ee53nfd94NM2DAgAEDBgqJqJPV+HEevXqNG2/VqejTrTy6enbs0L17RrpMJkuY3N9rXJ8iTO/j4VmnA6B2h0aNGnVv1y5Blmlh0a5/ryIqZLFL3To0HWvX1hoSElJTLSz6eRVBGVYu06Z16VK3bt08hna0IfW1hcyLV4WpsYOZs9jOzk7sbiax/rN4m8HlusyuWbMmawAAQzsZIPP169dA0a8XCpdYupFEVhahoFERKlzsIPqDx+9aDpDHMGVdow6Tlg6fMGHC8KXfQ4DBYnMn0RAzsZudWCy2c8MVKhKnIRVET+Pf5S9sWa5ZswFAoTVMWVdn+ETHmEeQ9y8dDwz/nvq132BraxMMYmItsZQSSIGrSIn+/MEtixdvyTd0nLJ+ZMCjRzExMf7B8T6A+ODg+JSfFhbjMR6mZhSFDBTZW1/+2JZViucxdJw2Mgakg3gfb29vH4bg4JTvFr0wPhKSqYFw15c/swoQAENLZFixYqNjjD+NrVKptLX19gb/aYCic2peg70KCUipvvxKlfiG2St2+EMcj0OUCKQKTlkyDuNhIqVwhM78BTNb1GcNA0GbZpcb6R9AY3tQCxQhl0/OpDx7zl31G0HvYsVa1K9fnzMMYPI1Bw6cgBzkQUs+bbTBOCxV+lskWjO9GFCAGiohQ7PlAfcAAZqwsAsHIEjEqZTqrQUrUIh1DWB62dZaQxUgmArzHTUTZ81afuFd2IUjRw7wQJ53xtwDuqEZEHLh/AY1apRlDHAQAzeBdI1m7er5DcAAuw2aBR0ITpUyQ3s2mKN8SmokLDDrkc+wTHNCs3KeKcbSbdCM7OywCxBO9G6+dgQE2soSHROuXr0V3zDQTrNsy6J8Uxqy6nL2mTNhkAuIsOUipgOuJGyQJaargDLAUFZraLFsSzesIOar7t49w4BU2fP5BRBiHcepaZkSZfiGFnNBvCDGI29cpmEl2bOQ+SFJ5/c0woRxGFWCNlRnuzRT94m1OvrGXZrLDHfN6e7ZqWC+KaYD91EVoQHNoXWxNSKdgm2aiNM3ENAUMZo+iAjYH+HnF4mwBuUbN4EGMGq6S9PHYjoxcroccZoFSCKmijBjisRJwlkk3NTeImxIX60BFjG9Daab3ZprEQCtJMLaSKrAFZTwBjN3prNGNy/JGtCoG+gR7I05nXsNEgG5Zi9W4YSb8LvSXgqfdU7zWtDADKLVJhM9gnlOR55dglxD4BSlchZsv7WYgF6TqSNK8Q3V52J62OYUcPUZVCBySUIqvH0l0iwJErWvULo0MJRnDD30ChY5OV26SvMMkouTzqbC7VFkOaOv2qjrVSgNaiiJDL8TxDhdDr95lSEXfzhMeGKWhII9+CTqqu2BoRSooTFtKLHnN4Ijx24y5OLDroabYwI4E7jKnn1XqttWBTWULlWyZGO0mEz1DdnfSRMYDrk5bBiQHDMWfH6cdGVjBqsrN2UMaLn20LcPVvs73TuGCA8/BjRxAr8tJ/jvNo/sashQijH0sNSzk9f6Pwq4DTjGIiAwp29JhBn7bS/cR2uAi6lJCd09mp/jGBNw7FQo4DYiNG+LuLPPnv1+3I94JW2Ao4YbYpRcp2Bljq0/EJw6FRcXylDg6JWABvErGD8p3oc2tK3XvjQyNLbTtZe7fTqodAy4/eAUR2iBZSpW5L1f9Jl8INgbGtgayvd10CFYpT6otHUMvfIAQnuurBflHxN6fZKurNmm3/CX8XkNoyoaCRegTsk5qNScOnQF4uf34MHhSlg+2lA4RKVdK/1DwJ3c27tatcpoQ4BN3Xc0b2bcl3Oi1J9ylCceHAIwkrdbC4xAgQQkxZ5RY75OeA8NlaEB1cDuT2sHbh5Dom6pUz4dv3DlEMfbBQUXKY6gXIdgkMWZS/xfgs8XyIA2RN856MHlYmuuuSWjbgHD8RuHD/HoVGCVSinWQMrREDZkLn2PDNyWg01q01PKWyPOX5oDgTon9/B+lkNvKwlcggicgSTEcJd4ZcomIoMSGeg21Roi6ZnFv4g4fImOpg2fwqEA8W2wwC0IvENZFJRYYoT1kckm2yIDu5hK9e2ME1mWIl5rG36JQoZTXP7h/VyH+OuI0hpIhULq7rAzIXWJ4/uXzCCqjoju3BmnCDcJ/3rc405aVBQtiN7PK6Cr8MuMUuAclErR+eGPn8NSAO/eZUd3hj8kXM1M+LunemTDtDS6BHXk28OQV+DfYSsdN0A3gsLzAB75IQP8SC01A9O1Hm3EtrVG1tOnDVEJ56AA8q2KzlPXTEooSFwISkXgYgeQbDKoVtQctIh6t8qKvPO0YcM0IEjbB6Hz3+6zwnRiKu9JEiqK5FlIUqEiKKm73Bqj42fcGlGq+VR6mS3Yfj4y8g4yNP/8YR/LGxdML+ZydzdX0A6EgsKlds5yYxPm84ZaTZ+uI2oNMl9zLvD69UimhLRXXP40EfY7TBoYSxzk9vb2cgeJcQOQDdPnrfQ5frwaOL/Bcm34MfBc4PmPwABLiOIK+PDBCiskIps+4z267pr0I3tiTuWm9UZEu4bH3b8fF3j+/HlUwtM0ah9XwOBCxnv12zA5JD09PTE5+WyQ70VAbGzs/XPn4gKB4SPTJL8PvAEUkk79vyYkdA8JOXv2SdCTIN8Xr2Iv+vn50QYgQE36Enry5EkmvytWaGz6ZyaEAAE0+Pr6xl68yAhoAy34fJLlOcwvtGEzawgKCvL1fQUNXJO4/CSQ/3d4yWTQgEpATWIN1+OOJh2FPE/ywP6Whf0yu6MmBeVvUiwTn/S841Ds7+nklZ6ubZIvW0Jg4P0XSUz8m6422D8xtH96ev4S/F4kJycnJYH4556LsX9moWdiejJniH11NDERCBIzHid6LiyqPy5PyXiekfSC5mhyYiIIz3ic0dHFCisybIaO8awNnhmRkVjbc8xQEVbE2FgN9Rjj4uIyxmOolQ1mwIABAwb+J34BUKf+uNEdWoUAAAAASUVORK5CYII=");}
+
+  html,body,div{
+    padding: 0;
+    margin: 0;
+    font-family: "微软雅黑";
+  }
+
+  .header{
+    position: relative;
+    width: 100%;
+    height: 8rem;
+    margin-top:4.4rem;
+    background: #f7f7f7;
+  }
+
+  .wrapper{
+    position: relative;
+    width: 100%;
+    margin-top:2rem;
+    background: pink;
+  }
+
+  .info,
+  .content{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+  }
+
+  .info{
+    
+      width: 56%;
+      height: 6rem;
+      
+      margin-left: -28%;
+      margin-top: -3rem;
+      /*background: orange;*/
+  }
+
+  .content{
+ 
+      width: 42%;
+      height: auto;
+
+      margin-left: -21%;
+      margin-top: -3rem;
+      border: 1px solid rgba(52, 128, 162, 0.8);
+      margin-top: 6rem;
+  }
+
+  .copyright{
+  position: absolute;
+    left: 50%;
+    margin-left: -79px;
+    width: 158px;
+    margin-top: 20px;
+
+    /* background: orange; */
+  }
+
+    .small-logo{
+      float: left;
+      display: inline-block;
+                  width: 56px;
+            height: 56px;
+            background-repeat: no-repeat;
+    background-size: 46%;
+    }
+
+    .copyright span{
+      font-size: 18px;
+      display: inline-block;
+      color: rgb(180, 180, 180);
+      
+    }
+
+    .copyright-text{
+      float: left;
+      margin-left: -28px;
+      margin-top: 2px;
+    }
+
+.info p {
+  padding-top: 3rem; 
+  text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color:rgb(120,20,20);
+}
+
+.content ul{
+  list-style: none;
+}
+
+.content ul li{
+  
+  line-height: 18px;
+}
+
+.content ul li label{
+  font-size: 14px;
+  width: 6rem;
+  display: inline-block;
+  text-align: right;
+  color: #555;
+
+}
+
+.content ul li .detail{
+  position: relative;
+  font-size: 12px;
+  width: 74%;
+  left: 7rem;
+  top: -18px;
+  word-wrap: break-word;
+}
+
+.picWrapper {
+    width: 96px;
+    height: 96px;
+    position: absolute;
+    left: 50%;
+    margin-left: -58px;
+    top: 50%;
+    margin-top: -46px;
+}
+
+
+.logo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+</style>
+
+</head>
+<body>
+  <div class="header">
+       <div class="picWrapper">
+       <div class="logo"></div></div>
+  </div>
+
+  <div class="wrapper"> 
+    <div class="info">
+      <p>请不要频繁访问</p>
+    </div>
+
+    <div class="content">
+     <ul>
+       <li><label>当前网址:</label><div class="detail">www.jxwwbh.cn/ShowDetail.aspx</div></li>
+       <li><label>客户端特征:</label><div class="detail">curl/8.7.1</div></li>
+       <li><label>拦截时间:</label><div class="detail">2026-11-05 03:53:34  </div></li>
+     </ul>
+  </div> 
+
+
+</div>
+
+
+</body>
+</html>

@@ -24,6 +24,9 @@ for c, k in K.items():
         n = core(b['name']); bt = tw(b['town'], b['dist'])
         sm = SAME.get((b['dist'], b['name']))
         cand = [r for r in R if r['dist'] == b['dist'] and r['name'] == sm] if sm else [r for r in R if r['dist'] == b['dist'] and (core(r['name']) == n or (len(n) >= 2 and core(r['name']).endswith(n) and len(core(r['name'])) - len(n) <= 4) or (len(core(r['name'])) >= 3 and n.endswith(core(r['name']))))]
+        if k == 'jx':
+            # 新抓的地图点位可能与异镇县保桥同名，不能吞掉原县保条目。
+            cand = [r for r in cand if not (r.get('map_record_status') == 'new' and bt != '—' and r['town'] not in ('—', bt))]
         if len(cand) > 1:
             v = b['vil']
             cand = [r for r in cand if v and (v[:-1] in r['name'] or v[:-1] in (r.get('loc') or ''))] or [r for r in cand if r['town'] == bt] or [r for r in cand if core(r['name']) == n] or cand
@@ -51,5 +54,8 @@ for c, k in K.items():
                       src=SRC, doc=doc, level=lvtxt, struct=HOLES.get(key, '—'), len=LENF.get(key, '—'),
                       note=note + ('，名录原名“' + b['orig'] + '”' if b['orig'] != b['name'] else '')))
         n_add += 1
+    if k == 'jx':
+        import runpy
+        R = runpy.run_path(S + '/build/jxprimary.py')['apply'](R)
     json.dump(R, open(p, 'w'), ensure_ascii=False, indent=0)
 print('upgraded', n_up, 'added', n_add)

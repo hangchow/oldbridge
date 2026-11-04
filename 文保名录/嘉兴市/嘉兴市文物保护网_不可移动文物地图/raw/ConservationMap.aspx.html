@@ -1,0 +1,191 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	嘉兴市不可移动文物地图
+</title><meta http-equiv="Content-Type" content="text/html;charset=gb2312" /><link rel="stylesheet" type="text/css" href="https://www.jxwwbh.cn:5443/library/2.8/jsapi/js/dojo/dijit/themes/claro/claro.css" /><link rel="stylesheet" type="text/css" href="https://www.jxwwbh.cn:5443/library/2.8/jsapi/js/esri/dijit/css/Popup.css" /><link href="css/basic.css" rel="stylesheet" type="text/css" /><link href="css/layout.css" rel="stylesheet" type="text/css" /><link href="js/easyui/themes/default/easyui.css" rel="stylesheet" type="text/css" />
+      <script  type="text/javascript">
+          var type = '2'
+    </script>
+    <script type="text/javascript" src="https://www.jxwwbh.cn:5443/library/2.8/jsapi/init.js"></script>
+    <script src="js/easyui/jquery-1.8.0.min.js" type="text/javascript"></script>
+    <script src="js/easyui/jquery.easyui.min.js" type="text/javascript"></script>
+    <script src="../js/jqueryPager/jquery.pagination.js" type="text/javascript"></script>
+
+    
+    <script src="js/config.js" type="text/javascript"></script>
+   
+    <script src="js/MapInforWindow.js" type="text/javascript"></script>
+    <script src="js/Tool.js" type="text/javascript"></script>
+   
+    <script src="js/measure.js" type="text/javascript"></script>
+    <script src="js/Common.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var dojoConfig = {
+            parseOnLoad: true
+
+        };
+        $(document).ready(function () {
+            setTimeout(function () {
+                //jquery加载并执行 js/TDTTiledLayer.js
+                $.getScript('js/TDTTiledLayer.js');
+                $.getScript('js/MapOperation.js');
+            }, 2000);
+        });
+    </script>
+   
+</head>
+<body class="claro">
+    <form name="form1" method="post" action="./ConservationMap.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM5OTc1NDgzOGRkjoolaoeX/ibowBm1Sq8oATigDFoaAL0TtMExaS+afQM=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="82B8AC9F" />
+    <div id="header" class="header">
+    <div id="topimg" class="topimg">嘉兴市不可移动文物地图</div>
+    <div id="div_topmn">
+        <ul>
+            <!-- <li onclick="wwmenu('default')">返回首页</li>
+            <li class="select" onclick="wwmenu('wwlist')">文物列表</li>
+            <li onclick="wwmenu('wwquery')">文物查询</li>
+            <li id="dzt" onclick="wwmenu('wwst')">文物专题</li> -->
+            <li onclick="wwmenu('default')">返回首页</li>
+            <li>专题图层</li>
+        </ul>
+    </div>
+    <div id="toplink">
+        <table>
+            <tr>
+                <td>
+                    <label id="kk">
+                    </label>
+                    
+                </td>
+                
+            </tr>
+        </table>
+    </div>
+    </div>
+    <div id="content">
+        <table align="center" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td id="fmenu" valign="top" height="100%">
+                    <div class="select" onclick="wwmenu('wwlist')">文物列表</div>
+                    <div onclick="wwmenu('wwquery')">文物查询</div>
+                    <div onclick="wwmenu('wwst')">文物专题</div>
+                </td>
+                <td id="fleft" valign="top" height="100%">
+                    <div id="leftPanel" class="leftPanel">
+                        <div class="menubox" id="menubox">
+                            <label id="menutitle" style="padding-left: 8px; font-family: 幼圆; font-weight: bold">
+                                文物列表
+                            </label>
+                        </div>
+                        <div id="wwResourcediv">
+                            <iframe id="ContentIframe" name="ContentIframe" src="wwTree.aspx" scrolling="auto"
+                                frameborder='0' width="310px" marginwidth="0" marginheight="0"></iframe>
+                        </div>
+                    </div>
+                </td>
+                <td width="100%" valign="top">
+                    <div id="toolbar">
+                        <table id="toolTab" cellpadding="0" cellspacing="0" border="0" style="height: 27px;">
+                            <tr>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('t')">
+                                        <img class="toolTab-img" src="img/07.png" alt="" />全图 </a></span>
+                                       
+                                </td>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('zoom_in')">
+                                        <img class="toolTab-img" src="img/06.png" alt="" />放大 </a></span>
+                                </td>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('zoom_out')">
+                                        <img class="toolTab-img" src="img/05.png" alt="" />缩小 </a></span>
+                                </td>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('pan')">
+                                        <img class="toolTab-img" src="img/08.png" alt="" />漫游 </a></span>
+                                </td>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('length')">
+                                        <img class="toolTab-img" src="img/02.png" alt="" />距离 </a></span>
+                                </td>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('area')">
+                                        <img class="toolTab-img" src="img/01.png" alt="" />面积 </a></span>
+                                </td>
+                                
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('clear')">
+                                        <img class="toolTab-img" src="img/03.png" alt="" />清除 </a></span>
+                                </td>
+                                  <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('tuli')">
+                                        <img class="toolTab-img"  src="img/11.png"
+                                            alt="" />图例 </a></span>
+                                </td>
+                                <td style="width: 15px;">
+                                    <span><a class="toolTab-a" onclick="mapToolBar('reload')">
+                                        <img  class="toolTab-img" src="img/reload.png"
+                                            alt="" />刷新 </a></span>
+                                </td>
+                                 
+                                
+                                
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="map" style="width: 100%;position: fixed;top: 0;left: 0;bottom: 0;right: 0;height: 100% !important;z-index: 11;"> 
+                        
+                        <div id="mapChange">
+                           <span title="显示卫星地图" onclick=" mapToolBar('image')" style="right: 10px; top: 60px;
+                            cursor: pointer; width: 47px; height: 49px; z-index: 100; position: fixed;
+                            font-size: 12px; border: 1px solid rgb(128, 128, 128); background-color: rgb(255, 255, 255);">
+                            <span style="width: 41px; height: 43px; position: absolute; margin: 2px; border: 1px solid rgb(128, 128, 128);
+                                background: url(img/mapctrls2d0.gif) 0px -177px no-repeat transparent;"><span style="position: absolute;
+                                    top: 27px; width: 41px; height: 16px; opacity: 0.5; background-color: rgb(128, 128, 128);">
+                                </span><span style="position: absolute; top: 29px; width: 41px; color: white; font: 12px arial,宋体,sans-serif;
+                                    text-align: center; line-height: 14px;">卫星</span></span></span>
+                        </div>
+                        <!-- <div id="arrow" style="z-index: 1001; position: absolute; left: 0px;">
+                            <a href="#" onclick="fshow()">
+                                <img id="hh_r2" src="img/arrow_left.png" border="0" alt="" />
+                            </a>
+                        </div> -->
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div id="foot" style="text-align: center; color: #222222;position: fixed;bottom: 0;z-index: 66;background: rgba(255, 255, 255, 0.6);">
+            主办单位：嘉兴市文物保护与考古研究所&nbsp&nbsp | &nbsp&nbsp底图数据来源：天地图•嘉兴&nbsp&nbsp | &nbsp&nbsp技术支持：嘉兴市测绘科学技术有限公司
+        </div>
+    </div>
+    <div id="findTree" style="display: none">
+        <table style="text-align: center">
+            <tr>
+                <td>
+                    节点名称:
+                </td>
+                <td>
+                    <input id="FindTreeNode" style="width: 200px" name="FindTreeNode" />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="win" class="easyui-window" title="大运河信息概况" style="width: 620px; height: 520px"
+        >
+    </div>
+    <div id="tlwid" class="easyui-window" title="文物点图例说明" style="width: 345px; height: 480px"
+         data-options="modal:true,collapsible:false,minimizable:false,maximizable:false">
+    </div>
+    <div id="dyhtl" class="easyui-window" title="大运河图例说明" style="width:270px; height: 350px"
+         data-options="modal:true,collapsible:false,minimizable:false,maximizable:false">
+    </div>
+
+    </form>
+
+   
+</body>
+</html>
