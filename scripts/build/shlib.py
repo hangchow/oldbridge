@@ -40,5 +40,22 @@ for line in open(S + '/build/sh_relic_bridges.psv'):
     key = f'上海市|{dist}|{tw}|{n}'
     R.append(dict(dist=dist, town=tw, name=n, era='—', loc=a or '—', level=lvtxt, doc='—', src=SRC, note='据' + SN, struct=HOLES.get(key, '—'), len=LENF.get(key, '—')))
     add += 1
+# 黄浦区第三次全国文物普查登记不可移动文物补充公布名录（2025年8月，254处；页面表格导出为 tsv）
+HP = '文保名录/上海市/黄浦区第三次全国文物普查登记不可移动文物补充公布名录（2025年8月，254处）.tsv'
+HPSRC = 'https://www.shhuangpu.gov.cn/zw/009002/009002015/009002015004/009002015004003/20250814/390e4ee6-fb85-4dc3-8a07-d735dcbdfe34.html'
+for line in open(os.path.join(S, '..', HP), encoding='utf8'):
+    c = line.rstrip('\n').split('\t')
+    if len(c) < 5 or not c[0].isdigit(): continue
+    n, code, a = c[1], c[2], c[3]
+    if NB.search(n) or not n.endswith('桥'): continue
+    tw = town(a); loc = re.sub(r'^' + re.escape(tw), '', a) if tw != '—' else a
+    hit = [r for r in R if r['dist'] == '黄浦区' and core(r['name']) == core(n)]
+    if hit:
+        r = hit[0]
+        if r['town'] == '—' and tw != '—': r['town'] = tw
+        if code not in (r.get('note') or ''): r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'黄浦区2025年补充公布三普登记名录，登记表编号{code}'
+        continue
+    R.append(dict(dist='黄浦区', town=tw, name=n, era='—', loc=loc or '—', level='登记不可移动文物（黄浦区2025年补充公布）', doc='黄浦区文物局2025年8月8日公布', src=HPSRC, note=f'黄浦区第三次全国文物普查登记不可移动文物补充公布名录，登记表编号{code}', struct='—', len='—'))
+    add += 1
 json.dump(R, open(p, 'w'), ensure_ascii=False, indent=0)
 print('upgraded', up, 'added', add)
