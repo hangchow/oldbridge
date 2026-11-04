@@ -62,6 +62,19 @@ for pre, rows in tables(YJ4):
         put('温州市', dist='永嘉县', town=town_of(re.sub(r'^浙江省温州市', '', addr), ['永嘉县']), name=name, era=era, loc=re.sub(r'^浙江省温州市永嘉县', '', addr), lv='wbd',
             lvtxt='未定级不可移动文物（四普新发现）', doc='2026年5月21日公布', src=YJ4)
 
+# 柯桥区第四次全国文物普查新发现未定级不可移动文物名录（绍柯文广旅〔2026〕9号，2026年4月10日，79处）：PDF 文字层提取为同名 txt；表格折行，去空白后按“序号 名称 类别 年代 地址”切分
+KQ4 = '绍兴市/柯桥区第四次全国文物普查新发现未定级不可移动文物名录（2026年4月10日，79处）'
+t = open(os.path.join(W, KQ4 + '.txt'), encoding='utf8').read()
+t = re.sub(r'\s+', '', re.sub(r'─ \d+ ─', '', t[t.index('序号 名称 类别'):]))
+KCAT = '古建筑|古文化遗址|古墓葬|石窟寺及石刻|近现代重要史迹及代表性建筑'
+for m in re.finditer(r'(\d{1,2})(\D+?)(' + KCAT + r')(.{0,12}?)浙江省绍兴市柯桥区(.+?)(?=\d{1,2}\D+?(?:' + KCAT + r')|$)', t):
+    no, name, cat, era, addr = m.groups()
+    if name.endswith('路亭'): continue
+    name = re.sub(r'、路廊及石碑$', '', name)
+    tw = town_of(addr, ['柯桥区'])
+    put('绍兴市', dist='柯桥区', town=tw, name=name, era=era or '—', loc=re.sub('^' + re.escape(tw), '', addr) if tw != '—' else addr, lv='wbd',
+        lvtxt='未定级不可移动文物（四普新发现）', doc='绍柯文广旅〔2026〕9号', src=KQ4 + '.pdf')
+
 # 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
 WXD = CF['无锡市']['dists']
 RN = {'万园桥': '万缘桥', '西埝桥': '西堰桥', '新安桥': '新岸桥'}   # 第七批附件3 更名
