@@ -215,7 +215,8 @@ for c in ORDER:
         open(fp, 'w').write('\n'.join(L).rstrip('\n') + '\n' + MK + '\n')
         DONE.append((c, d, len(rs), fp))
         if os.path.exists(f'{p}/README.md'): os.remove(f'{p}/README.md')   # 旧文件名
-L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
+CL = lambda c: f'[{c}]({c}/README.md)' if os.path.exists(f'{O}/{c}/README.md') else c   # 市名链到各市 README
+L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(CL(c) for c in tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
 for k in CATS:
     v = [sum(1 for r in rs if cat(r['level']) == k) for rs in tot.values()]
     if sum(v): L.append(f'| {k} | ' + ' | '.join(map(str, v)) + f' | {sum(v)} |')
