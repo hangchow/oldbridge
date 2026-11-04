@@ -88,6 +88,18 @@ for pre, rows in tables(NH4):
         put('宁波市', dist='宁海县', town=tw, name=name, era=era, loc=re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2, lv='wbd',
             lvtxt='未定级不可移动文物（四普新发现）', doc='2026年5月11日公示，四普编号' + c[1], src=NH4)
 
+# 诸暨市第四次全国文物普查新发现不可移动文物名录公告（2026年4月1日，115处；列：序号、属地（合并单元格，只在每镇第一行）、名称、统计年代、类别、地址及位置）
+ZJ4 = '绍兴市/诸暨市第四次全国文物普查新发现不可移动文物名录公告（2026年4月1日，115处）.html'
+for pre, rows in tables(ZJ4):
+    for c in rows:
+        if len(c) < 5 or not c[0].isdigit(): continue
+        if len(c) >= 6: c = [c[0]] + c[2:]
+        name, era, addr = c[1], c[2], c[4]
+        a2 = re.sub(r'^(浙江省)?(绍兴市)?诸暨市', '', addr)
+        tw = (re.match(r'^(.{2,4}?(?:镇|乡|街道))', a2) or [None, '—'])[1]
+        put('绍兴市', dist='诸暨市', town=tw, name=name, era=era, loc=re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2, lv='wbd',
+            lvtxt='未定级不可移动文物（四普新发现）', doc='2026年4月1日公告', src=ZJ4)
+
 # 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
 WXD = CF['无锡市']['dists']
 RN = {'万园桥': '万缘桥', '西埝桥': '西堰桥', '新安桥': '新岸桥'}   # 第七批附件3 更名
