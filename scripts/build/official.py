@@ -53,6 +53,15 @@ for n, f in (('五', '常州市/常州市第五批市级文物保护单位（常
             put('常州市', dist=d, town=town_of(a, CZD), name=name, era=era, loc=addr, lv='shi', lvtxt=f'常州市文物保护单位（第{n}批）',
                 doc=f'常州市第{n}批市级文物保护单位', src=f)
 
+# 永嘉县第四次全国文物普查新发现不可移动文物名录（2026年5月21日公布，131处；列：序号、名称、时代、类别、地址）
+YJ4 = '温州市/永嘉县第四次全国文物普查新发现不可移动文物名录（2026年5月21日公布，131处）.html'
+for pre, rows in tables(YJ4):
+    for c in rows:
+        if len(c) < 5 or not c[0].isdigit(): continue
+        name, era, addr = c[1], c[2], c[4]
+        put('温州市', dist='永嘉县', town=town_of(re.sub(r'^浙江省温州市', '', addr), ['永嘉县']), name=name, era=era, loc=re.sub(r'^浙江省温州市永嘉县', '', addr), lv='wbd',
+            lvtxt='未定级不可移动文物（四普新发现）', doc='2026年5月21日公布', src=YJ4)
+
 # 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
 WXD = CF['无锡市']['dists']
 RN = {'万园桥': '万缘桥', '西埝桥': '西堰桥', '新安桥': '新岸桥'}   # 第七批附件3 更名
