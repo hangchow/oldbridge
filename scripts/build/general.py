@@ -35,7 +35,8 @@ NAMES = {
 }
 
 def is_bridge(n):
-    if re.search(r'遗址|碑|井|民居|旧址|墓|水文站|凉亭|宅|厂|楼|桥头$', n): return False
+    if re.search(r'遗址|碑|旧址|墓|水文站|桥头$', n): return False
+    if not re.search(r'桥$|桥（[^）]*）$', n) and re.search(r'井|民居|凉亭|宅|厂|楼', n): return False   # “罗宅新桥”“楼家桥”是桥，“××宅”“××楼”不是
     return bool(re.search(r'桥$|桥（|桥及|吊桥|廊桥', n))
 
 def post49(era):
