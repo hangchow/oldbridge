@@ -166,8 +166,15 @@ def rows():
         a = core(g['name'])
         dup = [r for r in R if r['dist'] == g['dist'] and r['town'] == g['town'] and (core(r['name']) == a or (min(len(a), len(core(r['name']))) >= 3 and (core(r['name']) in a or a in core(r['name']))))]
         if dup:
-            if core(dup[0]['name']) != a: print('DEDUP', g['dist'], g['town'], g['name'], '->', dup[0]['name'])
-            continue
+            d0 = dup[0]
+            if d0['level'].startswith('尚未定级'):   # 原来只是“尚未定级”的，按官方名录升级等级、公布文件、来源，位置以名录为准
+                print('UPGRADE', g['dist'], g['town'], d0['name'], '->', g['level'])
+                d0['note'] = '；'.join(x for x in (d0.get('note'), f"名录登记名“{g['name']}”" if core(g['name']) != core(d0['name']) else '', g.get('note')) if x)
+                d0.update(level=g['level'], doc=g['doc'], loc=g['loc'] if g['loc'] not in ('', '—') else d0['loc'], srcs=g['srcs'] + [u for u in d0['srcs'] if u not in g['srcs']])
+                if (d0.get('era') or '—').startswith('—'): d0['era'] = g['era']
+                continue
+            if core(d0['name']) == a or not ('四普' in g['level'] and '三普' in d0['level']): continue
+            print('KEEP-BOTH', g['dist'], g['town'], g['name'], '/', d0['name'])   # 两条官方记录名称只是相近，按两座桥处理
         R.append(g)
     for r in R:
         if r['dist'] == '余杭区' and r['level'].startswith('杭州市文物保护单位') and cur.YH not in r['srcs']: r['srcs'].append(cur.YH)

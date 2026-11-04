@@ -15,6 +15,7 @@ U = dict(
     jd='https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html',
     sc='https://www.hzsc.gov.cn/col/col1229262710/art/2026/art_ebac3ab588614dc2a0646e8ee531f705.html',
     tl='https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html',
+    lp='https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html',
 )
 NAMES = {
     U['yh']: '余杭区不可移动文物名录（三普，余政办〔2011〕317号）',
@@ -26,6 +27,7 @@ NAMES = {
     U['jd']: '建德市第四次全国文物普查新发现不可移动文物公示',
     U['sc']: '上城区第四次全国文物普查新发现不可移动文物公示',
     U['tl']: '桐庐县第四次全国文物普查新发现不可移动文物公示',
+    U['lp']: '临平区第四次全国文物普查新发现不可移动文物名录（2026年3月16日公布）',
 }
 
 def is_bridge(n):
@@ -98,6 +100,16 @@ for key, dist in [('xs1', '萧山区'), ('xs2', '萧山区'), ('fy', '富阳区'
         loc = re.sub(r'^(浙江省)?(杭州市)?' + dist, '', addr)
         loc = re.sub(r'^' + re.escape(town), '', loc).lstrip('，,')
         add(dist, town, name, era, loc, G4, '2026年公示', U[key])
+
+# 临平区：列为 序号、名称、四普编号、年代、类别、级别、地址
+for c in page_rows(U['lp']):
+    if len(c) < 7: continue
+    name, era, addr = c[1], c[3], c[6].rstrip('。')
+    if not is_bridge(name): continue
+    town = find_town('临平区', addr)
+    if not town: print('NOTOWN', '临平区', name, addr); continue
+    loc = re.sub(r'^' + re.escape(town), '', re.sub(r'^(浙江省)?(杭州市)?临平区', '', addr)).lstrip('，,')
+    add('临平区', town, name, era, loc, G4, '2026年3月16日公布', U['lp'], '四普编号' + c[2])
 
 # --- D. 四普新发现（附件中提取）
 add('上城区', '彭埠街道', '郑家桥', '明代、清代', '王家井社区，麦庙港（古后沙河）上，地铁4号线新风站西侧', G4, '2026年公示', U['sc'])

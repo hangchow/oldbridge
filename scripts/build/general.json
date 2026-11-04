@@ -4261,6 +4261,276 @@
    "commons": null
   },
   {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "结网社区太平桥",
+   "era": "清代",
+   "loc": "结网社区金城路北侧80米、浙江春风凯特摩机车有限公司西南门西南侧254米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-0959-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "降福桥",
+   "era": "清代",
+   "loc": "南横港社区南横港北25号南侧10米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-0960-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "乔司街道",
+   "name": "东桥头东桥",
+   "era": "清代",
+   "loc": "永西村东桥头自然村东侧，杭州市临平信达外国语学校（华二校区）西北门南侧177米处，东西向跨方桥港",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-0961-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "西河港桥",
+   "era": "清代",
+   "loc": "姚家埭村，大运河南岸，蒋家湾驿站东北角大运河畔137米处，九里塘凉亭西侧18米",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-0964-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "星桥街道",
+   "name": "永嘉桥",
+   "era": "清代",
+   "loc": "星都社区汀洲学校北门北侧约85米处，东西向横跨于河道上",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-0965-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "南苑街道",
+   "name": "朗塘桥",
+   "era": "清代",
+   "loc": "文仪社区东湖南路南侧，保元桥东南角，保元泽第小区西南门东侧41米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-0993-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "横塘社区兴隆桥",
+   "era": "清代",
+   "loc": "横塘社区杭州临平特斯拉中心北侧5米处，天荷路与港园路西北角",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1001-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "新福桥",
+   "era": "清代",
+   "loc": "长虹社区卫生服务站东南侧约145米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1008-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "塘栖镇",
+   "name": "唐家埭村太平桥",
+   "era": "近现代",
+   "loc": "工业区塘康路286号浙江恩源印刷包装有限公司东北角12米，六墓庙东南角、浙江泰昌实业有限公司西北角",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1011-4；名录只写“近现代”，具体年代待核实",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "崇贤街道",
+   "name": "陈婆桥",
+   "era": "清代",
+   "loc": "鸭兰村运河西岸六通园艺东94米，运河码头仓库西南约64米",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1012-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "运河街道",
+   "name": "王家木桥",
+   "era": "近现代",
+   "loc": "东新村4组金家埭48号西北约100米，东新村卫生服务站西南约460米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1014-4；名录只写“近现代”，具体年代待核实",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "道墩坝村永安桥",
+   "era": "清代",
+   "loc": "道墩坝社区道墩坝村朝东埭3号民居南侧150米",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1017-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "塘栖镇",
+   "name": "闻家桥",
+   "era": "清代",
+   "loc": "莫家桥村11组清水港50号东侧",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1021-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "乔司街道",
+   "name": "和睦桥村和睦桥",
+   "era": "清代",
+   "loc": "和睦桥村茅家桥60号民宅北侧5米处，南北向跨小畈港",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1022-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "崇贤街道",
+   "name": "龙旋村保元桥",
+   "era": "近现代",
+   "loc": "龙旋村21组北马桥33号南侧13米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1024-4；名录只写“近现代”，具体年代待核实",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "大安桥",
+   "era": "清代",
+   "loc": "泉漳社区泉漳春晖小区（南区）11幢东侧13米、塘乾路北侧46米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1025-4",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "东湖街道",
+   "name": "屯里社区白马坑土桥",
+   "era": "近现代",
+   "loc": "屯里社区白马坑，超梅路东侧80米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1028-4；名录只写“近现代”，具体年代待核实",
+   "commons": null
+  },
+  {
+   "dist": "临平区",
+   "town": "崇贤街道",
+   "name": "水洪庙村皋亭桥",
+   "era": "近现代",
+   "loc": "沿山村9组水洪庙192号西北侧20米处",
+   "level": "未定级不可移动文物（四普新发现）",
+   "doc": "2026年3月16日公布",
+   "srcs": [
+    "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html"
+   ],
+   "struct": "—",
+   "note": "四普编号330113-1029-4；名录只写“近现代”，具体年代待核实",
+   "commons": null
+  },
+  {
    "dist": "上城区",
    "town": "彭埠街道",
    "name": "郑家桥",
@@ -4330,6 +4600,7 @@
   "https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html": "临安区第四次全国文物普查新发现不可移动文物名录",
   "https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html": "建德市第四次全国文物普查新发现不可移动文物公示",
   "https://www.hzsc.gov.cn/col/col1229262710/art/2026/art_ebac3ab588614dc2a0646e8ee531f705.html": "上城区第四次全国文物普查新发现不可移动文物公示",
-  "https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html": "桐庐县第四次全国文物普查新发现不可移动文物公示"
+  "https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html": "桐庐县第四次全国文物普查新发现不可移动文物公示",
+  "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html": "临平区第四次全国文物普查新发现不可移动文物名录（2026年3月16日公布）"
  }
 }
