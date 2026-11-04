@@ -75,6 +75,18 @@ for m in re.finditer(r'(\d{1,2})(\D+?)(' + KCAT + r')(.{0,12}?)浙江省绍兴�
     put('绍兴市', dist='柯桥区', town=tw, name=name, era=era or '—', loc=re.sub('^' + re.escape(tw), '', addr) if tw != '—' else addr, lv='wbd',
         lvtxt='未定级不可移动文物（四普新发现）', doc='绍柯文广旅〔2026〕9号', src=KQ4 + '.pdf')
 
+# 宁海县第四次全国文物普查新发现不可移动文物名录公示（2026年5月11日，121处；列：序号、四普编号、名称、年代、类别、地址、级别）
+NH4 = '宁波市/宁海县第四次全国文物普查新发现不可移动文物名录公示（2026年5月11日，121处）.html'
+for pre, rows in tables(NH4):
+    for c in rows:
+        if len(c) < 6 or not c[0].isdigit(): continue
+        name, era, addr = c[2], c[3], c[5]
+        if re.search(r'渡槽|石碾', name): continue
+        a2 = re.sub(r'^(浙江省)?(宁波市)?宁海县', '', addr)
+        tw = town_of(a2, ['宁海县'])
+        put('宁波市', dist='宁海县', town=tw, name=name, era=era, loc=re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2, lv='wbd',
+            lvtxt='未定级不可移动文物（四普新发现）', doc='2026年5月11日公示，四普编号' + c[1], src=NH4)
+
 # 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
 WXD = CF['无锡市']['dists']
 RN = {'万园桥': '万缘桥', '西埝桥': '西堰桥', '新安桥': '新岸桥'}   # 第七批附件3 更名
