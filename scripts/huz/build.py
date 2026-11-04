@@ -137,6 +137,39 @@ def main():
     # 不在文保名录、老百晓集桥收录的古桥（尚未定级，待核实；build/unlisted.py）
     for u in (json.load(open(S + '/build/unlisted.json')).get('湖州市', []) if os.path.exists(S + '/build/unlisted.json') else []):
         if not any(x['dist'] == u['dist'] and re.sub(r'（.*?）', '', x['name']) == u['name'] for x in R): R.append(dict(u, struct='—', len='—'))
+    # 湖州市本级不可移动文物名录（湖政发〔2012〕24号，三普登录，吴兴区、南浔区共1460处）：“未定”级即一般不可移动文物
+    import zipfile, html as _h
+    HZ3P = '/Users/sean/workspace/oldbridge/文保名录/湖州市/湖州市人民政府关于公布湖州市本级不可移动文物名录的通知.docx'
+    HZ3PSRC = '../../文保名录/湖州市/湖州市人民政府关于公布湖州市本级不可移动文物名录的通知.docx'
+    SRCNAME[HZ3PSRC] = '湖州市人民政府关于公布湖州市本级不可移动文物名录的通知（湖政发〔2012〕24号，三普登录）'
+    TM = {'环渚乡': '环渚街道', '杨家埠镇': '杨家埠街道', '旧馆镇': '旧馆街道'}   # 2012 年后撤乡（镇）设街道
+    x = zipfile.ZipFile(HZ3P).read('word/document.xml').decode('utf8'); cur = None; miss = []
+    for blk in re.findall(r'(<w:p[ >].*?</w:p>|<w:tbl>.*?</w:tbl>)', x, re.S):
+        if blk.startswith('<w:p'):
+            m = re.search(r'（(吴兴区|南浔区)）', _h.unescape(''.join(re.findall(r'<w:t[^>]*>([^<]*)</w:t>', blk))))
+            if m: cur = m.group(1)
+            continue
+        for tr in re.findall(r'<w:tr[ >].*?</w:tr>', blk, re.S):
+            c = [_h.unescape(''.join(re.findall(r'<w:t[^>]*>([^<]*)</w:t>', tc))).strip() for tc in re.findall(r'<w:tc>.*?</w:tc>', tr, re.S)]
+            if len(c) < 6 or not c[0].isdigit(): continue
+            name, era, town0, lv = c[1], c[2], c[4], c[5]
+            if not name.endswith('桥') or re.search(r'碑|亭|遗址|民居|宅|群$', name): continue
+            tw = TM.get(town0, town0)
+            same = [r for r in R if r['dist'] == cur and core(r['name']) == core(name)]
+            if len(same) > 1: same = [r for r in same if r['town'] in (tw, town0)] or same
+            if lv != '未定':
+                if not same: miss.append((cur, tw, name, lv))
+                continue
+            if same:
+                r = same[0]
+                if r['level'].startswith('尚未定级'):
+                    r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'等级据湖政发〔2012〕24号三普名录（原记为{r["level"]}）'
+                    r.update(level='一般不可移动文物（三普登录）', doc='湖政发〔2012〕24号', src=HZ3PSRC)
+                    if (r.get('era') or '—') in ('—', '清', '明'): r['era'] = era
+                continue
+            R.append(dict(dist=cur, town=tw, name=name, era=era, loc=town0, level='一般不可移动文物（三普登录）', doc='湖政发〔2012〕24号', src=HZ3PSRC,
+                          note='名录地址只写到乡镇（2012年行政区划）', struct='—', len='—'))
+    print('HZ3P 名录为文保单位（点）而本项目未收的桥', len(miss), miss[:30])
     # 结构为“—”或只写桥型、没有孔数的，按老百晓集桥页面补桥型和孔数（build/cqholes.py）
     HOLES = json.load(open(S + '/build/cq_holes.json')) if os.path.exists(S + '/build/cq_holes.json') else {}
     LENF = json.load(open(S + '/build/cq_len_fill.json')) if os.path.exists(S + '/build/cq_len_fill.json') else {}
