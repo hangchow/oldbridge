@@ -114,7 +114,7 @@ for r in R:
     elif r['lvk'] == 'sb': r['level'] = PROV + '文物保护单位' + ('（' + '，'.join(x for x in [g, r['num']] if x) + '）' if g or r['num'] else '')
     elif r['lvk'] == 'shi': r['level'] = f'{CITY}文物保护单位'
     elif r['lvk'] == 'xian': r['level'] = f"{r['dist']}文物保护单位"
-    elif r['lvk'] == 'dj': r['level'] = '尚未定级（待核实，老百晓集桥收录，不在文保名录中）'
+    elif r['lvk'] == 'dj': r['level'] = '尚未定级（待核实）'
     else: r['level'] = f'{CITY}文物保护点' if ZJ else f"一般不可移动文物（{r['dist']}不可移动文物名录）"
     if r.get('lvtxt'): r['level'] = r['lvtxt']
     k = f"{r['dist']}|{r['town']}|{r['name']}"
