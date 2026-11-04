@@ -84,6 +84,7 @@ for pre, rows in tables(NH4):
         if re.search(r'渡槽|石碾', name): continue
         a2 = re.sub(r'^(浙江省)?(宁波市)?宁海县', '', addr)
         tw = town_of(a2, ['宁海县'])
+        if tw == '—': tw = (re.match(r'^(.{2,4}?(?:镇|乡|街道))', a2) or [None, '—'])[1]   # 岔路镇含“路”，town_of 不认
         put('宁波市', dist='宁海县', town=tw, name=name, era=era, loc=re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2, lv='wbd',
             lvtxt='未定级不可移动文物（四普新发现）', doc='2026年5月11日公示，四普编号' + c[1], src=NH4)
 
