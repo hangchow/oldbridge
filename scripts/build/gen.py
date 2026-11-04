@@ -348,6 +348,9 @@ def main():
         if r['dist'] == '西湖区' and r['name'] in MV and '迁建' not in (r.get('loc') or ''): r['loc'] = (r.get('loc') or '—') + f"（{MV[r['name']]}）"
     # 余杭区良渚街道谢尚书庙桥即拱墅区福寿长桥，只在拱墅区列一次
     R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('余杭区', '良渚街道', '谢尚书庙桥')]
+    for r in R:
+        if (r['dist'], r['town'], r['name']) == ('余杭区', '仓前街道', '新桥'): r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '三普登录名“吴山前新桥”（东西向跨新桥港）'
+    R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('余杭区', '仓前街道', '吴山前新桥')]
     by = {}
     for r in R: by.setdefault((r['dist'], r['town']), []).append(r)
     bad = [k for k in by if k[0] not in towns or k[1] not in towns[k[0]]]

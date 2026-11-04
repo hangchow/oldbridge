@@ -4261,6 +4261,786 @@
    "commons": null
   },
   {
+   "dist": "余杭区",
+   "town": "余杭街道",
+   "name": "洪桐村青龙桥",
+   "era": "中华人民共和国",
+   "loc": "洪桐村青龙桥自然村内",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "余杭街道",
+   "name": "荷家桥",
+   "era": "清",
+   "loc": "金星村古金庵自然村南（运溪路西侧）",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "余杭街道",
+   "name": "环弄桥",
+   "era": "清",
+   "loc": "义桥村喻家村磨坊斗，南北向跨喻家村河",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "闲林街道",
+   "name": "阜民桥",
+   "era": "待定",
+   "loc": "方家山社区闲林埠老街",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "闲林街道",
+   "name": "公福桥",
+   "era": "清",
+   "loc": "方家山社区闲林埠老街",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "永乐村万安桥",
+   "era": "清",
+   "loc": "永乐村张家田畈68号前",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "葛巷桥",
+   "era": "清",
+   "loc": "葛巷社区文一西路新葛巷桥南约10米",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "葛巷村万安桥",
+   "era": "清",
+   "loc": "葛巷社区，南北向跨陆家桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "会源桥",
+   "era": "明",
+   "loc": "高桥村会源桥3号南",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "进兴桥",
+   "era": "清",
+   "loc": "高桥村金家桥自然村东侧",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "高桥村太平桥",
+   "era": "清",
+   "loc": "高桥村石华桥1号民居东，东西向跨新桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "连埧桥",
+   "era": "清",
+   "loc": "连具塘村良上线南侧",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "土桥",
+   "era": "清",
+   "loc": "连具塘村杭州开明家庭农场北侧，东西向跨土桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "荷叶岭门桥",
+   "era": "明",
+   "loc": "苕溪村荷叶岭自然村东，东西向跨无名小河",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仓前街道",
+   "name": "道胜桥",
+   "era": "明",
+   "loc": "太炎社区仓前老街",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "中泰街道",
+   "name": "拱南桥",
+   "era": "中华民国",
+   "loc": "石鸽社区北首，东西向跨水獭港，南湖大堤以南约350米处",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "福寿桥",
+   "era": "清",
+   "loc": "运河村八字桥3号民居东侧",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "埋甲桥",
+   "era": "清",
+   "loc": "运河村埋甲桥78号民居东侧的河道上，杭宣铁路以南约30米处",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "南阳桥",
+   "era": "清",
+   "loc": "谢村良渚门户公园河边",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "宝隆桥",
+   "era": "清",
+   "loc": "东塘河村1组王家门1号前",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "歌罗桥",
+   "era": "中华民国",
+   "loc": "大陆村歌罗桥自然村原村委东，南北向跨歌罗桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "登云桥",
+   "era": "中华民国",
+   "loc": "大陆村杨家桥自然村，南北向跨七贤港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "北新桥",
+   "era": "清",
+   "loc": "大陆村17组北星桥18号民宅东侧50米",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "先试桥",
+   "era": "清",
+   "loc": "新港村北五马头自然村，西临东苕溪",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "永丰桥",
+   "era": "清",
+   "loc": "博园社区赞成赞城小区内",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "五方兴隆桥",
+   "era": "清",
+   "loc": "西塘河村丁公村自然村与裘家村自然村交界处，东西向跨西塘河",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "佑隆桥",
+   "era": "清",
+   "loc": "金家渡社区徐家斗自然村西，东西向跨王庵漾",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "北长桥",
+   "era": "清代",
+   "loc": "东莲村双浜郎自然村南",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "天神桥",
+   "era": "清代",
+   "loc": "纤石村1组草里坝",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "良渚街道",
+   "name": "福庆桥",
+   "era": "中华人民共和国",
+   "loc": "杜城村木桥头自然村东南，东西向跨前山港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "寺斗里太平桥",
+   "era": "清",
+   "loc": "洛阳村寺斗里自然村南，南北向跨太平港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "高义桥",
+   "era": "清",
+   "loc": "新桥村石桥西3号民居以东，东西向跨石桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "丝网埭太平桥",
+   "era": "中华民国",
+   "loc": "平宅村丝网埭30号民居西南角、村委西北",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "华墅桥",
+   "era": "中华民国",
+   "loc": "东风村华墅桥",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "陈公坝桥",
+   "era": "中华民国",
+   "loc": "九龙村张花弄47号民居南侧",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "三白潭村青龙桥",
+   "era": "清",
+   "loc": "三白潭村施家墩自然村东南，东西向跨施家墩河",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "施家墩石桥",
+   "era": "明、清",
+   "loc": "三白潭村施家墩村石桥头19号民居西，东西向跨施家墩河",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "仁德桥",
+   "era": "清",
+   "loc": "三白潭村金家墩西坝头北，南北向跨石桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "信善桥",
+   "era": "清",
+   "loc": "三白潭村金家墩村南阳墩49号东南，南北向跨庙桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "永福长桥",
+   "era": "清",
+   "loc": "普宁村长桥头33号民居西南，南北向跨长桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "石蟹桥",
+   "era": "清",
+   "loc": "普宁村高新农业园区北首，南北向跨石蟹港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "慈大桥",
+   "era": "清",
+   "loc": "洛阳村田头村自然村东，东西向跨慈大桥港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "蔡婆桥",
+   "era": "清",
+   "loc": "奉口村宋家塘自然村西，南北向跨六亩漾",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "豆富桥",
+   "era": "清",
+   "loc": "东山村豆腐桥自然村东，东西向跨东港漾",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "仁和街道",
+   "name": "东山村余庆桥",
+   "era": "中华民国",
+   "loc": "东山村后墩桥7号民居西北，东西向跨中塘河",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "瓶窑镇",
+   "name": "伍福桥",
+   "era": "清",
+   "loc": "石濑村埂头自然村南，南北向跨溪坑",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "瓶窑镇",
+   "name": "长命村环桥",
+   "era": "清",
+   "loc": "长命村长命桥自然村中心位置，东西向跨良渚港",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "瓶窑镇",
+   "name": "长命方家桥",
+   "era": "中华人民共和国",
+   "loc": "长命村长命桥40号民宅南，南北向跨良渚港分支",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "瓶窑镇",
+   "name": "仲家村太平桥",
+   "era": "清",
+   "loc": "瓶窑社区仲家村自然村东南，东西向跨良渚港（夹塘）",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "径山镇",
+   "name": "善庆桥",
+   "era": "清",
+   "loc": "漕桥村小五山村景家头西南",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "黄湖镇",
+   "name": "赐璧村环桥",
+   "era": "中华民国三十五年（1946）",
+   "loc": "赐璧村赐璧47-1号民居北侧",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
+   "dist": "余杭区",
+   "town": "鸬鸟镇",
+   "name": "积善桥",
+   "era": "中华民国",
+   "loc": "太公堂村凌村坞自然村内，东西向跨凌村溪",
+   "level": "一般不可移动文物（余杭区2023年复核公示）",
+   "doc": "2023年11月3日公示",
+   "srcs": [
+    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+   ],
+   "struct": "—",
+   "note": "",
+   "commons": null
+  },
+  {
    "dist": "临平区",
    "town": "东湖街道",
    "name": "结网社区太平桥",
@@ -4601,6 +5381,7 @@
   "https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html": "建德市第四次全国文物普查新发现不可移动文物公示",
   "https://www.hzsc.gov.cn/col/col1229262710/art/2026/art_ebac3ab588614dc2a0646e8ee531f705.html": "上城区第四次全国文物普查新发现不可移动文物公示",
   "https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html": "桐庐县第四次全国文物普查新发现不可移动文物公示",
+  "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html": "余杭区一般不可移动文物拟公布名录（2023年11月3日公示，三普登录文物复核）",
   "https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html": "临平区第四次全国文物普查新发现不可移动文物名录（2026年3月16日公布）"
  }
 }

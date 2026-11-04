@@ -15,6 +15,7 @@ U = dict(
     jd='https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html',
     sc='https://www.hzsc.gov.cn/col/col1229262710/art/2026/art_ebac3ab588614dc2a0646e8ee531f705.html',
     tl='https://www.tonglu.gov.cn/col/col1229254257/art/2026/art_3753223afa6743418312cc06920efbe9.html',
+    yh23='https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html',
     lp='https://www.linping.gov.cn/col/col1229594854/art/2026/art_4818e6e5c6514e9289fa2b51225699e0.html',
 )
 NAMES = {
@@ -27,6 +28,7 @@ NAMES = {
     U['jd']: '建德市第四次全国文物普查新发现不可移动文物公示',
     U['sc']: '上城区第四次全国文物普查新发现不可移动文物公示',
     U['tl']: '桐庐县第四次全国文物普查新发现不可移动文物公示',
+    U['yh23']: '余杭区一般不可移动文物拟公布名录（2023年11月3日公示，三普登录文物复核）',
     U['lp']: '临平区第四次全国文物普查新发现不可移动文物名录（2026年3月16日公布）',
 }
 
@@ -100,6 +102,16 @@ for key, dist in [('xs1', '萧山区'), ('xs2', '萧山区'), ('fy', '富阳区'
         loc = re.sub(r'^(浙江省)?(杭州市)?' + dist, '', addr)
         loc = re.sub(r'^' + re.escape(town), '', loc).lstrip('，,')
         add(dist, town, name, era, loc, G4, '2026年公示', U[key])
+
+# 余杭区一般不可移动文物（2023年复核公示）：列为 序号、名称、类别、年代、地址
+for c in page_rows(U['yh23']):
+    if len(c) < 5: continue
+    name, era, addr = c[1], c[3], c[4].rstrip('。')
+    if not is_bridge(name): continue
+    town = find_town('余杭区', addr)
+    if not town: print('NOTOWN', '余杭区', name, addr); continue
+    loc = re.sub(r'^' + re.escape(town), '', re.sub(r'^(浙江省)?(杭州市)?余杭区', '', addr)).lstrip('，,')
+    add('余杭区', town, name, era, loc, '一般不可移动文物（余杭区2023年复核公示）', '2023年11月3日公示', U['yh23'])
 
 # 临平区：列为 序号、名称、四普编号、年代、类别、级别、地址
 for c in page_rows(U['lp']):

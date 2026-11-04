@@ -2186,6 +2186,244 @@
   "len": "32.6米"
  },
  {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "昌后桥",
+  "era": "清雍正四年（1726）重建，道光二十五年（1845）重建",
+  "loc": "永乐村景腾北路咏舟府楼盘西侧",
+  "level": "未定级不可移动文物（四普新发现）",
+  "doc": "四普登录（据现场“第四次全国文物普查登录文物”标志牌；余杭区尚未见正式公布名录）",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（三孔）",
+  "note": "南侧桥额刻“昌后桥”，北侧刻“通恩桥”，简介碑另称“周家桥”；东南侧石排柱字堂刻“雍正四年岁次丙午荷月吉旦喜助重建”，东北桥面石刻“道光二十五年六月重建”。据微信公众号“宿舟河下”《仓前街道永乐村的古桥》（2026年2月24日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "廉让桥",
+  "era": "清道光二十六年（1846）",
+  "loc": "连具塘村委西侧，椅子湾26号北侧河道",
+  "level": "未定级不可移动文物（四普新发现）",
+  "doc": "四普登录（据现场“第四次全国文物普查登录文物”标志牌；余杭区尚未见正式公布名录）",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "东西走向，两侧桥额均刻桥名；年代据余杭区官网资料。据微信公众号“宿舟河下”《仓前街道连具塘村的古桥》（2026年3月19日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "通义桥",
+  "era": "清康熙五十余年（约1712—1720）",
+  "loc": "吴山前村孙家泾20号附近",
+  "level": "未定级不可移动文物（四普新发现）",
+  "doc": "四普登录（据现场“第四次全国文物普查登录文物”标志牌；余杭区尚未见正式公布名录）",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "东西走向，东北侧石排柱字堂依稀可见“康□伍□年”；2018年仓前街道保护性修缮。据微信公众号“宿舟河下”《仓前街道吴山前村的古桥》（2026年4月3日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "云龙桥",
+  "era": "—",
+  "loc": "高桥村贾家桥路水闸东侧",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "南北走向，桥名据当地老人，或又名贾家桥；桥帽石刻花卉、“笔锭如意”图案，南侧石排柱断裂缺失；无任何文物标识。据微信公众号“宿舟河下”《仓前街道高桥村的古桥①》（2025年12月10日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "石墩高桥",
+  "era": "清道光七年（1827）重建",
+  "loc": "纤石村沈家门11号西，花园聚财桥西约200米",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "南北走向，桥面两块弧形条石；东侧桥额刻“道光七年三月重建”；南侧桥台被树根挤压移位；无文物标识。据微信公众号“宿舟河下”《良渚纤石村的古桥》（2025年7月26日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "五贵桥",
+  "era": "—",
+  "loc": "七贤桥村，与复建的埠头庙桥同一河道",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（五孔）",
+  "note": "南北走向，南端已封；无任何标识，作者称“普查也没普到”。据微信公众号“宿舟河下”《几座不知名的古桥③》（2025年5月9日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "如意桥",
+  "era": "—",
+  "loc": "大陆村南斗门",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥",
+  "note": "桥额可辨“如意橋”，东南侧石排柱字龛可辨“陳子中立”；小体量。据微信公众号“宿舟河下”《良渚大陆村的几座古桥②》（2025年5月30日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "四郎桥",
+  "era": "—",
+  "loc": "东莲村四郎桥自然村，良睦路西北侧",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥",
+  "note": "桥帽石有三孔托木凹槽；良渚民间“十桥”之一。据微信公众号“宿舟河下”《良渚东莲村的两座古桥》（2025年6月6日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "永顺桥（俗称总管桥）",
+  "era": "—",
+  "loc": "石桥村18组梁东村总管堂庙北侧，新总管桥西侧",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "南北走向，桥额刻“永順橋”，村民称总管桥；西南侧石排柱有仰覆莲花字堂，桥心刻漩涡纹；无文物标识。据微信公众号“宿舟河下”《良渚石桥村的古桥①》（2025年6月13日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "保安桥（俗称高明桥）",
+  "era": "—",
+  "loc": "纤石村良安路高明桥8号旁",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "南北走向，东西桥额均刻“保安桥”；桥面已铺沥青、加栏杆；无文物标识。与余杭街道乾元社区保安桥不是同一座。据微信公众号“宿舟河下”《良渚纤石村的古桥②》（2025年8月23日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "黄墩桥",
+  "era": "—",
+  "loc": "良渚村八公桥附近（地图误作“黄灯桥”）",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（三孔）",
+  "note": "南北走向，桥面铺水泥、加水泥栏杆；南侧石排柱有荷叶莲花字堂。据微信公众号“宿舟河下”《良渚街道良渚村的古桥》（2025年10月19日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "卜家桥",
+  "era": "—",
+  "loc": "良渚村卜家里21号对面",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（单孔）",
+  "note": "东西走向，桥面三块石梁，南侧桥面石依稀刻“天□桥”，桥心漩涡纹；卜家桥为民间俗称。据微信公众号“宿舟河下”《良渚街道良渚村的古桥》（2025年10月19日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "余杭区",
+  "town": "仁和街道",
+  "name": "木克桥",
+  "era": "—",
+  "loc": "栅庄桥村，仁和第三幼儿园附近",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥（五孔）",
+  "note": "已成危桥，两端封闭；无任何标识。据微信公众号“宿舟河下”《几座不知名的古桥》（2025年2月23日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
+  "dist": "临平区",
+  "town": "东湖街道",
+  "name": "三官堂桥",
+  "era": "—",
+  "loc": "振兴西路禾丰港桥韵公园内（北沙西路排涝站南）",
+  "level": "尚未定级（待核实，微信公众号“宿舟河下”寻访记录，不在文保名录中）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ",
+  "struct": "石梁桥",
+  "note": "立有古桥简介和文物安全责任人公示牌，作者称“虽未定级”；东北桥台石刻“信士”，横置桥台有仰覆莲花字堂。据微信公众号“宿舟河下”《几座不知名的古桥》（2025年2月23日）",
+  "commons": null,
+  "srcs": [
+   "https://mp.weixin.qq.com/s/bZ-bH4BeNCG9_z7kHvnPlQ"
+  ],
+  "len": "—"
+ },
+ {
   "dist": "上城区",
   "town": "小营街道",
   "name": "铁佛桥",
@@ -3951,7 +4189,7 @@
    "http://www.yuhang.gov.cn/art/2023/11/24/art_1229187659_4221045.html"
   ],
   "struct": "—",
-  "note": "",
+  "note": "三普登录名“吴山前新桥”（东西向跨新桥港）",
   "commons": null,
   "len": "—"
  },
@@ -6817,21 +7055,6 @@
  {
   "dist": "余杭区",
   "town": "仓前街道",
-  "name": "吴山前新桥",
-  "era": "清",
-  "loc": "吴山前村新桥头自然村西，东西向跨新桥港",
-  "level": "一般不可移动文物（三普登录）",
-  "doc": "余政办〔2011〕317号",
-  "srcs": [
-   "https://www.yuhang.gov.cn/art/2025/9/16/art_1229174782_1861133.html"
-  ],
-  "struct": "—",
-  "note": "",
-  "commons": null
- },
- {
-  "dist": "余杭区",
-  "town": "仓前街道",
   "name": "苕溪村大兴桥",
   "era": "清、中华民国",
   "loc": "苕溪村童家桥25号民居东,东西向跨童家漾",
@@ -8754,6 +8977,96 @@
    "https://www.jiande.gov.cn/col/col1229535322/art/2026/art_cb5db2ecf58f4269aee587b44cd6ef7f.html"
   ],
   "struct": "石拱桥",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "葛巷桥",
+  "era": "清",
+  "loc": "葛巷社区文一西路新葛巷桥南约10米",
+  "level": "一般不可移动文物（余杭区2023年复核公示）",
+  "doc": "2023年11月3日公示",
+  "srcs": [
+   "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "会源桥",
+  "era": "明",
+  "loc": "高桥村会源桥3号南",
+  "level": "一般不可移动文物（余杭区2023年复核公示）",
+  "doc": "2023年11月3日公示",
+  "srcs": [
+   "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "进兴桥",
+  "era": "清",
+  "loc": "高桥村金家桥自然村东侧",
+  "level": "一般不可移动文物（余杭区2023年复核公示）",
+  "doc": "2023年11月3日公示",
+  "srcs": [
+   "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "连埧桥",
+  "era": "清",
+  "loc": "连具塘村良上线南侧",
+  "level": "一般不可移动文物（余杭区2023年复核公示）",
+  "doc": "2023年11月3日公示",
+  "srcs": [
+   "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "余杭区",
+  "town": "仓前街道",
+  "name": "土桥",
+  "era": "清",
+  "loc": "连具塘村杭州开明家庭农场北侧，东西向跨土桥港",
+  "level": "一般不可移动文物（余杭区2023年复核公示）",
+  "doc": "2023年11月3日公示",
+  "srcs": [
+   "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "余杭区",
+  "town": "良渚街道",
+  "name": "北新桥",
+  "era": "清",
+  "loc": "大陆村17组北星桥18号民宅东侧50米",
+  "level": "一般不可移动文物（余杭区2023年复核公示）",
+  "doc": "2023年11月3日公示",
+  "srcs": [
+   "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
   "note": "",
   "commons": null
  },
