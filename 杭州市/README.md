@@ -1,6 +1,6 @@
 # 杭州市古桥
 
-共收录 722 座桥。
+共收录 734 座桥。
 
 ## 按级别统计
 
@@ -12,7 +12,7 @@
 | <nobr>县（区）级文物保护单位</nobr> | <nobr>21</nobr> |
 | <nobr>文物保护点</nobr> | <nobr>120</nobr> |
 | <nobr>历史建筑</nobr> | <nobr>99</nobr> |
-| <nobr>一般不可移动文物</nobr> | <nobr>272</nobr> |
+| <nobr>一般不可移动文物</nobr> | <nobr>284</nobr> |
 | <nobr>未定级不可移动文物（四普新发现）</nobr> | <nobr>63</nobr> |
 | <nobr>尚未定级（已核实）</nobr> | <nobr>8</nobr> |
 | <nobr>尚未定级（待核实）</nobr> | <nobr>48</nobr> |
@@ -25,7 +25,7 @@
 | <nobr>[临平区](临平区/临平区古桥.md)</nobr> | <nobr>129</nobr> |
 | <nobr>[临安区](临安区/临安区古桥.md)</nobr> | <nobr>98（另有跨区的日新桥，计入富阳区）</nobr> |
 | <nobr>[桐庐县](桐庐县/桐庐县古桥.md)</nobr> | <nobr>95</nobr> |
-| <nobr>[萧山区](萧山区/萧山区古桥.md)</nobr> | <nobr>75</nobr> |
+| <nobr>[萧山区](萧山区/萧山区古桥.md)</nobr> | <nobr>87</nobr> |
 | <nobr>[西湖区](西湖区/西湖区古桥.md)</nobr> | <nobr>61</nobr> |
 | <nobr>[建德市](建德市/建德市古桥.md)</nobr> | <nobr>27</nobr> |
 | <nobr>[拱墅区](拱墅区/拱墅区古桥.md)</nobr> | <nobr>22</nobr> |
@@ -224,7 +224,7 @@
 
 数量较多，见各区县文件。
 
-### 一般不可移动文物（272 座）
+### 一般不可移动文物（284 座）
 
 数量较多，见各区县文件。
 

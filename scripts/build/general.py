@@ -132,6 +132,22 @@ for c in docx_rows(os.path.join(S, '..', '文保名录/杭州市/桐庐县一般
     loc = re.sub(r'^' + re.escape(town), '', re.sub(r'^(浙江省)?(杭州市)?桐庐县', '', addr)).lstrip('，,')
     add('桐庐县', town, name, era, loc, '一般不可移动文物（桐庐县2023年公布）', '2023年11月21日公布', U['tl23'])
 
+# 萧山区一般不可移动文物名录（2018年8月公布，359处；澎湃新闻转载页，表格为逐行文本：序号、名称、年代、类别、地址、保护级别）
+XS3P = '../../../文保名录/杭州市/萧山区三普一般不可移动文物名录（2018，澎湃新闻转载）.html'
+def xs3p_rows():
+    t = open(os.path.join(S, '..', '文保名录/杭州市/萧山区三普一般不可移动文物名录（2018，澎湃新闻转载）.html'), encoding='utf8', errors='ignore').read()
+    L = [re.sub(r'[\s\u3000\xa0]+', '', l) for l in html.unescape(re.sub(r'<[^>]+>', '\n', t)).split('\n')]
+    L = [l for l in L if l]; L = L[L.index('杭州市萧山区一般不可移动文物名录'):]
+    CAT = ('古建筑', '古遗址', '古墓葬', '近现代重要史迹及代表性建筑', '石窟寺及石刻', '其他')
+    return [L[k:k + 6] for k in range(len(L) - 5) if L[k].isdigit() and L[k + 3] in CAT]
+for c in xs3p_rows():
+    name, era, addr = c[1], c[2], c[4]
+    if not is_bridge(name): continue
+    town = find_town('萧山区', addr)
+    if not town: print('NOTOWN', '萧山区', name, addr); continue
+    loc = re.sub(r'^' + re.escape(town), '', re.sub(r'^(浙江省)?(杭州市)?萧山区', '', addr)).lstrip('，,')
+    add('萧山区', town, name, era, loc, '一般不可移动文物（萧山区第三次全国文物普查，2018年公布）', '—', XS3P)
+
 # 临平区：列为 序号、名称、四普编号、年代、类别、级别、地址
 for c in page_rows(U['lp']):
     if len(c) < 7: continue
