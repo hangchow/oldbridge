@@ -2752,14 +2752,15 @@
   "town": "新合乡",
   "name": "望梅桥",
   "era": "清雍正五年（1727）",
-  "loc": "新四村旧庄西南",
-  "level": "尚未定级（待核实）",
-  "doc": "—",
+  "loc": "新四行政村旧庄自然村村西南",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql542.htm",
   "struct": "石拱桥（单孔）",
   "note": "单孔石拱桥",
   "commons": null,
   "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html",
    "http://www.china-qiao.com/ql15/hz_ql/hzvql542.htm"
   ],
   "len": "—"
@@ -9201,6 +9202,1162 @@
   "doc": "2023年11月3日公示",
   "srcs": [
    "https://www.yuhang.gov.cn/art/2023/11/3/art_1229187659_4216622.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "江南镇",
+  "name": "安乐桥",
+  "era": "清",
+  "loc": "珠山行政村徐家山头自然村村中",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "江南镇",
+  "name": "繁华桥",
+  "era": "民国二十三年（1934）",
+  "loc": "锦江行政村赵家自然村北面村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "江南镇",
+  "name": "孙家村朱家桥",
+  "era": "清乾隆三十七年（1772）",
+  "loc": "窄溪行政村孙家自然村朱家桥头",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "江南镇",
+  "name": "永庆桥",
+  "era": "清",
+  "loc": "锦江行政村会山自然村马浦",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "江南镇",
+  "name": "勇毅桥",
+  "era": "1956年",
+  "loc": "环溪行政村郎家坞自然村天子源溪",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "富春江镇",
+  "name": "宝善桥",
+  "era": "民国二年（1913年）",
+  "loc": "象山桥行政村象山桥自然村西北杭千高速公路高架桥下",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "富春江镇",
+  "name": "登云桥",
+  "era": "明万历三十八年（1610年）",
+  "loc": "俞赵行政村秀峰自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "富春江镇",
+  "name": "三慈桥",
+  "era": "民国21年（1932年）",
+  "loc": "俞赵行政村俞家自然村137号南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "富春江镇",
+  "name": "保安桥",
+  "era": "民国元年（1912年）",
+  "loc": "俞赵行政村俞家自然村里庙山下",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "新合乡",
+  "name": "大坞桥",
+  "era": "待定",
+  "loc": "新合行政村山河自然村大坞小庙门前",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "石青桥",
+  "era": "明正统（1436-1447）",
+  "loc": "白云行政村石青桥自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "葛家桥",
+  "era": "清",
+  "loc": "白云行政村石青桥自然村西侧大坑溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "下基桥",
+  "era": "清",
+  "loc": "板头行政村村童家碓里自然村3号民居屋后",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "利济桥",
+  "era": "清乾隆（1736-1795）",
+  "loc": "方埠行政村邬家自然村老公路东侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "塆里桥",
+  "era": "清",
+  "loc": "凤联行政村塆里自然村15号民居南侧公路旁",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "下张村下坑桥",
+  "era": "清",
+  "loc": "凤联行政村下张自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "喻家桥",
+  "era": "清",
+  "loc": "凤联行政村喻家自然村村口南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "许家桥",
+  "era": "清",
+  "loc": "横村行政村许家桥头自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "脚下桥",
+  "era": "明代",
+  "loc": "华凤行政村仰天丘自然村村东桃源溪",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "外濮沈家桥",
+  "era": "清",
+  "loc": "九岭行政村外濮自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "里柴村桐桥",
+  "era": "清",
+  "loc": "胜峰行政村里柴自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "胜峰村黑桥",
+  "era": "民国",
+  "loc": "胜峰行政村十字路口自然村大坑溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "昌安岭下桥",
+  "era": "清",
+  "loc": "双溪行政村昌安岭自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "罗溪桥",
+  "era": "清乾隆四十三年（1778）",
+  "loc": "双溪行政村罗步堰自然村康乐桥东侧30米处",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "双坑村合义桥",
+  "era": "清",
+  "loc": "双溪行政村双坑自然村村西南",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "横村镇",
+  "name": "双坑桥",
+  "era": "清",
+  "loc": "双溪行政村双坑自然村南侧200米处",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "合村乡",
+  "name": "永兴桥",
+  "era": "清嘉庆二十一年（1816）",
+  "loc": "三源行政村里黄山自然村1号西侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "合村乡",
+  "name": "诸家桥",
+  "era": "清",
+  "loc": "岭源行政村诸家自然村村口田畈溪边",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "桐庐大桥",
+  "era": "中华人民共和国",
+  "loc": "浮桥埠行政村浮桥埠自然村分水江",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "钢筋混凝土桥",
+  "note": "",
+  "commons": null,
+  "len": "228米"
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "阆苑村白桥",
+  "era": "宋",
+  "loc": "阆苑行政村白桥头自然村北面村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "罗家桥",
+  "era": "明",
+  "loc": "阆苑行政村罗家自然村村西南面",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "景运桥",
+  "era": "明万历四十二年(1614)",
+  "loc": "阆苑行政村花厅下自然村村南",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "阆苑石梁桥",
+  "era": "明嘉靖十九年(1540)",
+  "loc": "阆苑行政村花厅下自然村村中心",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "石峦坞桥",
+  "era": "清",
+  "loc": "阆苑行政村石峦坞自然村村南",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "桐君街道",
+  "name": "石峦坞新桥",
+  "era": "清",
+  "loc": "阆苑行政村石峦坞自然村村中心",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "旧县街道",
+  "name": "上毕桥",
+  "era": "明代",
+  "loc": "旧县行政村上毕桥自然村头北侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "旧县街道",
+  "name": "邬家边桥",
+  "era": "清",
+  "loc": "旧县行政村邬家边自然村40号居民东侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "莪山畲族乡",
+  "name": "水寺桥",
+  "era": "清",
+  "loc": "莪山民族行政村山阴岭自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "莪山畲族乡",
+  "name": "尧山桥",
+  "era": "待定",
+  "loc": "尧山行政村尧山自然村94号北侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "独板桥",
+  "era": "清",
+  "loc": "陇西行政村洪家边自然村村北侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "长原桥",
+  "era": "明正德十年（1515）",
+  "loc": "陇西行政村陇西自然村村东",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "城下村合义桥",
+  "era": "清乾隆四十九年（1784）",
+  "loc": "城下行政村城下自然村179号民居南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "常丰桥",
+  "era": "清光绪十五年（1889）",
+  "loc": "钟山行政村吴宅自然村钟山11号",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "善缘桥",
+  "era": "清乾隆二十二年（1757年）",
+  "loc": "钟山行政村包家山自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "徐山桥",
+  "era": "明代",
+  "loc": "城下行政村骆家自然村庙背后骆家大坑溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "龙门桥",
+  "era": "待定",
+  "loc": "仕厦行政村仕厦自然村村后",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "庆安桥",
+  "era": "清光绪十一年(1885)",
+  "loc": "大市行政村大市自然村117号民居前溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "王家太平桥",
+  "era": "民国十二年（1923）",
+  "loc": "魏丰行政村王家自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "天顺桥",
+  "era": "乾隆三十六年（1771年）",
+  "loc": "魏丰行政村王家自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "李家桥",
+  "era": "清",
+  "loc": "钟山行政村下邵自然村村中心",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "钟山乡",
+  "name": "马啸塔村安乐桥",
+  "era": "民国十年（1921年）",
+  "loc": "歌舞行政村马啸塔自然村歌舞溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "为公桥",
+  "era": "清光绪二十三年（1897）",
+  "loc": "文源行政村黄家自然村北村级公路南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "德寿桥",
+  "era": "民国二年（1913）",
+  "loc": "东琳行政村里冷坞自然村10号居民南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "山坑桥",
+  "era": "清道光十一年（1831）",
+  "loc": "文源行政村黄家自然村村西侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "廻澜桥",
+  "era": "清道光二十一年（1841）",
+  "loc": "文源行政村黄家自然村村级公路南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "圆峰潭桥",
+  "era": "清",
+  "loc": "高翔行政村石青自然村圆峰潭",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "凝紫桥",
+  "era": "清代",
+  "loc": "姚村行政村姚村自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "舒家上桥",
+  "era": "清",
+  "loc": "舒家行政村舒家自然村西垄口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "金坞桥",
+  "era": "清",
+  "loc": "舒家行政村架坞口自然村村西",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "独建大桥",
+  "era": "清嘉庆四年（1799）",
+  "loc": "高翔行政村高翔自然村殿山脚琴溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "王村桥",
+  "era": "明代",
+  "loc": "琴溪行政村珠村自然村村口琴溪上",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "瑶琳镇",
+  "name": "王建桥",
+  "era": "明万历（1573-1620）",
+  "loc": "琴溪行政村珠村自然村北公路边",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "坞栏桥",
+  "era": "明代",
+  "loc": "朝阳行政村何家自然村村口南面坞栏山山脚下",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "兑口桥",
+  "era": "明代",
+  "loc": "三溪行政村兑口桥自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "里仁桥",
+  "era": "清",
+  "loc": "太平行政村大山自然村村东太平溪",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "新头桥",
+  "era": "明",
+  "loc": "东溪行政村柏山坞自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "朱家桥",
+  "era": "清",
+  "loc": "新龙行政村竹子坞自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "石家桥",
+  "era": "清",
+  "loc": "三合行政村石家自然村南侧大樟树旁",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "相对桥",
+  "era": "清",
+  "loc": "三合行政村张家自然村35号民居东南侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "沈家边沈家桥",
+  "era": "清",
+  "loc": "三合行政村沈家边自然村村中",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "沈家边桥",
+  "era": "清",
+  "loc": "三合行政村沈家边自然村沈家桥北侧10米处",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "江安桥",
+  "era": "清",
+  "loc": "保安行政村潘家自然村村西侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "分水镇",
+  "name": "虾公桥",
+  "era": "清",
+  "loc": "保安行政村宝山自然村村北小源溪",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "百江镇",
+  "name": "麂坞村桥",
+  "era": "清",
+  "loc": "联盟村麂坞自然村村口",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "城南街道",
+  "name": "乐善桥",
+  "era": "中华民国",
+  "loc": "仁智行政村西坞里自然村村西南",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "城南街道",
+  "name": "大元里永安桥",
+  "era": "中华民国",
+  "loc": "金牛行政村大元里自然村村东侧",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
+  ],
+  "struct": "—",
+  "note": "",
+  "commons": null
+ },
+ {
+  "dist": "桐庐县",
+  "town": "城南街道",
+  "name": "接龙桥",
+  "era": "明",
+  "loc": "金东行政村大脉地自然村",
+  "level": "一般不可移动文物（桐庐县2023年公布）",
+  "doc": "2023年11月21日公布",
+  "srcs": [
+   "https://www.tonglu.gov.cn/art/2023/11/21/art_1229267919_1838459.html"
   ],
   "struct": "—",
   "note": "",
