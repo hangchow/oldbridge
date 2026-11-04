@@ -12,6 +12,7 @@ CATS = ['全国重点文物保护单位', '省级文物保护单位', '市级文
 LIST_FULL = set(CATS[:4])
 
 NB = lambda x: x
+CL = lambda c: f'[{c}]({c}/README.md)' if os.path.exists(f'{O}/{c}/README.md') else c   # 市名链到各市 README（总 README 用）
 CQ = json.load(open(S + '/build/cqlinks.json')) if os.path.exists(S + '/build/cqlinks.json') else {}
 def NL(r, base, city=''):
         # 桥名只链到本地云端档案网页；老百晓集桥的链接放在桥名后的“?”上
@@ -91,7 +92,7 @@ def oldest(items, title, with_city):
     L += ['| 名次 | ' + ('市 | ' if with_city else '') + '区县 | 乡镇 | 桥名 | 结构 | 刻有年代 | 题刻 | 时代 | 级别 |', '|---' * (10 if with_city else 9) + '|']
     for i, (y, c, r, d) in enumerate(ex[:20], 1):
         base = O if with_city else O + '/' + c
-        L.append(f"| {i} | " + (f"{NB(c)} | " if with_city else '') + f"{DLk(r, base, c)} | {TL(r, base, c)} | {NL(r, base, c)} | {r.get('struct') or '—'} | {d['label']} | [{d['text']}]({d['src']}) | {r['era'] or '—'} | {cat(r['level'])} |")
+        L.append(f"| {i} | " + (f"{CL(c)} | " if with_city else '') + f"{DLk(r, base, c)} | {TL(r, base, c)} | {NL(r, base, c)} | {r.get('struct') or '—'} | {d['label']} | [{d['text']}]({d['src']}) | {r['era'] or '—'} | {cat(r['level'])} |")
     L += ['', '统计范围：只限本项目收录的二十五个市（杭州、湖州、嘉兴、上海、苏州、金华、绍兴、宁波、衢州、台州、温州、丽水、舟山、无锡、南京、常州、镇江、扬州、徐州、连云港、淮安、盐城、泰州、南通、宿迁）的桥，而且只统计老百晓集桥、云端档案中记载了题刻内容的桥，不代表整个江浙沪；其他桥可能也有更早的刻字，只是资料里没有记载。']
     L += ['', f'只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 {len(ex)} 座。']
     return L
@@ -215,7 +216,6 @@ for c in ORDER:
         open(fp, 'w').write('\n'.join(L).rstrip('\n') + '\n' + MK + '\n')
         DONE.append((c, d, len(rs), fp))
         if os.path.exists(f'{p}/README.md'): os.remove(f'{p}/README.md')   # 旧文件名
-CL = lambda c: f'[{c}]({c}/README.md)' if os.path.exists(f'{O}/{c}/README.md') else c   # 市名链到各市 README
 L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(CL(c) for c in tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
 for k in CATS:
     v = [sum(1 for r in rs if cat(r['level']) == k) for rs in tot.values()]
@@ -224,11 +224,11 @@ v = [len(rs) for rs in tot.values()]
 L.append('| **合计** | ' + ' | '.join(map(str, v)) + f' | {sum(v)} |')
 gb = [(c, r) for c, rs in tot.items() for r in rs if cat(r['level']) == CATS[0]]
 L += ['', f'## 全国重点文物保护单位（{len(gb)} 座）', '', '| 序号 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |', '|---|---|---|---|---|---|---|---|---|']
-L += [f"| {i} | {c} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" for i, (c, r) in enumerate(gb, 1)]
+L += [f"| {i} | {CL(c)} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" for i, (c, r) in enumerate(gb, 1)]
 allr = [(c, r) for c, rs in tot.items() for r in rs if re.match(r'^[0-9.]+米$', r.get('len') or '') and not re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or '') and (not r['level'].startswith('尚未定级') or '已逐座核对' in (r.get('note') or ''))]
 allr.sort(key=lambda x: -float(x[1]['len'][:-1]))
 L += ['', '## 江浙沪石木桥桥长前 20 名', '', '| 名次 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|---|']
-L += [f"| {i} | {NB(c)} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, (c, r) in enumerate(allr[:20], 1)]
+L += [f"| {i} | {CL(c)} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, (c, r) in enumerate(allr[:20], 1)]
 L += ['', f'只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 {len(allr)} 座中排序，大部分桥还没有长度数据。']
 L += oldest([(c, r) for c, rs in tot.items() for r in rs], '本项目收录范围内桥身刻字最早的前 20 名', True)
 L += ['', '各市的分级名单见各市目录下的 README。', '<!-- SUMMARY END -->']
