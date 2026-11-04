@@ -100,6 +100,15 @@ for pre, rows in tables(ZJ4):
         put('绍兴市', dist='诸暨市', town=tw, name=name, era=era, loc=re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2, lv='wbd',
             lvtxt='未定级不可移动文物（四普新发现）', doc='2026年4月1日公告', src=ZJ4)
 
+# 海宁市第八批市级文物保护单位（2021年12月12日公布，9处；列：序号、名称、地址、类别、年代）
+HN8 = '嘉兴市/海宁市人民政府关于公布第八批市级文物保护单位的通知（海政发〔2021〕61号）.html'
+for pre, rows in tables(HN8):
+    for c in rows:
+        if len(c) < 5 or not c[0].isdigit(): continue
+        tw = (re.match(r'^(.{2,4}?(?:镇|街道))', c[2]) or [None, '—'])[1]
+        put('嘉兴市', dist='海宁市', town=tw, name=c[1], era=c[4], loc=c[2][len(tw):] if tw != '—' else c[2], lv='xian',
+            lvtxt='海宁市文物保护单位（第八批）', doc='海政发〔2021〕61号', src=HN8)
+
 # 宜兴市第五、六批（每份两张表：文物保护单位、文物控制单位；列：序号、名称、时代、地址、类别）
 WXD = CF['无锡市']['dists']
 RN = {'万园桥': '万缘桥', '西埝桥': '西堰桥', '新安桥': '新岸桥'}   # 第七批附件3 更名
