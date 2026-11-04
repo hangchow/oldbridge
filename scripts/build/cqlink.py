@@ -99,7 +99,7 @@ MANUAL = {
 for k, v in MANUAL.items(): OUT[k] = B + v
 # 对比各市目录后人工确认的同桥
 for k, v in json.load(open(S + '/build/cq_manual2.json')).items(): OUT[k] = B + v
-NOLINK = {'杭州市|西湖区|西溪街道|大通桥'}   # 同名误配：老百晓“中河之桥——大通桥”是上城区中河那座
+NOLINK = set()   # 同名误配的键放这里
 for k in NOLINK: OUT.pop(k, None)
 json.dump(OUT, open(S + '/build/cqlinks.json', 'w'), ensure_ascii=False, indent=0)
 import collections; print(collections.Counter(k.split('|')[0] for k in OUT))
