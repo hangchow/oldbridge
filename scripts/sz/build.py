@@ -85,6 +85,33 @@ R = out
 # 不在文保名录、老百晓集桥收录的古桥（尚未定级，待核实；build/unlisted.py）
 for u in (json.load(open(S + '/build/unlisted.json')).get('苏州市', []) if os.path.exists(S + '/build/unlisted.json') else []):
     if not any(x['dist'] == u['dist'] and re.sub(r'（.*?）', '', x['name']) == u['name'] for x in R): R.append(dict(u, struct='—', len='—'))
+# 吴中区第四次全国文物普查新发现不可移动文物名录公示（2026年4月14日，153处；附件xlsx，列：序号、名称、年代、类别、地址）
+import zipfile, html as _h
+WZ4 = '/Users/sean/workspace/oldbridge/文保名录/苏州市/吴中区第四次全国文物普查新发现不可移动文物名录公示（2026年4月14日，153处）.xlsx'
+WZ4URL = 'https://qr61.cn/oJEmRU/qllcPAG'
+SRCNAME = globals().get('SRCNAME', {}); SRCNAME[WZ4URL] = '吴中区第四次全国文物普查新发现不可移动文物名录公示（2026年4月14日，草料二维码附件）'
+z = zipfile.ZipFile(WZ4)
+SS = [_h.unescape(''.join(re.findall(r'<t[^>]*>([^<]*)</t>', si))) for si in re.findall(r'<si>.*?</si>', z.read('xl/sharedStrings.xml').decode('utf8'), re.S)]
+for row in re.findall(r'<row[^>]*>(.*?)</row>', z.read('xl/worksheets/sheet1.xml').decode('utf8'), re.S):
+    c = []
+    for attr, inner in re.findall(r'<c ([^>]*?)(?:/>|>(.*?)</c>)', row, re.S):
+        v = re.search(r'<v>([^<]*)</v>', inner or ''); v = v.group(1) if v else ''
+        c.append((SS[int(v)] if 't="s"' in attr and v else v).strip())
+    if len(c) < 5 or not c[0].isdigit(): continue
+    name, era, addr = c[1], c[2], c[4]
+    if not re.search(r'桥$', name) or NOTB.search(name): continue
+    a2 = re.sub(r'^(江苏省)?(苏州市)?吴中区', '', addr)
+    tw = (re.match(r'^(.{2,4}?(?:镇|街道))', a2) or [None, '—'])[1]
+    loc = re.sub('^' + re.escape(tw), '', a2) if tw != '—' else a2
+    LV4 = '未定级不可移动文物（四普新发现）'
+    hit = [x for x in R if x['dist'] == '吴中区' and re.sub(r'（.*?）', '', x['name']) == name and x['town'] in (tw, '—')]
+    if hit:
+        x = hit[0]
+        if x['level'].startswith('尚未定级'):
+            x['note'] = (x.get('note') or '') + ('；' if x.get('note') else '') + f'等级据吴中区四普新发现名录公示（原记为{x["level"]}）'
+            x.update(level=LV4, doc='2026年4月14日公示', src=WZ4URL, era=era if (x.get('era') or '—') in ('—', '清', '明') else x['era'])
+        continue
+    R.append(dict(dist='吴中区', town=tw, name=name, era=era, loc=loc, level=LV4, doc='2026年4月14日公示', src=WZ4URL, note='', struct='—', len='—'))
 # 结构为“—”或只写桥型、没有孔数的，按老百晓集桥页面补桥型和孔数（build/cqholes.py）
 HOLES = json.load(open(S + '/build/cq_holes.json')) if os.path.exists(S + '/build/cq_holes.json') else {}
 LENF = json.load(open(S + '/build/cq_len_fill.json')) if os.path.exists(S + '/build/cq_len_fill.json') else {}
