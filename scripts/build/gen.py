@@ -193,6 +193,7 @@ def imgs_of(folder, name):
     return [imgname(name, i) for i in (1, 2, 3) if os.path.exists(os.path.join(folder, imgname(name, i)))]
 
 def link(u):
+    if u in ('', '—', None): return '来源待补'
     return f'[{SRCNAME.get(u, u)}]({u})'
 
 def table(rs, folder, with_town=False):
@@ -363,10 +364,7 @@ def main():
     n_files = 0
     for dist, ts in towns.items():
         if dist in COUNTIES:
-            folder = os.path.join(ROOT, dist); os.makedirs(folder, exist_ok=True)
-            rs = sorted([r for t in ts for r in by.get((dist, t), [])], key=lambda r: (rank(r), ts.index(r['town'])))
-            open(os.path.join(folder, f'{dist}古桥.md'), 'w').write(doc(f'杭州市{dist}不可移动文物：桥梁', rs, folder, True))
-            n_files += 1; continue
+            continue  # 三县市乡镇页由统一模板生成，停用旧区县明细输出。
         for t in ts:
             if (dist, t) == ('西湖区', '三墩镇'): continue  # 手工整理的文件，单独处理
             folder = os.path.join(ROOT, dist, t); os.makedirs(folder, exist_ok=True)

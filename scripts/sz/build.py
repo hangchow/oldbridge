@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 苏州市古桥名录生成（两级目录：苏州市/区县/区县古桥.md），以苏州市文广旅局《苏州市各级文物保护单位名录》为基准
+# 仅生成结构化行数据；Markdown统一由build/cityreadme.py生成。
 import json, os, re
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CQ = json.load(open(S + '/build/cqlinks.json')) if os.path.exists(S + '/build/cqlinks.json') else {}  # 老百晓集桥链接
@@ -131,29 +131,5 @@ for r in R:
         r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'具体年代据{src}（名录原写“{old}”）'
 
 json.dump(R, open(S + '/sz/rows.json', 'w'), ensure_ascii=False, indent=0)
-ORD = {'全': 0, '江': 1, '苏': 2, '尚': 4}
-for d in DISTS:
-    folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    for f in os.listdir(folder):
-        if f.endswith('古桥.md'): os.remove(os.path.join(folder, f))
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (ORD.get(r['level'][0], 3), r['town'] in ('—', ''), r['town']))
-    L = [f'# 苏州市{d}不可移动文物：桥梁', '']
-    if not rs:
-        L += [f'《苏州市各级文物保护单位名录》里，{d}没有桥梁类的国保、省保、市保。', '']
-        open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L)); print(d, 0); continue
-    L += ['| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布日期 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
-    for i, r in enumerate(rs, 1):
-        b = core(r['name']); fs = [f'{b}{k}.jpg' for k in (1, 2, 3) if os.path.exists(os.path.join(folder, f'{b}{k}.jpg'))]
-        img = ' '.join(f'[{k}]({f})' for k, f in enumerate(fs, 1)) if fs else '暂无'
-        L.append('| ' + ' | '.join([str(i), r['town'], (f"{r['name']} [?]({CQ[k]})" if (k := '苏州市|' + r['dist'] + '|' + r['town'] + '|' + r['name']) in CQ else r['name']), r['struct'], r['len'], r['era'] or '—', r['loc'] or '—', r['level'], r['doc'], img]) + ' |')
-    notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
-    notes += ['名单、等级、时代、地址、公布日期均以苏州市文化广电和旅游局公布的《苏州市各级文物保护单位名录》为准（原件存于本项目 文保名录/苏州市/）。',
-              '收录国保、省保、市保，以及区县公布的第四次全国文物普查新发现不可移动文物（目前有吴中区）和老百晓集桥收录、不在名录中的古桥（尚未定级）；控制保护建筑、三普登记不可移动文物（文物点）还未收录。',
-              '乡镇一列按名录地址提取，地址里没有写到乡镇的标“—”。',
-              '结构、长度标“—”的，是没有查到可靠资料。']
-    L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '', f'- [苏州市文化广电和旅游局：文物保护单位（苏州市各级文物保护单位名录）]({GOVURL})'] + [f'- [{SN(u)}]({u})' for u in sorted({r.get("src") for r in rs} - {None, '', GOVURL, GOV}) if u.startswith('http') and 'china-qiao' not in u and 'wikipedia' not in u]
-    fs = sorted(k for k in IMG if k.startswith(d + '/'))
-    if fs:
-        L += ['', '## 图片来源', '', '| 图片 | 来源 |', '|---|---|'] + [f'| [{k.split("/")[1]}]({k.split("/")[1]}) | {IMG[k]} |' for k in fs]
-    open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L) + '\n')
-    print(d, len(rs))
+# 旧两级Markdown输出已废弃，统一由build/cityreadme.py和townpages.py生成。
+print('rows', len(R))

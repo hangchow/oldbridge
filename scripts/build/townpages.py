@@ -1,4 +1,4 @@
-"""杭州三县市、嘉兴、湖州、绍兴三级目录：市／区县／乡镇。由cityreadme在汇总前调用。"""
+"""已配置城市统一三级目录：市／区县／乡镇。由cityreadme在汇总前调用。"""
 import collections
 import hashlib
 import json
@@ -9,11 +9,8 @@ from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[2]
 S = ROOT / 'scripts'
-CITIES = {'嘉兴市': 'jx', '湖州市': 'huz', '杭州市': 'build', '绍兴市': 'sx'}
+CITIES = {'嘉兴市': 'jx', '湖州市': 'huz', '杭州市': 'build', '绍兴市': 'sx', '上海市': 'sh', '苏州市': 'sz', '金华市': 'jh', '宁波市': 'nb', '台州市': 'tz', '温州市': 'wz', '丽水市': 'ls', '无锡市': 'wx', '衢州市': 'qz', '舟山市': 'zs', '南京市': 'nj', '常州市': 'cz', '镇江市': 'zjs', '扬州市': 'yz', '徐州市': 'xz', '连云港市': 'lyg', '淮安市': 'ha', '盐城市': 'yc', '泰州市': 'tzj', '南通市': 'nt', '宿迁市': 'sq'}
 ASSETS = S / 'build/town_assets.json'
-# 这些城市的区县只作索引，共用说明与来源下沉乡镇页。
-CLEAN_CITIES = {'嘉兴市', '湖州市', '绍兴市'}
-CLEAN_DISTRICTS = {('嘉兴市', '海宁市')} | {('杭州市', d) for d in ['桐庐县', '淳安县', '建德市']}
 CONTEXT = S / 'build/town_context.json'
 BINDINGS = S / 'build/town_media_bindings.json'
 MEDIA_BINDINGS = json.loads(BINDINGS.read_text()) if BINDINGS.exists() else {}
@@ -66,14 +63,20 @@ def rebase(text, old, new, moved=None):
     return re.sub(r'\]\((<[^>]+>|[^)]+)\)', replace, text)
 
 
-def prepare(city, rows):
+def prepare(city, rows, *, districts=None):
     key = CITIES[city]
-    provenance = json.loads((S / key / 'imgsrc.json').read_text())
+    provenance_path = S / key / 'imgsrc.json'
+    provenance = json.loads(provenance_path.read_text()) if provenance_path.exists() else {}
     manifest = json.loads(ASSETS.read_text()) if ASSETS.exists() else {}
     moved = {str(ROOT / a): str(ROOT / b) for a, b in manifest.items()}
     bydist = collections.defaultdict(list)
     for r in rows:
         bydist[r['dist']].append(r)
+    if districts is not None:
+        bydist = {d: bydist.get(d, []) for d in districts}
+    elif city != '杭州市':
+        for district in (ROOT / city).iterdir():
+            if district.is_dir(): bydist.setdefault(district.name, [])
     # 先迁移所有可确定归属的图片，再生成页内、跨层链接。
     for dist, rs in bydist.items():
         old = ROOT / city / dist
@@ -106,11 +109,6 @@ def prepare(city, rows):
     state = {}
     for dist, rs in bydist.items():
         old = ROOT / city / dist
-        fp = old / (dist + '古桥.md')
-        original = fp.read_text() if fp.exists() else ''
-        rest = original[original.index('## 说明'):] if '## 说明' in original else ''
-        rest = rest.replace('<!-- 区县汇总页（build/cityreadme.py 生成） -->', '').strip()
-        rest = rebase(rest, old, old, moved)
         shared = contexts.get(city + '/' + dist, {})
         groups = collections.defaultdict(list)
         for r in rs:
@@ -157,6 +155,7 @@ def prepare(city, rows):
                 sources.extend(r.get('srcs') or ([r['src']] if r.get('src') else []))
                 if r.get('singdo'): sources.append(r['singdo'])
             for src in dict.fromkeys(sources):
+                if src in ('', '—', None): continue
                 source_label = shared.get('source_labels', {}).get(src, '资料来源')
                 link = rebase(f'[{source_label}]({src})', old, page.parent, moved)
                 lines.append('- ' + link)
@@ -170,20 +169,18 @@ def prepare(city, rows):
                     lines.append(f'| [{p.name}]({p.name}) | {rebase(source, old, page.parent, moved)} |')
                 lines += ['', '图片版权及许可见各图片来源。']
             page.write_text('\n'.join(lines).rstrip() + '\n')
-        state[dist] = dict(groups=groups, imgs=imgs, rest=rest)
+        state[dist] = dict(groups=groups, imgs=imgs)
     return state
 
 
 def write_district(city, dist, rows, state, level_table, level_lists):
     old = ROOT / city / dist
     data = state[dist]
-    lines = [f'# {city}{dist}古桥', '', f'共收录 {len(rows)} 座桥。', '', '## 按级别统计', ''] + level_table(rows)
+    lines = [f'# {city}{dist}古桥', '', f'共收录 {len(rows)} 座桥。', '', '## 按级别统计', ''] + (level_table(rows) if rows else ['名录里暂无桥梁记录。'])
     lines += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|']
     for town, items in sorted(data['groups'].items(), key=lambda item: -len(item[1])):
         lines.append(f'| [{town}]({town}/{town}古桥.md) | {len(items)} |')
-    lines += ['', '## 按级别列出'] + level_lists(rows, True, False, str(old), city, data['imgs'])
-    if data['rest'] and city not in CLEAN_CITIES and (city, dist) not in CLEAN_DISTRICTS:
-        lines += ['', data['rest']]
+    lines += ['', '## 按级别列出'] + (level_lists(rows, True, False, str(old), city, data['imgs']) if rows else ['', '无。'])
     lines += ['', '<!-- 区县汇总页（build/cityreadme.py 生成） -->', '']
     (old / (dist + '古桥.md')).write_text('\n'.join(lines))
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-# 全部重新生成：先按名录原始数据生成，再算孔数/年代补充，再生成一次
+# 全部重新生成：解析行数据、补孔数/年代，再统一生成三级目录；旧两级Markdown输出已停用。
 cd "$(dirname "$0")"
 B="build/gen.py huz/build.py jx/build.py sh/build.py sz/build.py jh/build.py"
 C="绍兴市 宁波市 衢州市 台州市 温州市 丽水市 舟山市 无锡市 南京市 常州市 镇江市 扬州市 徐州市 连云港市 淮安市 盐城市 泰州市 南通市 宿迁市"

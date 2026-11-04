@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 上海市古桥名录生成（两级目录：上海市/区/区古桥.md）
+# 仅生成结构化行数据；Markdown统一由build/cityreadme.py生成。
 import json, os, re
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CQ = json.load(open(S + '/build/cqlinks.json')) if os.path.exists(S + '/build/cqlinks.json') else {}  # 老百晓集桥链接
@@ -104,28 +104,5 @@ for r in R:
         r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'具体年代据{src}（名录原写“{old}”）'
 
 json.dump(R, open(S + '/sh/rows.json', 'w'), ensure_ascii=False, indent=0)
-for d in DISTS:
-    folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (0 if r['level'].startswith('上海市') else 1 if r['level'].startswith('区级') else 2, r['town'] in ('—', ''), r['town']))
-    if not rs:
-        open(os.path.join(folder, f'{d}古桥.md'), 'w').write(f'# 上海市{d}不可移动文物：桥梁\n\n上海市文物保护单位和{d}区级文物保护单位名录里没有桥梁。嘉定、崇明、虹口的登记不可移动文物名单暂缺。\n')
-        print(d, 0); continue
-    L = [f'# 上海市{d}不可移动文物：桥梁', '', '| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
-    for i, r in enumerate(rs, 1):
-        b = core(r['name']); fs = [f'{b}{k}.jpg' for k in (1, 2, 3) if os.path.exists(os.path.join(folder, f'{b}{k}.jpg'))]
-        img = ' '.join(f'[{k}]({f})' for k, f in enumerate(fs, 1)) if fs else '暂无'
-        L.append('| ' + ' | '.join([str(i), r['town'], (f"{r['name']} [?]({CQ[k]})" if (k := '上海市|' + r['dist'] + '|' + r['town'] + '|' + r['name']) in CQ else r['name']), r['struct'], r['len'], r['era'] or '—', r['loc'] or '—', r['level'], r['doc'], img]) + ' |')
-    notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
-    notes += ['区级文物保护单位的时代，维基百科列表里没有写，暂标“—”。', '乡镇一列按名录地址提取，个别只写到老街、地块的保留原文。',
-              '登记不可移动文物取自上海市文广影视局 2011 年公布的各区县名单（网页存档）；嘉定、崇明、虹口三区的名单存档无法获取，暂缺。', '结构、长度标“—”的，是没有查到可靠资料。']
-    L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '']
-    srcs = []
-    for r in rs:
-        if r['src'] not in srcs: srcs.append(r['src'])
-    L += [f'- [{SN(u)}]({u})' for u in srcs]
-    fs = sorted(k for k in IMG if k.startswith(d + '/') and os.path.exists(os.path.join(ROOT, k)))
-    if fs:
-        L += ['', '## 图片来源', '', '| 图片 | 来源 |', '|---|---|'] + [f'| [{k.split("/")[1]}]({k.split("/")[1]}) | {IMG[k]} |' for k in fs]
-    L += ['']
-    open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L))
-    print(d, len(rs))
+# 旧两级Markdown输出已废弃，统一由build/cityreadme.py和townpages.py生成。
+print('rows', len(R))

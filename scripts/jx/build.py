@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 嘉兴市行数据和区县中间页；cityreadme.py最终生成市/区县/乡镇三级目录。
+# 仅生成结构化行数据；Markdown统一由build/cityreadme.py生成。
 import json, os, re
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CQ = json.load(open(S + '/build/cqlinks.json')) if os.path.exists(S + '/build/cqlinks.json') else {}  # 老百晓集桥链接
@@ -173,31 +173,5 @@ for r in R:
 import runpy
 R = runpy.run_path(S + '/build/jxprimary.py')['apply'](R)
 json.dump(R, open(S + '/jx/rows.json', 'w'), ensure_ascii=False, indent=0)
-for d in DISTS:
-    folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (rank(r), r['town'] in ('—', ''), r['town']))
-    L = [f'# 嘉兴市{d}不可移动文物：桥梁', '', '| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
-    for i, r in enumerate(rs, 1):
-        b = imgbase(r, rs); fs = [f'{b}{k}.jpg' for k in (1, 2, 3) if os.path.exists(os.path.join(folder, f'{b}{k}.jpg'))]
-        img = ' '.join(f'[{k}]({f})' for k, f in enumerate(fs, 1)) if fs else '暂无'
-        L.append('| ' + ' | '.join([str(i), r['town'], (f"{r['name']} [?]({CQ[k]})" if (k := '嘉兴市|' + r['dist'] + '|' + r['town'] + '|' + r['name']) in CQ else r['name']), r['struct'], r['len'], r['era'] or '—', r['loc'] or '—', r['level'], r['doc'] or '—', img]) + ' |')
-    notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
-    notes += ['乡镇一列照录名录原文；省保名录只写到区县的，乡镇标“—”。', '同一座桥在多级名录中出现时，按最高等级记录一次。', '结构、长度标“—”的，是没有查到可靠资料。']
-    if d == '海宁市':
-        notes.append('第一批历史建筑保护图则公示（2018年12月25日）的45处公布名单已核对，无桥梁；三页PDF及原图见 文保名录/嘉兴市/，正式公布通知仍待补；第二批历史建筑50处名单已核对并收录建设桥、茅桥、庆善桥、石井渡桥、东兴桥，第三批已收录上塘河青莲桥；第四批历史建筑已由2025年专项资金附件确认共11处，正式公布通知及具体名单仍待补，是否含桥梁待核')
-    if d == '嘉善县': notes.append('嘉善县县级文物保护单位只找到第五批（2018年）的公开名单，其他批次的桥梁还没有收录。')
-    L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '']
-    srcs = []
-    for r in rs:
-        if r['src'] not in srcs: srcs.append(r['src'])
-    if d == '海宁市':
-        hu = '../../文保名录/嘉兴市/海宁市第一批历史建筑保护图则公示（2018年12月25日）.pdf'
-        SRCNAME[hu] = '海宁市第一批历史建筑保护图则公示（2018年12月25日，45处，未列桥梁）'
-        srcs.append(hu)
-    L += [f'- [{SN(u)}]({u})' for u in srcs] + ['']
-    ims = [f'| [{f}]({f}) | {IMG.get(d + "/" + f, "—")} |' for f in sorted(os.listdir(folder)) if f.endswith('.jpg')]
-    if ims: L += ['## 图片来源', '', '| 文件 | 来源 |', '|---|---|'] + ims + ['', '图片版权归原作者。', '']
-    for f in os.listdir(folder):
-        if f.endswith('古桥.md') and f != f'{d}古桥.md': pass
-    open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L))
-    print(d, len(rs))
+# 旧两级Markdown输出已废弃，统一由build/cityreadme.py和townpages.py生成。
+print('rows', len(R))

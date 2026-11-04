@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 浙江、江苏其他城市古桥名录生成（两级目录：市/区县/区县古桥.md）。用法：python3 build.py 绍兴市
+# 仅生成结构化行数据；Markdown统一由build/cityreadme.py生成。
 import json, os, re, sys, html
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 sys.path.insert(0, S + '/zj'); sys.path.insert(0, S + '/build')
@@ -129,30 +129,5 @@ for r in R:
 for r in R:
     for kk in ('lvk', 'num', 'group', 'batch', 'unote', 'lvtxt'): r.pop(kk, None)
 json.dump(R, open(f'{S}/{K}/rows.json', 'w'), ensure_ascii=False, indent=0)
-# 生成区县 md
-ORD = lambda lv: 0 if lv.startswith('全国') else 1 if lv.startswith(PROV) else 5 if lv.startswith('尚未') else 4 if '保护点' in lv or '不可移动' in lv or '控制单位' in lv else 2 if lv.startswith(CITY) else 3
-for d in DISTS:
-    folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-    rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (ORD(r['level']), r['town'] in ('—', ''), r['town']))
-    L = [f'# {CITY}{d}不可移动文物：桥梁', '']
-    if not rs:
-        L += [f'目前收集到的名录里，{d}没有桥梁。', '']
-        open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L)); print(d, 0); continue
-    L += ['| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
-    for i, r in enumerate(rs, 1):
-        b = core(r['name']); fs = [f'{b}{k}.jpg' for k in (1, 2, 3) if os.path.exists(os.path.join(folder, f'{b}{k}.jpg'))]
-        img = ' '.join(f'[{k}]({f})' for k, f in enumerate(fs, 1)) if fs else '暂无'
-        ck = f"{CITY}|{r['dist']}|{r['town']}|{r['name']}"
-        nm = f"{r['name']} [?]({CQ[ck]})" if ck in CQ else r['name']
-        L.append('| ' + ' | '.join([str(i), r['town'], nm, r['struct'], r['len'], r['era'] or '—', (r['loc'] or '—').replace('|', '／'), r['level'], r['doc'], img]) + ' |')
-    notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
-    notes += ([f'{CITY}文物保护点以浙江省文物局《全省文物保护点》统计表为准（原件存于本项目 文保名录/浙江省/）。'] if ZJ else [f'{PROV}没有找到公开的文物保护点统计表，未定级的古桥只收录了老百晓集桥上的（尚未定级，待核实）。']) + [
-              '国保、省保、市保、县保依据维基百科整理，还没有核对政府原件；市保、县保名单可能不完整。',
-              '成组公布的文物（如古桥群）按单桥列出，组名写在文保等级里。',
-              '乡镇、结构、长度标“—”的，是没有查到可靠资料；部分结构、长度、年代来自“老百晓集桥”网站。']
-    L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '']
-    L += [f'- [{SN(u)}]({u})' for u in dict.fromkeys(r['src'] for r in rs)]
-    fs = sorted(k for k in IMG if k.startswith(d + '/') and os.path.exists(os.path.join(ROOT, k)))
-    if fs: L += ['', '## 图片来源', '', '| 图片 | 来源 |', '|---|---|'] + [f'| [{k.split("/")[1]}]({k.split("/")[1]}) | {IMG[k]} |' for k in fs]
-    open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L) + '\n')
-    print(d, len(rs))
+# 旧两级Markdown输出已废弃，统一由build/cityreadme.py和townpages.py生成。
+print('rows', len(R))

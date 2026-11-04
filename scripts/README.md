@@ -11,7 +11,7 @@
 依次做：
 
 1. `build/official.py` 提取政府原件中的桥梁，`build/unlisted.py` 整理老百晓集桥补录条目及人工核对结果。
-2. 按名录原始数据生成各市行数据和 md：`build/gen.py`（杭州）、`huz/build.py`、`jx/build.py`、`sh/build.py`、`sz/build.py`、`jh/build.py`、`zj/build.py <城市>`（绍兴、宁波、衢州、台州、温州、丽水、舟山；江苏除苏州外的十二市）。生成后运行 `build/zjsx.py` 和 `build/shlib.py`，分别据浙江省市县级文保名录、上海市不可移动文物名录补正数据。
+2. 按名录原始数据生成各市结构化行数据：`build/gen.py`（杭州）、`huz/build.py`、`jx/build.py`、`sh/build.py`、`sz/build.py`、`jh/build.py`、`zj/build.py <城市>`（绍兴、宁波、衢州、台州、温州、丽水、舟山；江苏除苏州外的十二市）。生成后运行 `build/zjsx.py` 和 `build/shlib.py`，分别据浙江省市县级文保名录、上海市不可移动文物名录补正数据。
 3. `build/cqlink.py`：匹配“老百晓集桥”页面（桥名后的“?”链接）。
 4. `build/cqholes.py`：从老百晓集桥页面、本地云端档案补结构、孔数、长度。
 5. `build/erafill.py`：补具体年代。
@@ -47,25 +47,26 @@
 
 - 海宁2022汇总表的已采纳更新保存在原件同名JSON的 `adopted_updates`，由 `build/jxprimary.py` 重复应用：庆成桥未评级，九曲桥保留原市保，太平桥地址及南石桥年代按2022表；不从所在寺庙、景观、遗址自动继承等级。`未评级`在汇总中归入“尚未定级（已核实）”。
 
-## 嘉兴、湖州、绍兴的乡镇目录
+## 统一三级目录
 
-三市采用与杭州相同的三级结构：`市/区县/乡镇/乡镇古桥.md`，照片与乡镇明细放在一起。区县页保留统计和分类索引，乡镇名称链接到明细页；明细含位置、文保等级、公布文件、说明和来源。原始乡镇字段不改，缺失乡镇放入 `乡镇待核/`。
+全部25市采用 `市/区县/乡镇/乡镇古桥.md`。区县只保留统计、乡镇导航与分类索引；位置、公布文件、逐桥说明、来源及图片来源合并到乡镇页。
 
-- `build/townpages.py`：由 `build/cityreadme.py` 在汇总前调用，按最终 `rows.json` 生成乡镇明细，迁移区县层图片并修正链接；生成器可重复运行。旧的城市生成脚本仍产生区县层中间页，最终目录以 `cityreadme.py` 输出为准。
-- `build/town_assets.json`：原图片路径到乡镇目录路径的映射，用于迁移校验、旧链接重定向；图片内容保持不变。
-- `jx/imgsrc.json`、`huz/imgsrc.json`、`sx/imgsrc.json` 增加 `区县/乡镇/文件名` 来源键，旧键兼容原下载脚本。
-- `python3 scripts/tools/check_townpages.py`：检查三市及杭州三县市明细与结构化数据一致、位置展示、本地链接及图片迁移完整性。
+- `build/townpages.py` 的 `CITIES` 统一配置25市的数据目录，`cityreadme.py` 按此配置生成乡镇及区县页。杭州既有10个市辖区乡镇页沿用同格式生成，并保留三墩镇手工明细。
+- `build/town_context.json` 保存区县共用说明、来源标签及乡镇补充，重复生成不会丢失。
+- `build/town_assets.json` 保存图片原路径到乡镇路径的映射；`*/imgsrc.json` 中新来源键为 `区县/乡镇/文件名`，旧键用于追溯。
+- `build/town_media_bindings.json` 按位置限定同乡镇同名桥的照片和老百晓链接；区县图片索引使用“乡镇、桥名、位置”三元键。
+- `python3 scripts/tools/check_townpages.py` 检查全部25市：明细和位置、区县格式、市级及总统计、本地链接、媒体绑定和迁移图片。
 
-- `tools/download_jxwwbh_map.py`：归档嘉兴不可移动文物地图的基础接口、目录树、地区查询、全部详情响应和有效图片；保留站点拦截状态，不把拦截页当作详情。`build/jxmap.py` 根据已核对的 `bridge_review.json` 应用桥梁新增、缺项补充与坐标，不自动覆盖既有等级；`zjsx.py` 防止新地图中的异镇同名桥吞掉原省级汇总条目。
-- 嘉兴、湖州、绍兴全部区县页采用杭州的简洁索引样式：表格后不再附说明、来源和图片来源；逐桥信息在乡镇明细中，共用说明及来源由 `build/town_context.json` 合并到乡镇页。城市范围由 `townpages.py` 的 `CLEAN_CITIES` 控制，杭州三县市由 `CLEAN_DISTRICTS` 控制。
+## 旧格式输出已废弃
 
-## 杭州统一三级目录
+`huz/build.py`、`jx/build.py`、`sh/build.py`、`sz/build.py`、`jh/build.py`、`zj/build.py` 只负责解析和补充结构化行数据，旧的区县层明细、说明及图片表写出代码已移除。杭州 `build/gen.py` 也停用桐庐、淳安、建德的旧区县明细输出，保留数据解析及原有乡镇明细。`cityreadme.py` 的旧格式回退和合并分支已删除；未配置统一模板时直接报错，不再退回旧模式。
 
-杭州13个区县均使用 `杭州市/区县/乡镇/乡镇古桥.md`。区县页统一为拱墅区样式：桥梁总数、按级别统计、乡镇数量导航、按级别列出，不附逐桥说明或来源。位置、公布文件、说明、资料来源和图片来源保留在乡镇明细页。
+生成顺序为“解析原件及行数据 → 名录和桥梁细节补正 → 统一渲染 → 不换行处理 → 检查”。直接执行数据解析脚本不再产生旧格式Markdown。使用 `./scripts/run_all.sh` 执行完整流程；只重新渲染现有数据可执行：
 
-桐庐、淳安、建德的最终乡镇页由 `build/townpages.py` 根据 `build/all_rows.json` 生成，`cityreadme.py` 汇总前调用；其他10个市辖区仍由原杭州生成流程生成乡镇明细。杭州图片来源索引使用 `build/imgsrc.json`，迁移后的新键为 `区县/乡镇/图片名`，旧键仍兼容区县层中间页。`build/gen.py` 生成的三县市区县明细为中间输出，最终结构以 `cityreadme.py` 为准。
+```bash
+python3 scripts/build/cityreadme.py
+python3 scripts/build/nowrap.py
+python3 scripts/tools/check_townpages.py
+```
 
-三县市共53个乡镇页、175座桥、73张迁移原图；杭州总计仍为773座。桐庐江南镇和富春江镇各有保安桥，原环溪双桥照片只绑定江南镇。检查命令仍为 `python3 scripts/tools/check_townpages.py`。
-
-- `build/town_context.json` 保存区县共用说明、来源标签及特定乡镇补充，生成时合并到乡镇页；`build/town_media_bindings.json` 按村址限定同乡镇同名桥的图片和老百晓链接。区县图片索引使用“乡镇、桥名、位置”三元键，避免同名桥互相覆盖。
-- 本轮[结构调整复查记录](结构调整复查.md)列出迁移范围、检查结果及同名桥误挂图修复。
+复查范围、同名桥修复及抽样结果见[结构调整复查记录](结构调整复查.md)。

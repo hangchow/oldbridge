@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 湖州市行数据和区县中间页；cityreadme.py最终生成市/区县/乡镇三级目录。
+# 湖州市结构化行数据；Markdown统一由build/cityreadme.py生成。
 import json, os, re
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
 CQ = json.load(open(S + '/build/cqlinks.json')) if os.path.exists(S + '/build/cqlinks.json') else {}  # 老百晓集桥链接
@@ -189,26 +189,7 @@ def main():
             r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'具体年代据{src}（名录原写“{old}”）'
 
     json.dump(R, open(S + '/huz/rows.json', 'w'), ensure_ascii=False, indent=0)
-    IMGSRC = json.load(open(S + '/huz/imgsrc.json')) if os.path.exists(S + '/huz/imgsrc.json') else {}
-    for d in ['吴兴区', '南浔区', '德清县', '长兴县', '安吉县']:
-        folder = os.path.join(ROOT, d); os.makedirs(folder, exist_ok=True)
-        rs = sorted([r for r in R if r['dist'] == d], key=lambda r: (rank(r), r['town'] in ('—', ''), r['town']))
-        L = [f'# 湖州市{d}不可移动文物：桥梁', '', '| 序号 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|---|']
-        imgs = []
-        for i, r in enumerate(rs, 1):
-            b = imgbase(r, rs); fs = [f'{b}{k}.jpg' for k in (1, 2, 3) if os.path.exists(os.path.join(folder, f'{b}{k}.jpg'))]
-            img = ' '.join(f'[{k}]({f})' for k, f in enumerate(fs, 1)) if fs else '暂无'
-            L.append('| ' + ' | '.join([str(i), r['town'], (f"{r['name']} [?]({CQ[k]})" if (k := '湖州市|' + r['dist'] + '|' + r['town'] + '|' + r['name']) in CQ else r['name']), r['struct'], r.get('len','—'), r['era'] or '—', r['loc'] or '—', r['level'], r['doc'] or '—', img]) + ' |')
-            for f in fs: imgs.append(f'| [{f}]({f}) | {IMGSRC.get(d + "/" + f, "—")} |')
-        notes = [f'{r["name"]}：{r["note"]}。' for r in rs if r['note']]
-        notes += ['乡镇一列照录名录原文，部分是旧乡镇名或开发区、度假区名称（如旧馆镇、马腰镇、二界岭乡、雉城镇、图影管委会、高新区），没有按现行区划换算。',
-                  '同一座桥在多级名录中出现时，按最高等级记录一次。', '结构一列标“—”的，是没有查到可靠资料。']
-        L += ['', '## 说明', ''] + [f'- {n}' for n in notes] + ['', '## 来源', '']
-        srcs = []
-        for r in rs:
-            if r['src'] not in srcs: srcs.append(r['src'])
-        L += [f'- [{SN(u)}]({u})' for u in srcs] + ['']
-        if imgs: L += ['## 图片来源', '', '| 文件 | 来源 |', '|---|---|'] + imgs + ['', '图片版权归原作者。', '']
-        open(os.path.join(folder, f'{d}古桥.md'), 'w').write('\n'.join(L))
-        print(d, len(rs))
+    print('rows', len(R))
+
+# 旧两级Markdown输出已废弃。
 main()

@@ -119,8 +119,8 @@ def city_readme(city, rows, sub):
     open(f'{O}/{city}/README.md', 'w').write('\n'.join(L) + '\n')
     return rows
 
-from townpages import prepare as prepare_towns, write_district, media_allowed
-TOWN_PAGES = {c: prepare_towns(c, json.load(open(S + '/' + k + '/rows.json'))) for c, k in [('嘉兴市', 'jx'), ('湖州市', 'huz'), ('绍兴市', 'sx')]}
+from townpages import prepare as prepare_towns, write_district, media_allowed, CITIES as TOWN_CITIES, CITIES as TOWN_CITIES
+TOWN_PAGES = {c: prepare_towns(c, json.load(open(S + '/' + k + '/rows.json'))) for c, k in TOWN_CITIES.items() if c != '杭州市'}
 
 # 三县市也下分乡镇，区县页与拱墅区一致只作索引。
 TOWN_PAGES['杭州市'] = prepare_towns('杭州市', [r for r in json.load(open(S + '/build/all_rows.json')) if r['dist'] in C3])
@@ -169,65 +169,23 @@ for d in towns:
     open(f'{O}/杭州市/{d}/{d}古桥.md', 'w').write('\n'.join(L) + '\n' + MK + '\n')
     if os.path.exists(f'{O}/杭州市/{d}/README.md'): os.remove(f'{O}/杭州市/{d}/README.md')   # 旧文件名
 
-# 其余城市
-for c in []:
-    open(f'{O}/{c}/README.md', 'w').write(f'# {c}古桥\n\n整理中。\n')
-    for d in os.listdir(f'{O}/{c}'):
-        p = f'{O}/{c}/{d}'
-        if os.path.isdir(p) and not any(f.endswith('.md') for f in os.listdir(p)):
-            open(f'{p}/{d}古桥.md', 'w').write(f'# {c}{d}古桥\n\n整理中。\n')
-
 # 根目录 README 的汇总段
 tot0 = {'杭州市': hrows, '湖州市': zrows, '嘉兴市': jrows, '上海市': srows, '苏州市': zsrows, '金华市': jhrows, '绍兴市': r_sx, '宁波市': r_nb, '衢州市': r_qz, '台州市': r_tz, '温州市': r_wz, '丽水市': r_ls, '舟山市': r_zs, **r_js}
 ORDER = ['杭州市', '湖州市', '嘉兴市', '金华市', '绍兴市', '宁波市', '衢州市', '台州市', '温州市', '丽水市', '舟山市', '上海市', '苏州市', '无锡市', '常州市', '南京市', '镇江市', '扬州市', '泰州市', '南通市', '盐城市', '淮安市', '宿迁市', '徐州市', '连云港市']   # 浙江、上海、江苏
 tot = {c: tot0[c] for c in ORDER}
 
-# 其余城市（及杭州桐庐、淳安、建德）的区县 README：格式同杭州市辖区，原“区县古桥.md”的表格和说明并在后面
-TA = json.load(open(S + '/build/towns_all.json'))   # 各区县乡镇（街道）名单（据统计用区划代码，modood/Administrative-divisions-of-China）
+# 全部区县使用统一乡镇模板；杭州已有的10个区在上方生成索引。
 DONE = []
 for c in ORDER:
-    for d in sorted({r['dist'] for r in tot0[c]} | {x for x in os.listdir(f'{O}/{c}') if os.path.isdir(f'{O}/{c}/{x}')}):
-        if c == '杭州市' and d not in C3: continue
-        p = f'{O}/{c}/{d}'
-        if not os.path.isdir(p): continue
-        rs = [r for r in tot0[c] if r['dist'] == d]
-        if c in TOWN_PAGES and d in TOWN_PAGES[c]:
-            write_district(c, d, rs, TOWN_PAGES[c], level_table, level_lists)
-            DONE.append((c, d, len(rs), f'{p}/{d}古桥.md'))
+    for d in sorted({r['dist'] for r in tot0[c]} | {p for p in os.listdir(f'{O}/{c}') if os.path.isdir(f'{O}/{c}/{p}')}):
+        if c == '杭州市' and d not in C3:
             continue
-        t = collections.Counter(r['town'] for r in rs)
-        for k in TA.get(c, {}).get(d, []):   # 没有桥的乡镇（街道）也列出（0）；仓库里写法带前缀（如“经开区长水街道”）或旧名包含它的不重复列
-            if k not in t and not any(x.endswith(k) or k.endswith(x) for x in t if x != '—'): t[k] = 0
-        fp = f'{p}/{d}古桥.md'
-        body = open(fp, encoding='utf8').read() if os.path.exists(fp) else ''
-        body = [] if MK in body else body.split('\n')[1:]   # 原表格文件：去掉标题，整体并入；上一轮生成的汇总页不再并入
-        L = [f'# {c}{d}古桥', '', f'共收录 {len(rs)} 座桥。', '', '## 按级别统计', ''] + (level_table(rs) if rs else [x for x in body if x.strip()] or ['名录里没有桥梁。'])
-        if rs: L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| {k} | {n} |' for k, n in t.most_common()]
-        # 原表格：取“图片”一列并到按级别列出里，表格后面的说明、来源、图片来源保留
-        imgs, rest, intab, hdr = {}, [], False, []
-        for x in body:
-            if x.startswith('| ') and ('序号' in x or intab):
-                cs = [re.sub(r'</?nobr>', '', y).strip() for y in x.strip().strip('|').split(' | ')]
-                if '序号' in x: hdr = cs; intab = True; continue
-                if hdr and hdr[-1] == '图片' and len(cs) == len(hdr):
-                    nm = re.sub(r' \[\?\]\(.*?\)$', '', cs[2]); nm = re.sub(r'^\[(.*?)\]\(.*?\)$', r'\1', nm)
-                    imgs[(cs[1], nm)] = cs[-1]
-            elif x.startswith('|---') and intab: continue
-            else:
-                if intab and not x.strip(): intab = False
-                if not intab: rest.append(x)
-        L += ['', '## 按级别列出'] + (level_lists(rs, True, False, p, c, imgs) if rs else ['', '无。'])
-        zx = [r for r in rs if '浙江省市县级文物保护单位名录' in (r.get('note') or '') or '上海市不可移动文物名录（上海图书馆' in (r.get('note') or '')]
-        zn = {r['name'] for r in zx}
-        rest = [x for x in rest if not any(x.startswith(f'- {n}：') for n in zn)]   # 这些桥的说明改在下面统一列出
-        if rs and body: L += rest
-        if zx:
-            if c == '上海市': L += ['', '### 据上海市不可移动文物名录补正', '', '以下桥梁的等级据上海市不可移动文物名录（上海图书馆开放数据平台“上海年华”，摘录见 [文保名录/上海市/](../../文保名录/上海市/)）补正或新增：', '']
-            else: L += ['', '### 据省文物局市县级文保名录补正', '', '以下桥梁的等级、公布文号据浙江省文物局《浙江省市县级文物保护单位名录》（2023年7月19日发布，原件见 [文保名录/浙江省/](../../文保名录/浙江省/)）补正或新增：', '']
-            L += [f"- {r['name']}：{r['note']}。" for r in zx]
-        open(fp, 'w').write('\n'.join(L).rstrip('\n') + '\n' + MK + '\n')
-        DONE.append((c, d, len(rs), fp))
-        if os.path.exists(f'{p}/README.md'): os.remove(f'{p}/README.md')   # 旧文件名
+        rs = [r for r in tot0[c] if r['dist'] == d]
+        if c not in TOWN_PAGES or d not in TOWN_PAGES[c]:
+            raise ValueError(f'缺少统一乡镇模板配置：{c}/{d}')
+        write_district(c, d, rs, TOWN_PAGES[c], level_table, level_lists)
+        DONE.append((c, d, len(rs), f'{O}/{c}/{d}/{d}古桥.md'))
+
 L = ['<!-- SUMMARY START -->', '## 各市按级别统计', '', '| 级别 | ' + ' | '.join(CL(c) for c in tot) + ' | 合计 |', '|---|' + '---|' * (len(tot) + 1)]
 for k in CATS:
     v = [sum(1 for r in rs if cat(r['level']) == k) for rs in tot.values()]
