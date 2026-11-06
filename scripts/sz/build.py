@@ -130,6 +130,9 @@ for r in R:
         src = '老百晓集桥' if f['src'] == 'cq' else '杭州市文物遗产与历史建筑保护中心云端档案'
         r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + f'具体年代据{src}（名录原写“{old}”）'
 
+for item in json.load(open(S + '/sz/extra.json')):
+    if not any(r['dist'] == item['dist'] and r['name'] == item['name'] for r in R): R.append(item)
+
 json.dump(R, open(S + '/sz/rows.json', 'w'), ensure_ascii=False, indent=0)
 # 旧两级Markdown输出已废弃，统一由build/cityreadme.py和townpages.py生成。
 print('rows', len(R))

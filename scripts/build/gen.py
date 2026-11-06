@@ -11,6 +11,7 @@ IMGSRC = json.load(open(S + '/build/imgsrc.json')) if os.path.exists(S + '/build
 XLSX_URL = 'https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx'
 COUNTIES = ['桐庐县', '淳安县', '建德市']
 SRCNAME = {
+    "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf": "《临安印记（下）》桥梁相关页",
     'https://mdaily.hangzhou.com.cn/hzrb/2026/04/18/article_detail_1_20260418A048.html': '杭州日报：钱塘区红机埠等入选四普新发现文物（2026年4月18日）',
     'https://mp.weixin.qq.com/s?__biz=MzU4MTUxOTYwNA==&mid=2247488418&idx=1&sn=39e7210bdf1dc4b6d102e2b07631cbae&chksm=fd470239ca308b2f3d527b55e98bdacb1ac928d1925c07277af1c59cf42fb8434bfc410cb152#rd': '微信公众号“宿舟河下”《良渚七贤桥村的古桥》（2025年6月20日）',
     'https://z.hangzhou.com.cn/2021/syjy/content/content_8336564.html': '洞霄宫遗迹之元同桥（杭州网，临安区博物馆供稿，2022）',
@@ -187,6 +188,9 @@ def rows():
         R.append(g)
     for r in R:
         if r['dist'] == '余杭区' and r['level'].startswith('杭州市文物保护单位') and cur.YH not in r['srcs']: r['srcs'].append(cur.YH)
+    for item in json.load(open(S + '/build/missing.json')):
+        if item.get('name') in ('浙东运河古纤道（和平桥段）', '衣锦桥下古纤道') and not any(r['dist'] == item['dist'] and r['name'] == item['name'] for r in R):
+            R.append(item)
     return R
 
 ORDER = ['全国重点', '浙江省', '杭州市文物保护单位', '建德市文物保护单位', '桐庐县文物保护单位', '淳安县文物保护单位', '杭州市文物保护点', '杭州市历史建筑', '一般不可移动文物', '未定级不可移动文物']
@@ -247,7 +251,8 @@ def doc(title, rs, folder, with_town=False, extra_notes=()):
     for r in rs:
         for fn in imgs_of(folder, r['name']):
             s = IMGSRC.get(os.path.relpath(os.path.join(folder, fn), ROOT))
-            imgs.append(f'| [{fn}]({fn}) | {s or "—"} |')
+            line = f'| [{fn}]({fn}) | {s or "—"} |'
+            if line not in imgs: imgs.append(line)
     if imgs:
         L += ['## 图片来源', '', '| 文件 | 来源 |', '|---|---|'] + imgs + ['', '维基共享资源的图片按原许可协议使用；其他网站的图片版权归原作者。', '']
     return '\n'.join(L)
@@ -374,6 +379,17 @@ def main():
         if (r['dist'], r['town'], r['name']) == ('上城区', '笕桥街道', '姚斗门桥'):
             r['note'] = (r.get('note') or '') + '；又写作姚陡门桥，据老百晓集桥建在唐代姚陡门（闸门）基础上，南宋已有记载，现桥年代以档案记载并保留差异'
     R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('上城区', '笕桥街道', '姚陡门桥')]
+    R = __import__('linan_book').apply(R)
+    R = __import__('linan_xia').apply(R)
+    R = __import__('keling').apply(R)
+    R = __import__('chunan_wenwu').apply(R)
+    R = __import__('leijiaqiao').apply(R)
+    if not any((r['dist'], r['town'], r['name']) == ('拱墅区', '文晖街道', '打铁关纤道') for r in R):
+        R.append(dict(dist='拱墅区', town='文晖街道', name='打铁关纤道', struct='纤道（石板路）', len='—', era='—', loc='文晖街道打铁关一带，具体位置待核', level='尚未定级（待核实）', doc='—', src='—', srcs=[], commons=None, note='据用户提供线索收录；具体位置、现状、水面范围及保护等级待核'))
+    for r in R:
+        if (r['dist'], r['town'], r['name']) == ('淳安县', '瑶山乡', '云溪廊桥'):
+            source = '../../文保名录/杭州市/淳安县文物保护单位一览表2025.doc'
+            if source not in r.setdefault('srcs', []): r['srcs'].append(source)
     by = {}
     for r in R: by.setdefault((r['dist'], r['town']), []).append(r)
     bad = [k for k in by if k[0] not in towns or (k[1] not in towns[k[0]] and not (k[0] in COUNTIES and k[1] == '乡镇待核'))]

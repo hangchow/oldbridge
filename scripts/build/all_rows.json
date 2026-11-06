@@ -39,16 +39,17 @@
   "name": "际云桥",
   "era": "明崇祯三年（1630）",
   "loc": "芹川村中，跨芹溪",
-  "level": "尚未定级（待核实）",
+  "level": "尚未定级（已核实）",
   "doc": "—",
   "src": "https://mp.weixin.qq.com/s/AzeOehdFo5wn-DDIN_tXvg",
   "struct": "石拱桥（单孔）",
-  "note": "据2018年《浪川芹溪古桥》，桥北侧刻有“崇祯三年冬月吉建”；文保等级和现状待核",
+  "note": "据2018年《浪川芹溪古桥》，桥北侧刻有“崇祯三年冬月吉建”；文保等级和现状待核；据《文物叙略》印刷页第101页",
   "commons": null,
   "srcs": [
-   "https://mp.weixin.qq.com/s/AzeOehdFo5wn-DDIN_tXvg"
+   "https://mp.weixin.qq.com/s/AzeOehdFo5wn-DDIN_tXvg",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
-  "len": "—"
+  "len": "7.6米"
  },
  {
   "dist": "淳安县",
@@ -2280,10 +2281,13 @@
   "doc": "淳政〔2012〕33号",
   "src": "https://www.qdh.gov.cn/art/2022/12/5/art_1229715686_59012851.html",
   "struct": "石墩廊桥（三孔）",
-  "note": "",
+  "note": "客岭古道南端，俗称驮桥；据千岛湖新闻网报道，始建于明弘治年间，2010年重修；据《文物叙略》印刷页第92页",
   "commons": null,
   "srcs": [
-   "https://www.qdh.gov.cn/art/2022/12/5/art_1229715686_59012851.html"
+   "https://www.qdh.gov.cn/art/2022/12/5/art_1229715686_59012851.html",
+   "https://www.qdhnews.com.cn/content/content_9759225.html",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+   "../../文保名录/杭州市/淳安县文物保护单位一览表2025.doc"
   ],
   "len": "32.6米"
  },
@@ -2646,23 +2650,6 @@
  },
  {
   "dist": "临平区",
-  "town": "东湖街道",
-  "name": "雷家桥",
-  "era": "清",
-  "loc": "姚家埭村",
-  "level": "尚未定级（待核实）",
-  "doc": "—",
-  "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql424.htm",
-  "struct": "—",
-  "note": "连接古纤道的石桥",
-  "commons": null,
-  "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql424.htm"
-  ],
-  "len": "—"
- },
- {
-  "dist": "临平区",
   "town": "崇贤街道",
   "name": "裘家斗太平桥",
   "era": "明始建",
@@ -2736,14 +2723,15 @@
   "name": "化龙石拱桥",
   "era": "清",
   "loc": "化龙村化龙自然村中部",
-  "level": "尚未定级（待核实）",
+  "level": "一般不可移动文物（三普调查实录）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql577.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，桥面已用水泥覆盖",
+  "note": "单孔石拱桥，桥面已用水泥覆盖；形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql577.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql577.htm",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "len": "7.5米"
  },
@@ -2753,14 +2741,15 @@
   "name": "铜涧桥",
   "era": "清",
   "loc": "桐坑村桐坑自然村东部",
-  "level": "尚未定级（待核实）",
+  "level": "一般不可移动文物（三普调查实录）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql582.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，拱券石浮雕“铜涧桥”三字",
+  "note": "单孔石拱桥，拱券石浮雕“铜涧桥”三字；形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql582.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql582.htm",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "len": "22米"
  },
@@ -2770,14 +2759,15 @@
   "name": "梁成桥",
   "era": "明始建",
   "loc": "原马啸乡湖门村洪家自然村西约100米",
-  "level": "尚未定级（待核实）",
+  "level": "一般不可移动文物（三普调查实录）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql357.htm",
-  "struct": "—",
-  "note": "双孔石梁桥，2008年文物普查新发现",
+  "struct": "石拱桥（单孔）",
+  "note": "双孔石梁桥，2008年文物普查新发现；形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；书中为单孔石拱桥，而既有资料称双孔石梁桥，记载不一致待核；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql357.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql357.htm",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "len": "16米"
  },
@@ -2787,14 +2777,15 @@
   "name": "拱禄桥",
   "era": "清",
   "loc": "白果村乾山自然村北部",
-  "level": "尚未定级（待核实）",
+  "level": "一般不可移动文物（三普调查实录）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql579.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，券顶龙门石刻“拱禄桥”",
+  "note": "单孔石拱桥，券顶龙门石刻“拱禄桥”；形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql579.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql579.htm",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "len": "19米"
  },
@@ -2860,10 +2851,11 @@
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）；原为尚未定级（待核实）",
+  "note": "单孔石拱桥，桥上建涌翠亭；具体年代据老百晓集桥（名录原写“—”）；原为尚未定级（待核实）；据《文物叙略》印刷页第105页",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql384.htm",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
   "len": "12米",
   "sdl": "文保名录/杭州市/云端档案/历保1341_茶合村洞源桥.html"
@@ -2874,14 +2866,15 @@
   "name": "登瀛桥",
   "era": "宋始建",
   "loc": "胡宅村，瀛山北山脚下",
-  "level": "尚未定级（待核实）",
+  "level": "尚未定级（已核实）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，通往瀛山书院",
+  "note": "单孔石拱桥，通往瀛山书院；据《文物叙略》印刷页第94页；书记清乾隆十一年（1746）重修",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql591.htm",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
   "len": "9米"
  },
@@ -2908,14 +2901,15 @@
   "name": "斗应桥",
   "era": "明嘉靖十七年（1538）有《斗应桥记》",
   "loc": "赤川口村中，跨赤川溪",
-  "level": "尚未定级（待核实）",
+  "level": "尚未定级（已核实）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，桥上有凉亭",
+  "note": "单孔石拱桥，桥上有凉亭；据《文物叙略》印刷页第95页",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql385.htm",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
   "len": "15米"
  },
@@ -3011,14 +3005,15 @@
   "name": "众善桥",
   "era": "—",
   "loc": "杭州医学院校区内，旧杭徽古道",
-  "level": "尚未定级（待核实）",
+  "level": "一般不可移动文物（三普调查实录）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql574.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，长15.6米，券脸刻“众善桥”",
+  "note": "单孔石拱桥，长15.6米，券脸刻“众善桥”；形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql574.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql574.htm",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "len": "15.6米"
  },
@@ -3028,14 +3023,15 @@
   "name": "白佛桥",
   "era": "—",
   "loc": "菖蒲村口，跨十都源",
-  "level": "尚未定级（待核实）",
+  "level": "尚未定级（已核实）",
   "doc": "—",
   "src": "http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm",
   "struct": "石拱桥（单孔）",
-  "note": "单孔石拱桥，长15米，券面阳刻“白佛桥”",
+  "note": "单孔石拱桥，长15米，券面阳刻“白佛桥”；据《文物叙略》印刷页第96页",
   "commons": null,
   "srcs": [
-   "http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm"
+   "http://www.china-qiao.com/ql15/hz_ql/hzvql552.htm",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
   "len": "15米"
  },
@@ -3043,18 +3039,19 @@
   "dist": "淳安县",
   "town": "浪川乡",
   "name": "进德桥",
-  "era": "—",
+  "era": "清顺治二年（1645）始建",
   "loc": "芹川村头，跨芹水溪",
-  "level": "尚未定级（待核实）",
+  "level": "尚未定级（已核实）",
   "doc": "—",
   "src": "https://mp.weixin.qq.com/s/AzeOehdFo5wn-DDIN_tXvg",
   "struct": "石拱廊桥（单孔）",
-  "note": "又称进德廊桥；桥上建有似亭似廊的建筑，两头各有两扇洞门；年代及文保等级待核",
+  "note": "又称进德廊桥；桥上建有似亭似廊的建筑，两头各有两扇洞门；文保等级待核；据《文物叙略》印刷页第102页；书据宗谱记清顺治二年（1645）始建，1946年及2002年维修",
   "commons": null,
   "srcs": [
-   "https://mp.weixin.qq.com/s/AzeOehdFo5wn-DDIN_tXvg"
+   "https://mp.weixin.qq.com/s/AzeOehdFo5wn-DDIN_tXvg",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
-  "len": "—"
+  "len": "10.3米"
  },
  {
   "dist": "西湖区",
@@ -4880,12 +4877,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石梁桥（三孔）",
+  "note": "形制、尺寸据《临安印记（上）》第138页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "6米"
  },
  {
   "dist": "临安区",
@@ -4896,12 +4894,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（三孔）",
+  "note": "形制、尺寸据《临安印记（上）》第166页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "25.4米"
  },
  {
   "dist": "临安区",
@@ -4912,12 +4911,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第167页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "10.2米"
  },
  {
   "dist": "临安区",
@@ -4944,12 +4944,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（两孔）",
+  "note": "形制、尺寸据《临安印记（上）》第163页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "18米"
  },
  {
   "dist": "临安区",
@@ -4960,12 +4961,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第162页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "25.1米"
  },
  {
   "dist": "临安区",
@@ -4976,12 +4978,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第154页，现状以书中调查时期为准；书中称双溪桥，位置同为双坑村，且2006年公布文保点，暂按同桥记载",
   "commons": null,
-  "len": "—"
+  "len": "8米"
  },
  {
   "dist": "临安区",
@@ -5008,12 +5011,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "名录地址用的是撤并前的“藻溪镇”，今属天目山镇",
+  "struct": "石拱桥（单孔）",
+  "note": "名录地址用的是撤并前的“藻溪镇”，今属天目山镇；形制、尺寸据《临安印记（上）》第145页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "9.6米"
  },
  {
   "dist": "临安区",
@@ -5024,12 +5028,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（三孔）",
+  "note": "形制、尺寸据《临安印记（上）》第164页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "20.1米"
  },
  {
   "dist": "临安区",
@@ -5040,12 +5045,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "名录地址用的是撤并前的“新桥乡”，今属岛石镇",
+  "struct": "石拱桥（五孔）",
+  "note": "名录地址用的是撤并前的“新桥乡”，今属岛石镇；形制、尺寸据《临安印记（上）》第143页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "52.1米"
  },
  {
   "dist": "临安区",
@@ -5072,12 +5078,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2006〕34号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（四孔）",
+  "note": "形制、尺寸据《临安印记（上）》第165页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "53米"
  },
  {
   "dist": "临安区",
@@ -5120,28 +5127,30 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第140页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "19米"
  },
  {
   "dist": "临安区",
   "town": "太湖源镇",
-  "name": "苕tiáo sháo源桥",
+  "name": "苕源桥",
   "era": "清",
   "loc": "光辉村觃头自然村",
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（三孔）",
+  "note": "据《临安印记（上）》第168页，桥宽4.5米；书中记改作公路桥时桥面浇筑水泥并拓宽加高，现状待核",
   "commons": null,
-  "len": "—"
+  "len": "26.8米"
  },
  {
   "dist": "临安区",
@@ -5152,12 +5161,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（三孔）",
+  "note": "形制、尺寸据《临安印记（上）》第169页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "40.3米"
  },
  {
   "dist": "临安区",
@@ -5168,12 +5178,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石梁桥（两孔）",
+  "note": "形制、尺寸据《临安印记（上）》第170页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "13.1米"
  },
  {
   "dist": "临安区",
@@ -5184,10 +5195,11 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "具体年代据老百晓集桥（名录原写“明”）",
+  "struct": "石梁桥（两孔）",
+  "note": "具体年代据老百晓集桥（名录原写“明”）；形制、尺寸据《临安印记（上）》第139页，现状以书中调查时期为准",
   "commons": null,
   "len": "14.3米"
  },
@@ -5200,12 +5212,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（五孔）",
+  "note": "形制、尺寸据《临安印记（上）》第142页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "66米"
  },
  {
   "dist": "临安区",
@@ -5216,12 +5229,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第150页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "27.8米"
  },
  {
   "dist": "临安区",
@@ -5232,12 +5246,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第171页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "20米"
  },
  {
   "dist": "临安区",
@@ -5248,12 +5263,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（两孔）",
+  "note": "形制、尺寸据《临安印记（上）》第172页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "30米"
  },
  {
   "dist": "临安区",
@@ -5264,12 +5280,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第173页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "25米"
  },
  {
   "dist": "临安区",
@@ -5280,12 +5297,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第151页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "11.8米"
  },
  {
   "dist": "临安区",
@@ -5296,10 +5314,11 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
   "struct": "石拱桥（三孔）",
-  "note": "",
+  "note": "形制、尺寸据《临安印记（上）》第141页，现状以书中调查时期为准",
   "commons": null,
   "len": "47.2米"
  },
@@ -5312,12 +5331,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第147页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "13.7米"
  },
  {
   "dist": "临安区",
@@ -5328,12 +5348,13 @@
   "level": "杭州市文物保护点",
   "doc": "临文广新〔2012〕135号",
   "srcs": [
-   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx"
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
+   "../../../文保名录/杭州市/临安印记（上）桥梁章节137-174页.pdf"
   ],
-  "struct": "—",
-  "note": "",
+  "struct": "石拱桥（单孔）",
+  "note": "形制、尺寸据《临安印记（上）》第174页，现状以书中调查时期为准",
   "commons": null,
-  "len": "—"
+  "len": "17.5米"
  },
  {
   "dist": "临安区",
@@ -8873,10 +8894,11 @@
   "level": "未定级不可移动文物（四普新发现）",
   "doc": "2026年公示",
   "srcs": [
-   "https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html"
+   "https://www.linan.gov.cn/col/col1229289091/art/2026/art_1e45d468c64a4e61bffd8feb71937112.html",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥",
-  "note": "",
+  "note": "《临安印记（下）》第230页记石室寺前100米有一石拱桥；与石室寺南、北石拱桥是否对应尚待核实",
   "commons": null
  },
  {
@@ -11446,6 +11468,42 @@
   "commons": null
  },
  {
+  "dist": "萧山区",
+  "town": "新塘街道",
+  "name": "浙东运河古纤道（和平桥段）",
+  "era": "—",
+  "loc": "新塘街道和平桥附近，萧绍运河官河段",
+  "level": "全国重点文物保护单位（第七批“大运河”浙东运河纤道萧山段组成部分）",
+  "doc": "—",
+  "src": "https://zjnews.zjol.com.cn/zjnews/hznews/201704/t20170425_3512277.shtml",
+  "struct": "水中纤道（石驳坎与纤桥结合）",
+  "note": "据2022年萧山地名资料，和平桥附近有河道中双连石驳坎与纤桥结合的古纤道；2017年报道记和平桥段约150米保存完整，长度是否全部属于该水中组合、目前现状待核；该处曾设纤道国家级保护单位标志碑，作为萧山段组成部分收录",
+  "commons": null,
+  "srcs": [
+   "https://zjnews.zjol.com.cn/zjnews/hznews/201704/t20170425_3512277.shtml",
+   "https://www.sohu.com/a/549069550_121106832"
+  ],
+  "len": "约150米"
+ },
+ {
+  "dist": "拱墅区",
+  "town": "半山街道",
+  "name": "衣锦桥下古纤道",
+  "era": "—",
+  "loc": "半山街道上塘河衣锦桥北侧桥墩下",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "https://canal-museum.oss-cn-hangzhou.aliyuncs.com/production/book/file/4/yunhenanduanmiyizhi.pdf",
+  "struct": "青石板纤道",
+  "note": "桥北侧古纤道由青石板组成，资料记长20多米；平时没入水中，低水位时露出。桥洞壁存纤绳磨痕；现存纤道年代、基础结构及单独文保等级待核，与衣锦桥分别统计",
+  "commons": null,
+  "srcs": [
+   "https://canal-museum.oss-cn-hangzhou.aliyuncs.com/production/book/file/4/yunhenanduanmiyizhi.pdf",
+   "https://town.zjol.com.cn/lyrw/201406/t20140623_3180716.shtml"
+  ],
+  "len": "20多米"
+ },
+ {
   "dist": "拱墅区",
   "town": "上塘街道",
   "name": "莫婆桥",
@@ -11540,11 +11598,12 @@
   "doc": "—",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1353",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1353"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=1353",
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "18米",
-  "note": "",
+  "note": "据《文物叙略》印刷页第106页；书中称獬麟桥，记长18.5米、民国十年（1921）建；与历史建筑档案长18米存在差异",
   "sdl": "文保名录/杭州市/云端档案/历保1353_桐坑口村解麟桥.html"
  },
  {
@@ -11676,11 +11735,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=416",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=416"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=416",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "9米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保416_白蛇坑石拱桥.html"
  },
  {
@@ -11693,11 +11753,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=425",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=425"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=425",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "15米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保425_上阴山石拱桥.html"
  },
  {
@@ -11727,11 +11788,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=442",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=442"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=442",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "25米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第346页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保442_双塔村童婆桥.html"
  },
  {
@@ -11744,11 +11806,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=447",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=447"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=447",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "铁索桥",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "len": "160米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第431页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保447_白牛村铁索桥.html"
  },
  {
@@ -11761,11 +11824,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=448",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=448"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=448",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "22米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保448_双溪口万安桥.html"
  },
  {
@@ -11778,11 +11842,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=454",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=454"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=454",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "11.7米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保454_曹家村石拱桥.html"
  },
  {
@@ -11795,11 +11860,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=455",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=455"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=455",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "len": "10.3米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第372页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保455_万古桥.html"
  },
  {
@@ -11812,11 +11878,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=457",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=457"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=457",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "13.4米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保457_永久桥.html"
  },
  {
@@ -11829,11 +11896,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=458",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=458"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=458",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "16.3米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第372页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保458_万安桥.html"
  },
  {
@@ -11846,11 +11914,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=460",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=460"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=460",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "14.8米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保460_陆家新桥.html"
  },
  {
@@ -11863,11 +11932,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=461",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=461"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=461",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "13.4米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保461_五圣桥.html"
  },
  {
@@ -11880,11 +11950,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=465",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=465"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=465",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "4.6米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保465_峙坞口石拱桥.html"
  },
  {
@@ -11914,11 +11985,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=468",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=468"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=468",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "9.5米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第350页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保468_傅家石拱桥.html"
  },
  {
@@ -11931,11 +12003,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=471",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=471"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=471",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "len": "13.5米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保471_正坞口保安桥.html"
  },
  {
@@ -11948,11 +12021,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=472",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=472"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=472",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
-  "struct": "—",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "struct": "石拱桥（三孔）",
+  "len": "42.6米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保472_凌口桥.html"
  },
  {
@@ -11965,11 +12039,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=474",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=474"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=474",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "29.9米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保474_阳安桥.html"
  },
  {
@@ -11982,11 +12057,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=475",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=475"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=475",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "10米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保475_景宁桥.html"
  },
  {
@@ -11999,11 +12075,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=476",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=476"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=476",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "12米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保476_塔山峰石拱桥.html"
  },
  {
@@ -12016,11 +12093,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=479",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=479"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=479",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
-  "struct": "—",
+  "struct": "石拱桥（单孔）",
   "len": "14米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第350页，现状以书中调查时期为准；书名为里王家永庆桥，与历史建筑档案的里王家村永久桥位置、长度及纪年一致，暂按同桥处理，名称差异待核",
   "sdl": "文保名录/杭州市/云端档案/历保479_里王家村永久桥.html"
  },
  {
@@ -12033,11 +12111,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=484",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=484"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=484",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "len": "7.5米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保484_里东山石拱桥.html"
  },
  {
@@ -12050,11 +12129,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=486",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=486"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=486",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "6米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保486_潜庄桥.html"
  },
  {
@@ -12067,11 +12147,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=493",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=493"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=493",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "len": "12米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准；书中称白石岩石拱桥，位置与鱼潭村石拱桥一致，暂按同桥处理",
   "sdl": "文保名录/杭州市/云端档案/历保493_鱼潭村石拱桥.html"
  },
  {
@@ -12084,11 +12165,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=505",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=505"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=505",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥",
-  "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "len": "11.6米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保505_夏村村盛村自然村坞石拱桥.html"
  },
  {
@@ -12118,11 +12200,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=509",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=509"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=509",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥",
   "len": "9.3米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保509_长青石拱桥.html"
  },
  {
@@ -12152,11 +12235,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=519",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=519"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=519",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "8米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保519_卦畈铜桥.html"
  },
  {
@@ -12186,11 +12270,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=521",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=521"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=521",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "11米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保521_钱家庄石拱桥.html"
  },
  {
@@ -12203,11 +12288,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=522",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=522"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=522",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "5.5米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保522_殷家山石拱桥.html"
  },
  {
@@ -12271,11 +12357,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=537",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=537"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=537",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "6米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保537_杨家头石拱桥.html"
  },
  {
@@ -12288,11 +12375,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=546",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=546"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=546",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "6.5米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第346页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保546_钱宅桥.html"
  },
  {
@@ -12305,11 +12393,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=444",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=444"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=444",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "石拱桥（单孔）",
   "len": "14.9米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保444_朱良坪白佛桥.html"
  },
  {
@@ -12322,11 +12411,12 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=497",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=497"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=497",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
-  "struct": "—",
+  "struct": "石梁桥（单孔）",
   "len": "—",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；与龙岗镇的仙人桥（文物保护点）不是同一座",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）；与龙岗镇的仙人桥（文物保护点）不是同一座；《临安印记（下）》第232页记白龙寺遗址内有五座石拱桥及一座石梁平桥，并引县志记仙人桥；与现存档案中仙人桥及其他桥的对应关系待核，不据此重复计数",
   "sdl": "文保名录/杭州市/云端档案/历保497_仙人桥.html"
  },
  {
@@ -12356,11 +12446,3669 @@
   "doc": "杭政函〔2019〕54号",
   "src": "http://www.singdo.org/libao/luelan_disp.php?luelan_id=435",
   "srcs": [
-   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=435"
+   "http://www.singdo.org/libao/luelan_disp.php?luelan_id=435",
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
   ],
   "struct": "钢筋混凝土拱桥（单孔）",
   "len": "80米",
-  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）：全长80米，宽6.7米，拱券钢筋加水泥浇筑，净跨75米，矢高10米",
+  "note": "乡镇、年代、结构、长度据云端档案保护图则（图片文字识别）：全长80米，宽6.7米，拱券钢筋加水泥浇筑，净跨75米，矢高10米；形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准",
   "sdl": "文保名录/杭州市/云端档案/历保435_山田大桥.html"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "大成永安桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "原马啸乡杭徽古道马啸段，大成村至浙川村沿线；具体位置待核",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "涂家永安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.5米",
+  "era": "清同治十一年（1872）碑记",
+  "loc": "原马啸乡湖门村山边自然村东南部涂家，古川公路转弯处",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核；第350页另有独立条目，桥宽3米；书中碑记日期与具体建桥年份的关系待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "马啸坑口桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "原马啸乡杭徽古道马啸段，大成村至浙川村沿线；具体位置待核",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "大石门桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "原马啸乡杭徽古道马啸段，大成村至浙川村沿线；具体位置待核",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "银龙桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "原马啸乡杭徽古道马啸段，大成村至浙川村沿线；具体位置待核",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "宝善桥",
+  "struct": "石梁桥（单孔）",
+  "len": "9米",
+  "era": "民国，1963年重修",
+  "loc": "原马啸乡浙川村浙川自然村黄头丘",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核；形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "阳山象形桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "原马啸乡杭徽古道马啸段，大成村至浙川村沿线；具体位置待核",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第230页，列入当时沿线保存的清至民国时期建筑；单桥年代、现状及与其他记录是否重复待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "岛石镇",
+  "name": "龙泉庵遗址东石拱桥（暂称）",
+  "struct": "石拱桥（单孔）",
+  "len": "5米",
+  "era": "—",
+  "loc": "山川村新川自然村南部佛堂山，龙泉庵遗址东30米",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第233页，桥宽3米、净跨3.6米、矢高3.2米，专为香客进庵上香而建；原名、年代和现状待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "昌化县桥渡木桥遗址（暂称）",
+  "struct": "木桥",
+  "len": "约100米",
+  "era": "清同治十二年（1873）碑记",
+  "loc": "东街村南门弄，昌化溪北岸，原桥南北向跨昌化溪",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第234页，书中称木桥及船渡码头遗址，桥渡碑记载1873年修建经过；桥体是否仍存待核，不能以书中历史长度推定现状"
+ },
+ {
+  "dist": "临安区",
+  "town": "岛石镇",
+  "name": "柳岭古道北凉亭石梁桥（暂称）",
+  "struct": "石梁桥",
+  "len": "2米",
+  "era": "—",
+  "loc": "岛石村下塔自然村通往原新桥乡柳川村的柳岭古道，北凉亭前10米",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第233页，桥宽1.5米，净跨1至1.4米；原名、年代和现状待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "扁担山脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8.3米",
+  "era": "清（古道年代，桥待核）",
+  "loc": "沈家坞村西南沈洪古道扁担山脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第236页，为古道同期修筑；现状待核；形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "百丈岭脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4米",
+  "era": "清",
+  "loc": "原藻溪镇藻溪村藻溪自然村百丈岭脚古驿道",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "据《临安印记（下）》第236页，书中称清代建筑、调查时尚存；现状待核；形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "双林山石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "2.6米",
+  "era": "元、清",
+  "loc": "集贤村集贤自然村双林山双林寺遗址",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第346页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "观音桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3.6米",
+  "era": "元",
+  "loc": "麻车埠村麻车埠自然村白龙寺遗址内",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第346页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "和尚坞口桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "明嘉靖十三年（1534）",
+  "loc": "童家村西川自然村何家墩头山脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第346页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "路口桥",
+  "struct": "石梁桥（两孔）",
+  "len": "15米",
+  "era": "明始建，清光绪十五年（1889）重修",
+  "loc": "原马啸乡大鹄村路口自然村东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "谢家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11.6米",
+  "era": "明",
+  "loc": "原马啸乡石长城村阳建自然村谢家",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "玲珑街道",
+  "name": "锦西永安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "明",
+  "loc": "锦球村锦西自然村，跨锦球溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "长湾石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5米",
+  "era": "明",
+  "loc": "豆川村豆川自然村长湾东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "三珠桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "明",
+  "loc": "豆川村豆川自然村东部，跨豆川溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；与同村历史建筑挺生桥是否为同一桥待核；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "鹤村万安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4米",
+  "era": "清乾隆二十九年（1764）",
+  "loc": "原横路乡横路村鹤村自然村口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "八亩白佛桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清乾隆三十三年（1768）",
+  "loc": "太源村八亩自然村北部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第347页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "双坑仁里桥",
+  "struct": "石拱桥（单孔）",
+  "len": "16.8米",
+  "era": "清乾隆四十年（1775）",
+  "loc": "双坑村双坑自然村中部，跨马腿溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "茹荷石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "4.5米",
+  "era": "清乾隆五十六年（1791）",
+  "loc": "青云村茹荷自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "玲珑街道",
+  "name": "万福桥",
+  "struct": "石梁桥（单孔）",
+  "len": "3.6米",
+  "era": "清乾隆六十年（1795）",
+  "loc": "桥岭村甘坞岭自然村，临安与富阳界桥溪上",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "玲珑街道",
+  "name": "前张永安桥",
+  "struct": "石梁桥（两孔）",
+  "len": "11.4米",
+  "era": "清乾隆年间",
+  "loc": "前山村前张自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "合社太平桥",
+  "struct": "石拱桥（单孔）",
+  "len": "12.7米",
+  "era": "清嘉庆三年（1798）",
+  "loc": "雪山村横塘自然村潘庄",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "上路石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4米",
+  "era": "清嘉庆十年（1805）重修",
+  "loc": "百园村上路自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "河桥镇",
+  "name": "赤石外石梁桥",
+  "struct": "石梁桥（三孔）",
+  "len": "15.8米",
+  "era": "清嘉庆十九年（1814）修",
+  "loc": "七都村赤石自然村南部昌南溪边",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第348页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "龙庆桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4.4米",
+  "era": "清道光十年（1830）",
+  "loc": "板桥村珠西自然村张家头阴岸",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "沃溪永安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "12米",
+  "era": "清道光十六年（1836）",
+  "loc": "联盟村沃溪自然村龙船湾",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "神航桥",
+  "struct": "石梁桥（三孔）",
+  "len": "17米",
+  "era": "清道光十八年（1838）",
+  "loc": "原藻溪镇亭口村新坑桥自然村北部，跨藻溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "河桥镇",
+  "name": "水口桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7.2米",
+  "era": "清道光二十一年（1841）",
+  "loc": "七都村赤石自然村南部北坞",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "南山石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "era": "清咸丰三年（1853，据村民）",
+  "loc": "南山村南山自然村东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "梅园桥",
+  "struct": "石梁桥（三孔）",
+  "len": "17.6米",
+  "era": "清咸丰九年（1859）",
+  "loc": "太阳村高拔自然村西南部，跨浪溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "印石坞万安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7.5米",
+  "era": "清同治年间（据村民）",
+  "loc": "九龙村三星自然村印石坞",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第349页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "木公岭脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.5米",
+  "era": "清",
+  "loc": "高云村素云自然村北部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第350页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "洪济桥",
+  "struct": "石拱桥（单孔）",
+  "len": "15米",
+  "era": "清光绪二十年（1894）碑记",
+  "loc": "洪岭村东川自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第350页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "杨岭太平桥",
+  "struct": "石拱桥（单孔）",
+  "len": "20米",
+  "era": "清光绪三十二年（1906）",
+  "loc": "原大峡谷镇龙井桥村杨岭自然村南部，跨桃花溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第350页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "寿屋下石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4.9米",
+  "era": "清",
+  "loc": "湍源村陆家自然村考坑寿屋下",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第350页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "考坑石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.1米",
+  "era": "清",
+  "loc": "湍源村陆家自然村考坑东端",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "八亩田石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.7米",
+  "era": "清",
+  "loc": "湍源村陆家自然村，跨考坑溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "麻湾石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "17米",
+  "era": "清",
+  "loc": "湍源村陆家自然村南部麻湾",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "塔山湾脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "湍源村陆家自然村塔山湾脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "大岭脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "湍源村陆家自然村大岭脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "大坪山脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "湍源村陆家自然村大坪山脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第351页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "峙坞岭脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "湍源村陆家自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "白果树坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "湍源村陆家自然村西部白果树坞",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "蜡塔坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3.8米",
+  "era": "清",
+  "loc": "湍源村勤丰自然村峙坞口南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "红殿石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4.7米",
+  "era": "清",
+  "loc": "湍源村勤丰自然村峙坞口南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "水坎头石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.3米",
+  "era": "清",
+  "loc": "湍源村勤丰自然村峙坞口水坎头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "和合桥",
+  "struct": "石拱桥（单孔）",
+  "len": "12米",
+  "era": "清",
+  "loc": "凉溪村凉溪自然村考坑",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "外田坪石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "凉溪村凉溪自然村外田坪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第352页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "鸬鹚岩脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "23米",
+  "era": "清",
+  "loc": "塘秀村秀上自然村，跨鸬鹚岩脚溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "吉安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.4米",
+  "era": "清",
+  "loc": "石室村朱贵自然村杨家",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "老坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.2米",
+  "era": "清",
+  "loc": "三联村老坞自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "秧田坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.4米",
+  "era": "清",
+  "loc": "三联村老坞自然村西端",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "洪岭湾脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11.7米",
+  "era": "清",
+  "loc": "童家村赤坑自然村洪岭湾脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "潘庄山脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "13米",
+  "era": "清",
+  "loc": "雪山村横塘自然村潘庄山脚东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "潘坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "三联村大湖自然村，跨潘坞溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "大湖里石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.5米",
+  "era": "清",
+  "loc": "三联村大湖自然村，跨大湖溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "福善桥",
+  "struct": "石拱桥（单孔）",
+  "len": "17.5米",
+  "era": "清",
+  "loc": "三联村大湖自然村桥头20号民居旁",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第353页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "赵家坪石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "清",
+  "loc": "塘溪源村塘源自然村上周家",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第354页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "岔口转桥",
+  "struct": "石拱桥",
+  "len": "21米",
+  "era": "清",
+  "loc": "塘溪源村岔口自然村11号民居前20米",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第354页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "漆树湾脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "凉溪村凉溪自然村漆树湾",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第354页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "湍口镇",
+  "name": "海卜桥",
+  "struct": "石拱桥（单孔）",
+  "len": "28米",
+  "era": "清",
+  "loc": "湍口村沈溪自然村，跨里岭坑溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+   "https://www.qdhnews.com.cn/content/content_9759225.html"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第354页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核；千岛湖新闻网《客岭古道》称桥位于淳安、临安交界的岭坑口，记为明代；《临安印记（下）》列为清代，年代记载有异，待核；跨区桥暂在临安区计一次"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "太平桥",
+  "struct": "石梁桥（单孔）",
+  "len": "10米",
+  "era": "清",
+  "loc": "原马啸乡马啸村日升自然村许家庄石桥头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第354页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "刘家永丰桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "原马啸乡石长城村大石门自然村刘家南150米",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第354页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "乐春桥",
+  "struct": "石拱桥（单孔）",
+  "len": "22.4米",
+  "era": "清",
+  "loc": "原马啸乡浙川村浙川自然村银龙坞",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "万皇桥",
+  "struct": "石拱桥（单孔）",
+  "len": "14米",
+  "era": "清",
+  "loc": "原马啸乡大鹄村路口自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "枫树下石梁桥",
+  "struct": "石梁桥（两孔）",
+  "len": "16米",
+  "era": "清",
+  "loc": "原马啸乡马啸村陈家塘枫树下",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "双岭桥",
+  "struct": "石拱桥（单孔）",
+  "len": "18米",
+  "era": "清",
+  "loc": "原马啸乡湖门村洪家自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "陈家畈石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "17.5米",
+  "era": "清",
+  "loc": "孙家村孙家自然村陈家畈",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "白坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "era": "清",
+  "loc": "孙家村孙家自然村徐家白坞口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "徐家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.8米",
+  "era": "清",
+  "loc": "后营村后营自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第355页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "里如来佛石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "era": "清",
+  "loc": "朱穴村朱穴自然村白坞口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "栗树坞口石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "清",
+  "loc": "朱白村永进自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "石牌石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "清",
+  "loc": "朱白村永进自然村石牌",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "落坞口石梁桥",
+  "struct": "石梁桥",
+  "len": "4米",
+  "era": "清",
+  "loc": "石铺村芦岭自然村落坞口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "杨村永安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "虞溪村杨村自然村柴山水库南侧",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "喻家石梁桥",
+  "struct": "石梁桥",
+  "len": "6.7米",
+  "era": "清",
+  "loc": "虞溪村杨村自然村喻家30号民居旁",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "同乐桥",
+  "struct": "石拱桥（单孔）",
+  "len": "12米",
+  "era": "清",
+  "loc": "虞溪村杨村自然村老相公桥头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "众济桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "虞溪村杨村自然村董家",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第356页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "仁寿桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10.2米",
+  "era": "清",
+  "loc": "虞溪村杨村自然村高堰头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "昌化镇",
+  "name": "九坑石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10.2米",
+  "era": "清",
+  "loc": "九龙村五丰自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "寿宁桥",
+  "struct": "石拱桥（单孔）",
+  "len": "—",
+  "era": "清",
+  "loc": "青山自然村，跨石炮潭溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；书中记桥长2.8米、净跨4米，数据相互矛盾，长度待核；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "董家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "青南村斜阳自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "斜阳永庆桥",
+  "struct": "石梁桥（单孔）",
+  "len": "5米",
+  "era": "清",
+  "loc": "青南村斜阳自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "桥头石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.6米",
+  "era": "清",
+  "loc": "青南村桥头自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦南街道",
+  "name": "樟村石梁桥",
+  "struct": "石梁桥（两孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "上甘村樟村自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦南街道",
+  "name": "樟村风古桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "上甘村樟村自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第357页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦南街道",
+  "name": "长春石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "上甘村长春自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦南街道",
+  "name": "深湖石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "锦源村深湖自然村，俗称圆桥",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "玲珑街道",
+  "name": "锦西石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10.5米",
+  "era": "清",
+  "loc": "锦球村锦西自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "玲珑街道",
+  "name": "梅坞里石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "era": "清",
+  "loc": "锦绣村姚家自然村梅坞里",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第358页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "玲珑街道",
+  "name": "章东石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "化龙村章东自然村高速公路旁",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "马带桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3.3米",
+  "era": "清",
+  "loc": "横街村郎碧自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "石壁石梁桥",
+  "struct": "石梁桥",
+  "len": "5.8米",
+  "era": "清",
+  "loc": "龙马村石壁自然村西南部大桥头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "上东太平桥",
+  "struct": "石梁桥（两孔）",
+  "len": "10.5米",
+  "era": "清",
+  "loc": "上东村上东自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "集贤弓背桥",
+  "struct": "石梁桥（两孔）",
+  "len": "8.2米",
+  "era": "清",
+  "loc": "集贤村集贤自然村前山脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "老埠桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7.7米",
+  "era": "清",
+  "loc": "钱王铺村砌石自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "单家头石拱桥（洪溪）",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "原三口镇上线村大青自然村单家头村口，跨洪溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "单家头石拱桥（单溪）",
+  "struct": "石拱桥（单孔）",
+  "len": "12米",
+  "era": "清",
+  "loc": "原三口镇上线村大青自然村单家头村口，跨单溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "沙坑口石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10.4米",
+  "era": "清",
+  "loc": "原三口镇上线村大青自然村沙坑口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第359页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "莲蕊坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "原三口镇上线村莲蕊坞自然村西南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "早湾里石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4.4米",
+  "era": "清",
+  "loc": "原三口镇秋口村秋口自然村早湾里2号民居西侧",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "大横坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "2米",
+  "era": "清",
+  "loc": "原三口镇葱坑村葱坑自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "花桥石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4.3米",
+  "era": "清",
+  "loc": "原三口镇花桥村花桥自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "石亭子石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5米",
+  "era": "清",
+  "loc": "原三口镇上线村大横自然村石亭子南",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "牧家桥",
+  "struct": "石拱桥（五孔）",
+  "len": "72.8米",
+  "era": "清",
+  "loc": "如龙村亭子自然村东部，跨青山湖南部水道",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "紫垅坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4米",
+  "era": "清",
+  "loc": "灵溪村横溪自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；桥名第二字扫描不清，字形待核；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "里居仁石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "花戏村居仁自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第360页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "里杨家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.2米",
+  "era": "清",
+  "loc": "豆川村豆川自然村里杨家中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "板桥镇",
+  "name": "张家头石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3.1米",
+  "era": "清",
+  "loc": "板桥村珠西自然村张家头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "素云石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "高云村素云自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "回龙桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "碧淙村碧淙自然村泥桥头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "射干井桥",
+  "struct": "石梁桥（单孔）",
+  "len": "5.4米",
+  "era": "清",
+  "loc": "射干村射干自然村后村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "浪岭石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.8米",
+  "era": "清",
+  "loc": "夏村村浪岭自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "锦里石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.4米",
+  "era": "清",
+  "loc": "夏村村夏村自然村锦里",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "东坑石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.4米",
+  "era": "清",
+  "loc": "东坑村东坑自然村中部东坑66号民居东5米",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第361页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "大堰桥",
+  "struct": "石拱桥（单孔）",
+  "len": "16米",
+  "era": "清",
+  "loc": "南庄村南庄自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "四堰桥",
+  "struct": "石拱桥（单孔）",
+  "len": "21.6米",
+  "era": "清",
+  "loc": "南庄村南庄自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "里村石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "13.5米",
+  "era": "清",
+  "loc": "上阳村里村自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "朱里坑石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "1.8米",
+  "era": "清",
+  "loc": "指南村北部塘顶朱里坑",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "永福桥",
+  "struct": "石梁桥（单孔）",
+  "len": "5.5米",
+  "era": "清",
+  "loc": "原横畈镇庆南村横畈自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "笕水桥",
+  "struct": "石梁桥（两孔）",
+  "len": "5.8米",
+  "era": "清",
+  "loc": "原横畈镇庆南村横畈自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "潘公桥",
+  "struct": "石梁桥（单孔）",
+  "len": "3.3米",
+  "era": "清",
+  "loc": "原横畈镇洪村村湖山自然村独山坞",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "回里永安桥",
+  "struct": "石梁桥（三孔）",
+  "len": "14.6米",
+  "era": "清",
+  "loc": "原横畈镇庆北村回里自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "乌浪石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "原千洪乡千茂村乌浪自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第362页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "西桥石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4.5米",
+  "era": "清",
+  "loc": "原千洪乡朱湾村西桥自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "大洋坞口石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.5米",
+  "era": "清",
+  "loc": "原横路乡寨村村寨里自然村大洋坞口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "朱后石梁桥",
+  "struct": "石梁桥",
+  "len": "3米",
+  "era": "清",
+  "loc": "原横路乡鹤里村朱后自然村东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "朱后石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7.4米",
+  "era": "清",
+  "loc": "原横路乡鹤里村朱后自然村东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "桥头石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7.3米",
+  "era": "清",
+  "loc": "原横路乡武村村武村自然村桥头南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "大坞山石拱桥",
+  "struct": "石拱桥（两孔）",
+  "len": "11.8米",
+  "era": "清",
+  "loc": "原乐平乡伍村村中伍自然村大坞山北60米",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "塘坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "清",
+  "loc": "原乐平乡外伍村外伍自然村西部塘坞木角山",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "紫溪石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.9米",
+  "era": "清",
+  "loc": "麻车埠村紫溪自然村东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "洋湖山石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "4.3米",
+  "era": "清",
+  "loc": "青山殿村青山殿自然村西部洋湖山半山腰",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第363页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "阴山石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "5米",
+  "era": "清",
+  "loc": "青山殿村青山殿自然村南部阴山",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "蕉山坪石梁桥",
+  "struct": "石梁桥",
+  "len": "3.8米",
+  "era": "清",
+  "loc": "麻车埠村茶山自然村入口处东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "丹水石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.2米",
+  "era": "清",
+  "loc": "海龙村海龙自然村西500米",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第364页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "外闽坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3.8米",
+  "era": "清",
+  "loc": "原藻溪镇闽坞村外闽坞自然村西部79号民居旁",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "六海石梁桥",
+  "struct": "石梁桥",
+  "len": "3.4米",
+  "era": "清",
+  "loc": "原藻溪镇长六村六海自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "长村石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3米",
+  "era": "清",
+  "loc": "原藻溪镇长六村长村自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "甫上石梁桥",
+  "struct": "石梁桥（两孔）",
+  "len": "7.6米",
+  "era": "清",
+  "loc": "原藻溪镇横塘村甫上自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "城坑石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "原藻溪镇横塘村甫上自然村城坑水库后",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "高虹镇",
+  "name": "查川石梁桥",
+  "struct": "石梁桥",
+  "len": "2米",
+  "era": "清",
+  "loc": "活山村陈家坎自然村查川南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "高虹镇",
+  "name": "下峰石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8.2米",
+  "era": "清",
+  "loc": "长溪村下峰自然村东部村口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "高虹镇",
+  "name": "安铺石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.3米",
+  "era": "清",
+  "loc": "长溪村下峰自然村安铺东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "高虹镇",
+  "name": "龙新山石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "长溪村大溪自然村西4公里",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第365页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "高虹镇",
+  "name": "盘舍岭脚石梁桥",
+  "struct": "石梁桥",
+  "len": "4.3米",
+  "era": "清",
+  "loc": "长溪村大溪自然村西2公里盘舍岭脚飞跃水库边",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "高虹镇",
+  "name": "上桥石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "13米",
+  "era": "清",
+  "loc": "长溪村长青自然村西北部上桥头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "河青桥",
+  "struct": "石拱桥（单孔）",
+  "len": "14.5米",
+  "era": "清",
+  "loc": "原西天目乡天目村大有自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "天目山镇",
+  "name": "护龙桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9.3米",
+  "era": "清",
+  "loc": "原西天目乡天目村天目自然村北部西天目山脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "里古石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8.5米",
+  "era": "清",
+  "loc": "古竺村里古自然村南部甘岭脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "甘岭脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6.8米",
+  "era": "清",
+  "loc": "古竺村里古自然村甘岭脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第366页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "潘家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "清",
+  "loc": "双坑村双坑自然村潘家村口60米处磨刀湾口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "乌金石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5米",
+  "era": "清",
+  "loc": "横鑫村乌金自然村村口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "小昔石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "era": "清",
+  "loc": "横鑫村小昔自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "南坞保安桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9.8米",
+  "era": "清",
+  "loc": "英公村南坞自然村村口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "斑竹石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "6.9米",
+  "era": "清",
+  "loc": "太源村斑竹自然村稻桶山东麓",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "董家石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "6.4米",
+  "era": "清",
+  "loc": "太源村富源自然村董家",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第367页，现状以书中调查时期为准；书中标题及照片为石梁桥，正文误写石拱桥，结构待核；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "锦坑桥石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "4.8米",
+  "era": "清",
+  "loc": "锦坑桥村锦坑桥自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "金笠庵石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "12米",
+  "era": "清",
+  "loc": "上太阳村上太阳自然村南部，具体位置待核",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "庵堂口石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5米",
+  "era": "清",
+  "loc": "上太阳村上太阳自然村南部庵堂口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "朱柏坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "5.1米",
+  "era": "清",
+  "loc": "上太阳村朱柏坞自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "徐家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "4米",
+  "era": "清",
+  "loc": "大地村大周家自然村东部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太阳镇",
+  "name": "董家石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "浪山村浪山自然村中部董家",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "阴家湾石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "林坑村西坞自然村北部阴家湾口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "东坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10.5米",
+  "era": "清",
+  "loc": "林坑村东坞、西坞、林川自然村交界处",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第368页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "枫林桥",
+  "struct": "石梁桥（两孔）",
+  "len": "16米",
+  "era": "清",
+  "loc": "百丈村杨树自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "白水坑石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "新溪新村许联自然村北长垅弯",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "黄董坑石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "7米",
+  "era": "清",
+  "loc": "新溪新村许联自然村西南部黄董坑",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "塘源石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "新溪新村新溪自然村北部塘源",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "新溪石梁桥",
+  "struct": "石梁桥（两孔）",
+  "len": "11.4米",
+  "era": "清",
+  "loc": "新溪新村新溪自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "前山下木桥",
+  "struct": "木桥（十七孔）",
+  "len": "80米",
+  "era": "清",
+  "loc": "汤家湾村前山下自然村南部，跨林川溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "群干石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "郡沃村群干自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "岛石镇",
+  "name": "竹坞口石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "3.5米",
+  "era": "清",
+  "loc": "新二村桐坞自然村东部竹坞口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第369页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "岛石镇",
+  "name": "棺材潭石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10米",
+  "era": "清",
+  "loc": "原新桥乡下许村下许自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "岛石镇",
+  "name": "小坞口石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "清",
+  "loc": "原新桥乡新桥村柳川自然村北部小坞口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "新庄永年桥",
+  "struct": "石梁桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "原大峡谷镇峡谷源村新庄自然村北部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "源头长安桥",
+  "struct": "石梁桥（单孔）",
+  "len": "5.2米",
+  "era": "清",
+  "loc": "原大峡谷镇峡谷源村源头自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "柘林石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "原大峡谷镇大峡谷村柘林自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "永宁桥",
+  "struct": "石拱桥（单孔）",
+  "len": "25米",
+  "era": "清",
+  "loc": "白果村里仁自然村南部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第370页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "大路边石梁桥",
+  "struct": "石梁桥（单孔）",
+  "len": "6.2米",
+  "era": "清",
+  "loc": "顺溪村祝川自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "下竹窝石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "清",
+  "loc": "颊口村前坑自然村北部下竹窝",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "清凉峰镇",
+  "name": "鸠甫永兴桥",
+  "struct": "石拱桥（单孔）",
+  "len": "17米",
+  "era": "清",
+  "loc": "鸠甫村村口",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "河桥镇",
+  "name": "寺岭脚石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "11米",
+  "era": "清",
+  "loc": "七都村赤石自然村南部寺岭脚",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "河桥镇",
+  "name": "清水坪石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "8米",
+  "era": "清",
+  "loc": "罗山村毕家自然村北部清水坪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第371页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "新庄石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "15米",
+  "era": "民国三年（1914）",
+  "loc": "原大峡谷镇峡谷源村新庄自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第429页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "太湖源镇",
+  "name": "梅公桥",
+  "struct": "石拱桥（单孔）",
+  "len": "9米",
+  "era": "民国二十一年（1932）",
+  "loc": "东天目村东天目山半山腰",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第429页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "龙岗镇",
+  "name": "上安桥",
+  "struct": "石梁桥（单孔）",
+  "len": "5.3米",
+  "era": "民国二十三年（1934）",
+  "loc": "原大峡谷镇峡谷源村新庄自然村中部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第429页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "杜马桥",
+  "struct": "石梁桥（单孔）",
+  "len": "9.8米",
+  "era": "民国三十七年（1948）重建",
+  "loc": "青山村青山自然村杜马山南麓",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "锦城街道",
+  "name": "福兴桥",
+  "struct": "石梁桥（单孔）",
+  "len": "12.8米",
+  "era": "民国",
+  "loc": "横街村横街自然村，跨化龙溪",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "木岭坞石拱桥",
+  "struct": "石拱桥（单孔）",
+  "len": "6米",
+  "era": "民国",
+  "loc": "原横路乡鹤里村木岭坞自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "於潜镇",
+  "name": "添丁桥",
+  "struct": "石梁桥（两孔）",
+  "len": "8.6米",
+  "era": "民国",
+  "loc": "双坑村双坑自然村",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "青山湖街道",
+  "name": "临东桥",
+  "struct": "钢铁桥",
+  "len": "60米",
+  "era": "1963年",
+  "loc": "青山村青山自然村陆文头",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "临安区",
+  "town": "潜川镇",
+  "name": "冷水塘平桥",
+  "struct": "平桥（两孔）",
+  "len": "19.2米",
+  "era": "1965年",
+  "loc": "沈家坞村沈家坞自然村西部",
+  "level": "一般不可移动文物（三普调查实录）",
+  "doc": "—",
+  "src": "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf",
+  "srcs": [
+   "../../../文保名录/杭州市/临安印记（下）桥梁相关页.pdf"
+  ],
+  "commons": null,
+  "note": "形制、尺寸等据《临安印记（下）》第430页，现状以书中调查时期为准；按《临安印记（下）》独立条目归入一般不可移动文物，名录及调查资料截至2009年9月30日；现状和此后保护等级变化待核"
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "里畈白佛桥",
+  "struct": "石桥（两孔）",
+  "len": "—",
+  "era": "—",
+  "loc": "岭后源村永安自然村，白佛殿后附近跨沈溪",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+   "https://www.qdhnews.com.cn/content/content_9759225.html"
+  ],
+  "note": "又名永安桥，俗称白佛桥；据《客岭古道》，位于客岭北麓，桥头原有白佛殿。瑶山单元详细规划将里畈白佛桥列为历史建筑，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "客岭古道双塆脚古石桥（暂称）",
+  "struct": "石桥",
+  "len": "—",
+  "era": "—",
+  "loc": "何家村客坑坞双塆脚附近，客岭古道起岭处",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "https://www.qdhnews.com.cn/content/content_9759225.html",
+  "srcs": [
+   "https://www.qdhnews.com.cn/content/content_9759225.html"
+  ],
+  "note": "《客岭古道》记过云溪桥沿客坑坞至双塆脚，靠右至古石桥开始起岭；桥名、形制、位置和保护等级待核，可能与文中概述的古道石拱桥为同一座",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "张家村朱坑桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "张家村毛家坞口",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf"
+  ],
+  "note": "列入《杭州市淳安县瑶山单元（CA30）详细规划》历史建筑清单，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "琅坑村三元桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "琅坑源村琅坑自然村东南面花栏坞口",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf"
+  ],
+  "note": "列入《杭州市淳安县瑶山单元（CA30）详细规划》历史建筑清单，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "四联村回澜桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "琅坑源村四联自然村东北面",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf"
+  ],
+  "note": "列入《杭州市淳安县瑶山单元（CA30）详细规划》历史建筑清单，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "四联村拱桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "琅坑源村四联自然村村头",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf"
+  ],
+  "note": "列入《杭州市淳安县瑶山单元（CA30）详细规划》历史建筑清单，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "四联村柘树桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "琅坑源村四联自然村东面",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf"
+  ],
+  "note": "列入《杭州市淳安县瑶山单元（CA30）详细规划》历史建筑清单，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "瑶山乡",
+  "name": "南川村村脚桥",
+  "struct": "—",
+  "len": "—",
+  "era": "—",
+  "loc": "琅坑源村南川自然村村脚",
+  "level": "杭州市历史建筑",
+  "doc": "—",
+  "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf",
+  "srcs": [
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2241/site/attach/0/4d955e01f6bc4cb0b9f5b46a565f47c4.pdf"
+  ],
+  "note": "列入《杭州市淳安县瑶山单元（CA30）详细规划》历史建筑清单，具体公布批次待核",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "姜家镇",
+  "name": "大方桥",
+  "struct": "石拱廊桥（单孔）",
+  "len": "4.1米",
+  "era": "明始建",
+  "loc": "银峰村，南北向跨瀛溪",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第97页",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "汾口镇",
+  "name": "登云桥",
+  "struct": "石拱桥（三孔）",
+  "len": "18米",
+  "era": "明万历十四年（1586）",
+  "loc": "赤川口村，跨减塘溪",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第97页",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "汾口镇",
+  "name": "鸿福桥",
+  "struct": "石拱桥（单孔）",
+  "len": "10.2米",
+  "era": "明嘉靖末年",
+  "loc": "宋京村，小金銮殿（大夫家庙）前",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第98页",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "汾口镇",
+  "name": "福延桥",
+  "struct": "石拱桥（单孔）",
+  "len": "20.3米",
+  "era": "明始建，清嘉庆年间重修",
+  "loc": "湛川村口，跨湛川溪",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第99页",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "姜家镇",
+  "name": "璜溪桥",
+  "struct": "石拱桥（单孔）",
+  "len": "22米",
+  "era": "明始建，清道光二十六年（1846）重修",
+  "loc": "赤城村口，跨璜溪",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第100页",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "大墅镇",
+  "name": "麟振桥",
+  "struct": "石拱桥（三孔）",
+  "len": "43.3米",
+  "era": "清乾隆三十年（1765）",
+  "loc": "儒洪村西约1000米，跨儒洪源溪",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第103页",
+  "commons": null
+ },
+ {
+  "dist": "淳安县",
+  "town": "姜家镇",
+  "name": "济大桥",
+  "struct": "石拱桥（两孔）",
+  "len": "7米",
+  "era": "清道光九年（1829）",
+  "loc": "下郭村",
+  "level": "尚未定级（已核实）",
+  "doc": "—",
+  "src": "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf",
+  "srcs": [
+   "../../文保名录/杭州市/淳安文物叙略（古桥梁92-106页）.pdf"
+  ],
+  "note": "据《文物叙略》印刷页第105页",
+  "commons": null
+ },
+ {
+  "dist": "临平区",
+  "town": "东湖街道",
+  "name": "雷家桥古纤道",
+  "struct": "古纤道（石砌）",
+  "len": "70米",
+  "era": "清末民国初",
+  "loc": "姚家埭村顺风路794号，京杭大运河与造桥港交汇处",
+  "level": "杭州市文物保护单位（第五批）",
+  "doc": "—",
+  "src": "https://mp.weixin.qq.com/s/h6jN9bar1KS1yqiSRhC7sw",
+  "srcs": [
+   "https://mp.weixin.qq.com/s/h6jN9bar1KS1yqiSRhC7sw",
+   "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web149/site/attach/0/4454e18d84fe412390efc00be64ee79b.pdf",
+   "https://news.sohu.com/20090402/n263176217.shtml"
+  ],
+  "commons": null,
+  "note": "古纤道长70米；纤道上的雷家桥为单孔石梁桥，桥长11.3米、宽1.95米、跨度6.5米，已并入本条记录"
+ },
+ {
+  "dist": "拱墅区",
+  "town": "文晖街道",
+  "name": "打铁关纤道",
+  "struct": "纤道（石板路）",
+  "len": "—",
+  "era": "—",
+  "loc": "文晖街道打铁关一带，具体位置待核",
+  "level": "尚未定级（待核实）",
+  "doc": "—",
+  "src": "—",
+  "srcs": [],
+  "commons": null,
+  "note": "据用户提供线索收录；具体位置、现状、水面范围及保护等级待核"
  }
 ]

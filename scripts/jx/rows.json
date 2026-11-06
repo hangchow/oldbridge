@@ -1268,9 +1268,17 @@
 "level": "海盐县文物保护单位",
 "doc": "盐政发〔2003〕1号",
 "src": "https://www.haiyan.gov.cn/art/2022/3/23/art_1229514730_59376366.html",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/1521.html)已归档；地图所列名称“尚胥庙戏台（含胥溪桥）”，地址“武原街道红益村”；地图原始坐标X=120.893900000171，Y=30.5416999999006（未作坐标转换）；详情请求返回站点验证或非法访问页面，仅采用公开地图基础字段；结构、长度无正文依据时留空；地图条目为“尚胥庙戏台（含胥溪桥）”，桥已单列，作为同一桥补充来源；不据整体文保名称推定桥的单独级别",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "120.893900000171",
+"y": "30.5416999999006",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=1521",
+"valid": true
+},
+"map_archive_id": "1521",
+"map_record_status": "matched"
 },
 {
 "dist": "海盐县",
@@ -2975,9 +2983,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文体〔2004〕94号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2184.html)已归档；地图所列名称“永福桥”，地址“曹桥街道勤安村”；地图原始坐标X=120.953300000246，Y=30.6992000000873（未作坐标转换）",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "120.953300000246",
+"y": "30.6992000000873",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2184",
+"valid": true
+},
+"map_archive_id": "2184",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -2988,9 +3004,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文体〔2004〕94号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2185.html)已归档；地图所列名称“南星桥”，地址“曹桥街道百寿村”；地图原始坐标X=121.006099999636，Y=30.64580000036（未作坐标转换）",
 "struct": "石梁桥（三孔）",
-"len": "27米"
+"len": "27米",
+"map_coordinates": {
+"x": "121.006099999636",
+"y": "30.64580000036",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2185",
+"valid": true
+},
+"map_archive_id": "2185",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -3169,9 +3193,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文体〔2004〕94号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2270.html)已归档；地图所列名称“南塘桥”，地址“林埭镇徐东村”；地图原始坐标X=121.089700000115，Y=30.6875000002723（未作坐标转换）",
 "struct": "石梁桥（三孔）",
-"len": "11.3米"
+"len": "11.3米",
+"map_coordinates": {
+"x": "121.089700000115",
+"y": "30.6875000002723",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2270",
+"valid": true
+},
+"map_archive_id": "2270",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -3247,9 +3279,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文体〔2004〕94号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2233.html)已归档；地图所列名称“长安桥”，地址“乍浦镇长安桥社区”；地图原始坐标X=121.13889999967，Y=30.6314000003955（未作坐标转换）",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "121.13889999967",
+"y": "30.6314000003955",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2233",
+"valid": true
+},
+"map_archive_id": "2233",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -3344,9 +3384,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文〔2014〕77号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2237.html)已归档；地图所列名称“李家桥”，地址“广陈镇港中村”；地图原始坐标X=121.126699999856，Y=30.7550000004123（未作坐标转换）",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "121.126699999856",
+"y": "30.7550000004123",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2237",
+"valid": true
+},
+"map_archive_id": "2237",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -3399,9 +3447,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文〔2014〕77号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2124.html)已归档；地图所列名称“永寿桥”，地址“独山港镇韩庙村”；地图原始坐标X=121.125799999606，Y=30.689999999562（未作坐标转换）",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "121.125799999606",
+"y": "30.689999999562",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2124",
+"valid": true
+},
+"map_archive_id": "2124",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -3454,9 +3510,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文〔2014〕77号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2213.html)已归档；地图所列名称“杉青港太平桥”，地址“新仓镇杉青港村”；地图原始坐标X=121.210299999794，Y=30.7708000000862（未作坐标转换）",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "121.210299999794",
+"y": "30.7708000000862",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2213",
+"valid": true
+},
+"map_archive_id": "2213",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -3467,9 +3531,17 @@
 "level": "平湖市文物保护点",
 "doc": "平文〔2014〕77号",
 "src": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx",
-"note": "",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2224.html)已归档；地图所列名称“南新桥”，地址“乍浦镇亭子桥村”；地图原始坐标X=121.03499999992，Y=30.6302999998208（未作坐标转换）",
 "struct": "—",
-"len": "—"
+"len": "—",
+"map_coordinates": {
+"x": "121.03499999992",
+"y": "30.6302999998208",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2224",
+"valid": true
+},
+"map_archive_id": "2224",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -6764,13 +6836,21 @@
 "town": "林埭镇",
 "name": "清溪桥",
 "era": "清",
-"loc": "—",
+"loc": "林埭镇共和村",
 "level": "平湖市文物保护单位（平政发〔2004〕114号）",
 "doc": "平政发〔2004〕114号",
 "src": "../../文保名录/浙江省/浙江省市县级文物保护单位名录（5262处，浙江省文物局2023年7月19日发布）.xlsx",
-"note": "据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面；等级、文号据浙江省文物局《浙江省市县级文物保护单位名录》（2023年7月19日）（原记为尚未定级（待核实））",
+"note": "据老百晓集桥页面收录；已逐座核对页面，现存桥未见毁弃或1949年后重建的记载；年代按页面；等级、文号据浙江省文物局《浙江省市县级文物保护单位名录》（2023年7月19日）（原记为尚未定级（待核实））；[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2268.html)已归档；地图所列名称“清溪桥”，地址“林埭镇共和村”；地图原始坐标X=121.109200000508，Y=30.665599999732（未作坐标转换）；与现有林埭镇清溪桥名称、乡镇一致，暂合并；具体位置是否一致待核",
 "struct": "石梁桥（三孔）",
-"len": "21.3米"
+"len": "21.3米",
+"map_coordinates": {
+"x": "121.109200000508",
+"y": "30.665599999732",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2268",
+"valid": true
+},
+"map_archive_id": "2268",
+"map_record_status": "matched"
 },
 {
 "dist": "平湖市",
@@ -11840,5 +11920,215 @@
 "note": "又称朱家石桥、朱家桥、石桥头；桥额刻“重建正兴桥”，据2021年报道已有300多年，确切年代和文保等级待核；宽约1.2米，两端各5级台阶",
 "struct": "石梁桥（单孔）",
 "len": "约12米"
+},
+{
+"dist": "平湖市",
+"town": "独山港镇",
+"name": "星渡桥",
+"era": "近现代",
+"loc": "独山港镇金沙村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2101.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2101.html)已归档；地图所列名称“星渡桥”，地址“独山港镇金沙村”；地图原始坐标X=121.262446840059，Y=30.7170848512157（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.262446840059",
+"y": "30.7170848512157",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2101",
+"valid": true
+},
+"map_archive_id": "2101",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "独山港镇",
+"name": "广福桥",
+"era": "近现代",
+"loc": "独山港镇小营头村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2122.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2122.html)已归档；地图所列名称“广福桥”，地址“独山港镇小营头村”；地图原始坐标X=121.182199999942，Y=30.6669000003174（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.182199999942",
+"y": "30.6669000003174",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2122",
+"valid": true
+},
+"map_archive_id": "2122",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "独山港镇",
+"name": "友谊第一桥",
+"era": "近现代",
+"loc": "独山港镇虎啸桥",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2125.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2125.html)已归档；地图所列名称“友谊第一桥”，地址“独山港镇虎啸桥”；地图原始坐标X=121.161099999646，Y=30.6744000000309（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.161099999646",
+"y": "30.6744000000309",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2125",
+"valid": true
+},
+"map_archive_id": "2125",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "曹桥街道",
+"name": "建设生产桥",
+"era": "近现代",
+"loc": "曹桥街道马厩村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2176.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2176.html)已归档；地图所列名称“建设生产桥”，地址“曹桥街道马厩村”；地图原始坐标X=120.980800000437，Y=30.6396999999819（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "120.980800000437",
+"y": "30.6396999999819",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2176",
+"valid": true
+},
+"map_archive_id": "2176",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "曹桥街道",
+"name": "永兴桥",
+"era": "近现代",
+"loc": "曹桥街道百寿村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2177.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2177.html)已归档；地图所列名称“永兴桥”，地址“曹桥街道百寿村”；地图原始坐标X=121.008300000308，Y=30.6260999999696（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.008300000308",
+"y": "30.6260999999696",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2177",
+"valid": true
+},
+"map_archive_id": "2177",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "曹桥街道",
+"name": "石龙村增应桥",
+"era": "近现代",
+"loc": "曹桥街道石龙村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2179.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2179.html)已归档；地图所列名称“增应桥”，地址“曹桥街道石龙村”；地图原始坐标X=120.986900000254，Y=30.6910999995557（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；地图记石龙村，同街道另有章桥村增应桥；两处是否同桥待核，暂分别记录；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "120.986900000254",
+"y": "30.6910999995557",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2179",
+"valid": true
+},
+"map_archive_id": "2179",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "新仓镇",
+"name": "眉介桥",
+"era": "近现代",
+"loc": "新仓镇秦沙村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2212.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2212.html)已归档；地图所列名称“眉介桥”，地址“新仓镇秦沙村”；地图原始坐标X=121.181699999608，Y=30.7355999998454（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.181699999608",
+"y": "30.7355999998454",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2212",
+"valid": true
+},
+"map_archive_id": "2212",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "新仓镇",
+"name": "共联新建桥",
+"era": "近现代",
+"loc": "新仓镇秦沙村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2215.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2215.html)已归档；地图所列名称“共联新建桥”，地址“新仓镇秦沙村”；地图原始坐标X=121.174400000064，Y=30.7569000002807（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.174400000064",
+"y": "30.7569000002807",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2215",
+"valid": true
+},
+"map_archive_id": "2215",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "新仓镇",
+"name": "仁寿桥",
+"era": "近现代",
+"loc": "新仓镇杉青港村",
+"level": "平湖市文物保护单位（地图档案）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2218.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2218.html)已归档；地图所列名称“仁寿桥”，地址“新仓镇杉青港村”；地图原始坐标X=121.210000000124，Y=30.7803000003847（未作坐标转换）；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.210000000124",
+"y": "30.7803000003847",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2218",
+"valid": true
+},
+"map_archive_id": "2218",
+"map_record_status": "new"
+},
+{
+"dist": "平湖市",
+"town": "林埭镇",
+"name": "新庄村新石桥",
+"era": "近现代",
+"loc": "林埭镇新庄村",
+"level": "一般不可移动文物（地图档案，未核定为文物保护单位）",
+"doc": "—",
+"src": "../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2254.html",
+"note": "[嘉兴文物地图档案](../../文保名录/嘉兴市/嘉兴市文物保护网_不可移动文物地图/details/2254.html)已归档；地图所列名称“新庄村新石桥”，地址“林埭镇新庄村”；地图原始坐标X=121.072799999603，Y=30.660299999709（未作坐标转换）；地图“未核定文物保护单位”按一般不可移动文物记录，不计作文保单位或文保点；仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核",
+"struct": "—",
+"len": "—",
+"map_coordinates": {
+"x": "121.072799999603",
+"y": "30.660299999709",
+"source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2254",
+"valid": true
+},
+"map_archive_id": "2254",
+"map_record_status": "new"
 }
 ]

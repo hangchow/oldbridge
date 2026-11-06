@@ -13145,5 +13145,598 @@
   "length": "",
   "struct": "",
   "cq": "http://www.china-qiao.com/ql15/jxql/jxql146.htm"
+ },
+ {
+  "id": "1521",
+  "name": "尚胥庙戏台（含胥溪桥）",
+  "dist": "海盐县",
+  "town": "武原街道",
+  "era": "宋辽西夏金元,明代,清代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "blocked_or_unavailable",
+  "text": "",
+  "target": {
+   "dist": "海盐县",
+   "town": "武原街道",
+   "name": "胥溪桥"
+  },
+  "source_file": "details/1521.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=1521",
+  "source_level": "3",
+  "addr": "武原街道红益村",
+  "map_coordinates": {
+   "x": "120.893900000171",
+   "y": "30.5416999999006",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=1521",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "location_conflict": "地图条目为“尚胥庙戏台（含胥溪桥）”，桥已单列，作为同一桥补充来源；不据整体文保名称推定桥的单独级别"
+ },
+ {
+  "id": "2101",
+  "name": "星渡桥",
+  "dist": "平湖市",
+  "town": "独山港镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "独山港镇",
+   "name": "星渡桥"
+  },
+  "source_file": "details/2101.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2101",
+  "source_level": "4",
+  "addr": "独山港镇金沙村",
+  "map_coordinates": {
+   "x": "121.262446840059",
+   "y": "30.7170848512157",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2101",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2122",
+  "name": "广福桥",
+  "dist": "平湖市",
+  "town": "独山港镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "独山港镇",
+   "name": "广福桥"
+  },
+  "source_file": "details/2122.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2122",
+  "source_level": "4",
+  "addr": "独山港镇小营头村",
+  "map_coordinates": {
+   "x": "121.182199999942",
+   "y": "30.6669000003174",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2122",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2124",
+  "name": "永寿桥",
+  "dist": "平湖市",
+  "town": "独山港镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "独山港镇",
+   "name": "永寿桥"
+  },
+  "source_file": "details/2124.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2124",
+  "source_level": "4",
+  "addr": "独山港镇韩庙村",
+  "map_coordinates": {
+   "x": "121.125799999606",
+   "y": "30.689999999562",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2124",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2125",
+  "name": "友谊第一桥",
+  "dist": "平湖市",
+  "town": "独山港镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "独山港镇",
+   "name": "友谊第一桥"
+  },
+  "source_file": "details/2125.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2125",
+  "source_level": "4",
+  "addr": "独山港镇虎啸桥",
+  "map_coordinates": {
+   "x": "121.161099999646",
+   "y": "30.6744000000309",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2125",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2176",
+  "name": "建设生产桥",
+  "dist": "平湖市",
+  "town": "曹桥街道",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "曹桥街道",
+   "name": "建设生产桥"
+  },
+  "source_file": "details/2176.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2176",
+  "source_level": "4",
+  "addr": "曹桥街道马厩村",
+  "map_coordinates": {
+   "x": "120.980800000437",
+   "y": "30.6396999999819",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2176",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2177",
+  "name": "永兴桥",
+  "dist": "平湖市",
+  "town": "曹桥街道",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "曹桥街道",
+   "name": "永兴桥"
+  },
+  "source_file": "details/2177.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2177",
+  "source_level": "4",
+  "addr": "曹桥街道百寿村",
+  "map_coordinates": {
+   "x": "121.008300000308",
+   "y": "30.6260999999696",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2177",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2179",
+  "name": "增应桥",
+  "dist": "平湖市",
+  "town": "曹桥街道",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "曹桥街道",
+   "name": "石龙村增应桥"
+  },
+  "source_file": "details/2179.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2179",
+  "source_level": "4",
+  "addr": "曹桥街道石龙村",
+  "map_coordinates": {
+   "x": "120.986900000254",
+   "y": "30.6910999995557",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2179",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "location_conflict": "地图记石龙村，同街道另有章桥村增应桥；两处是否同桥待核，暂分别记录",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2184",
+  "name": "永福桥",
+  "dist": "平湖市",
+  "town": "曹桥街道",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "曹桥街道",
+   "name": "永福桥"
+  },
+  "source_file": "details/2184.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2184",
+  "source_level": "4",
+  "addr": "曹桥街道勤安村",
+  "map_coordinates": {
+   "x": "120.953300000246",
+   "y": "30.6992000000873",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2184",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2185",
+  "name": "南星桥",
+  "dist": "平湖市",
+  "town": "曹桥街道",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "曹桥街道",
+   "name": "南星桥"
+  },
+  "source_file": "details/2185.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2185",
+  "source_level": "4",
+  "addr": "曹桥街道百寿村",
+  "map_coordinates": {
+   "x": "121.006099999636",
+   "y": "30.64580000036",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2185",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2212",
+  "name": "眉介桥",
+  "dist": "平湖市",
+  "town": "新仓镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "新仓镇",
+   "name": "眉介桥"
+  },
+  "source_file": "details/2212.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2212",
+  "source_level": "4",
+  "addr": "新仓镇秦沙村",
+  "map_coordinates": {
+   "x": "121.181699999608",
+   "y": "30.7355999998454",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2212",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2213",
+  "name": "杉青港太平桥",
+  "dist": "平湖市",
+  "town": "新仓镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "新仓镇",
+   "name": "杉青港太平桥"
+  },
+  "source_file": "details/2213.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2213",
+  "source_level": "4",
+  "addr": "新仓镇杉青港村",
+  "map_coordinates": {
+   "x": "121.210299999794",
+   "y": "30.7708000000862",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2213",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2215",
+  "name": "共联新建桥",
+  "dist": "平湖市",
+  "town": "新仓镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "新仓镇",
+   "name": "共联新建桥"
+  },
+  "source_file": "details/2215.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2215",
+  "source_level": "4",
+  "addr": "新仓镇秦沙村",
+  "map_coordinates": {
+   "x": "121.174400000064",
+   "y": "30.7569000002807",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2215",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2218",
+  "name": "仁寿桥",
+  "dist": "平湖市",
+  "town": "新仓镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "新仓镇",
+   "name": "仁寿桥"
+  },
+  "source_file": "details/2218.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2218",
+  "source_level": "3",
+  "addr": "新仓镇杉青港村",
+  "map_coordinates": {
+   "x": "121.210000000124",
+   "y": "30.7803000003847",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2218",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2224",
+  "name": "南新桥",
+  "dist": "平湖市",
+  "town": "乍浦镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "乍浦镇",
+   "name": "南新桥"
+  },
+  "source_file": "details/2224.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2224",
+  "source_level": "4",
+  "addr": "乍浦镇亭子桥村",
+  "map_coordinates": {
+   "x": "121.03499999992",
+   "y": "30.6302999998208",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2224",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2233",
+  "name": "长安桥",
+  "dist": "平湖市",
+  "town": "乍浦镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "乍浦镇",
+   "name": "长安桥"
+  },
+  "source_file": "details/2233.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2233",
+  "source_level": "4",
+  "addr": "乍浦镇长安桥社区",
+  "map_coordinates": {
+   "x": "121.13889999967",
+   "y": "30.6314000003955",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2233",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2237",
+  "name": "李家桥",
+  "dist": "平湖市",
+  "town": "广陈镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "广陈镇",
+   "name": "李家桥"
+  },
+  "source_file": "details/2237.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2237",
+  "source_level": "4",
+  "addr": "广陈镇港中村",
+  "map_coordinates": {
+   "x": "121.126699999856",
+   "y": "30.7550000004123",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2237",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
+ },
+ {
+  "id": "2254",
+  "name": "新庄村新石桥",
+  "dist": "平湖市",
+  "town": "林埭镇",
+  "era": "近现代",
+  "status": "new",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "林埭镇",
+   "name": "新庄村新石桥"
+  },
+  "source_file": "details/2254.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2254",
+  "source_level": "4",
+  "addr": "林埭镇新庄村",
+  "map_coordinates": {
+   "x": "121.072799999603",
+   "y": "30.660299999709",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2254",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "photo_match_note": "仅据公开地图基础资料先行收录；详情正文为空，桥型、长度、年代及现状待核"
+ },
+ {
+  "id": "2268",
+  "name": "清溪桥",
+  "dist": "平湖市",
+  "town": "林埭镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "林埭镇",
+   "name": "清溪桥"
+  },
+  "source_file": "details/2268.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2268",
+  "source_level": "3",
+  "addr": "林埭镇共和村",
+  "map_coordinates": {
+   "x": "121.109200000508",
+   "y": "30.665599999732",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2268",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": "",
+  "location_conflict": "与现有林埭镇清溪桥名称、乡镇一致，暂合并；具体位置是否一致待核"
+ },
+ {
+  "id": "2270",
+  "name": "南塘桥",
+  "dist": "平湖市",
+  "town": "林埭镇",
+  "era": "近现代",
+  "status": "matched",
+  "hits": [],
+  "detail_status": "ok",
+  "text": "",
+  "target": {
+   "dist": "平湖市",
+   "town": "林埭镇",
+   "name": "南塘桥"
+  },
+  "source_file": "details/2270.html",
+  "source_url": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2270",
+  "source_level": "4",
+  "addr": "林埭镇徐东村",
+  "map_coordinates": {
+   "x": "121.089700000115",
+   "y": "30.6875000002723",
+   "source": "https://www.jxwwbh.cn/ShowDetail.aspx?wwid=2270",
+   "valid": true
+  },
+  "length": "",
+  "struct": "",
+  "cq": ""
  }
 ]

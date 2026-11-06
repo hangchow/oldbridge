@@ -1,20 +1,21 @@
 {
-  "candidate_count": 344,
-  "matched": 169,
-  "new": 169,
+  "candidate_count": 364,
+  "matched": 179,
+  "new": 179,
   "pending": 6,
   "before": 530,
-  "after": 699,
+  "after": 709,
   "new_by_district": {
     "南湖区": 38,
     "秀洲区": 63,
     "海盐县": 26,
     "嘉善县": 27,
-    "平湖市": 15
+    "平湖市": 25
   },
   "full_details": 676,
   "unavailable_details": 550,
   "valid_geojson_points": 1217,
   "cq_photos_used": 4,
-  "cq_photos_rejected": 2
+  "cq_photos_rejected": 2,
+  "followup_note": "补录20条地图条目：10条对应原记录，10条新增；after为原基线530加累计新增179，当前嘉兴总数另有其他来源新增"
 }

@@ -99,6 +99,17 @@ def oldest(items, title, with_city):
     L += ['', f'只收桥身上刻有年代的桥（桥柱、栏板、拱券、桥肚等处的题刻），方志等文献记载的始建年份不算。题刻写明年号和年数（或干支）的，按该年排序；只刻朝代或年号、没有年数的，按这个朝代或年号的最后一年排序，例如刻“唐”的会排在所有宋代纪年之前。题刻内容据老百晓集桥、杭州市文物遗产与历史建筑保护中心云端档案的记载，点击“题刻”一列可看原文。很多题刻记的是重建年份，桥本身可能更早。目前查到题刻的共 {len(ex)} 座。']
     return L
 
+def length_value(r):
+    """纤道记录中的约数按标示数字排序，保留原始文字。"""
+    value = r.get('len') or ''
+    if re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or ''):
+        return None
+    fiber = '纤道' in r.get('name', '') or '纤道' in (r.get('struct') or '')
+    match = re.fullmatch(r'(?:约)?([0-9]+(?:\.[0-9]+)?)(?:多)?米', value) if fiber else re.fullmatch(r'([0-9]+(?:\.[0-9]+)?)米', value)
+    if not match or (not fiber and r['level'].startswith('尚未定级') and '已逐座核对' not in (r.get('note') or '')):
+        return None
+    return float(match.group(1))
+
 def city_readme(city, rows, sub):
     extra = {}
     for (n, d), p in CROSS.items():
@@ -110,10 +121,10 @@ def city_readme(city, rows, sub):
     L += ['', '## 各区县桥梁数量（降序）', '', '| 区县 | 数量 |', '|---|---|']
     L += [f'| [{NB(d)}]({d}/{d}古桥.md) | {n}' + ''.join(f'（另有跨区的{a}，计入{b}）' for a, b in extra.get(d, [])) + ' |' for d, n in c.most_common()]
     if extra: L += ['', '跨区的桥（钱塘江大桥跨西湖区、滨江区；日新桥跨富阳区、临安区）在两个区的文件里都有列出，但统计只算一次。']
-    st = sorted([r for r in rows if re.match(r'^[0-9.]+米$', r.get('len') or '') and not re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or '') and (not r['level'].startswith('尚未定级') or '已逐座核对' in (r.get('note') or ''))], key=lambda r: -float(r['len'][:-1]))
-    L += ['', f'## {city}石木桥桥长前 20 名', '', '| 名次 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|']
+    st = sorted([r for r in rows if length_value(r) is not None], key=lambda r: -length_value(r))
+    L += ['', f'## {city}石木桥及水上纤道长度前 20 名', '', '| 名次 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|']
     L += [f"| {i} | {DLk(r, O + '/' + city, city)} | {TL(r, O + '/' + city, city)} | {NL(r, O + '/' + city, city)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, r in enumerate(st[:20], 1)]
-    L += ['', f'只比石桥和木桥（含石拱、石墩、木拱、木梁等各类廊桥）；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 {len(st)} 座中排序。']
+    L += ['', f'统计石桥、木桥和水上纤道；纤道的“约150米”“20多米”等按标示数字排序，实际长度可能有差异；结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入，在已查到长度的 {len(st)} 座中排序。']
     L += oldest([(city, r) for r in rows], f'{city}桥身刻字最早的前 20 名', False)
     L += ['', '## 按级别列出'] + level_lists(rows, False, True, O + '/' + city, city)
     open(f'{O}/{city}/README.md', 'w').write('\n'.join(L) + '\n')
@@ -195,11 +206,11 @@ L.append('| **合计** | ' + ' | '.join(map(str, v)) + f' | {sum(v)} |')
 gb = [(c, r) for c, rs in tot.items() for r in rs if cat(r['level']) == CATS[0]]
 L += ['', f'## 全国重点文物保护单位（{len(gb)} 座）', '', '| 序号 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |', '|---|---|---|---|---|---|---|---|---|']
 L += [f"| {i} | {CL(c)} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" for i, (c, r) in enumerate(gb, 1)]
-allr = [(c, r) for c, rs in tot.items() for r in rs if re.match(r'^[0-9.]+米$', r.get('len') or '') and not re.search(r'钢|混凝土|水泥|铁|索桥', r.get('struct') or '') and (not r['level'].startswith('尚未定级') or '已逐座核对' in (r.get('note') or ''))]
-allr.sort(key=lambda x: -float(x[1]['len'][:-1]))
-L += ['', '## 江浙沪石木桥桥长前 20 名', '', '| 名次 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|---|']
+allr = [(c, r) for c, rs in tot.items() for r in rs if length_value(r) is not None]
+allr.sort(key=lambda x: -length_value(x[1]))
+L += ['', '## 江浙沪石木桥及水上纤道长度前 20 名', '', '| 名次 | 市 | 区县 | 乡镇 | 桥名 | 结构 | 长度 | 时代 | 级别 |', '|---|---|---|---|---|---|---|---|---|']
 L += [f"| {i} | {CL(c)} | {DLk(r, O, c)} | {TL(r, O, c)} | {NL(r, O, c)} | {r.get('struct') or '—'} | {r['len']} | {r['era'] or '—'} | {cat(r['level'])} |" for i, (c, r) in enumerate(allr[:20], 1)]
-L += ['', f'只比石桥和木桥（含各类廊桥）：结构写明钢、铁、混凝土、水泥或悬索的不参加（如钱塘江大桥）；结构标“—”的按古代石木桥计入。只在已查到长度的 {len(allr)} 座中排序，大部分桥还没有长度数据。']
+L += ['', f'石桥、木桥及水上纤道按记录长度排序；纤道整体长度与单桥长度一并列示；纤道约数按标示数字排序，实际长度可能有差异。结构写明钢、铁、混凝土、水泥或悬索的不参加；结构标“—”的按古代石木桥计入。只在已查到长度的 {len(allr)} 条记录中排序。']
 L += oldest([(c, r) for c, rs in tot.items() for r in rs], '本项目收录范围内桥身刻字最早的前 20 名', True)
 L += ['', '各市的分级名单见各市目录下的 README。', '<!-- SUMMARY END -->']
 p = f'{O}/README.md'; s = open(p, encoding='utf8').read()
