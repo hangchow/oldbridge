@@ -8,3 +8,10 @@ scripts/cq2/img_*
 scripts/l4/*.html
 scripts/l4/dl/
 __pycache__/
+
+# 云端档案原始页面和大图统一保存在仓库外的完整镜像。
+scripts/singdo/disp/
+scripts/singdo/list/
+scripts/singdo/img/
+scripts/singdo/photo/
+scripts/singdo/libao/disp/

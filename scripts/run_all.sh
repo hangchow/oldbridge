@@ -10,4 +10,5 @@ mkdir -p /tmp/ob_bak; mv build/cq_holes.json build/era_fill.json build/cq_len_fi
 gen
 python3 -I build/cqlink.py && python3 -I build/cqholes.py | tail -1 && python3 -I build/erafill.py | tail -1
 gen
+python3 -I build/zhejiang_p3_bridges.py
 python3 -I build/cityreadme.py >/dev/null && python3 -I build/nowrap.py | tail -1

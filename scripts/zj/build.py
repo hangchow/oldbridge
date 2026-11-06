@@ -52,7 +52,7 @@ for o in OFF:
     add(o['dist'], o['name'], o['era'], o['loc'], o['lv'], src=u, town=o['town'] if o['town'] != '—' else None, doc=o['doc'], lvtxt=o['lvtxt'])
 # 0.5) 名录之外、人工查到出处的桥（cities.json 的 extra）
 for e in CF.get('extra', []):
-    add(e['dist'], e['name'], e['era'], e.get('loc', ''), e['lv'], src=e.get('src', ''), town=e.get('town'), unote=e.get('note', ''), lvtxt=e.get('lvtxt', ''))
+    add(e['dist'], e['name'], e['era'], e.get('loc', ''), e['lv'], src=e.get('src', ''), town=e.get('town'), doc=e.get('doc', '—'), unote=e.get('note', ''), lvtxt=e.get('lvtxt', ''))
 # 1) 各区县列表
 for d in DISTS:
     f = f'{S}/{K}/{d}各级文物保护单位列表.txt'

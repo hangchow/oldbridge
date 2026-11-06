@@ -70,3 +70,23 @@ python3 scripts/tools/check_townpages.py
 ```
 
 复查范围、同名桥修复及抽样结果见[结构调整复查记录](结构调整复查.md)。
+
+## 杭州云端档案完整镜像
+
+完整镜像默认保存在仓库同级的 `singdo_云端档案/`，通过 `SINGDO_MIRROR_ROOT` 可以覆盖根目录。`文保单位/`与`历史建筑/`分别对应 wenbao 和 libao 库；包括所有公开目录记录，不限于桥梁。
+
+```bash
+python3 scripts/tools/singdo_mirror.py
+```
+
+抓取器重新核对各分类目录，续传已有详情页和资源，生成 `离线网页/`、`索引.md`、`档案.json`、`资源清单.json`（含 SHA-256）和 `抓取报告.json`。只有目录和详情数量一致、资源无下载失败时，报告的 `complete` 才为 `true`。可用 `--library wenbao` 或 `--library libao` 单独抓取一个库。`--organize` 用于迁移旧布局及既有缓存，原有文件不重复下载。
+
+`文保名录/杭州市/云端档案/` 仅保留杭州城市、区县和乡镇页面直接使用的档案及关联图片；其余档案保存到完整镜像的 `项目缓存/`，字节校验一致后才移出仓库。整理缓存：
+
+```bash
+python3 scripts/tools/singdo_mirror.py --prune-cache
+```
+
+`build/mkpage.py <记录号> ...` 从 `文保单位/`生成指定桥梁的项目档案；`tools/libao.py` 从 `历史建筑/`生成 `build/libao.json` 使用的桥梁档案，优先复用完整镜像里的图片。`tools/singdo.py`、`tools/singdo_photo.py`兼容旧命令，统一调用文保库完整抓取器。仓库内 `scripts/singdo/recs.json`、`libao/bridges.json`等小型结构化数据继续供名录生成使用，原始详情页不再重复放在 `scripts/singdo/`。
+
+抓取结束后可运行 `python3 scripts/tools/singdo_mirror.py --verify` 核对两库的原始页、离线页及资源哈希；结果写入完整镜像根目录的 `核验报告.json`。图片原地址失效时会尝试另一官方图片域名，仍不可用的地址如实保留在抓取报告中。`--finish-after <PID>` 可等待已有抓取进程结束，自动重试未完成资源并核验，最后生成 `收尾报告.json`。

@@ -25,6 +25,12 @@ R = []
 def e(dist, town, name, era, loc, level, doc, src, note='', struct='—'):
     R.append(dict(dist=dist, town=town, name=name, era=era, loc=loc, level=level, doc=doc, src=src, note=note, struct=struct, len='—'))
 
+# 海宁发布2021年报道的双喜村古桥。
+e('海宁市', '海昌街道', '正兴桥', '—', '双喜村东南，六组', '尚未定级（待核实）', '—',
+  'https://mp.weixin.qq.com/s/YeS8JJbf3ZWoJc1ZKC2GJg',
+  '又称朱家石桥、朱家桥、石桥头；桥额刻“重建正兴桥”，据2021年报道已有300多年，确切年代和文保等级待核；宽约1.2米，两端各5级台阶', '石梁桥（单孔）')
+R[-1]['len'] = '约12米'
+
 # 国保
 e('秀洲区', '王江泾镇', '长虹桥', '明', '王江泾镇，跨京杭大运河', GB + '（大运河组成部分）', '国发〔2013〕13号', W_GB, '原为浙江省文物保护单位', '石拱桥（三孔）')
 # 省保
@@ -172,6 +178,11 @@ for r in R:
 # 政府第五批原件补正及撤销名单冲突记录。
 import runpy
 R = runpy.run_path(S + '/build/jxprimary.py')['apply'](R)
+for r in R:
+    if (r['dist'], r['town'], r['name']) == ('秀洲区', '油车港镇', '池湾村万福桥'):
+        r['era'] = '清道光二十二年（1842）（据微信视频说明）'
+        r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '微信视频说明称桥位于池湾村石匠浜，清道光壬寅年（1842）鼎建，桥体为三孔石梁，护栏为后加；年份及位置尚待官方档案核对'
+        r['srcs'] = list(dict.fromkeys(r.get('srcs', [r['src']]) + ['https://mp.weixin.qq.com/s/j929d3wAjMpESBvab8vSfg']))
 json.dump(R, open(S + '/jx/rows.json', 'w'), ensure_ascii=False, indent=0)
 # 旧两级Markdown输出已废弃，统一由build/cityreadme.py和townpages.py生成。
 print('rows', len(R))

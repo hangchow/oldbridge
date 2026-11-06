@@ -47,7 +47,7 @@ def sandun_rows():
             q = re.search(r' \[\?\]\((http[^)]+)\)$', c[1])
             nmc = c[1][:q.start()] if q else c[1]
             m = re.match(r'\[(.*?)\]\((.*?)\)', nmc)
-            d = dict(dist='西湖区', town='三墩镇', name=m.group(1) if m else nmc, struct=c[2], len=c[3], era=c[4], level=c[6])
+            d = dict(dist='西湖区', town='三墩镇', name=m.group(1) if m else nmc, struct=c[2], len=c[3], era=c[4], loc=c[5], level=c[6])
             if m and '云端档案/' in m.group(2): d['sdl'] = '文保名录/杭州市/云端档案/' + m.group(2).split('云端档案/', 1)[1]
             if q: d['cq'] = q.group(1)
             rs.append(d)
@@ -67,7 +67,7 @@ def TL(r, base, city):
     t = r['town']; f = f"{O}/{city}/{r['dist']}/{t}/{t}古桥.md"
     return f"[{t}]({os.path.relpath(f, base)})" if city and t not in ('—', '') and os.path.exists(f) else t
 
-def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None):
+def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None, with_location=False):
     L = []
     for k in CATS:
         x = [r for r in rows if cat(r['level']) == k]
@@ -77,9 +77,9 @@ def level_lists(rows, full_all, with_dist, base=O, city='', imgs=None):
         if not x: continue
         L += ['', f'### {k}（{len(x)} 座）', '']
         if full_all or k in LIST_FULL:
-            hdr = ('| 区县 ' if with_dist else '') + '| 乡镇 | 桥名 | 结构 | 长度 | 时代 | 等级说明 |' + (' 图片 |' if imgs is not None else '')
-            L += [hdr, '|---' * ((7 if with_dist else 6) + (imgs is not None)) + '|']
-            L += [('| ' + DLk(r, base, city) + ' ' if with_dist else '') + f"| {TL(r, base, city)} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} | {r['level']} |" + (f" {imgs.get((r['town'], r['name'], r.get('loc')), imgs.get((r['town'], r['name']), '暂无'))} |" if imgs is not None else '') for r in x]
+            hdr = ('| 区县 ' if with_dist else '') + '| 乡镇 | 桥名 | 结构 | 长度 | 时代 |' + (' 位置 |' if with_location else '') + ' 等级说明 |' + (' 图片 |' if imgs is not None else '')
+            L += [hdr, '|---' * ((7 if with_dist else 6) + with_location + (imgs is not None)) + '|']
+            L += [('| ' + DLk(r, base, city) + ' ' if with_dist else '') + f"| {TL(r, base, city)} | {NL(r, base, city)} | {r.get('struct') or '—'} | {r.get('len') or '—'} | {r['era'] or '—'} |" + (f" {r.get('loc') or '—'} |" if with_location else '') + f" {r['level']} |" + (f" {imgs.get((r['town'], r['name'], r.get('loc')), imgs.get((r['town'], r['name']), '暂无'))} |" if imgs is not None else '') for r in x]
         else:
             L += ['数量较多，见各区县文件。']
     return L
@@ -165,7 +165,7 @@ for d in towns:
     L = [f'# 杭州市{d}古桥', '', f'共收录 {len(rs)} 座桥。' + ('（含跨区桥，市级统计只算一次）' if any((r['name'], d) in CROSS for r in rs) else ''),
          '', '## 按级别统计', ''] + (level_table(rs) if rs else ['名录里没有桥梁。'])
     L += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|'] + [f'| [{k}]({k}/{k}古桥.md) | {n} |' for k, n in t.most_common()]
-    L += ['', '## 按级别列出'] + (level_lists(rs, True, False, f'{O}/杭州市/{d}', '杭州市', hz_town_imgs(d)) if rs else ['', '无。'])
+    L += ['', '## 按级别列出'] + (level_lists(rs, True, False, f'{O}/杭州市/{d}', '杭州市', hz_town_imgs(d), with_location=True) if rs else ['', '无。'])
     open(f'{O}/杭州市/{d}/{d}古桥.md', 'w').write('\n'.join(L) + '\n' + MK + '\n')
     if os.path.exists(f'{O}/杭州市/{d}/README.md'): os.remove(f'{O}/杭州市/{d}/README.md')   # 旧文件名
 

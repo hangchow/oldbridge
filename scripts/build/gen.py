@@ -11,6 +11,8 @@ IMGSRC = json.load(open(S + '/build/imgsrc.json')) if os.path.exists(S + '/build
 XLSX_URL = 'https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3210/site/attach/0/dd1633cd0c9d451b98d824990a31ae35.xlsx'
 COUNTIES = ['桐庐县', '淳安县', '建德市']
 SRCNAME = {
+    'https://mdaily.hangzhou.com.cn/hzrb/2026/04/18/article_detail_1_20260418A048.html': '杭州日报：钱塘区红机埠等入选四普新发现文物（2026年4月18日）',
+    'https://mp.weixin.qq.com/s?__biz=MzU4MTUxOTYwNA==&mid=2247488418&idx=1&sn=39e7210bdf1dc4b6d102e2b07631cbae&chksm=fd470239ca308b2f3d527b55e98bdacb1ac928d1925c07277af1c59cf42fb8434bfc410cb152#rd': '微信公众号“宿舟河下”《良渚七贤桥村的古桥》（2025年6月20日）',
     'https://z.hangzhou.com.cn/2021/syjy/content/content_8336564.html': '洞霄宫遗迹之元同桥（杭州网，临安区博物馆供稿，2022）',
     XLSX_URL: '浙江省《全省文物保护点》统计表（杭州市文物保护点）',
     cur.WIKI_HZ: '维基百科：杭州市文物保护单位',
@@ -36,6 +38,11 @@ DUP_NOTE = {
 }
 # 余杭区原有文件里的补充信息
 OVR = {
+    ('上城区', '清波街道', '肖公桥'): dict(struct='石拱桥（单孔）', era='清乾隆八年（1743）', loc_add='（原位于秋涛路小学内，因西湖南线景区整合工程迁建至现址）', note='据用户提供的[桥旁说明牌](../../../文保名录/杭州市/肖公桥迁建说明牌.png)，肖公桥又名报恩桥，桥拱呈多边形，长21米、宽4.5米；原位于秋涛路小学内，因西湖南线景区整合工程实施异地搬迁及原状修缮'),
+    ('上城区', '清波街道', '新横河桥'): dict(struct='石拱桥（单孔）', era='清光绪五年（1879）始建，六年（1880）落成', loc_add='（原位于仓河下北端，中河与东河交汇处，2002年因仓河下拓宽迁建至此）', note='据[浙江在线转引每日商报](https://zjnews.zjol.com.cn/zjnews/hznews/201709/t20170908_5003822.shtml)，桥长16.4米、宽4.3米、净跨6.8米；维基百科记长19米、宽4.6米，尺寸存在差异待核'),
+    ('上城区', '笕桥街道', '全福桥'): dict(struct='石拱桥（单孔）', note='据[江干发布转发的古桥资料](https://www.thepaper.cn/newsDetail_forward_12012091)，乾隆年间已有此桥，位于农科院社区备塘河；省文保点统计表地址为水墩社区备塘河，社区名称差异待核'),
+    ('上城区', '笕桥街道', '永安桥'): dict(name='永安桥（麦庄桥、麦庄庙桥）', struct='石拱桥（单孔）', era='北宋绍圣四年（1097）始建，明天启七年（1627）重建', note='据杭州日报，麦庄庙桥又称麦庄桥，桥碑记载绍圣四年建、天启七年重建；[2024年陈树尧文章](https://mp.weixin.qq.com/s/MyIUCDG-OFx5shzOz45CVQ)记桥长约14.50米，与[江干发布](https://www.thepaper.cn/newsDetail_forward_12012091)所记13.64米不同；2023年新命名同名道路桥与古桥关系待核'),
+    ('上城区', '笕桥街道', '俞章陆桥'): dict(struct='石拱桥（单孔）', note='据[2024年陈树尧文章](https://mp.weixin.qq.com/s/VJtfTsxAYfy1qIRSJzuiQw)，桥长约15米，桥面曾加宽并铺设水泥；[江干发布](https://www.thepaper.cn/newsDetail_forward_12012091)记长15.5米，尺寸差异待核'),
     ('余杭区', '良渚街道', '永兴桥'): dict(name='永兴桥（俗称杜城桥）', struct='石梁桥（三孔）', loc_add='，跨前山港'),
     ('余杭区', '良渚街道', '回澜桥'): dict(struct='石梁桥（单孔）'),
     ('余杭区', '良渚街道', '杜甫桥'): dict(struct='石梁桥（五孔）', loc_add='，跨良渚港（今良渚文化村滨河公园一带）', note='“跨良渚港”出自网络图片说明，“良渚文化村滨河公园一带”是百度地图的地点信息，都不是官方资料；此桥原来误记在三墩镇名单里'),
@@ -75,7 +82,9 @@ def rows():
         o = OVR.get((x['dist'], town, x['name']))
         if o:
             d['name'] = o.get('name', d['name']); d['struct'] = o.get('struct', d['struct'])
-            d['loc'] += o.get('loc_add', ''); d['note'] = o.get('note', d['note'])
+            d['era'] = o.get('era', d['era'])
+            if o.get('loc_add'): d['loc'] = d['loc'].rstrip('。') + o['loc_add']
+            d['note'] = o.get('note', d['note'])
         R.append(d)
     CMX = {('拱墅区', '东新桥'): '20250423 Dongxin Qiao.jpg', ('拱墅区', '和睦桥'): '20261014 Hemu Qiao.jpg',
            ('余杭区', '万岁桥'): 'Wansui Bridge in Yuhang 03 2022-09.jpg', ('萧山区', '罗婆桥'): '20260816 Luopo Qiao.jpg'}
@@ -181,10 +190,10 @@ def rows():
     return R
 
 ORDER = ['全国重点', '浙江省', '杭州市文物保护单位', '建德市文物保护单位', '桐庐县文物保护单位', '淳安县文物保护单位', '杭州市文物保护点', '杭州市历史建筑', '一般不可移动文物', '未定级不可移动文物']
+from townpages import protection_rank
+
 def rank(r):
-    for i, k in enumerate(ORDER):
-        if r['level'].startswith(k): return i
-    return 99
+    return protection_rank(r)
 
 def imgname(name, i=1):
     return re.sub(r'（.*?）|\(.*?\)', '', name).strip() + f'{i}.jpg'
@@ -337,11 +346,9 @@ def main():
           ('拱墅区', '长庆街道', '广安新桥'): (None, '—', '南宋已有（端平桥），清顺治十三年（1656）重建', '跨东河，宝善桥南、凤起桥北；南宋称端平桥，桥上有安仁亭，明重修，因桥东有广积仓又名广积仓桥，清顺治十一年（1654）桥塌，十三年重建后名新桥；保存宋代石栏板二十块、望柱五根及部分桥身条石；桥额南刻“兆民永济”、北镌“四镜咸康”，南面栏板背面刻顺治重建桥志铭；1989年东河改造时重修。据微信公众号“互联网数字成果共享城”《杭州市原下城区文物单位简介之二十三“广安新桥”》（2023年1月27日，https://mp.weixin.qq.com/s/iwodl6XXx9nNXUc3TxTJbg）'),
           ('拱墅区', '半山街道', '花桥'): (None, '—', None, '类别为“近现代重要史迹及代表性建筑”（拱墅区文博单位名录2026，2017年8月25日公布）；结构、长度未查到，网上未见照片。待核实：附近崇杭街拱墅区界有公交站“大花桥”（350路、7439路，石塘公园旁、宣杭铁路一侧），可能即此桥所在；名录“宝杭铁路”疑为“宣杭铁路”之误'),
           ('西湖区', '西湖街道', '西泠桥'): (None, '54米', None, ''),
-          ('西湖区', '灵隐街道', '金佛桥'): (None, '7米', None, ''),
           ('西湖区', '灵隐街道', '白乐桥（原名万佛桥）'): (None, '14.8米', None, ''),
           ('西湖区', '灵隐街道', '合涧桥'): (None, '约10米', None, ''),
           ('西湖区', '西湖街道', '西泠印社锦带桥'): (None, '约1米（三尺）', None, ''),
-          ('西湖区', '灵隐街道', '普门桥'): (None, '5.2米', None, ''),
           ('拱墅区', '半山街道', '阔板桥'): ('石拱桥（单孔）', '—', None, '现状：桥身主体原地埋于阔板桥路下保护（2000年后填河修路时就地填埋），杭玻阔板桥社区西墙角尚存部分残桥；单孔石拱桥，桥面宽约3米，桥洞直径约3米，桥面铺八米长的石板，左右原有石柱、石板护栏（1984年前被拆作建材），全长不详；1914年拱宸桥地图上位于金家堰与崇光寺之间；2023年6月底拱墅区文物局授“全国文物普查一般不可移动文物”牌，牌立于残桥旁。据微信公众号“半山发布”《半山文化遗存寻踪丨毅行—阔板桥下流水的记忆》（2024年4月10日，https://mp.weixin.qq.com/s/v2HxEdlO91DJPADRUHOr6Q）')}
     for r in R:
         w = WX.get((r['dist'], r['town'], r['name']))
@@ -357,9 +364,19 @@ def main():
     for r in R:
         if (r['dist'], r['town'], r['name']) == ('余杭区', '仓前街道', '新桥'): r['note'] = (r.get('note') or '') + ('；' if r.get('note') else '') + '三普登录名“吴山前新桥”（东西向跨新桥港）'
     R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('余杭区', '仓前街道', '吴山前新桥')]
+    # 用户确认古水登桥与水澄桥为同一座，保留市保记录。
+    for r in R:
+        if (r['dist'], r['town'], r['name']) == ('上城区', '南星街道', '水澄桥'):
+            r['note'] = (r.get('note') or '') + '；古水登桥（水登桥）按用户确认与水澄桥合并，另见[老百晓集桥](http://www.china-qiao.com/ql15/hz_ql/hzvql070.htm)'
+    R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('上城区', '南星街道', '古水登桥')]
+    # 姚陡门桥是历史建筑姚斗门桥的异写，保留最高等级及现存档案。
+    for r in R:
+        if (r['dist'], r['town'], r['name']) == ('上城区', '笕桥街道', '姚斗门桥'):
+            r['note'] = (r.get('note') or '') + '；又写作姚陡门桥，据老百晓集桥建在唐代姚陡门（闸门）基础上，南宋已有记载，现桥年代以档案记载并保留差异'
+    R[:] = [r for r in R if (r['dist'], r['town'], r['name']) != ('上城区', '笕桥街道', '姚陡门桥')]
     by = {}
     for r in R: by.setdefault((r['dist'], r['town']), []).append(r)
-    bad = [k for k in by if k[0] not in towns or k[1] not in towns[k[0]]]
+    bad = [k for k in by if k[0] not in towns or (k[1] not in towns[k[0]] and not (k[0] in COUNTIES and k[1] == '乡镇待核'))]
     if bad: print('BAD TOWN KEYS', bad); sys.exit(1)
     n_files = 0
     for dist, ts in towns.items():

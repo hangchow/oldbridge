@@ -2,12 +2,12 @@
 import os
 import json, re, shutil, sys
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # scripts/ 目录
-M = '/Users/sean/workspace/singdo_云端档案'
-D = '/Users/sean/workspace/oldbridge/文保名录/杭州市/云端档案'
+M = os.path.join(os.environ.get('SINGDO_MIRROR_ROOT', os.path.join(os.path.dirname(os.path.dirname(S)), 'singdo_云端档案')), '文保单位')
+D = os.path.join(os.path.dirname(S), '文保名录/杭州市/云端档案')
 R = json.load(open(S + '/singdo/recs.json')); R = R.values() if isinstance(R, dict) else R
 for i in sys.argv[1:]:
     r = next(x for x in R if isinstance(x, dict) and x['id'] == i)
-    n = r['name']; h = open(f'{S}/singdo/disp/{i}.html', encoding='utf8').read()
+    n = r['name']; h = open(f'{M}/详情页html/{i}.html', encoding='utf8').read()
     h = h.replace('src="js/', 'src="assets/js/').replace('<link rel="stylesheet" href="css/phone.css?t=2">', '<link rel="stylesheet" href="assets/css/phone.css">\n<link rel="stylesheet" href="assets/css/local.css">')
     h = re.sub(r'<a href="luelan_list\.php\?catid=\d+" class="back">', '<a href="../云端档案_桥梁.md" class="back">', h)
     def ph(m):

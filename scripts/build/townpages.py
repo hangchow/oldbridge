@@ -16,6 +16,22 @@ BINDINGS = S / 'build/town_media_bindings.json'
 MEDIA_BINDINGS = json.loads(BINDINGS.read_text()) if BINDINGS.exists() else {}
 
 
+def protection_rank(row):
+    """乡镇明细统一按保护等级从高到低排序，同级保持原顺序。"""
+    level = row.get('level') or ''
+    if level.startswith('全国重点'): return 0
+    if level.startswith(('浙江省', '江苏省')): return 1
+    if level.startswith(tuple(city + '文物保护单位' for city in CITIES)): return 2
+    if '文物保护单位' in level: return 3
+    if '文物保护点' in level or '文物控制单位' in level: return 4
+    if '历史建筑' in level: return 5
+    if level.startswith(('一般不可移动', '登记不可移动')):
+        return 7 if '照片确认' in level else 6
+    if level.startswith('未定级'): return 8
+    if '已核实' in level or level == '未评级': return 9
+    return 10
+
+
 def media_allowed(city, row):
     key = '|'.join([city, row['dist'], row['town'], row['name']])
     binding = MEDIA_BINDINGS.get(key)
@@ -117,6 +133,7 @@ def prepare(city, rows, *, districts=None):
             groups.setdefault(town, [])
         imgs = {}
         for town, items in groups.items():
+            items.sort(key=protection_rank)
             page = old / town / (town + '古桥.md')
             page.parent.mkdir(parents=True, exist_ok=True)
             lines = [f'# {city}{dist}{town}不可移动文物：桥梁', '', '| 序号 | 桥名 | 结构 | 长度 | 时代 | 位置 | 文保等级 | 公布文件 | 图片 |', '|---|---|---|---|---|---|---|---|---|']
@@ -180,7 +197,7 @@ def write_district(city, dist, rows, state, level_table, level_lists):
     lines += ['', '## 各乡镇（街道）桥梁数量（降序）', '', '| 乡镇（街道） | 数量 |', '|---|---|']
     for town, items in sorted(data['groups'].items(), key=lambda item: -len(item[1])):
         lines.append(f'| [{town}]({town}/{town}古桥.md) | {len(items)} |')
-    lines += ['', '## 按级别列出'] + (level_lists(rows, True, False, str(old), city, data['imgs']) if rows else ['', '无。'])
+    lines += ['', '## 按级别列出'] + (level_lists(rows, True, False, str(old), city, data['imgs'], with_location=True) if rows else ['', '无。'])
     lines += ['', '<!-- 区县汇总页（build/cityreadme.py 生成） -->', '']
     (old / (dist + '古桥.md')).write_text('\n'.join(lines))
 

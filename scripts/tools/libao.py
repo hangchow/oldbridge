@@ -1,16 +1,26 @@
 # 云端档案“历史建筑”库（singdo.org/libao/）里的桥梁：详情页转成本地网页，照片和保护图则存入 文保名录/杭州市/云端档案/图片/
-# 原始页面在 scripts/singdo/libao/disp/，桥梁清单 scripts/singdo/libao/bridges.json（名称含“桥”、去掉祠堂民居等）
+# 原始页面在完整镜像的 历史建筑/详情页html/，桥梁清单 scripts/singdo/libao/bridges.json（名称含“桥”、去掉祠堂民居等）
 import os, re, json, subprocess, time
 S = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-D = '/Users/sean/workspace/oldbridge/文保名录/杭州市/云端档案'
+D = os.path.join(os.path.dirname(S), '文保名录/杭州市/云端档案')
+M = os.path.join(os.environ.get('SINGDO_MIRROR_ROOT', os.path.join(os.path.dirname(os.path.dirname(S)), 'singdo_云端档案')), '历史建筑')
+MANIFEST = json.load(open(os.path.join(M, '资源清单.json'))) if os.path.exists(os.path.join(M, '资源清单.json')) else {}
+import shutil
+USED = {str(x['id']) for x in json.load(open(S + '/build/libao.json'))}
 B = json.load(open(S + '/singdo/libao/bridges.json'))
 def dl(u, p):
     if not os.path.exists(p) or os.path.getsize(p) == 0:
+        cached = MANIFEST.get(u.replace('https://', 'http://'), {}).get('path')
+        if cached and os.path.isfile(os.path.join(M, cached)):
+            shutil.copy2(os.path.join(M, cached), p)
+            return True
         subprocess.run(['curl', '-sL', '-m', '90', '-A', 'Mozilla/5.0', '-o', p, u]); time.sleep(0.3)
     return os.path.getsize(p) > 0
 for i, r in B.items():
+    if i not in USED:
+        continue
     n = re.sub(r'[/\\:*?"<>|]', '', r['name'])
-    h = open(f'{S}/singdo/libao/disp/{i}.html', encoding='utf8', errors='ignore').read()
+    h = open(f'{M}/详情页html/{i}.html', encoding='utf8', errors='ignore').read()
     h = h.replace('src="js/', 'src="assets/js/').replace('<link rel="stylesheet" href="css/phone.css">', '<link rel="stylesheet" href="assets/css/phone.css">\n<link rel="stylesheet" href="assets/css/local.css">')
     h = re.sub(r'<a href="luelan_list\.php\?catid=\d+" class="back">', '<a href="../云端档案_桥梁.md" class="back">', h)
     def ph(m):
